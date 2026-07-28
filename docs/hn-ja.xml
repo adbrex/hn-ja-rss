@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hacker News 人気記事（日本語タイトル）</title>
+    <link>https://news.ycombinator.com/</link>
+    <description>Hacker News のフロントページから人気順に最大30件を抽出し、タイトルを日本語訳したフィードです。1日3回更新。</description>
+    <language>ja</language>
+    <lastBuildDate>Tue, 28 Jul 2026 05:23:02 +0000</lastBuildDate>
+    <ttl>240</ttl>
+    <atom:link href="https://YOUR-NAME.github.io/YOUR-REPO/hn-ja.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[658pt] オープンウェイトモデルに対する当社の立場</title>
+      <link>https://www.anthropic.com/news/position-open-weights-models</link>
+      <guid isPermaLink="false">hn-49076057</guid>
+      <pubDate>Mon, 27 Jul 2026 22:03:49 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49076057</comments>
+      <description><![CDATA[<p>Our position on open-weights models</p><p>658 points / 918 comments — by surprisetalk</p><p><a href="https://news.ycombinator.com/item?id=49076057">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[239pt] Netflix従業員、リトリートの信頼醸成演習で個人情報を共有したため解雇</title>
+      <link>https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/</link>
+      <guid isPermaLink="false">hn-49076923</guid>
+      <pubDate>Mon, 27 Jul 2026 23:21:37 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49076923</comments>
+      <description><![CDATA[<p>Netflix employee fired for sharing personal details in retreat trust exercise</p><p>239 points / 192 comments — by softwaredoug</p><p><a href="https://news.ycombinator.com/item?id=49076923">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[227pt] アンダースコア記号の欠落により無実の男性が18ヶ月投獄</title>
+      <link>https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/</link>
+      <guid isPermaLink="false">hn-49076116</guid>
+      <pubDate>Mon, 27 Jul 2026 22:10:15 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49076116</comments>
+      <description><![CDATA[<p>A missing underscore sent innocent man to prison for 18 months</p><p>227 points / 119 comments — by quantified</p><p><a href="https://news.ycombinator.com/item?id=49076116">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[206pt] SlopCodeBenchでOpus 5をベンチマーク</title>
+      <link>https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md</link>
+      <guid isPermaLink="false">hn-49076391</guid>
+      <pubDate>Mon, 27 Jul 2026 22:37:52 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49076391</comments>
+      <description><![CDATA[<p>Benchmarking Opus 5 on SlopCodeBench</p><p>206 points / 52 comments — by dhorthy</p><p><a href="https://news.ycombinator.com/item?id=49076391">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[190pt] Goの新しいガベージコレクタがヒープを移動する様子</title>
+      <link>https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html</link>
+      <guid isPermaLink="false">hn-49045474</guid>
+      <pubDate>Sat, 25 Jul 2026 07:55:19 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49045474</comments>
+      <description><![CDATA[<p>Watching Go's new garbage collector move through the heap</p><p>190 points / 18 comments — by matheusmoreira</p><p><a href="https://news.ycombinator.com/item?id=49045474">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[164pt] 接着剤がノンスティック表面に接着し、エタノールで拭き取れる</title>
+      <link>https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07</link>
+      <guid isPermaLink="false">hn-49020993</guid>
+      <pubDate>Thu, 23 Jul 2026 13:08:52 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49020993</comments>
+      <description><![CDATA[<p>Glue bonds to nonstick surfaces and wipes clean with ethanol</p><p>164 points / 94 comments — by gmays</p><p><a href="https://news.ycombinator.com/item?id=49020993">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[146pt] 宇宙飛行士、6ヶ月のミッション後も続く「観察者」の感覚を報告</title>
+      <link>https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/</link>
+      <guid isPermaLink="false">hn-49076900</guid>
+      <pubDate>Mon, 27 Jul 2026 23:19:19 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49076900</comments>
+      <description><![CDATA[<p>Astronauts describe persistent 'observer' sensation after 6 month missions</p><p>146 points / 70 comments — by zdw</p><p><a href="https://news.ycombinator.com/item?id=49076900">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[140pt] オープンモデルの使用は意外と良い</title>
+      <link>https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/</link>
+      <guid isPermaLink="false">hn-49078583</guid>
+      <pubDate>Tue, 28 Jul 2026 02:37:14 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49078583</comments>
+      <description><![CDATA[<p>Using an open model feels surprisingly good</p><p>140 points / 49 comments — by msaltz</p><p><a href="https://news.ycombinator.com/item?id=49078583">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[128pt] 自己完結型で高い可搬性のPythonディストリビューション</title>
+      <link>https://gregoryszorc.com/docs/python-build-standalone/main/</link>
+      <guid isPermaLink="false">hn-49073942</guid>
+      <pubDate>Mon, 27 Jul 2026 18:43:31 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49073942</comments>
+      <description><![CDATA[<p>Self-contained highly-portable Python distributions</p><p>128 points / 29 comments — by jcbhmr</p><p><a href="https://news.ycombinator.com/item?id=49073942">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[91pt] 四面体ケージを使った大量のアニメーション化ジオメトリのレイトレーシング</title>
+      <link>https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/</link>
+      <guid isPermaLink="false">hn-49021007</guid>
+      <pubDate>Thu, 23 Jul 2026 13:10:06 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49021007</comments>
+      <description><![CDATA[<p>Ray tracing massive amounts of animated geometry using tetrahedral cages</p><p>91 points / 11 comments — by LorenDB</p><p><a href="https://news.ycombinator.com/item?id=49021007">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[85pt] $500のRL微調整9Bオープンモデルがカタログレビューでフロンティアモデルをベンチマーク</title>
+      <link>https://fermisense.com/when-machines-take-the-wheel/</link>
+      <guid isPermaLink="false">hn-49078454</guid>
+      <pubDate>Tue, 28 Jul 2026 02:18:53 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49078454</comments>
+      <description><![CDATA[<p>A $500 RL fine-tune of a 9B open model beat frontier models on catalog review</p><p>85 points / 24 comments — by ilreb</p><p><a href="https://news.ycombinator.com/item?id=49078454">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[78pt] ルートレスコンテナを使用したサービス保護</title>
+      <link>https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/</link>
+      <guid isPermaLink="false">hn-49021024</guid>
+      <pubDate>Thu, 23 Jul 2026 13:11:30 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49021024</comments>
+      <description><![CDATA[<p>Securing Services with Rootless Containers</p><p>78 points / 25 comments — by speckx</p><p><a href="https://news.ycombinator.com/item?id=49021024">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[69pt] RTX 2080 Tiメモリを22GBにアップグレード</title>
+      <link>https://gpusolutions.net/rbservices/graphics-card-upgrade/</link>
+      <guid isPermaLink="false">hn-49041256</guid>
+      <pubDate>Fri, 24 Jul 2026 20:35:21 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49041256</comments>
+      <description><![CDATA[<p>RTX 2080 Ti Memory Upgrade to 22 GB</p><p>69 points / 35 comments — by wslh</p><p><a href="https://news.ycombinator.com/item?id=49041256">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[68pt] DConf 2026 ロンドン開催</title>
+      <link>https://dconf.org/2026/index.html</link>
+      <guid isPermaLink="false">hn-49076840</guid>
+      <pubDate>Mon, 27 Jul 2026 23:14:19 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49076840</comments>
+      <description><![CDATA[<p>DConf 2026 in London</p><p>68 points / 29 comments — by teleforce</p><p><a href="https://news.ycombinator.com/item?id=49076840">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[65pt] Launch HN: Rise Reforming (YC S26) – 廃棄ガスを貴重な化学物質に転換</title>
+      <link>https://www.rise-reforming.com</link>
+      <guid isPermaLink="false">hn-49074817</guid>
+      <pubDate>Mon, 27 Jul 2026 19:58:22 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49074817</comments>
+      <description><![CDATA[<p>Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals</p><p>65 points / 30 comments — by george_rose25</p><p><a href="https://news.ycombinator.com/item?id=49074817">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[49pt] 住宅用プロキシは国家安全保障脅威である</title>
+      <link>https://jacob.gold/posts/residential-proxies-are-a-national-security-threat/</link>
+      <guid isPermaLink="false">hn-49078266</guid>
+      <pubDate>Tue, 28 Jul 2026 01:51:18 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49078266</comments>
+      <description><![CDATA[<p>Residential Proxies Are a National Security Threat</p><p>49 points / 43 comments — by joshbetz</p><p><a href="https://news.ycombinator.com/item?id=49078266">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[44pt] Zigでパッケージ化されたC/C++プロジェクト</title>
+      <link>https://github.com/allyourcodebase</link>
+      <guid isPermaLink="false">hn-49076791</guid>
+      <pubDate>Mon, 27 Jul 2026 23:09:50 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49076791</comments>
+      <description><![CDATA[<p>C/C++ projects packaged for Zig</p><p>44 points / 23 comments — by jcbhmr</p><p><a href="https://news.ycombinator.com/item?id=49076791">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[41pt] EYG: 人間のためのプログラミング言語</title>
+      <link>https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/</link>
+      <guid isPermaLink="false">hn-49078463</guid>
+      <pubDate>Tue, 28 Jul 2026 02:21:37 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49078463</comments>
+      <description><![CDATA[<p>EYG: A Programming Language for Humans</p><p>41 points / 16 comments — by crowdhailer</p><p><a href="https://news.ycombinator.com/item?id=49078463">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[38pt] 車両モーションキュー</title>
+      <link>https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios</link>
+      <guid isPermaLink="false">hn-49077999</guid>
+      <pubDate>Tue, 28 Jul 2026 01:13:26 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49077999</comments>
+      <description><![CDATA[<p>Vehicle Motion Cues</p><p>38 points / 20 comments — by Austin_Conlon</p><p><a href="https://news.ycombinator.com/item?id=49077999">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[37pt] Show HN: Yap – macOSのオープンソースオンデバイス音声ディクテーション、モデルダウンロード不要</title>
+      <link>https://github.com/FrigadeHQ/yap</link>
+      <guid isPermaLink="false">hn-49073834</guid>
+      <pubDate>Mon, 27 Jul 2026 18:36:02 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49073834</comments>
+      <description><![CDATA[<p>Show HN: Yap – OSS on-device voice dictation for macOS with no model to download</p><p>37 points / 10 comments — by pancomplex</p><p><a href="https://news.ycombinator.com/item?id=49073834">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[36pt] Kimi K3がTelnyxInference APIで利用可能に</title>
+      <link>https://telnyx.com/release-notes/kimi-k3-telnyx-inference</link>
+      <guid isPermaLink="false">hn-49076505</guid>
+      <pubDate>Mon, 27 Jul 2026 22:46:28 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49076505</comments>
+      <description><![CDATA[<p>Kimi K3 Now Available via Telnyx Inference API</p><p>36 points / 14 comments — by fionaattelnyx</p><p><a href="https://news.ycombinator.com/item?id=49076505">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[35pt] 識字危機に関する3つのテーゼ</title>
+      <link>https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis</link>
+      <guid isPermaLink="false">hn-49050021</guid>
+      <pubDate>Sat, 25 Jul 2026 18:05:59 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49050021</comments>
+      <description><![CDATA[<p>Three Theses on the Literacy Crisis</p><p>35 points / 28 comments — by samclemens</p><p><a href="https://news.ycombinator.com/item?id=49050021">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[31pt] 空間充填曲線のいくつかの組合せ論的応用</title>
+      <link>https://www2.isye.gatech.edu/~jjb/research/mow/mow.html</link>
+      <guid isPermaLink="false">hn-49049724</guid>
+      <pubDate>Sat, 25 Jul 2026 17:37:22 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49049724</comments>
+      <description><![CDATA[<p>Some combinatorial applications of spacefilling curves</p><p>31 points / 1 comments — by shraiwi</p><p><a href="https://news.ycombinator.com/item?id=49049724">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[29pt] n=4のときのブレイド群のBurau表現は忠実である</title>
+      <link>https://arxiv.org/abs/2607.05283</link>
+      <guid isPermaLink="false">hn-49077209</guid>
+      <pubDate>Mon, 27 Jul 2026 23:46:15 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49077209</comments>
+      <description><![CDATA[<p>The Burau representation of the braid group is faithful for n = 4</p><p>29 points / 9 comments — by wglb</p><p><a href="https://news.ycombinator.com/item?id=49077209">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[25pt] 複雑でない男</title>
+      <link>https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man</link>
+      <guid isPermaLink="false">hn-49078575</guid>
+      <pubDate>Tue, 28 Jul 2026 02:35:28 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49078575</comments>
+      <description><![CDATA[<p>An Uncomplicated Man</p><p>25 points / 5 comments — by andsoitis</p><p><a href="https://news.ycombinator.com/item?id=49078575">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[18pt] 預言者としてのベケット</title>
+      <link>https://theamericanscholar.org/beckett-the-prophet/</link>
+      <guid isPermaLink="false">hn-49008010</guid>
+      <pubDate>Wed, 22 Jul 2026 15:08:20 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49008010</comments>
+      <description><![CDATA[<p>Beckett the Prophet</p><p>18 points / 1 comments — by samclemens</p><p><a href="https://news.ycombinator.com/item?id=49008010">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[16pt] 消える職業: 最後の納棺師たち</title>
+      <link>https://harpers.org/archive/2026/08/a-dying-art-john-semley-mortuary-sciences-competition/</link>
+      <guid isPermaLink="false">hn-49031322</guid>
+      <pubDate>Fri, 24 Jul 2026 04:50:10 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49031322</comments>
+      <description><![CDATA[<p>A Dying Art: The last of the morticians</p><p>16 points / 1 comments — by Petiver</p><p><a href="https://news.ycombinator.com/item?id=49031322">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[14pt] なぜ私たちは世界を実際よりも理解していると思うのか</title>
+      <link>https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth</link>
+      <guid isPermaLink="false">hn-49079175</guid>
+      <pubDate>Tue, 28 Jul 2026 04:00:41 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49079175</comments>
+      <description><![CDATA[<p>Why do we think we understand the world more than we actually do?</p><p>14 points / 6 comments — by rramadass</p><p><a href="https://news.ycombinator.com/item?id=49079175">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[13pt] 3社の買収企業を1つの統一されたウェブサイトに組織する方法</title>
+      <link>https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/</link>
+      <guid isPermaLink="false">hn-47999020</guid>
+      <pubDate>Sun, 03 May 2026 17:07:01 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=47999020</comments>
+      <description><![CDATA[<p>How to organize 3 acquired companies into one coherent website</p><p>13 points / 0 comments — by mooreds</p><p><a href="https://news.ycombinator.com/item?id=47999020">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[12pt] 現実のConwayのGame of Life</title>
+      <link>https://lcamtuf.coredump.cx/blog/conway/</link>
+      <guid isPermaLink="false">hn-47439821</guid>
+      <pubDate>Thu, 19 Mar 2026 14:11:56 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=47439821</comments>
+      <description><![CDATA[<p>Conway's Game of Life, in real life</p><p>12 points / 1 comments — by ahlCVA</p><p><a href="https://news.ycombinator.com/item?id=47439821">HNのコメントを読む</a></p>]]></description>
+    </item>
+  </channel>
+</rss>
