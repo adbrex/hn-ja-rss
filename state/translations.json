@@ -1,19 +1,31 @@
 {
+ "7.1 Earthquake in Japan": {
+  "ja": "日本で7.1の地震",
+  "ts": "2026-07-28T11:11:01.190453+00:00"
+ },
  "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review": {
   "ja": "$500のRL微調整9Bオープンモデルがカタログレビューでフロンティアモデルをベンチマーク",
-  "ts": "2026-07-28T05:23:02.934777+00:00"
+  "ts": "2026-07-28T11:10:58.283721+00:00"
  },
  "A Dying Art: The last of the morticians": {
   "ja": "消える職業: 最後の納棺師たち",
-  "ts": "2026-07-28T05:23:02.934777+00:00"
+  "ts": "2026-07-28T11:10:58.283745+00:00"
  },
  "A missing underscore sent innocent man to prison for 18 months": {
   "ja": "アンダースコア記号の欠落により無実の男性が18ヶ月投獄",
   "ts": "2026-07-28T05:23:02.934777+00:00"
  },
+ "About the security content of macOS Tahoe 26.6": {
+  "ja": "macOS Tahoe 26.6のセキュリティコンテンツについて",
+  "ts": "2026-07-28T11:11:01.190453+00:00"
+ },
  "An Uncomplicated Man": {
   "ja": "複雑でない男",
   "ts": "2026-07-28T05:23:02.934777+00:00"
+ },
+ "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts": {
+  "ja": "Ars Astronomica – 稀少なヘブライ語およびラテン語の天文学テキストの英訳",
+  "ts": "2026-07-28T11:11:01.190453+00:00"
  },
  "Astronauts describe persistent 'observer' sensation after 6 month missions": {
   "ja": "宇宙飛行士、6ヶ月のミッション後も続く「観察者」の感覚を報告",
@@ -21,15 +33,15 @@
  },
  "Beckett the Prophet": {
   "ja": "預言者としてのベケット",
-  "ts": "2026-07-28T05:23:02.934777+00:00"
+  "ts": "2026-07-28T11:10:58.283748+00:00"
  },
  "Benchmarking Opus 5 on SlopCodeBench": {
   "ja": "SlopCodeBenchでOpus 5をベンチマーク",
-  "ts": "2026-07-28T05:23:02.934777+00:00"
+  "ts": "2026-07-28T11:10:58.283713+00:00"
  },
  "C/C++ projects packaged for Zig": {
   "ja": "Zigでパッケージ化されたC/C++プロジェクト",
-  "ts": "2026-07-28T05:23:02.934777+00:00"
+  "ts": "2026-07-28T11:10:58.283741+00:00"
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
@@ -37,27 +49,31 @@
  },
  "DConf 2026 in London": {
   "ja": "DConf 2026 ロンドン開催",
-  "ts": "2026-07-28T05:23:02.934777+00:00"
+  "ts": "2026-07-28T11:10:58.283731+00:00"
  },
  "EYG: A Programming Language for Humans": {
   "ja": "EYG: 人間のためのプログラミング言語",
-  "ts": "2026-07-28T05:23:02.934777+00:00"
+  "ts": "2026-07-28T11:10:58.283738+00:00"
  },
  "Glue bonds to nonstick surfaces and wipes clean with ethanol": {
   "ja": "接着剤がノンスティック表面に接着し、エタノールで拭き取れる",
   "ts": "2026-07-28T05:23:02.934777+00:00"
  },
+ "How to Survive Boiling Water": {
+  "ja": "沸騰水での生き残り方",
+  "ts": "2026-07-28T11:11:01.190453+00:00"
+ },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-07-28T05:23:02.934777+00:00"
+  "ts": "2026-07-28T11:10:58.283750+00:00"
  },
  "Kimi K3 Now Available via Telnyx Inference API": {
   "ja": "Kimi K3がTelnyxInference APIで利用可能に",
-  "ts": "2026-07-28T05:23:02.934777+00:00"
+  "ts": "2026-07-28T11:10:58.283733+00:00"
  },
  "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals": {
   "ja": "Launch HN: Rise Reforming (YC S26) – 廃棄ガスを貴重な化学物質に転換",
-  "ts": "2026-07-28T05:23:02.934777+00:00"
+  "ts": "2026-07-28T11:10:58.283737+00:00"
  },
  "Netflix employee fired for sharing personal details in retreat trust exercise": {
   "ja": "Netflix従業員、リトリートの信頼醸成演習で個人情報を共有したため解雇",
@@ -65,15 +81,19 @@
  },
  "Our position on open-weights models": {
   "ja": "オープンウェイトモデルに対する当社の立場",
-  "ts": "2026-07-28T05:23:02.934777+00:00"
+  "ts": "2026-07-28T11:10:58.283692+00:00"
+ },
+ "Programming Languages Are Authoring Tools for Platforms": {
+  "ja": "プログラミング言語はプラットフォームのためのオーサリングツール",
+  "ts": "2026-07-28T11:11:01.190453+00:00"
  },
  "RTX 2080 Ti Memory Upgrade to 22 GB": {
   "ja": "RTX 2080 Tiメモリを22GBにアップグレード",
-  "ts": "2026-07-28T05:23:02.934777+00:00"
+  "ts": "2026-07-28T11:10:58.283726+00:00"
  },
  "Ray tracing massive amounts of animated geometry using tetrahedral cages": {
   "ja": "四面体ケージを使った大量のアニメーション化ジオメトリのレイトレーシング",
-  "ts": "2026-07-28T05:23:02.934777+00:00"
+  "ts": "2026-07-28T11:10:58.283728+00:00"
  },
  "Residential Proxies Are a National Security Threat": {
   "ja": "住宅用プロキシは国家安全保障脅威である",
@@ -81,19 +101,19 @@
  },
  "Securing Services with Rootless Containers": {
   "ja": "ルートレスコンテナを使用したサービス保護",
-  "ts": "2026-07-28T05:23:02.934777+00:00"
+  "ts": "2026-07-28T11:10:58.283730+00:00"
  },
  "Self-contained highly-portable Python distributions": {
   "ja": "自己完結型で高い可搬性のPythonディストリビューション",
-  "ts": "2026-07-28T05:23:02.934777+00:00"
+  "ts": "2026-07-28T11:10:58.283723+00:00"
  },
  "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download": {
   "ja": "Show HN: Yap – macOSのオープンソースオンデバイス音声ディクテーション、モデルダウンロード不要",
-  "ts": "2026-07-28T05:23:02.934777+00:00"
+  "ts": "2026-07-28T11:10:58.283735+00:00"
  },
  "Some combinatorial applications of spacefilling curves": {
   "ja": "空間充填曲線のいくつかの組合せ論的応用",
-  "ts": "2026-07-28T05:23:02.934777+00:00"
+  "ts": "2026-07-28T11:10:58.283743+00:00"
  },
  "The Burau representation of the braid group is faithful for n = 4": {
   "ja": "n=4のときのブレイド群のBurau表現は忠実である",
@@ -105,15 +125,19 @@
  },
  "Using an open model feels surprisingly good": {
   "ja": "オープンモデルの使用は意外と良い",
-  "ts": "2026-07-28T05:23:02.934777+00:00"
+  "ts": "2026-07-28T11:10:58.283716+00:00"
  },
  "Vehicle Motion Cues": {
   "ja": "車両モーションキュー",
-  "ts": "2026-07-28T05:23:02.934777+00:00"
+  "ts": "2026-07-28T11:10:58.283725+00:00"
  },
  "Watching Go's new garbage collector move through the heap": {
   "ja": "Goの新しいガベージコレクタがヒープを移動する様子",
-  "ts": "2026-07-28T05:23:02.934777+00:00"
+  "ts": "2026-07-28T11:10:58.283719+00:00"
+ },
+ "What Even Are Microservices?": {
+  "ja": "マイクロサービスとは何か",
+  "ts": "2026-07-28T11:11:01.190453+00:00"
  },
  "Why do we think we understand the world more than we actually do?": {
   "ja": "なぜ私たちは世界を実際よりも理解していると思うのか",
