@@ -1,0 +1,52 @@
+name: Build HN feed
+ 
+on:
+  schedule:
+    # cron は UTC。JST = UTC+9 なので 9時間引く。
+    #   JST 06:00 → UTC 21:00（前日）
+    #   JST 12:00 → UTC 03:00
+    #   JST 18:00 → UTC 09:00
+    # ※ GitHub の定時実行は混雑時に数分〜十数分遅れます。毎時00分が最も
+    #    混むので、遅延が気になるなら "7 21,3,9 * * *" のようにずらすと安定します。
+    - cron: "0 21,3,9 * * *"
+  workflow_dispatch: # Actions タブから手動実行するためのボタン
+ 
+permissions:
+  contents: write
+ 
+concurrency:
+  group: hn-ja-feed
+  cancel-in-progress: false
+ 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+ 
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+ 
+      - run: pip install -r requirements.txt
+ 
+      - name: フィードを生成
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # 自分の GitHub Pages のURLに書き換えてください（未設定でも動きます）
+          FEED_URL: https://YOUR-NAME.github.io/YOUR-REPO/hn-ja.xml
+        run: python build.py
+ 
+      - name: 変更があればコミット
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs state
+          if git diff --staged --quiet; then
+            echo "変更なし"
+          else
+            git commit -m "chore: update HN feed [skip ci]"
+            git push
+          fi
+ 
