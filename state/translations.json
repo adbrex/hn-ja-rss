@@ -15,9 +15,21 @@
   "ja": "消える職業: 最後の納棺師たち",
   "ts": "2026-07-28T11:10:58.283745+00:00"
  },
+ "A Trampoline": {
+  "ja": "トランポリン",
+  "ts": "2026-07-29T21:54:08.013720+00:00"
+ },
  "A missing underscore sent innocent man to prison for 18 months": {
   "ja": "アンダースコア記号の欠落により無実の男性が18ヶ月投獄",
   "ts": "2026-07-28T05:23:02.934777+00:00"
+ },
+ "A.I. companies are recruiting electricians and carpenters by the thousands": {
+  "ja": "AI企業が電気技師と大工を数千人規模で採用中",
+  "ts": "2026-07-29T21:54:08.013720+00:00"
+ },
+ "AI's top startups are barely publishing their research": {
+  "ja": "AIの有力スタートアップがほぼ研究発表をしていない",
+  "ts": "2026-07-29T21:54:08.013720+00:00"
  },
  "About the security content of macOS Tahoe 26.6": {
   "ja": "macOS Tahoe 26.6のセキュリティコンテンツについて",
@@ -26,6 +38,10 @@
  "An Uncomplicated Man": {
   "ja": "複雑でない男",
   "ts": "2026-07-28T05:23:02.934777+00:00"
+ },
+ "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident": {
+  "ja": "Frontier Lab Agent侵入の解剖学：2026年7月インシデントのタイムライン",
+  "ts": "2026-07-29T21:54:08.013720+00:00"
  },
  "Ancient Rome's version of Google Maps: how long to reach the beach": {
   "ja": "古代ローマ版Googleマップ: ビーチまでどのくらいかかるか",
@@ -45,7 +61,7 @@
  },
  "Beckett the Prophet": {
   "ja": "預言者としてのベケット",
-  "ts": "2026-07-29T11:17:33.572916+00:00"
+  "ts": "2026-07-29T21:53:59.813243+00:00"
  },
  "Benchmarking Opus 5 on SlopCodeBench": {
   "ja": "SlopCodeBenchでOpus 5をベンチマーク",
@@ -58,6 +74,14 @@
  "C/C++ projects packaged for Zig": {
   "ja": "Zigでパッケージ化されたC/C++プロジェクト",
   "ts": "2026-07-28T11:10:58.283741+00:00"
+ },
+ "Claude: Elevated errors across all models": {
+  "ja": "Claude: 全モデルでのエラー上昇",
+  "ts": "2026-07-29T21:54:08.013720+00:00"
+ },
+ "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals": {
+  "ja": "知能の商品化：良い、悪い、そして醜い循環AIディール",
+  "ts": "2026-07-29T21:54:08.013720+00:00"
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
@@ -83,9 +107,17 @@
   "ja": "Claudeで暗号学的な脆弱性を発見する",
   "ts": "2026-07-29T05:44:46.045064+00:00"
  },
+ "Document-borne AI worms can self-propagate through Copilot for Word": {
+  "ja": "ドキュメント経由のAIワーム、Copilot for Wordを通じた自己伝播が可能",
+  "ts": "2026-07-29T21:54:08.013720+00:00"
+ },
  "EYG: A Programming Language for Humans": {
   "ja": "EYG: 人間のためのプログラミング言語",
   "ts": "2026-07-28T11:10:58.283738+00:00"
+ },
+ "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?": {
+  "ja": "物理AIにおけるGPT-5.6対Claude Fable 5の性能比較",
+  "ts": "2026-07-29T21:54:08.013720+00:00"
  },
  "Glue bonds to nonstick surfaces and wipes clean with ethanol": {
   "ja": "接着剤がノンスティック表面に接着し、エタノールで拭き取れる",
@@ -94,6 +126,14 @@
  "Half-Life ported to Mac OS 9": {
   "ja": "Half-Life、Mac OS 9にポート",
   "ts": "2026-07-29T11:17:33.572891+00:00"
+ },
+ "Hamburg's Stadtpark: A Park Built to Be Used": {
+  "ja": "ハンブルク市立公園：使われるために作られた公園",
+  "ts": "2026-07-29T21:54:08.013720+00:00"
+ },
+ "Handbook.md shows that long policy documents do not reliably govern agents": {
+  "ja": "Handbook.mdが示す長期ポリシードキュメントのエージェント統治の信頼性不足",
+  "ts": "2026-07-29T21:54:08.013720+00:00"
  },
  "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)": {
   "ja": "Harmony Explained：音楽の科学理論への進展 (2012)",
@@ -107,9 +147,17 @@
   "ja": "eBPFコードのプロファイリング方法は？",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "How much can you delegate to agents?": {
+  "ja": "エージェントにはどの程度委譲できるか",
+  "ts": "2026-07-29T21:54:08.013720+00:00"
+ },
  "How to Survive Boiling Water": {
   "ja": "沸騰水での生き残り方",
   "ts": "2026-07-28T11:11:01.190453+00:00"
+ },
+ "How to not die by a thousand cuts or how to think about software quality (2023)": {
+  "ja": "千の小さな切り傷で死なないために、またはソフトウェア品質について考える方法 (2023)",
+  "ts": "2026-07-29T21:54:08.013720+00:00"
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
@@ -127,9 +175,17 @@
   "ja": "Hulios：eBPF搭載の透過的LinuxむけTorゲートウェイ",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "Hunter-gatherers introduced fish to a mountain lake 7000 years ago": {
+  "ja": "狩猟採集民が7000年前に山岳湖に魚を導入",
+  "ts": "2026-07-29T21:54:08.013720+00:00"
+ },
  "Interview with Boris Cherny [video]": {
   "ja": "Boris Chenyのインタビュー [動画]",
   "ts": "2026-07-29T05:44:46.045074+00:00"
+ },
+ "Keychron announces first open-source firmware for gaming mice": {
+  "ja": "Keychronがゲーミングマウス向け初のオープンソースファームウェアを発表",
+  "ts": "2026-07-29T21:54:08.013720+00:00"
  },
  "Kimi K3 Architecture Overview and Notes": {
   "ja": "Kimi K3 アーキテクチャ概要とノート",
@@ -146,6 +202,10 @@
  "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals": {
   "ja": "Launch HN: Rise Reforming (YC S26) – 廃棄ガスを貴重な化学物質に転換",
   "ts": "2026-07-28T11:10:58.283737+00:00"
+ },
+ "Launch HN: Tokenless (YC S26) – Automatic model switching to save money": {
+  "ja": "Launch HN: Tokenless (YC S26) – コスト削減のための自動モデル切り替え",
+  "ts": "2026-07-29T21:54:08.013720+00:00"
  },
  "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences": {
   "ja": "LearnVector – Andrew Ngのことばアンドワンラーニング体験を構築するAI企業",
@@ -235,6 +295,18 @@
   "ja": "自己完結型で高い可搬性のPythonディストリビューション",
   "ts": "2026-07-28T11:10:58.283723+00:00"
  },
+ "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution": {
+  "ja": "Kimi K3のセルフホスティング：ハードウェアコスト20%増で解決率20%向上",
+  "ts": "2026-07-29T21:54:08.013720+00:00"
+ },
+ "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem": {
+  "ja": "Godot VRのシップとPSVR2へのポート：部分的事後検討",
+  "ts": "2026-07-29T21:54:08.013720+00:00"
+ },
+ "Show HN: CheapFoodMap – A map of good meals under $10": {
+  "ja": "Show HN: CheapFoodMap – 10ドル以下の食事マップ",
+  "ts": "2026-07-29T21:54:08.013720+00:00"
+ },
  "Show HN: How far do I have to go to run into 100k people?": {
   "ja": "Show HN: 10万人に出会うまでにどのくらい進む必要がある？",
   "ts": "2026-07-28T21:57:37.461952+00:00"
@@ -247,6 +319,10 @@
   "ja": "Show HN: HNのリンクを開くたびに2つのタブを開くのに疲れたので、ユーザースクリプトを作った",
   "ts": "2026-07-29T11:17:33.572887+00:00"
  },
+ "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac": {
+  "ja": "Show HN: M-series Macの2GBメモリでGemma 4 26Bを動かすオープンソースエンジン",
+  "ts": "2026-07-29T21:54:08.013720+00:00"
+ },
  "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library": {
   "ja": "Show HN: XY－高速で合成可能なGPU高速化インタラクティブプロッティングライブラリ",
   "ts": "2026-07-28T21:57:37.461952+00:00"
@@ -258,6 +334,10 @@
  "Some combinatorial applications of spacefilling curves": {
   "ja": "空間充填曲線のいくつかの組合せ論的応用",
   "ts": "2026-07-28T11:10:58.283743+00:00"
+ },
+ "Some thoughts about Anthropic's new cryptanalysis results": {
+  "ja": "Anthropicの新暗号解析結果についての所感",
+  "ts": "2026-07-29T21:54:08.013720+00:00"
  },
  "SpecForge – A Platform for Authoring Formal Specifications": {
   "ja": "SpecForge – 形式仕様を執筆するためのプラットフォーム",
@@ -291,9 +371,21 @@
   "ja": "ウズベキスタンの伝説のフラットブレッド (2015)",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "The coolest use for the Vision Pro": {
+  "ja": "Vision Proの最高の使用方法",
+  "ts": "2026-07-29T21:54:08.013720+00:00"
+ },
+ "The growing threat of Docusign phishing attacks (2024)": {
+  "ja": "Docusignフィッシング攻撃の増加する脅威 (2024)",
+  "ts": "2026-07-29T21:54:08.013720+00:00"
+ },
  "The iPhone Upgrade Program is being replaced by Apple Upgrade": {
   "ja": "iPhoneアップグレードプログラムがApple Upgradeに置き換わる",
   "ts": "2026-07-29T11:17:33.572903+00:00"
+ },
+ "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted": {
+  "ja": "Theo Conjecture、35年来の数学問題を解く、誰も予測しなかった項を発見",
+  "ts": "2026-07-29T21:54:08.013720+00:00"
  },
  "Three Theses on the Literacy Crisis": {
   "ja": "識字危機に関する3つのテーゼ",
@@ -306,6 +398,10 @@
  "Truth is not a direction: a Tarski attack on LLM probes": {
   "ja": "真実は方向ではない：LLMプローブへのTarskiアタック",
   "ts": "2026-07-29T05:44:50.795006+00:00"
+ },
+ "Turning a dumb AC unit smart (without losing my security deposit)": {
+  "ja": "ダムなエアコンをスマート化（敷金を失わずに）",
+  "ts": "2026-07-29T21:54:08.013720+00:00"
  },
  "Una GPS smart watch – Repairable, USB-C charging, developer-friendly": {
   "ja": "Una GPS スマートウォッチ－修理可能、USB-C充電、開発者フレンドリー",
