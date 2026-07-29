@@ -37,11 +37,15 @@
  },
  "Beckett the Prophet": {
   "ja": "預言者としてのベケット",
-  "ts": "2026-07-28T21:57:30.082044+00:00"
+  "ts": "2026-07-29T05:44:46.045078+00:00"
  },
  "Benchmarking Opus 5 on SlopCodeBench": {
   "ja": "SlopCodeBenchでOpus 5をベンチマーク",
   "ts": "2026-07-28T11:10:58.283713+00:00"
+ },
+ "Beyond Greece and Rome": {
+  "ja": "ギリシャとローマを超えて",
+  "ts": "2026-07-29T05:44:50.795006+00:00"
  },
  "C/C++ projects packaged for Zig": {
   "ja": "Zigでパッケージ化されたC/C++プロジェクト",
@@ -61,11 +65,11 @@
  },
  "Delayed Gratification – Proud to Be 'Last to Breaking News'": {
   "ja": "遅延した満足感－「速報の最後」であることに誇りを持つ",
-  "ts": "2026-07-28T21:57:37.461952+00:00"
+  "ts": "2026-07-29T05:44:46.045058+00:00"
  },
  "Discovering Cryptographic Weaknesses with Claude": {
   "ja": "Claudeで暗号学的な脆弱性を発見する",
-  "ts": "2026-07-28T21:57:37.461952+00:00"
+  "ts": "2026-07-29T05:44:46.045064+00:00"
  },
  "EYG: A Programming Language for Humans": {
   "ja": "EYG: 人間のためのプログラミング言語",
@@ -77,11 +81,15 @@
  },
  "Half-Life ported to Mac OS 9": {
   "ja": "Half-Life、Mac OS 9にポート",
-  "ts": "2026-07-28T21:57:37.461952+00:00"
+  "ts": "2026-07-29T05:44:46.045066+00:00"
  },
  "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)": {
   "ja": "Harmony Explained：音楽の科学理論への進展 (2012)",
   "ts": "2026-07-28T21:57:37.461952+00:00"
+ },
+ "Hooray for the Sockets Interface": {
+  "ja": "Socketsインターフェースで万歳",
+  "ts": "2026-07-29T05:44:50.795006+00:00"
  },
  "How Do I Profile eBPF Code?": {
   "ja": "eBPFコードのプロファイリング方法は？",
@@ -93,11 +101,15 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-07-28T21:57:30.082062+00:00"
+  "ts": "2026-07-29T05:44:46.045080+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
   "ts": "2026-07-28T21:57:37.461952+00:00"
+ },
+ "Hubble: Open-source notetaking app for you and your agents": {
+  "ja": "Hubble: あなたとあなたのエージェントのためのオープンソースノートアプリ",
+  "ts": "2026-07-29T05:44:50.795006+00:00"
  },
  "Hulios: An eBPF-powered, transparent Tor gateway for Linux": {
   "ja": "Hulios：eBPF搭載の透過的LinuxむけTorゲートウェイ",
@@ -105,11 +117,11 @@
  },
  "Interview with Boris Cherny [video]": {
   "ja": "Boris Chenyのインタビュー [動画]",
-  "ts": "2026-07-28T21:57:37.461952+00:00"
+  "ts": "2026-07-29T05:44:46.045074+00:00"
  },
  "Kimi K3 Architecture Overview and Notes": {
   "ja": "Kimi K3 アーキテクチャ概要とノート",
-  "ts": "2026-07-28T21:57:37.461952+00:00"
+  "ts": "2026-07-29T05:44:46.045055+00:00"
  },
  "Kimi K3 Now Available via Telnyx Inference API": {
   "ja": "Kimi K3がTelnyxInference APIで利用可能に",
@@ -123,9 +135,29 @@
   "ja": "Launch HN: Rise Reforming (YC S26) – 廃棄ガスを貴重な化学物質に転換",
   "ts": "2026-07-28T11:10:58.283737+00:00"
  },
+ "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences": {
+  "ja": "LearnVector – Andrew Ngのことばアンドワンラーニング体験を構築するAI企業",
+  "ts": "2026-07-29T05:44:50.795006+00:00"
+ },
+ "Lightweight Spring Boot Monitoring Without Prometheus and Grafana": {
+  "ja": "PrometheusとGrafanaなしのSpring Boot軽量モニタリング",
+  "ts": "2026-07-29T05:44:50.795006+00:00"
+ },
+ "Log is non-monotonic in PHP and Lua": {
+  "ja": "PHPとLuaではLogは単調ではない",
+  "ts": "2026-07-29T05:44:50.795006+00:00"
+ },
  "MCP 2026-07-28 Specification: transport going stateless": {
   "ja": "MCP 2026-07-28 仕様：トランスポートがステートレスになる",
   "ts": "2026-07-28T21:57:37.461952+00:00"
+ },
+ "More Tailscale tricks for your jailbroken Kindle": {
+  "ja": "脱獄したKindleのためのTailscaleの便利な使い方",
+  "ts": "2026-07-29T05:44:50.795006+00:00"
+ },
+ "Multiple Mouse Cursors in Wayland": {
+  "ja": "Waylandでの複数のマウスカーソル",
+  "ts": "2026-07-29T05:44:50.795006+00:00"
  },
  "Netflix employee fired for sharing personal details in retreat trust exercise": {
   "ja": "Netflix従業員、リトリートの信頼醸成演習で個人情報を共有したため解雇",
@@ -133,7 +165,11 @@
  },
  "New HIV vaccine shows unprecedented success in preclinical study": {
   "ja": "新しいHIVワクチン、前臨床試験で前例のない成功を示す",
-  "ts": "2026-07-28T21:57:37.461952+00:00"
+  "ts": "2026-07-29T05:44:46.045034+00:00"
+ },
+ "Now is the time to give LLMs access to the ACM digital library": {
+  "ja": "LLMにACM Digital Libraryへのアクセスを与える時が来た",
+  "ts": "2026-07-29T05:44:50.795006+00:00"
  },
  "OpenAI just open-sourced Codex Security": {
   "ja": "OpenAIがCodex Securityをオープンソース化",
@@ -155,6 +191,10 @@
   "ja": "四面体ケージを使った大量のアニメーション化ジオメトリのレイトレーシング",
   "ts": "2026-07-28T11:10:58.283728+00:00"
  },
+ "ReFrame – The EPaper Camera": {
+  "ja": "ReFrame – EPaper Camera",
+  "ts": "2026-07-29T05:44:50.795006+00:00"
+ },
  "Recursion is lying to you": {
   "ja": "再帰はあなたを騙している",
   "ts": "2026-07-28T21:57:37.461952+00:00"
@@ -175,6 +215,10 @@
   "ja": "Show HN: 10万人に出会うまでにどのくらい進む必要がある？",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript": {
+  "ja": "Show HN: HNのリンクを開くたびに2つのタブを開くのに疲れたので、ユーザースクリプトを作った",
+  "ts": "2026-07-29T05:44:50.795006+00:00"
+ },
  "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library": {
   "ja": "Show HN: XY－高速で合成可能なGPU高速化インタラクティブプロッティングライブラリ",
   "ts": "2026-07-28T21:57:37.461952+00:00"
@@ -189,7 +233,7 @@
  },
  "Steel Bank Common Lisp version 2.6.7": {
   "ja": "Steel Bank Common Lisp バージョン 2.6.7",
-  "ts": "2026-07-28T21:57:37.461952+00:00"
+  "ts": "2026-07-29T05:44:46.045062+00:00"
  },
  "Stop Killing the Internet: No Digital ID and No Age Verification": {
   "ja": "インターネットを殺すのをやめよう：デジタルIDも年齢認証もない",
@@ -197,11 +241,19 @@
  },
  "Substack writers, you need a website": {
   "ja": "Substackのライター諸君、ウェブサイトが必要だ",
-  "ts": "2026-07-28T21:57:37.461952+00:00"
+  "ts": "2026-07-29T05:44:46.045052+00:00"
+ },
+ "Teach yourself programming in ten years (1998)": {
+  "ja": "10年でプログラミングを独習する（1998年）",
+  "ts": "2026-07-29T05:44:50.795006+00:00"
  },
  "The Burau representation of the braid group is faithful for n = 4": {
   "ja": "n=4のときのブレイド群のBurau表現は忠実である",
   "ts": "2026-07-28T05:23:02.934777+00:00"
+ },
+ "The Difference Between a Button and a Link": {
+  "ja": "ボタンとリンクの違い",
+  "ts": "2026-07-29T05:44:50.795006+00:00"
  },
  "The Fabled Flatbreads of Uzbekistan (2015)": {
   "ja": "ウズベキスタンの伝説のフラットブレッド (2015)",
@@ -209,15 +261,27 @@
  },
  "The iPhone Upgrade Program is being replaced by Apple Upgrade": {
   "ja": "iPhoneアップグレードプログラムがApple Upgradeに置き換わる",
-  "ts": "2026-07-28T21:57:37.461952+00:00"
+  "ts": "2026-07-29T05:44:46.045070+00:00"
  },
  "Three Theses on the Literacy Crisis": {
   "ja": "識字危機に関する3つのテーゼ",
   "ts": "2026-07-28T05:23:02.934777+00:00"
  },
+ "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design": {
+  "ja": "Transformer Transformer: モーション条件付きロボット共設計のための統一モデル",
+  "ts": "2026-07-29T05:44:50.795006+00:00"
+ },
+ "Truth is not a direction: a Tarski attack on LLM probes": {
+  "ja": "真実は方向ではない：LLMプローブへのTarskiアタック",
+  "ts": "2026-07-29T05:44:50.795006+00:00"
+ },
  "Una GPS smart watch – Repairable, USB-C charging, developer-friendly": {
   "ja": "Una GPS スマートウォッチ－修理可能、USB-C充電、開発者フレンドリー",
-  "ts": "2026-07-28T21:57:37.461952+00:00"
+  "ts": "2026-07-29T05:44:46.045068+00:00"
+ },
+ "User Interfaces of the Demo Scene": {
+  "ja": "デモシーンのユーザーインターフェース",
+  "ts": "2026-07-29T05:44:50.795006+00:00"
  },
  "Using an open model feels surprisingly good": {
   "ja": "オープンモデルの使用は意外と良い",
@@ -245,6 +309,6 @@
  },
  "Zig's Incremental Compilation Internals": {
   "ja": "Zigのインクリメンタルコンパイルの内部構造",
-  "ts": "2026-07-28T21:57:37.461952+00:00"
+  "ts": "2026-07-29T05:44:46.045060+00:00"
  }
 }
