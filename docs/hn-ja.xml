@@ -5,232 +5,200 @@
     <link>https://news.ycombinator.com/</link>
     <description>Hacker News のフロントページから人気順に最大30件を抽出し、タイトルを日本語訳したフィードです。1日3回更新。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Jul 2026 05:44:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 11:17:37 +0000</lastBuildDate>
     <ttl>240</ttl>
     <atom:link href="https://YOUR-NAME.github.io/YOUR-REPO/hn-ja.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>[604pt] 新しいHIVワクチン、前臨床試験で前例のない成功を示す</title>
-      <link>https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/</link>
-      <guid isPermaLink="false">hn-49083314</guid>
-      <pubDate>Tue, 28 Jul 2026 13:12:01 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49083314</comments>
-      <description><![CDATA[<p>New HIV vaccine shows unprecedented success in preclinical study</p><p>604 points / 262 comments — by codebyaditya</p><p><a href="https://news.ycombinator.com/item?id=49083314">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[477pt] Substackのライター諸君、ウェブサイトが必要だ</title>
+      <title>[557pt] Substackのライター諸君、ウェブサイトが必要だ</title>
       <link>https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/</link>
       <guid isPermaLink="false">hn-49086788</guid>
       <pubDate>Tue, 28 Jul 2026 16:58:31 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49086788</comments>
-      <description><![CDATA[<p>Substack writers, you need a website</p><p>477 points / 227 comments — by speckx</p><p><a href="https://news.ycombinator.com/item?id=49086788">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Substack writers, you need a website</p><p>557 points / 300 comments — by speckx</p><p><a href="https://news.ycombinator.com/item?id=49086788">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[435pt] Codex Security</title>
+      <title>[513pt] Codex Security</title>
       <link>https://github.com/openai/codex-security</link>
       <guid isPermaLink="false">hn-49089755</guid>
       <pubDate>Tue, 28 Jul 2026 20:52:55 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49089755</comments>
-      <description><![CDATA[<p>Codex Security</p><p>435 points / 135 comments — by bakigul</p><p><a href="https://news.ycombinator.com/item?id=49089755">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Codex Security</p><p>513 points / 183 comments — by bakigul</p><p><a href="https://news.ycombinator.com/item?id=49089755">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[359pt] Kimi K3 アーキテクチャ概要とノート</title>
+      <title>[440pt] Kimi K3 アーキテクチャ概要とノート</title>
       <link>https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html</link>
       <guid isPermaLink="false">hn-49085698</guid>
       <pubDate>Tue, 28 Jul 2026 15:48:34 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49085698</comments>
-      <description><![CDATA[<p>Kimi K3 Architecture Overview and Notes</p><p>359 points / 60 comments — by ModelForge</p><p><a href="https://news.ycombinator.com/item?id=49085698">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Kimi K3 Architecture Overview and Notes</p><p>440 points / 94 comments — by ModelForge</p><p><a href="https://news.ycombinator.com/item?id=49085698">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[265pt] 遅延した満足感－「速報の最後」であることに誇りを持つ</title>
-      <link>https://www.slow-journalism.com/</link>
-      <guid isPermaLink="false">hn-49085731</guid>
-      <pubDate>Tue, 28 Jul 2026 15:50:38 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49085731</comments>
-      <description><![CDATA[<p>Delayed Gratification – Proud to Be 'Last to Breaking News'</p><p>265 points / 151 comments — by speerer</p><p><a href="https://news.ycombinator.com/item?id=49085731">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[216pt] Zigのインクリメンタルコンパイルの内部構造</title>
-      <link>https://mlugg.co.uk/posts/incremental-compilation-internals/</link>
-      <guid isPermaLink="false">hn-49085666</guid>
-      <pubDate>Tue, 28 Jul 2026 15:46:45 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49085666</comments>
-      <description><![CDATA[<p>Zig's Incremental Compilation Internals</p><p>216 points / 151 comments — by garyhtou</p><p><a href="https://news.ycombinator.com/item?id=49085666">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[213pt] Steel Bank Common Lisp バージョン 2.6.7</title>
-      <link>https://sbcl.org/all-news.html?2.6.7</link>
-      <guid isPermaLink="false">hn-49086971</guid>
-      <pubDate>Tue, 28 Jul 2026 17:11:54 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49086971</comments>
-      <description><![CDATA[<p>Steel Bank Common Lisp version 2.6.7</p><p>213 points / 90 comments — by tmtvl</p><p><a href="https://news.ycombinator.com/item?id=49086971">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[210pt] Show HN: HNのリンクを開くたびに2つのタブを開くのに疲れたので、ユーザースクリプトを作った</title>
+      <title>[326pt] Show HN: HNのリンクを開くたびに2つのタブを開くのに疲れたので、ユーザースクリプトを作った</title>
       <link>https://github.com/twalichiewicz/HNewhere</link>
       <guid isPermaLink="false">hn-49090607</guid>
       <pubDate>Tue, 28 Jul 2026 22:09:06 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49090607</comments>
-      <description><![CDATA[<p>Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript</p><p>210 points / 63 comments — by twalichiewicz</p><p><a href="https://news.ycombinator.com/item?id=49090607">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript</p><p>326 points / 93 comments — by twalichiewicz</p><p><a href="https://news.ycombinator.com/item?id=49090607">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[197pt] Claudeで暗号学的な脆弱性を発見する</title>
-      <link>https://www.anthropic.com/research/discovering-cryptographic-weaknesses</link>
-      <guid isPermaLink="false">hn-49087091</guid>
-      <pubDate>Tue, 28 Jul 2026 17:22:16 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49087091</comments>
-      <description><![CDATA[<p>Discovering Cryptographic Weaknesses with Claude</p><p>197 points / 136 comments — by gslin</p><p><a href="https://news.ycombinator.com/item?id=49087091">HNのコメントを読む</a></p>]]></description>
+      <title>[302pt] 遅延した満足感－「速報の最後」であることに誇りを持つ</title>
+      <link>https://www.slow-journalism.com/</link>
+      <guid isPermaLink="false">hn-49085731</guid>
+      <pubDate>Tue, 28 Jul 2026 15:50:38 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49085731</comments>
+      <description><![CDATA[<p>Delayed Gratification – Proud to Be 'Last to Breaking News'</p><p>302 points / 172 comments — by speerer</p><p><a href="https://news.ycombinator.com/item?id=49085731">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[197pt] Half-Life、Mac OS 9にポート</title>
+      <title>[257pt] Half-Life、Mac OS 9にポート</title>
       <link>https://mac-classic.com/news/half-life-ported-to-mac-os-9/</link>
       <guid isPermaLink="false">hn-49089814</guid>
       <pubDate>Tue, 28 Jul 2026 20:58:39 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49089814</comments>
-      <description><![CDATA[<p>Half-Life ported to Mac OS 9</p><p>197 points / 95 comments — by freediver</p><p><a href="https://news.ycombinator.com/item?id=49089814">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Half-Life ported to Mac OS 9</p><p>257 points / 118 comments — by freediver</p><p><a href="https://news.ycombinator.com/item?id=49089814">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[166pt] Una GPS スマートウォッチ－修理可能、USB-C充電、開発者フレンドリー</title>
+      <title>[247pt] Zigのインクリメンタルコンパイルの内部構造</title>
+      <link>https://mlugg.co.uk/posts/incremental-compilation-internals/</link>
+      <guid isPermaLink="false">hn-49085666</guid>
+      <pubDate>Tue, 28 Jul 2026 15:46:45 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49085666</comments>
+      <description><![CDATA[<p>Zig's Incremental Compilation Internals</p><p>247 points / 178 comments — by garyhtou</p><p><a href="https://news.ycombinator.com/item?id=49085666">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[239pt] Steel Bank Common Lisp バージョン 2.6.7</title>
+      <link>https://sbcl.org/all-news.html?2.6.7</link>
+      <guid isPermaLink="false">hn-49086971</guid>
+      <pubDate>Tue, 28 Jul 2026 17:11:54 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49086971</comments>
+      <description><![CDATA[<p>Steel Bank Common Lisp version 2.6.7</p><p>239 points / 107 comments — by tmtvl</p><p><a href="https://news.ycombinator.com/item?id=49086971">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[231pt] Una GPS スマートウォッチ－修理可能、USB-C充電、開発者フレンドリー</title>
       <link>https://unawatch.com/</link>
       <guid isPermaLink="false">hn-49084813</guid>
       <pubDate>Tue, 28 Jul 2026 14:48:13 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49084813</comments>
-      <description><![CDATA[<p>Una GPS smart watch – Repairable, USB-C charging, developer-friendly</p><p>166 points / 111 comments — by pimterry</p><p><a href="https://news.ycombinator.com/item?id=49084813">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Una GPS smart watch – Repairable, USB-C charging, developer-friendly</p><p>231 points / 141 comments — by pimterry</p><p><a href="https://news.ycombinator.com/item?id=49084813">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[154pt] iPhoneアップグレードプログラムがApple Upgradeに置き換わる</title>
-      <link>https://www.apple.com/shop/iphone/iphone-upgrade-program</link>
-      <guid isPermaLink="false">hn-49087306</guid>
-      <pubDate>Tue, 28 Jul 2026 17:37:12 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49087306</comments>
-      <description><![CDATA[<p>The iPhone Upgrade Program is being replaced by Apple Upgrade</p><p>154 points / 306 comments — by lkurtz</p><p><a href="https://news.ycombinator.com/item?id=49087306">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[138pt] LLMにACM Digital Libraryへのアクセスを与える時が来た</title>
-      <link>https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/</link>
-      <guid isPermaLink="false">hn-49084987</guid>
-      <pubDate>Tue, 28 Jul 2026 15:01:12 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49084987</comments>
-      <description><![CDATA[<p>Now is the time to give LLMs access to the ACM digital library</p><p>138 points / 114 comments — by rbanffy</p><p><a href="https://news.ycombinator.com/item?id=49084987">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[112pt] LearnVector – Andrew Ngのことばアンドワンラーニング体験を構築するAI企業</title>
-      <link>https://learnvector.ai/</link>
-      <guid isPermaLink="false">hn-49092499</guid>
-      <pubDate>Wed, 29 Jul 2026 01:49:19 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49092499</comments>
-      <description><![CDATA[<p>LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences</p><p>112 points / 62 comments — by ajhai</p><p><a href="https://news.ycombinator.com/item?id=49092499">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[95pt] 10年でプログラミングを独習する（1998年）</title>
-      <link>https://www.norvig.com/21-days.html</link>
-      <guid isPermaLink="false">hn-49055816</guid>
-      <pubDate>Sun, 26 Jul 2026 08:06:45 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49055816</comments>
-      <description><![CDATA[<p>Teach yourself programming in ten years (1998)</p><p>95 points / 40 comments — by vinhnx</p><p><a href="https://news.ycombinator.com/item?id=49055816">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[78pt] Hubble: あなたとあなたのエージェントのためのオープンソースノートアプリ</title>
-      <link>https://www.hubble.md/</link>
-      <guid isPermaLink="false">hn-49091730</guid>
-      <pubDate>Wed, 29 Jul 2026 00:11:23 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49091730</comments>
-      <description><![CDATA[<p>Hubble: Open-source notetaking app for you and your agents</p><p>78 points / 20 comments — by handfuloflight</p><p><a href="https://news.ycombinator.com/item?id=49091730">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[76pt] ReFrame – EPaper Camera</title>
-      <link>https://reframe.camera/</link>
-      <guid isPermaLink="false">hn-49091379</guid>
-      <pubDate>Tue, 28 Jul 2026 23:27:09 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49091379</comments>
-      <description><![CDATA[<p>ReFrame – The EPaper Camera</p><p>76 points / 18 comments — by phil294</p><p><a href="https://news.ycombinator.com/item?id=49091379">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[68pt] Waylandでの複数のマウスカーソル</title>
-      <link>https://blinry.org/multi-seat-wayland/</link>
-      <guid isPermaLink="false">hn-49092112</guid>
-      <pubDate>Wed, 29 Jul 2026 00:59:37 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49092112</comments>
-      <description><![CDATA[<p>Multiple Mouse Cursors in Wayland</p><p>68 points / 43 comments — by marvinborner</p><p><a href="https://news.ycombinator.com/item?id=49092112">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[62pt] 真実は方向ではない：LLMプローブへのTarskiアタック</title>
-      <link>https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html</link>
-      <guid isPermaLink="false">hn-49069033</guid>
-      <pubDate>Mon, 27 Jul 2026 12:56:36 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49069033</comments>
-      <description><![CDATA[<p>Truth is not a direction: a Tarski attack on LLM probes</p><p>62 points / 16 comments — by abelaer</p><p><a href="https://news.ycombinator.com/item?id=49069033">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[56pt] ボタンとリンクの違い</title>
-      <link>https://unplannedobsolescence.com/blog/buttons-vs-links/</link>
-      <guid isPermaLink="false">hn-49091738</guid>
-      <pubDate>Wed, 29 Jul 2026 00:12:14 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49091738</comments>
-      <description><![CDATA[<p>The Difference Between a Button and a Link</p><p>56 points / 39 comments — by alexpetros</p><p><a href="https://news.ycombinator.com/item?id=49091738">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[46pt] Boris Chenyのインタビュー [動画]</title>
-      <link>https://www.youtube.com/watch?v=qyPCVqFUyDo</link>
-      <guid isPermaLink="false">hn-49077040</guid>
-      <pubDate>Mon, 27 Jul 2026 23:33:04 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49077040</comments>
-      <description><![CDATA[<p>Interview with Boris Cherny [video]</p><p>46 points / 50 comments — by knighthacker</p><p><a href="https://news.ycombinator.com/item?id=49077040">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[34pt] 脱獄したKindleのためのTailscaleの便利な使い方</title>
-      <link>https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes</link>
-      <guid isPermaLink="false">hn-49093569</guid>
-      <pubDate>Wed, 29 Jul 2026 04:58:46 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49093569</comments>
-      <description><![CDATA[<p>More Tailscale tricks for your jailbroken Kindle</p><p>34 points / 0 comments — by Error6571</p><p><a href="https://news.ycombinator.com/item?id=49093569">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[25pt] PHPとLuaではLogは単調ではない</title>
-      <link>https://purplesyringa.moe/blog/log-is-non-monotonic-in-php-and-lua/</link>
-      <guid isPermaLink="false">hn-49021756</guid>
-      <pubDate>Thu, 23 Jul 2026 14:00:48 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49021756</comments>
-      <description><![CDATA[<p>Log is non-monotonic in PHP and Lua</p><p>25 points / 15 comments — by ibobev</p><p><a href="https://news.ycombinator.com/item?id=49021756">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[22pt] デモシーンのユーザーインターフェース</title>
+      <title>[231pt] デモシーンのユーザーインターフェース</title>
       <link>https://www.datagubbe.se/scenegui/</link>
       <guid isPermaLink="false">hn-49093434</guid>
       <pubDate>Wed, 29 Jul 2026 04:30:36 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49093434</comments>
-      <description><![CDATA[<p>User Interfaces of the Demo Scene</p><p>22 points / 2 comments — by zdw</p><p><a href="https://news.ycombinator.com/item?id=49093434">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>User Interfaces of the Demo Scene</p><p>231 points / 37 comments — by zdw</p><p><a href="https://news.ycombinator.com/item?id=49093434">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[21pt] Transformer Transformer: モーション条件付きロボット共設計のための統一モデル</title>
+      <title>[224pt] 脱獄したKindleのためのTailscaleの便利な使い方</title>
+      <link>https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes</link>
+      <guid isPermaLink="false">hn-49093569</guid>
+      <pubDate>Wed, 29 Jul 2026 04:58:46 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49093569</comments>
+      <description><![CDATA[<p>More Tailscale tricks for your jailbroken Kindle</p><p>224 points / 73 comments — by Error6571</p><p><a href="https://news.ycombinator.com/item?id=49093569">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[201pt] LearnVector – Andrew Ngのことばアンドワンラーニング体験を構築するAI企業</title>
+      <link>https://learnvector.ai/</link>
+      <guid isPermaLink="false">hn-49092499</guid>
+      <pubDate>Wed, 29 Jul 2026 01:49:19 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49092499</comments>
+      <description><![CDATA[<p>LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences</p><p>201 points / 119 comments — by ajhai</p><p><a href="https://news.ycombinator.com/item?id=49092499">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[184pt] iPhoneアップグレードプログラムがApple Upgradeに置き換わる</title>
+      <link>https://www.apple.com/shop/iphone/iphone-upgrade-program</link>
+      <guid isPermaLink="false">hn-49087306</guid>
+      <pubDate>Tue, 28 Jul 2026 17:37:12 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49087306</comments>
+      <description><![CDATA[<p>The iPhone Upgrade Program is being replaced by Apple Upgrade</p><p>184 points / 331 comments — by lkurtz</p><p><a href="https://news.ycombinator.com/item?id=49087306">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[171pt] LLMにACM Digital Libraryへのアクセスを与える時が来た</title>
+      <link>https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/</link>
+      <guid isPermaLink="false">hn-49084987</guid>
+      <pubDate>Tue, 28 Jul 2026 15:01:12 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49084987</comments>
+      <description><![CDATA[<p>Now is the time to give LLMs access to the ACM digital library</p><p>171 points / 142 comments — by rbanffy</p><p><a href="https://news.ycombinator.com/item?id=49084987">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[152pt] 10年でプログラミングを独習する（1998年）</title>
+      <link>https://www.norvig.com/21-days.html</link>
+      <guid isPermaLink="false">hn-49055816</guid>
+      <pubDate>Sun, 26 Jul 2026 08:06:45 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49055816</comments>
+      <description><![CDATA[<p>Teach yourself programming in ten years (1998)</p><p>152 points / 92 comments — by vinhnx</p><p><a href="https://news.ycombinator.com/item?id=49055816">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[145pt] ReFrame – EPaper Camera</title>
+      <link>https://reframe.camera/</link>
+      <guid isPermaLink="false">hn-49091379</guid>
+      <pubDate>Tue, 28 Jul 2026 23:27:09 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49091379</comments>
+      <description><![CDATA[<p>ReFrame – The EPaper Camera</p><p>145 points / 31 comments — by phil294</p><p><a href="https://news.ycombinator.com/item?id=49091379">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[121pt] Hubble: あなたとあなたのエージェントのためのオープンソースノートアプリ</title>
+      <link>https://www.hubble.md/</link>
+      <guid isPermaLink="false">hn-49091730</guid>
+      <pubDate>Wed, 29 Jul 2026 00:11:23 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49091730</comments>
+      <description><![CDATA[<p>Hubble: Open-source notetaking app for you and your agents</p><p>121 points / 53 comments — by handfuloflight</p><p><a href="https://news.ycombinator.com/item?id=49091730">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[79pt] SQLiteの本番運用: WALモード、並行性、VFSレイヤーの最適化</title>
+      <link>https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers</link>
+      <guid isPermaLink="false">hn-49094346</guid>
+      <pubDate>Wed, 29 Jul 2026 07:18:24 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49094346</comments>
+      <description><![CDATA[<p>SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers</p><p>79 points / 34 comments — by ankitg12</p><p><a href="https://news.ycombinator.com/item?id=49094346">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[57pt] Transformer Transformer: モーション条件付きロボット共設計のための統一モデル</title>
       <link>https://transformer-transformer.github.io/</link>
       <guid isPermaLink="false">hn-49093232</guid>
       <pubDate>Wed, 29 Jul 2026 03:52:29 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49093232</comments>
-      <description><![CDATA[<p>Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design</p><p>21 points / 0 comments — by ilreb</p><p><a href="https://news.ycombinator.com/item?id=49093232">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design</p><p>57 points / 5 comments — by ilreb</p><p><a href="https://news.ycombinator.com/item?id=49093232">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[20pt] ギリシャとローマを超えて</title>
-      <link>https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome</link>
-      <guid isPermaLink="false">hn-49073357</guid>
-      <pubDate>Mon, 27 Jul 2026 18:04:30 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49073357</comments>
-      <description><![CDATA[<p>Beyond Greece and Rome</p><p>20 points / 8 comments — by diodorus</p><p><a href="https://news.ycombinator.com/item?id=49073357">HNのコメントを読む</a></p>]]></description>
+      <title>[51pt] WindowsをこじあくてRADVをWin32に移植する</title>
+      <link>https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html</link>
+      <guid isPermaLink="false">hn-49093435</guid>
+      <pubDate>Wed, 29 Jul 2026 04:30:47 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49093435</comments>
+      <description><![CDATA[<p>Cracking Windows Open: Porting RADV to Win32</p><p>51 points / 18 comments — by zdw</p><p><a href="https://news.ycombinator.com/item?id=49093435">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[19pt] PrometheusとGrafanaなしのSpring Boot軽量モニタリング</title>
-      <link>https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html</link>
-      <guid isPermaLink="false">hn-49091895</guid>
-      <pubDate>Wed, 29 Jul 2026 00:32:08 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49091895</comments>
-      <description><![CDATA[<p>Lightweight Spring Boot Monitoring Without Prometheus and Grafana</p><p>19 points / 2 comments — by ejboy</p><p><a href="https://news.ycombinator.com/item?id=49091895">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[18pt] Socketsインターフェースで万歳</title>
+      <title>[41pt] Socketsインターフェースで万歳</title>
       <link>https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/</link>
       <guid isPermaLink="false">hn-49092754</guid>
       <pubDate>Wed, 29 Jul 2026 02:25:29 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49092754</comments>
-      <description><![CDATA[<p>Hooray for the Sockets Interface</p><p>18 points / 13 comments — by jruohonen</p><p><a href="https://news.ycombinator.com/item?id=49092754">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Hooray for the Sockets Interface</p><p>41 points / 22 comments — by jruohonen</p><p><a href="https://news.ycombinator.com/item?id=49092754">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[37pt] Lispが動くForthが動くLisp</title>
+      <link>https://letoverlambda.com/textmode.cl/guest/chap8.html</link>
+      <guid isPermaLink="false">hn-49060363</guid>
+      <pubDate>Sun, 26 Jul 2026 17:37:33 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49060363</comments>
+      <description><![CDATA[<p>Lisp moving Forth moving Lisp</p><p>37 points / 9 comments — by fallat</p><p><a href="https://news.ycombinator.com/item?id=49060363">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[23pt] 60年前、潜水艦が初めて水没したまま地球を一周 (2020)</title>
+      <link>https://www.popularmechanics.com/military/weapons/a32009109/operation-sandblast-sumbarine-circumnavigation/</link>
+      <guid isPermaLink="false">hn-49076450</guid>
+      <pubDate>Mon, 27 Jul 2026 22:42:11 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49076450</comments>
+      <description><![CDATA[<p>60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)</p><p>23 points / 9 comments — by baud147258</p><p><a href="https://news.ycombinator.com/item?id=49076450">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[18pt] 古代ローマ版Googleマップ: ビーチまでどのくらいかかるか</title>
+      <link>https://www.euronews.com/culture/2026/07/02/ancient-romes-version-of-google-maps-how-long-to-reach-the-beach</link>
+      <guid isPermaLink="false">hn-49012754</guid>
+      <pubDate>Wed, 22 Jul 2026 20:14:38 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49012754</comments>
+      <description><![CDATA[<p>Ancient Rome's version of Google Maps: how long to reach the beach</p><p>18 points / 14 comments — by gnabgib</p><p><a href="https://news.ycombinator.com/item?id=49012754">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
       <title>[18pt] 預言者としてのベケット</title>
@@ -241,12 +209,44 @@
       <description><![CDATA[<p>Beckett the Prophet</p><p>18 points / 1 comments — by samclemens</p><p><a href="https://news.ycombinator.com/item?id=49008010">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
+      <title>[13pt] SpecForge – 形式仕様を執筆するためのプラットフォーム</title>
+      <link>https://docs.imiron.io/v/0.5.10/en/tour.html</link>
+      <guid isPermaLink="false">hn-49095628</guid>
+      <pubDate>Wed, 29 Jul 2026 10:35:19 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49095628</comments>
+      <description><![CDATA[<p>SpecForge – A Platform for Authoring Formal Specifications</p><p>13 points / 0 comments — by agnishom</p><p><a href="https://news.ycombinator.com/item?id=49095628">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
       <title>[13pt] 3社の買収企業を1つの統一されたウェブサイトに組織する方法</title>
       <link>https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/</link>
       <guid isPermaLink="false">hn-47999020</guid>
       <pubDate>Sun, 03 May 2026 17:07:01 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=47999020</comments>
       <description><![CDATA[<p>How to organize 3 acquired companies into one coherent website</p><p>13 points / 0 comments — by mooreds</p><p><a href="https://news.ycombinator.com/item?id=47999020">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[12pt] 現実のConwayのGame of Life</title>
+      <link>https://lcamtuf.coredump.cx/blog/conway/</link>
+      <guid isPermaLink="false">hn-47439821</guid>
+      <pubDate>Thu, 19 Mar 2026 14:11:56 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=47439821</comments>
+      <description><![CDATA[<p>Conway's Game of Life, in real life</p><p>12 points / 1 comments — by ahlCVA</p><p><a href="https://news.ycombinator.com/item?id=47439821">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[9pt] Show HN: 2012年の自己署名証明書ジェネレータをGoで書き直した – cert-depot.com</title>
+      <link>https://news.ycombinator.com/item?id=47613622</link>
+      <guid isPermaLink="false">hn-47613622</guid>
+      <pubDate>Thu, 02 Apr 2026 12:36:10 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=47613622</comments>
+      <description><![CDATA[<p>Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com</p><p>9 points / 1 comments — by dimastopel</p><p><a href="https://news.ycombinator.com/item?id=47613622">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[9pt] JITコンパイルされたコードを知らせる: その方法を数えてみた</title>
+      <link>https://wakelift.de/2026/03/09/making-your-jitted-code-known-let-me-count-the-ways/</link>
+      <guid isPermaLink="false">hn-47320921</guid>
+      <pubDate>Tue, 10 Mar 2026 09:31:19 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=47320921</comments>
+      <description><![CDATA[<p>Making your JITted Code known: Let me count the ways</p><p>9 points / 1 comments — by lizmat</p><p><a href="https://news.ycombinator.com/item?id=47320921">HNのコメントを読む</a></p>]]></description>
     </item>
   </channel>
 </rss>

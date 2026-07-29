@@ -1,4 +1,8 @@
 {
+ "60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)": {
+  "ja": "60年前、潜水艦が初めて水没したまま地球を一周 (2020)",
+  "ts": "2026-07-29T11:17:37.025431+00:00"
+ },
  "7.1 Earthquake in Japan": {
   "ja": "日本で7.1の地震",
   "ts": "2026-07-28T11:11:01.190453+00:00"
@@ -23,6 +27,10 @@
   "ja": "複雑でない男",
   "ts": "2026-07-28T05:23:02.934777+00:00"
  },
+ "Ancient Rome's version of Google Maps: how long to reach the beach": {
+  "ja": "古代ローマ版Googleマップ: ビーチまでどのくらいかかるか",
+  "ts": "2026-07-29T11:17:37.025431+00:00"
+ },
  "Anthropeum – Where in the world, and when, does this human artifact belong?": {
   "ja": "Anthropeum－この人工遺物は世界のどこに、いつ属するのか？",
   "ts": "2026-07-28T21:57:37.461952+00:00"
@@ -37,7 +45,7 @@
  },
  "Beckett the Prophet": {
   "ja": "預言者としてのベケット",
-  "ts": "2026-07-29T05:44:46.045078+00:00"
+  "ts": "2026-07-29T11:17:33.572916+00:00"
  },
  "Benchmarking Opus 5 on SlopCodeBench": {
   "ja": "SlopCodeBenchでOpus 5をベンチマーク",
@@ -53,7 +61,11 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-07-28T21:57:30.082065+00:00"
+  "ts": "2026-07-29T11:17:33.572919+00:00"
+ },
+ "Cracking Windows Open: Porting RADV to Win32": {
+  "ja": "WindowsをこじあくてRADVをWin32に移植する",
+  "ts": "2026-07-29T11:17:37.025431+00:00"
  },
  "DConf 2026 in London": {
   "ja": "DConf 2026 ロンドン開催",
@@ -65,7 +77,7 @@
  },
  "Delayed Gratification – Proud to Be 'Last to Breaking News'": {
   "ja": "遅延した満足感－「速報の最後」であることに誇りを持つ",
-  "ts": "2026-07-29T05:44:46.045058+00:00"
+  "ts": "2026-07-29T11:17:33.572889+00:00"
  },
  "Discovering Cryptographic Weaknesses with Claude": {
   "ja": "Claudeで暗号学的な脆弱性を発見する",
@@ -81,7 +93,7 @@
  },
  "Half-Life ported to Mac OS 9": {
   "ja": "Half-Life、Mac OS 9にポート",
-  "ts": "2026-07-29T05:44:46.045066+00:00"
+  "ts": "2026-07-29T11:17:33.572891+00:00"
  },
  "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)": {
   "ja": "Harmony Explained：音楽の科学理論への進展 (2012)",
@@ -89,7 +101,7 @@
  },
  "Hooray for the Sockets Interface": {
   "ja": "Socketsインターフェースで万歳",
-  "ts": "2026-07-29T05:44:50.795006+00:00"
+  "ts": "2026-07-29T11:17:33.572914+00:00"
  },
  "How Do I Profile eBPF Code?": {
   "ja": "eBPFコードのプロファイリング方法は？",
@@ -101,7 +113,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-07-29T05:44:46.045080+00:00"
+  "ts": "2026-07-29T11:17:33.572918+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -109,7 +121,7 @@
  },
  "Hubble: Open-source notetaking app for you and your agents": {
   "ja": "Hubble: あなたとあなたのエージェントのためのオープンソースノートアプリ",
-  "ts": "2026-07-29T05:44:50.795006+00:00"
+  "ts": "2026-07-29T11:17:33.572910+00:00"
  },
  "Hulios: An eBPF-powered, transparent Tor gateway for Linux": {
   "ja": "Hulios：eBPF搭載の透過的LinuxむけTorゲートウェイ",
@@ -121,7 +133,7 @@
  },
  "Kimi K3 Architecture Overview and Notes": {
   "ja": "Kimi K3 アーキテクチャ概要とノート",
-  "ts": "2026-07-29T05:44:46.045055+00:00"
+  "ts": "2026-07-29T11:17:33.572884+00:00"
  },
  "Kimi K3 Now Available via Telnyx Inference API": {
   "ja": "Kimi K3がTelnyxInference APIで利用可能に",
@@ -137,11 +149,15 @@
  },
  "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences": {
   "ja": "LearnVector – Andrew Ngのことばアンドワンラーニング体験を構築するAI企業",
-  "ts": "2026-07-29T05:44:50.795006+00:00"
+  "ts": "2026-07-29T11:17:33.572901+00:00"
  },
  "Lightweight Spring Boot Monitoring Without Prometheus and Grafana": {
   "ja": "PrometheusとGrafanaなしのSpring Boot軽量モニタリング",
   "ts": "2026-07-29T05:44:50.795006+00:00"
+ },
+ "Lisp moving Forth moving Lisp": {
+  "ja": "Lispが動くForthが動くLisp",
+  "ts": "2026-07-29T11:17:37.025431+00:00"
  },
  "Log is non-monotonic in PHP and Lua": {
   "ja": "PHPとLuaではLogは単調ではない",
@@ -151,9 +167,13 @@
   "ja": "MCP 2026-07-28 仕様：トランスポートがステートレスになる",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "Making your JITted Code known: Let me count the ways": {
+  "ja": "JITコンパイルされたコードを知らせる: その方法を数えてみた",
+  "ts": "2026-07-29T11:17:37.025431+00:00"
+ },
  "More Tailscale tricks for your jailbroken Kindle": {
   "ja": "脱獄したKindleのためのTailscaleの便利な使い方",
-  "ts": "2026-07-29T05:44:50.795006+00:00"
+  "ts": "2026-07-29T11:17:33.572899+00:00"
  },
  "Multiple Mouse Cursors in Wayland": {
   "ja": "Waylandでの複数のマウスカーソル",
@@ -169,7 +189,7 @@
  },
  "Now is the time to give LLMs access to the ACM digital library": {
   "ja": "LLMにACM Digital Libraryへのアクセスを与える時が来た",
-  "ts": "2026-07-29T05:44:50.795006+00:00"
+  "ts": "2026-07-29T11:17:33.572905+00:00"
  },
  "OpenAI just open-sourced Codex Security": {
   "ja": "OpenAIがCodex Securityをオープンソース化",
@@ -193,7 +213,7 @@
  },
  "ReFrame – The EPaper Camera": {
   "ja": "ReFrame – EPaper Camera",
-  "ts": "2026-07-29T05:44:50.795006+00:00"
+  "ts": "2026-07-29T11:17:33.572908+00:00"
  },
  "Recursion is lying to you": {
   "ja": "再帰はあなたを騙している",
@@ -202,6 +222,10 @@
  "Residential Proxies Are a National Security Threat": {
   "ja": "住宅用プロキシは国家安全保障脅威である",
   "ts": "2026-07-28T05:23:02.934777+00:00"
+ },
+ "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers": {
+  "ja": "SQLiteの本番運用: WALモード、並行性、VFSレイヤーの最適化",
+  "ts": "2026-07-29T11:17:37.025431+00:00"
  },
  "Securing Services with Rootless Containers": {
   "ja": "ルートレスコンテナを使用したサービス保護",
@@ -215,9 +239,13 @@
   "ja": "Show HN: 10万人に出会うまでにどのくらい進む必要がある？",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com": {
+  "ja": "Show HN: 2012年の自己署名証明書ジェネレータをGoで書き直した – cert-depot.com",
+  "ts": "2026-07-29T11:17:37.025431+00:00"
+ },
  "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript": {
   "ja": "Show HN: HNのリンクを開くたびに2つのタブを開くのに疲れたので、ユーザースクリプトを作った",
-  "ts": "2026-07-29T05:44:50.795006+00:00"
+  "ts": "2026-07-29T11:17:33.572887+00:00"
  },
  "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library": {
   "ja": "Show HN: XY－高速で合成可能なGPU高速化インタラクティブプロッティングライブラリ",
@@ -231,9 +259,13 @@
   "ja": "空間充填曲線のいくつかの組合せ論的応用",
   "ts": "2026-07-28T11:10:58.283743+00:00"
  },
+ "SpecForge – A Platform for Authoring Formal Specifications": {
+  "ja": "SpecForge – 形式仕様を執筆するためのプラットフォーム",
+  "ts": "2026-07-29T11:17:37.025431+00:00"
+ },
  "Steel Bank Common Lisp version 2.6.7": {
   "ja": "Steel Bank Common Lisp バージョン 2.6.7",
-  "ts": "2026-07-29T05:44:46.045062+00:00"
+  "ts": "2026-07-29T11:17:33.572894+00:00"
  },
  "Stop Killing the Internet: No Digital ID and No Age Verification": {
   "ja": "インターネットを殺すのをやめよう：デジタルIDも年齢認証もない",
@@ -241,11 +273,11 @@
  },
  "Substack writers, you need a website": {
   "ja": "Substackのライター諸君、ウェブサイトが必要だ",
-  "ts": "2026-07-29T05:44:46.045052+00:00"
+  "ts": "2026-07-29T11:17:33.572867+00:00"
  },
  "Teach yourself programming in ten years (1998)": {
   "ja": "10年でプログラミングを独習する（1998年）",
-  "ts": "2026-07-29T05:44:50.795006+00:00"
+  "ts": "2026-07-29T11:17:33.572906+00:00"
  },
  "The Burau representation of the braid group is faithful for n = 4": {
   "ja": "n=4のときのブレイド群のBurau表現は忠実である",
@@ -261,7 +293,7 @@
  },
  "The iPhone Upgrade Program is being replaced by Apple Upgrade": {
   "ja": "iPhoneアップグレードプログラムがApple Upgradeに置き換わる",
-  "ts": "2026-07-29T05:44:46.045070+00:00"
+  "ts": "2026-07-29T11:17:33.572903+00:00"
  },
  "Three Theses on the Literacy Crisis": {
   "ja": "識字危機に関する3つのテーゼ",
@@ -269,7 +301,7 @@
  },
  "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design": {
   "ja": "Transformer Transformer: モーション条件付きロボット共設計のための統一モデル",
-  "ts": "2026-07-29T05:44:50.795006+00:00"
+  "ts": "2026-07-29T11:17:33.572912+00:00"
  },
  "Truth is not a direction: a Tarski attack on LLM probes": {
   "ja": "真実は方向ではない：LLMプローブへのTarskiアタック",
@@ -277,11 +309,11 @@
  },
  "Una GPS smart watch – Repairable, USB-C charging, developer-friendly": {
   "ja": "Una GPS スマートウォッチ－修理可能、USB-C充電、開発者フレンドリー",
-  "ts": "2026-07-29T05:44:46.045068+00:00"
+  "ts": "2026-07-29T11:17:33.572896+00:00"
  },
  "User Interfaces of the Demo Scene": {
   "ja": "デモシーンのユーザーインターフェース",
-  "ts": "2026-07-29T05:44:50.795006+00:00"
+  "ts": "2026-07-29T11:17:33.572898+00:00"
  },
  "Using an open model feels surprisingly good": {
   "ja": "オープンモデルの使用は意外と良い",
@@ -309,6 +341,6 @@
  },
  "Zig's Incremental Compilation Internals": {
   "ja": "Zigのインクリメンタルコンパイルの内部構造",
-  "ts": "2026-07-29T05:44:46.045060+00:00"
+  "ts": "2026-07-29T11:17:33.572893+00:00"
  }
 }
