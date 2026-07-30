@@ -17,7 +17,7 @@
  },
  "A Trampoline": {
   "ja": "トランポリン",
-  "ts": "2026-07-29T21:54:08.013720+00:00"
+  "ts": "2026-07-30T05:33:31.620488+00:00"
  },
  "A missing underscore sent innocent man to prison for 18 months": {
   "ja": "アンダースコア記号の欠落により無実の男性が18ヶ月投獄",
@@ -25,11 +25,11 @@
  },
  "A.I. companies are recruiting electricians and carpenters by the thousands": {
   "ja": "AI企業が電気技師と大工を数千人規模で採用中",
-  "ts": "2026-07-29T21:54:08.013720+00:00"
+  "ts": "2026-07-30T05:33:31.620478+00:00"
  },
  "AI's top startups are barely publishing their research": {
   "ja": "AIの有力スタートアップがほぼ研究発表をしていない",
-  "ts": "2026-07-29T21:54:08.013720+00:00"
+  "ts": "2026-07-30T05:33:31.620477+00:00"
  },
  "About the security content of macOS Tahoe 26.6": {
   "ja": "macOS Tahoe 26.6のセキュリティコンテンツについて",
@@ -41,7 +41,7 @@
  },
  "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident": {
   "ja": "Frontier Lab Agent侵入の解剖学：2026年7月インシデントのタイムライン",
-  "ts": "2026-07-29T21:54:08.013720+00:00"
+  "ts": "2026-07-30T05:33:31.620473+00:00"
  },
  "Ancient Rome's version of Google Maps: how long to reach the beach": {
   "ja": "古代ローマ版Googleマップ: ビーチまでどのくらいかかるか",
@@ -61,7 +61,7 @@
  },
  "Beckett the Prophet": {
   "ja": "預言者としてのベケット",
-  "ts": "2026-07-29T21:53:59.813243+00:00"
+  "ts": "2026-07-30T05:33:31.620495+00:00"
  },
  "Benchmarking Opus 5 on SlopCodeBench": {
   "ja": "SlopCodeBenchでOpus 5をベンチマーク",
@@ -81,7 +81,7 @@
  },
  "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals": {
   "ja": "知能の商品化：良い、悪い、そして醜い循環AIディール",
-  "ts": "2026-07-29T21:54:08.013720+00:00"
+  "ts": "2026-07-30T05:33:31.620490+00:00"
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
@@ -129,7 +129,7 @@
  },
  "Hamburg's Stadtpark: A Park Built to Be Used": {
   "ja": "ハンブルク市立公園：使われるために作られた公園",
-  "ts": "2026-07-29T21:54:08.013720+00:00"
+  "ts": "2026-07-30T05:33:31.620485+00:00"
  },
  "Handbook.md shows that long policy documents do not reliably govern agents": {
   "ja": "Handbook.mdが示す長期ポリシードキュメントのエージェント統治の信頼性不足",
@@ -185,7 +185,7 @@
  },
  "Keychron announces first open-source firmware for gaming mice": {
   "ja": "Keychronがゲーミングマウス向け初のオープンソースファームウェアを発表",
-  "ts": "2026-07-29T21:54:08.013720+00:00"
+  "ts": "2026-07-30T05:33:31.620475+00:00"
  },
  "Kimi K3 Architecture Overview and Notes": {
   "ja": "Kimi K3 アーキテクチャ概要とノート",
@@ -199,13 +199,17 @@
   "ja": "Kimi Linear：表現力豊かで効率的なAttention Architecture (2025)",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "Kuna: Decompiler Development in the Age of Coding Agents": {
+  "ja": "Kuna: コーディングエージェント時代のデコンパイラ開発",
+  "ts": "2026-07-30T05:33:36.898851+00:00"
+ },
  "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals": {
   "ja": "Launch HN: Rise Reforming (YC S26) – 廃棄ガスを貴重な化学物質に転換",
   "ts": "2026-07-28T11:10:58.283737+00:00"
  },
  "Launch HN: Tokenless (YC S26) – Automatic model switching to save money": {
   "ja": "Launch HN: Tokenless (YC S26) – コスト削減のための自動モデル切り替え",
-  "ts": "2026-07-29T21:54:08.013720+00:00"
+  "ts": "2026-07-30T05:33:31.620492+00:00"
  },
  "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences": {
   "ja": "LearnVector – Andrew Ngのことばアンドワンラーニング体験を構築するAI企業",
@@ -223,6 +227,10 @@
   "ja": "PHPとLuaではLogは単調ではない",
   "ts": "2026-07-29T05:44:50.795006+00:00"
  },
+ "Logic for Programmers": {
+  "ja": "プログラマのための論理",
+  "ts": "2026-07-30T05:33:36.898851+00:00"
+ },
  "MCP 2026-07-28 Specification: transport going stateless": {
   "ja": "MCP 2026-07-28 仕様：トランスポートがステートレスになる",
   "ts": "2026-07-28T21:57:37.461952+00:00"
@@ -231,6 +239,10 @@
   "ja": "JITコンパイルされたコードを知らせる: その方法を数えてみた",
   "ts": "2026-07-29T11:17:37.025431+00:00"
  },
+ "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)": {
+  "ja": "Man and the Computer by John G. Kemeny（BASIC共同開発者による1972年の著作）",
+  "ts": "2026-07-30T05:33:36.898851+00:00"
+ },
  "More Tailscale tricks for your jailbroken Kindle": {
   "ja": "脱獄したKindleのためのTailscaleの便利な使い方",
   "ts": "2026-07-29T11:17:33.572899+00:00"
@@ -238,6 +250,10 @@
  "Multiple Mouse Cursors in Wayland": {
   "ja": "Waylandでの複数のマウスカーソル",
   "ts": "2026-07-29T05:44:50.795006+00:00"
+ },
+ "NSF pilots 4-year PhDs with industry research placements": {
+  "ja": "NSF、業界研究配置を伴う4年間博士課程のパイロットプログラムを開始",
+  "ts": "2026-07-30T05:33:36.898851+00:00"
  },
  "Netflix employee fired for sharing personal details in retreat trust exercise": {
   "ja": "Netflix従業員、リトリートの信頼醸成演習で個人情報を共有したため解雇",
@@ -279,6 +295,14 @@
   "ja": "再帰はあなたを騙している",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman": {
+  "ja": "再帰フィルタ：SMA、EMA、ロウパス、そして小さなKalman",
+  "ts": "2026-07-30T05:33:36.898851+00:00"
+ },
+ "Refactoring cuisine: how an Iraqi stew sailed to Singapore": {
+  "ja": "料理のリファクタリング：イラクのシチューがシンガポールへ渡った話",
+  "ts": "2026-07-30T05:33:36.898851+00:00"
+ },
  "Residential Proxies Are a National Security Threat": {
   "ja": "住宅用プロキシは国家安全保障脅威である",
   "ts": "2026-07-28T05:23:02.934777+00:00"
@@ -303,9 +327,13 @@
   "ja": "Godot VRのシップとPSVR2へのポート：部分的事後検討",
   "ts": "2026-07-29T21:54:08.013720+00:00"
  },
+ "Show HN: A local merge queue for parallel Claude Code agents": {
+  "ja": "Show HN: 並列Claude Codeエージェント用のローカルマージキュー",
+  "ts": "2026-07-30T05:33:36.898851+00:00"
+ },
  "Show HN: CheapFoodMap – A map of good meals under $10": {
   "ja": "Show HN: CheapFoodMap – 10ドル以下の食事マップ",
-  "ts": "2026-07-29T21:54:08.013720+00:00"
+  "ts": "2026-07-30T05:33:31.620480+00:00"
  },
  "Show HN: How far do I have to go to run into 100k people?": {
   "ja": "Show HN: 10万人に出会うまでにどのくらい進む必要がある？",
@@ -321,7 +349,7 @@
  },
  "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac": {
   "ja": "Show HN: M-series Macの2GBメモリでGemma 4 26Bを動かすオープンソースエンジン",
-  "ts": "2026-07-29T21:54:08.013720+00:00"
+  "ts": "2026-07-30T05:33:31.620446+00:00"
  },
  "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library": {
   "ja": "Show HN: XY－高速で合成可能なGPU高速化インタラクティブプロッティングライブラリ",
@@ -337,7 +365,7 @@
  },
  "Some thoughts about Anthropic's new cryptanalysis results": {
   "ja": "Anthropicの新暗号解析結果についての所感",
-  "ts": "2026-07-29T21:54:08.013720+00:00"
+  "ts": "2026-07-30T05:33:31.620487+00:00"
  },
  "SpecForge – A Platform for Authoring Formal Specifications": {
   "ja": "SpecForge – 形式仕様を執筆するためのプラットフォーム",
@@ -363,6 +391,10 @@
   "ja": "n=4のときのブレイド群のBurau表現は忠実である",
   "ts": "2026-07-28T05:23:02.934777+00:00"
  },
+ "The Cold Email": {
+  "ja": "コールドメール",
+  "ts": "2026-07-30T05:33:36.898851+00:00"
+ },
  "The Difference Between a Button and a Link": {
   "ja": "ボタンとリンクの違い",
   "ts": "2026-07-29T05:44:50.795006+00:00"
@@ -371,9 +403,13 @@
   "ja": "ウズベキスタンの伝説のフラットブレッド (2015)",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "The Productivity Mirage": {
+  "ja": "生産性の蜃気楼",
+  "ts": "2026-07-30T05:33:36.898851+00:00"
+ },
  "The coolest use for the Vision Pro": {
   "ja": "Vision Proの最高の使用方法",
-  "ts": "2026-07-29T21:54:08.013720+00:00"
+  "ts": "2026-07-30T05:33:31.620467+00:00"
  },
  "The growing threat of Docusign phishing attacks (2024)": {
   "ja": "Docusignフィッシング攻撃の増加する脅威 (2024)",
@@ -401,7 +437,7 @@
  },
  "Turning a dumb AC unit smart (without losing my security deposit)": {
   "ja": "ダムなエアコンをスマート化（敷金を失わずに）",
-  "ts": "2026-07-29T21:54:08.013720+00:00"
+  "ts": "2026-07-30T05:33:31.620483+00:00"
  },
  "Una GPS smart watch – Repairable, USB-C charging, developer-friendly": {
   "ja": "Una GPS スマートウォッチ－修理可能、USB-C充電、開発者フレンドリー",
@@ -409,7 +445,7 @@
  },
  "User Interfaces of the Demo Scene": {
   "ja": "デモシーンのユーザーインターフェース",
-  "ts": "2026-07-29T11:17:33.572898+00:00"
+  "ts": "2026-07-30T05:33:31.620470+00:00"
  },
  "Using an open model feels surprisingly good": {
   "ja": "オープンモデルの使用は意外と良い",
