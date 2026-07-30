@@ -25,11 +25,11 @@
  },
  "A.I. companies are recruiting electricians and carpenters by the thousands": {
   "ja": "AI企業が電気技師と大工を数千人規模で採用中",
-  "ts": "2026-07-30T05:33:31.620478+00:00"
+  "ts": "2026-07-30T11:01:01.391674+00:00"
  },
  "AI's top startups are barely publishing their research": {
   "ja": "AIの有力スタートアップがほぼ研究発表をしていない",
-  "ts": "2026-07-30T05:33:31.620477+00:00"
+  "ts": "2026-07-30T11:01:01.391668+00:00"
  },
  "About the security content of macOS Tahoe 26.6": {
   "ja": "macOS Tahoe 26.6のセキュリティコンテンツについて",
@@ -41,11 +41,15 @@
  },
  "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident": {
   "ja": "Frontier Lab Agent侵入の解剖学：2026年7月インシデントのタイムライン",
-  "ts": "2026-07-30T05:33:31.620473+00:00"
+  "ts": "2026-07-30T11:01:01.391670+00:00"
  },
  "Ancient Rome's version of Google Maps: how long to reach the beach": {
   "ja": "古代ローマ版Googleマップ: ビーチまでどのくらいかかるか",
   "ts": "2026-07-29T11:17:37.025431+00:00"
+ },
+ "Angels in Coptic Magic I: Introduction": {
+  "ja": "コプト魔術における天使 I: 入門",
+  "ts": "2026-07-30T11:01:04.677477+00:00"
  },
  "Anthropeum – Where in the world, and when, does this human artifact belong?": {
   "ja": "Anthropeum－この人工遺物は世界のどこに、いつ属するのか？",
@@ -59,9 +63,13 @@
   "ja": "宇宙飛行士、6ヶ月のミッション後も続く「観察者」の感覚を報告",
   "ts": "2026-07-28T05:23:02.934777+00:00"
  },
+ "Atomarine: Nuclear Data Centers at Sea": {
+  "ja": "Atomarine: 海上の原子力データセンター",
+  "ts": "2026-07-30T11:01:04.677477+00:00"
+ },
  "Beckett the Prophet": {
   "ja": "預言者としてのベケット",
-  "ts": "2026-07-30T05:33:31.620495+00:00"
+  "ts": "2026-07-30T11:01:01.391698+00:00"
  },
  "Benchmarking Opus 5 on SlopCodeBench": {
   "ja": "SlopCodeBenchでOpus 5をベンチマーク",
@@ -82,6 +90,10 @@
  "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals": {
   "ja": "知能の商品化：良い、悪い、そして醜い循環AIディール",
   "ts": "2026-07-30T05:33:31.620490+00:00"
+ },
+ "Concurrency, interactivity, mutability, choose two": {
+  "ja": "並行性、対話性、可変性、2つを選べ",
+  "ts": "2026-07-30T11:01:04.677477+00:00"
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
@@ -111,6 +123,10 @@
   "ja": "ドキュメント経由のAIワーム、Copilot for Wordを通じた自己伝播が可能",
   "ts": "2026-07-29T21:54:08.013720+00:00"
  },
+ "ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison": {
+  "ja": "ESP32-C6消費電力: Arduino vs. Zephyr vs. ESP-IDF 比較",
+  "ts": "2026-07-30T11:01:04.677477+00:00"
+ },
  "EYG: A Programming Language for Humans": {
   "ja": "EYG: 人間のためのプログラミング言語",
   "ts": "2026-07-28T11:10:58.283738+00:00"
@@ -123,13 +139,17 @@
   "ja": "接着剤がノンスティック表面に接着し、エタノールで拭き取れる",
   "ts": "2026-07-28T05:23:02.934777+00:00"
  },
+ "Google will expand age checks on Android worldwide till the end of the year": {
+  "ja": "GoogleがAndroidの年齢確認を年末までに世界中で拡大予定",
+  "ts": "2026-07-30T11:01:04.677477+00:00"
+ },
  "Half-Life ported to Mac OS 9": {
   "ja": "Half-Life、Mac OS 9にポート",
   "ts": "2026-07-29T11:17:33.572891+00:00"
  },
  "Hamburg's Stadtpark: A Park Built to Be Used": {
   "ja": "ハンブルク市立公園：使われるために作られた公園",
-  "ts": "2026-07-30T05:33:31.620485+00:00"
+  "ts": "2026-07-30T11:01:01.391683+00:00"
  },
  "Handbook.md shows that long policy documents do not reliably govern agents": {
   "ja": "Handbook.mdが示す長期ポリシードキュメントのエージェント統治の信頼性不足",
@@ -161,7 +181,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-07-29T11:17:33.572918+00:00"
+  "ts": "2026-07-30T11:01:01.391700+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -185,7 +205,7 @@
  },
  "Keychron announces first open-source firmware for gaming mice": {
   "ja": "Keychronがゲーミングマウス向け初のオープンソースファームウェアを発表",
-  "ts": "2026-07-30T05:33:31.620475+00:00"
+  "ts": "2026-07-30T11:01:01.391672+00:00"
  },
  "Kimi K3 Architecture Overview and Notes": {
   "ja": "Kimi K3 アーキテクチャ概要とノート",
@@ -201,7 +221,7 @@
  },
  "Kuna: Decompiler Development in the Age of Coding Agents": {
   "ja": "Kuna: コーディングエージェント時代のデコンパイラ開発",
-  "ts": "2026-07-30T05:33:36.898851+00:00"
+  "ts": "2026-07-30T11:01:01.391695+00:00"
  },
  "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals": {
   "ja": "Launch HN: Rise Reforming (YC S26) – 廃棄ガスを貴重な化学物質に転換",
@@ -209,7 +229,7 @@
  },
  "Launch HN: Tokenless (YC S26) – Automatic model switching to save money": {
   "ja": "Launch HN: Tokenless (YC S26) – コスト削減のための自動モデル切り替え",
-  "ts": "2026-07-30T05:33:31.620492+00:00"
+  "ts": "2026-07-30T11:01:01.391689+00:00"
  },
  "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences": {
   "ja": "LearnVector – Andrew Ngのことばアンドワンラーニング体験を構築するAI企業",
@@ -229,7 +249,11 @@
  },
  "Logic for Programmers": {
   "ja": "プログラマのための論理",
-  "ts": "2026-07-30T05:33:36.898851+00:00"
+  "ts": "2026-07-30T11:01:01.391687+00:00"
+ },
+ "London’s most equidistant pub": {
+  "ja": "ロンドンで最も等距離にあるパブ",
+  "ts": "2026-07-30T11:01:04.677477+00:00"
  },
  "MCP 2026-07-28 Specification: transport going stateless": {
   "ja": "MCP 2026-07-28 仕様：トランスポートがステートレスになる",
@@ -241,7 +265,7 @@
  },
  "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)": {
   "ja": "Man and the Computer by John G. Kemeny（BASIC共同開発者による1972年の著作）",
-  "ts": "2026-07-30T05:33:36.898851+00:00"
+  "ts": "2026-07-30T11:01:01.391691+00:00"
  },
  "More Tailscale tricks for your jailbroken Kindle": {
   "ja": "脱獄したKindleのためのTailscaleの便利な使い方",
@@ -297,7 +321,7 @@
  },
  "Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman": {
   "ja": "再帰フィルタ：SMA、EMA、ロウパス、そして小さなKalman",
-  "ts": "2026-07-30T05:33:36.898851+00:00"
+  "ts": "2026-07-30T11:01:01.391693+00:00"
  },
  "Refactoring cuisine: how an Iraqi stew sailed to Singapore": {
   "ja": "料理のリファクタリング：イラクのシチューがシンガポールへ渡った話",
@@ -333,7 +357,7 @@
  },
  "Show HN: CheapFoodMap – A map of good meals under $10": {
   "ja": "Show HN: CheapFoodMap – 10ドル以下の食事マップ",
-  "ts": "2026-07-30T05:33:31.620480+00:00"
+  "ts": "2026-07-30T11:01:01.391680+00:00"
  },
  "Show HN: How far do I have to go to run into 100k people?": {
   "ja": "Show HN: 10万人に出会うまでにどのくらい進む必要がある？",
@@ -349,7 +373,7 @@
  },
  "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac": {
   "ja": "Show HN: M-series Macの2GBメモリでGemma 4 26Bを動かすオープンソースエンジン",
-  "ts": "2026-07-30T05:33:31.620446+00:00"
+  "ts": "2026-07-30T11:01:01.391647+00:00"
  },
  "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library": {
   "ja": "Show HN: XY－高速で合成可能なGPU高速化インタラクティブプロッティングライブラリ",
@@ -365,7 +389,7 @@
  },
  "Some thoughts about Anthropic's new cryptanalysis results": {
   "ja": "Anthropicの新暗号解析結果についての所感",
-  "ts": "2026-07-30T05:33:31.620487+00:00"
+  "ts": "2026-07-30T11:01:01.391685+00:00"
  },
  "SpecForge – A Platform for Authoring Formal Specifications": {
   "ja": "SpecForge – 形式仕様を執筆するためのプラットフォーム",
@@ -393,7 +417,7 @@
  },
  "The Cold Email": {
   "ja": "コールドメール",
-  "ts": "2026-07-30T05:33:36.898851+00:00"
+  "ts": "2026-07-30T11:01:01.391678+00:00"
  },
  "The Difference Between a Button and a Link": {
   "ja": "ボタンとリンクの違い",
@@ -405,11 +429,15 @@
  },
  "The Productivity Mirage": {
   "ja": "生産性の蜃気楼",
-  "ts": "2026-07-30T05:33:36.898851+00:00"
+  "ts": "2026-07-30T11:01:01.391676+00:00"
  },
  "The coolest use for the Vision Pro": {
   "ja": "Vision Proの最高の使用方法",
-  "ts": "2026-07-30T05:33:31.620467+00:00"
+  "ts": "2026-07-30T11:01:01.391665+00:00"
+ },
+ "The first watch featuring computer functions": {
+  "ja": "コンピュータ機能を備えた最初の腕時計",
+  "ts": "2026-07-30T11:01:04.677477+00:00"
  },
  "The growing threat of Docusign phishing attacks (2024)": {
   "ja": "Docusignフィッシング攻撃の増加する脅威 (2024)",
@@ -437,7 +465,7 @@
  },
  "Turning a dumb AC unit smart (without losing my security deposit)": {
   "ja": "ダムなエアコンをスマート化（敷金を失わずに）",
-  "ts": "2026-07-30T05:33:31.620483+00:00"
+  "ts": "2026-07-30T11:01:01.391681+00:00"
  },
  "Una GPS smart watch – Repairable, USB-C charging, developer-friendly": {
   "ja": "Una GPS スマートウォッチ－修理可能、USB-C充電、開発者フレンドリー",
