@@ -1,4 +1,8 @@
 {
+ "2x, not 10x: coding with LLMs in 2026": {
+  "ja": "2026年のLLMでのコーディング：2x、10xではなく",
+  "ts": "2026-07-30T22:07:54.199767+00:00"
+ },
  "60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)": {
   "ja": "60年前、潜水艦が初めて水没したまま地球を一周 (2020)",
   "ts": "2026-07-29T11:17:37.025431+00:00"
@@ -35,6 +39,14 @@
   "ja": "macOS Tahoe 26.6のセキュリティコンテンツについて",
   "ts": "2026-07-28T11:11:01.190453+00:00"
  },
+ "Advancing the price-performance frontier with GPT‑5.6": {
+  "ja": "GPT-5.6でPrice-Performanceフロンティアを前進させる",
+  "ts": "2026-07-30T22:07:54.199767+00:00"
+ },
+ "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English": {
+  "ja": "ASD-STE100簡易技術英語のドキュメント強制Agent Skill",
+  "ts": "2026-07-30T22:07:54.199767+00:00"
+ },
  "An Uncomplicated Man": {
   "ja": "複雑でない男",
   "ts": "2026-07-28T05:23:02.934777+00:00"
@@ -69,7 +81,7 @@
  },
  "Beckett the Prophet": {
   "ja": "預言者としてのベケット",
-  "ts": "2026-07-30T11:01:01.391698+00:00"
+  "ts": "2026-07-30T22:07:47.301692+00:00"
  },
  "Benchmarking Opus 5 on SlopCodeBench": {
   "ja": "SlopCodeBenchでOpus 5をベンチマーク",
@@ -97,7 +109,7 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-07-29T11:17:33.572919+00:00"
+  "ts": "2026-07-30T22:07:47.301696+00:00"
  },
  "Cracking Windows Open: Porting RADV to Win32": {
   "ja": "WindowsをこじあくてRADVをWin32に移植する",
@@ -131,9 +143,17 @@
   "ja": "EYG: 人間のためのプログラミング言語",
   "ts": "2026-07-28T11:10:58.283738+00:00"
  },
+ "GCC steering committee announces AI policy": {
+  "ja": "GCC運営委員会がAIポリシーを発表",
+  "ts": "2026-07-30T22:07:54.199767+00:00"
+ },
  "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?": {
   "ja": "物理AIにおけるGPT-5.6対Claude Fable 5の性能比較",
   "ts": "2026-07-29T21:54:08.013720+00:00"
+ },
+ "Gemini Robotics 2 brings whole body intelligence to robots": {
+  "ja": "Gemini Robotics 2がロボットに全身知能をもたらす",
+  "ts": "2026-07-30T22:07:54.199767+00:00"
  },
  "Glue bonds to nonstick surfaces and wipes clean with ethanol": {
   "ja": "接着剤がノンスティック表面に接着し、エタノールで拭き取れる",
@@ -141,7 +161,7 @@
  },
  "Google will expand age checks on Android worldwide till the end of the year": {
   "ja": "GoogleがAndroidの年齢確認を年末までに世界中で拡大予定",
-  "ts": "2026-07-30T11:01:04.677477+00:00"
+  "ts": "2026-07-30T22:07:47.301672+00:00"
  },
  "Half-Life ported to Mac OS 9": {
   "ja": "Half-Life、Mac OS 9にポート",
@@ -181,7 +201,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-07-30T11:01:01.391700+00:00"
+  "ts": "2026-07-30T22:07:47.301694+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -223,6 +243,10 @@
   "ja": "Kuna: コーディングエージェント時代のデコンパイラ開発",
   "ts": "2026-07-30T11:01:01.391695+00:00"
  },
+ "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools": {
+  "ja": "Launch HN: Prized (YC S26) – エンジニア以外のスタッフがセキュアな内部ツールを構築",
+  "ts": "2026-07-30T22:07:54.199767+00:00"
+ },
  "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals": {
   "ja": "Launch HN: Rise Reforming (YC S26) – 廃棄ガスを貴重な化学物質に転換",
   "ts": "2026-07-28T11:10:58.283737+00:00"
@@ -259,6 +283,10 @@
   "ja": "MCP 2026-07-28 仕様：トランスポートがステートレスになる",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "Making Postgres queues scale": {
+  "ja": "Postgresキューをスケールさせる",
+  "ts": "2026-07-30T22:07:54.199767+00:00"
+ },
  "Making your JITted Code known: Let me count the ways": {
   "ja": "JITコンパイルされたコードを知らせる: その方法を数えてみた",
   "ts": "2026-07-29T11:17:37.025431+00:00"
@@ -266,6 +294,10 @@
  "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)": {
   "ja": "Man and the Computer by John G. Kemeny（BASIC共同開発者による1972年の著作）",
   "ts": "2026-07-30T11:01:01.391691+00:00"
+ },
+ "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal": {
+  "ja": "Memo-1: Minitélをターミナルに使って1からビルドした6502コンピュータ",
+  "ts": "2026-07-30T22:07:54.199767+00:00"
  },
  "More Tailscale tricks for your jailbroken Kindle": {
   "ja": "脱獄したKindleのためのTailscaleの便利な使い方",
@@ -299,6 +331,10 @@
   "ja": "オープンウェイトモデルに対する当社の立場",
   "ts": "2026-07-28T11:10:58.283692+00:00"
  },
+ "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up": {
+  "ja": "物理学者がミューオンの謎を解く。今、過去の結果が整合しない",
+  "ts": "2026-07-30T22:07:54.199767+00:00"
+ },
  "Programming Languages Are Authoring Tools for Platforms": {
   "ja": "プログラミング言語はプラットフォームのためのオーサリングツール",
   "ts": "2026-07-28T11:11:01.190453+00:00"
@@ -314,6 +350,10 @@
  "ReFrame – The EPaper Camera": {
   "ja": "ReFrame – EPaper Camera",
   "ts": "2026-07-29T11:17:33.572908+00:00"
+ },
+ "Read this before you buy that TV streaming stick": {
+  "ja": "TVストリーミングスティックを買う前にこれを読め",
+  "ts": "2026-07-30T22:07:54.199767+00:00"
  },
  "Recursion is lying to you": {
   "ja": "再帰はあなたを騙している",
@@ -359,6 +399,10 @@
   "ja": "Show HN: CheapFoodMap – 10ドル以下の食事マップ",
   "ts": "2026-07-30T11:01:01.391680+00:00"
  },
+ "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it": {
+  "ja": "Show HN: DeepSeekをGPT-OSSに蒸留しても検閲は転送されない。試してみよ",
+  "ts": "2026-07-30T22:07:54.199767+00:00"
+ },
  "Show HN: How far do I have to go to run into 100k people?": {
   "ja": "Show HN: 10万人に出会うまでにどのくらい進む必要がある？",
   "ts": "2026-07-28T21:57:37.461952+00:00"
@@ -375,6 +419,14 @@
   "ja": "Show HN: M-series Macの2GBメモリでGemma 4 26Bを動かすオープンソースエンジン",
   "ts": "2026-07-30T11:01:01.391647+00:00"
  },
+ "Show HN: Optimize and serve models with Fable quality at half the cost": {
+  "ja": "Show HN: Fable品質のモデルを半分のコストで最適化して提供",
+  "ts": "2026-07-30T22:07:54.199767+00:00"
+ },
+ "Show HN: Supapool – a Supabase per coding agent in ~400 ms": {
+  "ja": "Show HN: Supapool – ~400msで1つのSuabaseあたり1つのコーディングエージェント",
+  "ts": "2026-07-30T22:07:54.199767+00:00"
+ },
  "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library": {
   "ja": "Show HN: XY－高速で合成可能なGPU高速化インタラクティブプロッティングライブラリ",
   "ts": "2026-07-28T21:57:37.461952+00:00"
@@ -382,6 +434,14 @@
  "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download": {
   "ja": "Show HN: Yap – macOSのオープンソースオンデバイス音声ディクテーション、モデルダウンロード不要",
   "ts": "2026-07-28T11:10:58.283735+00:00"
+ },
+ "So you want to use plants to reduce CO₂": {
+  "ja": "植物でCO₂を削減したいなら",
+  "ts": "2026-07-30T22:07:54.199767+00:00"
+ },
+ "Solving poker in custom WebGPU kernels": {
+  "ja": "カスタムWebGPUカーネルでポーカーを解く",
+  "ts": "2026-07-30T22:07:54.199767+00:00"
  },
  "Some combinatorial applications of spacefilling curves": {
   "ja": "空間充填曲線のいくつかの組合せ論的応用",
@@ -394,6 +454,10 @@
  "SpecForge – A Platform for Authoring Formal Specifications": {
   "ja": "SpecForge – 形式仕様を執筆するためのプラットフォーム",
   "ts": "2026-07-29T11:17:37.025431+00:00"
+ },
+ "Stacked PRs are now live on GitHub": {
+  "ja": "Stacked PRs がGitHubで利用可能に",
+  "ts": "2026-07-30T22:07:54.199767+00:00"
  },
  "Steel Bank Common Lisp version 2.6.7": {
   "ja": "Steel Bank Common Lisp バージョン 2.6.7",
@@ -423,6 +487,10 @@
   "ja": "ボタンとリンクの違い",
   "ts": "2026-07-29T05:44:50.795006+00:00"
  },
+ "The Economic Benefit of Refactoring": {
+  "ja": "リファクタリングの経済的効果",
+  "ts": "2026-07-30T22:07:54.199767+00:00"
+ },
  "The Fabled Flatbreads of Uzbekistan (2015)": {
   "ja": "ウズベキスタンの伝説のフラットブレッド (2015)",
   "ts": "2026-07-28T21:57:37.461952+00:00"
@@ -447,6 +515,10 @@
   "ja": "iPhoneアップグレードプログラムがApple Upgradeに置き換わる",
   "ts": "2026-07-29T11:17:33.572903+00:00"
  },
+ "The lost civic life of movie rental stores": {
+  "ja": "映画レンタル店の失われた市民的生活",
+  "ts": "2026-07-30T22:07:54.199767+00:00"
+ },
  "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted": {
   "ja": "Theo Conjecture、35年来の数学問題を解く、誰も予測しなかった項を発見",
   "ts": "2026-07-29T21:54:08.013720+00:00"
@@ -467,9 +539,17 @@
   "ja": "ダムなエアコンをスマート化（敷金を失わずに）",
   "ts": "2026-07-30T11:01:01.391681+00:00"
  },
+ "UEFA and its national associations will not participate in FIFA competitions": {
+  "ja": "UEFA及びその加盟協会は FIFA大会に参加しない",
+  "ts": "2026-07-30T22:07:54.199767+00:00"
+ },
  "Una GPS smart watch – Repairable, USB-C charging, developer-friendly": {
   "ja": "Una GPS スマートウォッチ－修理可能、USB-C充電、開発者フレンドリー",
   "ts": "2026-07-29T11:17:33.572896+00:00"
+ },
+ "Upper stage impacting the moon on 2026 August 5": {
+  "ja": "2026年8月5日に月に衝突する上段ロケット",
+  "ts": "2026-07-30T22:07:54.199767+00:00"
  },
  "User Interfaces of the Demo Scene": {
   "ja": "デモシーンのユーザーインターフェース",
@@ -491,13 +571,25 @@
   "ja": "Goの新しいガベージコレクタがヒープを移動する様子",
   "ts": "2026-07-28T11:10:58.283719+00:00"
  },
+ "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447": {
+  "ja": "GPT 5.6 Solに実ビジネスをやらせたら嘘をついてスパムを送り$447失った",
+  "ts": "2026-07-30T22:07:54.199767+00:00"
+ },
  "What Even Are Microservices?": {
   "ja": "マイクロサービスとは何か",
   "ts": "2026-07-28T11:11:01.190453+00:00"
  },
+ "Why DNA damage from smoking and UV rays cause cancer in some but not others": {
+  "ja": "喫煙とUV放射によるDNA損傷がなぜ人によってがんの原因になったりならなかったりするのか",
+  "ts": "2026-07-30T22:07:54.199767+00:00"
+ },
  "Why do we think we understand the world more than we actually do?": {
   "ja": "なぜ私たちは世界を実際よりも理解していると思うのか",
   "ts": "2026-07-28T05:23:02.934777+00:00"
+ },
+ "Why is everyone trying to build a solid-state battery?": {
+  "ja": "なぜ全員が全固体電池の開発を試みているのか",
+  "ts": "2026-07-30T22:07:54.199767+00:00"
  },
  "Zig's Incremental Compilation Internals": {
   "ja": "Zigのインクリメンタルコンパイルの内部構造",
