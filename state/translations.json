@@ -85,7 +85,7 @@
  },
  "Beckett the Prophet": {
   "ja": "預言者としてのベケット",
-  "ts": "2026-07-31T05:59:18.868679+00:00"
+  "ts": "2026-07-31T11:24:33.340243+00:00"
  },
  "Benchmarking Opus 5 on SlopCodeBench": {
   "ja": "SlopCodeBenchでOpus 5をベンチマーク",
@@ -127,6 +127,14 @@
   "ja": "DMARCは2012年から公開されているが、ほとんどの企業ドメインはまだこれを強制していない",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis": {
+  "ja": "DeepSeek V4 Flash 0731 インテリジェンス、パフォーマンス、価格分析",
+  "ts": "2026-07-31T11:24:36.992076+00:00"
+ },
+ "DeepSeek-V4-Flash Update": {
+  "ja": "DeepSeek-V4-Flash アップデート",
+  "ts": "2026-07-31T11:24:36.992076+00:00"
+ },
  "Delayed Gratification – Proud to Be 'Last to Breaking News'": {
   "ja": "遅延した満足感－「速報の最後」であることに誇りを持つ",
   "ts": "2026-07-29T11:17:33.572889+00:00"
@@ -149,7 +157,7 @@
  },
  "GCC steering committee announces AI policy": {
   "ja": "GCC運営委員会がAIポリシーを発表",
-  "ts": "2026-07-31T05:59:18.868668+00:00"
+  "ts": "2026-07-31T11:24:33.340228+00:00"
  },
  "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?": {
   "ja": "物理AIにおけるGPT-5.6対Claude Fable 5の性能比較",
@@ -157,11 +165,15 @@
  },
  "Gemini Robotics 2 brings whole body intelligence to robots": {
   "ja": "Gemini Robotics 2がロボットに全身知能をもたらす",
-  "ts": "2026-07-31T05:59:18.868665+00:00"
+  "ts": "2026-07-31T11:24:33.340224+00:00"
  },
  "Glue bonds to nonstick surfaces and wipes clean with ethanol": {
   "ja": "接着剤がノンスティック表面に接着し、エタノールで拭き取れる",
   "ts": "2026-07-28T05:23:02.934777+00:00"
+ },
+ "Google fixed more Chrome bugs in June than over the past two years, thanks to AI": {
+  "ja": "Google、AIのおかげで6月に過去2年間以上のChrome脆弱性を修正",
+  "ts": "2026-07-31T11:24:36.992076+00:00"
  },
  "Google will expand age checks on Android worldwide till the end of the year": {
   "ja": "GoogleがAndroidの年齢確認を年末までに世界中で拡大予定",
@@ -205,7 +217,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-07-31T05:59:18.868681+00:00"
+  "ts": "2026-07-31T11:24:33.340245+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -225,7 +237,7 @@
  },
  "I flagged two research papers for fake authors and both were accepted as orals": {
   "ja": "架空の著者で査読論文2本にフラグを立てたら、両方がオーラルセッションに採択された",
-  "ts": "2026-07-31T05:59:23.336566+00:00"
+  "ts": "2026-07-31T11:24:33.340232+00:00"
  },
  "Interview with Boris Cherny [video]": {
   "ja": "Boris Chenyのインタビュー [動画]",
@@ -234,6 +246,10 @@
  "Investigating three real-world incidents in our cybersecurity evaluations": {
   "ja": "サイバーセキュリティ評価における3つの実世界インシデントの調査",
   "ts": "2026-07-31T05:59:23.336566+00:00"
+ },
+ "JEP 401: Value Objects (Preview) merged to OpenJDK master": {
+  "ja": "JEP 401: Value Objects (Preview) がOpenJDK masterにマージ",
+  "ts": "2026-07-31T11:24:36.992076+00:00"
  },
  "Keychron announces first open-source firmware for gaming mice": {
   "ja": "Keychronがゲーミングマウス向け初のオープンソースファームウェアを発表",
@@ -309,7 +325,7 @@
  },
  "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal": {
   "ja": "Memo-1: Minitélをターミナルに使って1からビルドした6502コンピュータ",
-  "ts": "2026-07-31T05:59:18.868678+00:00"
+  "ts": "2026-07-31T11:24:33.340240+00:00"
  },
  "More Tailscale tricks for your jailbroken Kindle": {
   "ja": "脱獄したKindleのためのTailscaleの便利な使い方",
@@ -345,7 +361,7 @@
  },
  "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up": {
   "ja": "物理学者がミューオンの謎を解く。今、過去の結果が整合しない",
-  "ts": "2026-07-31T05:59:18.868672+00:00"
+  "ts": "2026-07-31T11:24:33.340231+00:00"
  },
  "Programming Languages Are Authoring Tools for Platforms": {
   "ja": "プログラミング言語はプラットフォームのためのオーサリングツール",
@@ -365,7 +381,7 @@
  },
  "Read this before you buy that TV streaming stick": {
   "ja": "TVストリーミングスティックを買う前にこれを読め",
-  "ts": "2026-07-31T05:59:18.868659+00:00"
+  "ts": "2026-07-31T11:24:33.340219+00:00"
  },
  "Recursion is lying to you": {
   "ja": "再帰はあなたを騙している",
@@ -385,7 +401,7 @@
  },
  "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free": {
   "ja": "Rune 1.1: Python、Emacsエディタ、シンボルインデックスを追加、無料に",
-  "ts": "2026-07-31T05:59:23.336566+00:00"
+  "ts": "2026-07-31T11:24:33.340238+00:00"
  },
  "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers": {
   "ja": "SQLiteの本番運用: WALモード、並行性、VFSレイヤーの最適化",
@@ -393,7 +409,7 @@
  },
  "Saber-toothed cats became inbred–and struggled to move–before they went extinct": {
   "ja": "サーベルトゥース・キャットは近親交配によって衰弱し、絶滅する前に移動が困難になった",
-  "ts": "2026-07-31T05:59:23.336566+00:00"
+  "ts": "2026-07-31T11:24:33.340241+00:00"
  },
  "Securing Services with Rootless Containers": {
   "ja": "ルートレスコンテナを使用したサービス保護",
@@ -415,13 +431,21 @@
   "ja": "Show HN: 並列Claude Codeエージェント用のローカルマージキュー",
   "ts": "2026-07-30T05:33:36.898851+00:00"
  },
+ "Show HN: A udev implementation in Guile Scheme": {
+  "ja": "Show HN: Guile Schemeで実装したudev",
+  "ts": "2026-07-31T11:24:36.992076+00:00"
+ },
  "Show HN: CheapFoodMap – A map of good meals under $10": {
   "ja": "Show HN: CheapFoodMap – 10ドル以下の食事マップ",
   "ts": "2026-07-30T11:01:01.391680+00:00"
  },
  "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it": {
   "ja": "Show HN: DeepSeekをGPT-OSSに蒸留しても検閲は転送されない。試してみよ",
-  "ts": "2026-07-31T05:59:18.868676+00:00"
+  "ts": "2026-07-31T11:24:33.340236+00:00"
+ },
+ "Show HN: Gander, an Android file viewer that asks for no permissions at all": {
+  "ja": "Show HN: Gander、一切の権限を要求しないAndroidファイルビューア",
+  "ts": "2026-07-31T11:24:36.992076+00:00"
  },
  "Show HN: How far do I have to go to run into 100k people?": {
   "ja": "Show HN: 10万人に出会うまでにどのくらい進む必要がある？",
@@ -447,6 +471,10 @@
   "ja": "Show HN: Supapool – ~400msで1つのSuabaseあたり1つのコーディングエージェント",
   "ts": "2026-07-30T22:07:54.199767+00:00"
  },
+ "Show HN: What should the GUI for AI agents look like?": {
+  "ja": "Show HN: AIエージェントのGUIはどのような形であるべきか",
+  "ts": "2026-07-31T11:24:36.992076+00:00"
+ },
  "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library": {
   "ja": "Show HN: XY－高速で合成可能なGPU高速化インタラクティブプロッティングライブラリ",
   "ts": "2026-07-28T21:57:37.461952+00:00"
@@ -454,6 +482,10 @@
  "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download": {
   "ja": "Show HN: Yap – macOSのオープンソースオンデバイス音声ディクテーション、モデルダウンロード不要",
   "ts": "2026-07-28T11:10:58.283735+00:00"
+ },
+ "Simulating TCP loss and congestion in browser using Go/WASM": {
+  "ja": "Go/WASMを使ってブラウザでTCP損失と輻輳をシミュレート",
+  "ts": "2026-07-31T11:24:36.992076+00:00"
  },
  "So you want to use plants to reduce CO₂": {
   "ja": "植物でCO₂を削減したいなら",
@@ -477,7 +509,7 @@
  },
  "Stacked PRs are now live on GitHub": {
   "ja": "Stacked PRs がGitHubで利用可能に",
-  "ts": "2026-07-31T05:59:18.868662+00:00"
+  "ts": "2026-07-31T11:24:33.340222+00:00"
  },
  "Steel Bank Common Lisp version 2.6.7": {
   "ja": "Steel Bank Common Lisp バージョン 2.6.7",
@@ -497,7 +529,7 @@
  },
  "The AI Aesthetic": {
   "ja": "AI美学",
-  "ts": "2026-07-31T05:59:23.336566+00:00"
+  "ts": "2026-07-31T11:24:33.340226+00:00"
  },
  "The AI trade now runs on borrowed money, and the lenders are repricing it": {
   "ja": "AI産業は借金で運営されており、貸し手はそれの価格を変更している",
@@ -521,7 +553,7 @@
  },
  "The Economic Benefit of Refactoring": {
   "ja": "リファクタリングの経済的効果",
-  "ts": "2026-07-31T05:59:18.868671+00:00"
+  "ts": "2026-07-31T11:24:33.340229+00:00"
  },
  "The Fabled Flatbreads of Uzbekistan (2015)": {
   "ja": "ウズベキスタンの伝説のフラットブレッド (2015)",
@@ -533,7 +565,7 @@
  },
  "The Religion of Speed": {
   "ja": "速度の宗教",
-  "ts": "2026-07-31T05:59:23.336566+00:00"
+  "ts": "2026-07-31T11:24:33.340233+00:00"
  },
  "The Session You Cannot take with you": {
   "ja": "持ち出せないセッション",
@@ -561,7 +593,15 @@
  },
  "The lost civic life of movie rental stores": {
   "ja": "映画レンタル店の失われた市民的生活",
-  "ts": "2026-07-31T05:59:18.868674+00:00"
+  "ts": "2026-07-31T11:24:33.340235+00:00"
+ },
+ "The mean means nothing: data visualization to debug a latency problem": {
+  "ja": "平均値は無意味: レイテンシ問題をデバッグするためのデータ可視化",
+  "ts": "2026-07-31T11:24:36.992076+00:00"
+ },
+ "The session you cannot take with you": {
+  "ja": "持ち運べないセッション",
+  "ts": "2026-07-31T11:24:36.992076+00:00"
  },
  "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted": {
   "ja": "Theo Conjecture、35年来の数学問題を解く、誰も予測しなかった項を発見",
@@ -585,7 +625,7 @@
  },
  "UEFA and its national associations will not participate in FIFA competitions": {
   "ja": "UEFA及びその加盟協会は FIFA大会に参加しない",
-  "ts": "2026-07-31T05:59:18.868646+00:00"
+  "ts": "2026-07-31T11:24:33.340203+00:00"
  },
  "Una GPS smart watch – Repairable, USB-C charging, developer-friendly": {
   "ja": "Una GPS スマートウォッチ－修理可能、USB-C充電、開発者フレンドリー",
@@ -626,6 +666,10 @@
  "Where USB Memory Sticks Are Born": {
   "ja": "USBメモリスティックはどこで作られるのか",
   "ts": "2026-07-31T05:59:23.336566+00:00"
+ },
+ "Where USB Memory Sticks are Born (2013)": {
+  "ja": "USBメモリスティックの製造地 (2013)",
+  "ts": "2026-07-31T11:24:36.992076+00:00"
  },
  "Why DNA damage from smoking and UV rays cause cancer in some but not others": {
   "ja": "喫煙とUV放射によるDNA損傷がなぜ人によってがんの原因になったりならなかったりするのか",
