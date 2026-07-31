@@ -5,224 +5,208 @@
     <link>https://news.ycombinator.com/</link>
     <description>Hacker News のフロントページから人気順に最大30件を抽出し、タイトルを日本語訳したフィードです。1日3回更新。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jul 2026 11:24:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 21:59:31 +0000</lastBuildDate>
     <ttl>240</ttl>
     <atom:link href="https://YOUR-NAME.github.io/YOUR-REPO/hn-ja.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>[1067pt] UEFA及びその加盟協会は FIFA大会に参加しない</title>
-      <link>https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/</link>
-      <guid isPermaLink="false">hn-49113929</guid>
-      <pubDate>Thu, 30 Jul 2026 18:40:52 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49113929</comments>
-      <description><![CDATA[<p>UEFA and its national associations will not participate in FIFA competitions</p><p>1067 points / 578 comments — by dickfickling</p><p><a href="https://news.ycombinator.com/item?id=49113929">HNのコメントを読む</a></p>]]></description>
+      <title>[724pt] エレベーター</title>
+      <link>https://john.fun/elevators</link>
+      <guid isPermaLink="false">hn-49124218</guid>
+      <pubDate>Fri, 31 Jul 2026 15:17:28 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49124218</comments>
+      <description><![CDATA[<p>Elevators</p><p>724 points / 186 comments — by Jrh0203</p><p><a href="https://news.ycombinator.com/item?id=49124218">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[727pt] TVストリーミングスティックを買う前にこれを読め</title>
-      <link>https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</link>
-      <guid isPermaLink="false">hn-49112744</guid>
-      <pubDate>Thu, 30 Jul 2026 17:04:53 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49112744</comments>
-      <description><![CDATA[<p>Read this before you buy that TV streaming stick</p><p>727 points / 438 comments — by speckx</p><p><a href="https://news.ycombinator.com/item?id=49112744">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[669pt] Stacked PRs がGitHubで利用可能に</title>
-      <link>https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/</link>
-      <guid isPermaLink="false">hn-49112232</guid>
-      <pubDate>Thu, 30 Jul 2026 16:26:16 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49112232</comments>
-      <description><![CDATA[<p>Stacked PRs are now live on GitHub</p><p>669 points / 231 comments — by tomzorz</p><p><a href="https://news.ycombinator.com/item?id=49112232">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[569pt] Gemini Robotics 2がロボットに全身知能をもたらす</title>
-      <link>https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/</link>
-      <guid isPermaLink="false">hn-49111237</guid>
-      <pubDate>Thu, 30 Jul 2026 15:15:48 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49111237</comments>
-      <description><![CDATA[<p>Gemini Robotics 2 brings whole body intelligence to robots</p><p>569 points / 454 comments — by ai2027</p><p><a href="https://news.ycombinator.com/item?id=49111237">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[417pt] 持ち運べないセッション</title>
-      <link>https://earendil.com/posts/session-portability/</link>
-      <guid isPermaLink="false">hn-49118781</guid>
-      <pubDate>Fri, 31 Jul 2026 03:47:59 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49118781</comments>
-      <description><![CDATA[<p>The session you cannot take with you</p><p>417 points / 102 comments — by apitman</p><p><a href="https://news.ycombinator.com/item?id=49118781">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[338pt] DeepSeek-V4-Flash アップデート</title>
+      <title>[657pt] DeepSeek-V4-Flash アップデート</title>
       <link>https://api-docs.deepseek.com/updates/</link>
       <guid isPermaLink="false">hn-49119559</guid>
       <pubDate>Fri, 31 Jul 2026 06:08:36 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49119559</comments>
-      <description><![CDATA[<p>DeepSeek-V4-Flash Update</p><p>338 points / 165 comments — by dnhkng</p><p><a href="https://news.ycombinator.com/item?id=49119559">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>DeepSeek-V4-Flash Update</p><p>657 points / 313 comments — by dnhkng</p><p><a href="https://news.ycombinator.com/item?id=49119559">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[316pt] AI美学</title>
-      <link>https://blog.jim-nielsen.com/2026/ai-aesthetic/</link>
-      <guid isPermaLink="false">hn-49117099</guid>
-      <pubDate>Thu, 30 Jul 2026 23:22:16 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49117099</comments>
-      <description><![CDATA[<p>The AI Aesthetic</p><p>316 points / 140 comments — by montroser</p><p><a href="https://news.ycombinator.com/item?id=49117099">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[306pt] GCC運営委員会がAIポリシーを発表</title>
-      <link>https://lwn.net/Articles/1086041/</link>
-      <guid isPermaLink="false">hn-49108685</guid>
-      <pubDate>Thu, 30 Jul 2026 11:45:44 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49108685</comments>
-      <description><![CDATA[<p>GCC steering committee announces AI policy</p><p>306 points / 333 comments — by arto</p><p><a href="https://news.ycombinator.com/item?id=49108685">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[246pt] リファクタリングの経済的効果</title>
-      <link>https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html</link>
-      <guid isPermaLink="false">hn-49111176</guid>
-      <pubDate>Thu, 30 Jul 2026 15:10:27 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49111176</comments>
-      <description><![CDATA[<p>The Economic Benefit of Refactoring</p><p>246 points / 107 comments — by javaeeeee</p><p><a href="https://news.ycombinator.com/item?id=49111176">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[221pt] 物理学者がミューオンの謎を解く。今、過去の結果が整合しない</title>
-      <link>https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/</link>
-      <guid isPermaLink="false">hn-49111305</guid>
-      <pubDate>Thu, 30 Jul 2026 15:22:46 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49111305</comments>
-      <description><![CDATA[<p>Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up</p><p>221 points / 150 comments — by ibobev</p><p><a href="https://news.ycombinator.com/item?id=49111305">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[217pt] 架空の著者で査読論文2本にフラグを立てたら、両方がオーラルセッションに採択された</title>
-      <link>https://geospatialml.com/posts/reviewing-ai-slop/</link>
-      <guid isPermaLink="false">hn-49116721</guid>
-      <pubDate>Thu, 30 Jul 2026 22:33:11 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49116721</comments>
-      <description><![CDATA[<p>I flagged two research papers for fake authors and both were accepted as orals</p><p>217 points / 97 comments — by volumes94</p><p><a href="https://news.ycombinator.com/item?id=49116721">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[177pt] 速度の宗教</title>
-      <link>https://graybeard.ing/the-religion-of-speed/</link>
-      <guid isPermaLink="false">hn-49117284</guid>
-      <pubDate>Thu, 30 Jul 2026 23:43:22 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49117284</comments>
-      <description><![CDATA[<p>The Religion of Speed</p><p>177 points / 86 comments — by MobiusHorizons</p><p><a href="https://news.ycombinator.com/item?id=49117284">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[176pt] 映画レンタル店の失われた市民的生活</title>
-      <link>https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/</link>
-      <guid isPermaLink="false">hn-49110308</guid>
-      <pubDate>Thu, 30 Jul 2026 14:11:42 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49110308</comments>
-      <description><![CDATA[<p>The lost civic life of movie rental stores</p><p>176 points / 230 comments — by facundo_olano</p><p><a href="https://news.ycombinator.com/item?id=49110308">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[170pt] CodePen 2.0</title>
-      <link>https://chriscoyier.net/2026/07/30/codepen-2-0/</link>
-      <guid isPermaLink="false">hn-49113338</guid>
-      <pubDate>Thu, 30 Jul 2026 17:52:51 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49113338</comments>
-      <description><![CDATA[<p>CodePen 2.0</p><p>170 points / 49 comments — by robin_reala</p><p><a href="https://news.ycombinator.com/item?id=49113338">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[135pt] JEP 401: Value Objects (Preview) がOpenJDK masterにマージ</title>
-      <link>https://github.com/openjdk/jdk/pull/31120</link>
-      <guid isPermaLink="false">hn-49119063</guid>
-      <pubDate>Fri, 31 Jul 2026 04:38:19 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49119063</comments>
-      <description><![CDATA[<p>JEP 401: Value Objects (Preview) merged to OpenJDK master</p><p>135 points / 60 comments — by mfiguiere</p><p><a href="https://news.ycombinator.com/item?id=49119063">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[132pt] Show HN: DeepSeekをGPT-OSSに蒸留しても検閲は転送されない。試してみよ</title>
-      <link>https://www.ctgt.ai/research/distillation-censorship-transfer</link>
-      <guid isPermaLink="false">hn-49113599</guid>
-      <pubDate>Thu, 30 Jul 2026 18:13:06 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49113599</comments>
-      <description><![CDATA[<p>Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it</p><p>132 points / 66 comments — by cgorlla</p><p><a href="https://news.ycombinator.com/item?id=49113599">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[128pt] Google、AIのおかげで6月に過去2年間以上のChrome脆弱性を修正</title>
-      <link>https://blog.google/security/chrome-stronger-with-every-update/</link>
-      <guid isPermaLink="false">hn-49120097</guid>
-      <pubDate>Fri, 31 Jul 2026 07:29:22 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49120097</comments>
-      <description><![CDATA[<p>Google fixed more Chrome bugs in June than over the past two years, thanks to AI</p><p>128 points / 134 comments — by Garbage</p><p><a href="https://news.ycombinator.com/item?id=49120097">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[123pt] Bad Apple but It's Traceroute</title>
-      <link>https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html</link>
-      <guid isPermaLink="false">hn-49071299</guid>
-      <pubDate>Mon, 27 Jul 2026 15:48:09 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49071299</comments>
-      <description><![CDATA[<p>Bad Apple but It's Traceroute</p><p>123 points / 41 comments — by jssfr</p><p><a href="https://news.ycombinator.com/item?id=49071299">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[84pt] Show HN: Gander、一切の権限を要求しないAndroidファイルビューア</title>
-      <link>https://github.com/mokshablr/gander</link>
-      <guid isPermaLink="false">hn-49119425</guid>
-      <pubDate>Fri, 31 Jul 2026 05:45:13 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49119425</comments>
-      <description><![CDATA[<p>Show HN: Gander, an Android file viewer that asks for no permissions at all</p><p>84 points / 40 comments — by mokshablr</p><p><a href="https://news.ycombinator.com/item?id=49119425">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[83pt] Rune 1.1: Python、Emacsエディタ、シンボルインデックスを追加、無料に</title>
-      <link>https://rune.build/blog/rune-1-1-release</link>
-      <guid isPermaLink="false">hn-49116272</guid>
-      <pubDate>Thu, 30 Jul 2026 21:47:31 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49116272</comments>
-      <description><![CDATA[<p>Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free</p><p>83 points / 37 comments — by ernestrc</p><p><a href="https://news.ycombinator.com/item?id=49116272">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[80pt] Memo-1: Minitélをターミナルに使って1からビルドした6502コンピュータ</title>
-      <link>https://github.com/MemoireMorte/Memo-1</link>
-      <guid isPermaLink="false">hn-49083970</guid>
-      <pubDate>Tue, 28 Jul 2026 13:56:27 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49083970</comments>
-      <description><![CDATA[<p>Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal</p><p>80 points / 11 comments — by sciences44</p><p><a href="https://news.ycombinator.com/item?id=49083970">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[69pt] Show HN: AIエージェントのGUIはどのような形であるべきか</title>
-      <link>https://marbleos.com/demo</link>
-      <guid isPermaLink="false">hn-49119274</guid>
-      <pubDate>Fri, 31 Jul 2026 05:17:29 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49119274</comments>
-      <description><![CDATA[<p>Show HN: What should the GUI for AI agents look like?</p><p>69 points / 39 comments — by akbabu</p><p><a href="https://news.ycombinator.com/item?id=49119274">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[61pt] サーベルトゥース・キャットは近親交配によって衰弱し、絶滅する前に移動が困難になった</title>
-      <link>https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct</link>
-      <guid isPermaLink="false">hn-49116074</guid>
-      <pubDate>Thu, 30 Jul 2026 21:31:03 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49116074</comments>
-      <description><![CDATA[<p>Saber-toothed cats became inbred–and struggled to move–before they went extinct</p><p>61 points / 24 comments — by gmays</p><p><a href="https://news.ycombinator.com/item?id=49116074">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[61pt] USBメモリスティックの製造地 (2013)</title>
-      <link>https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/</link>
-      <guid isPermaLink="false">hn-49077372</guid>
-      <pubDate>Mon, 27 Jul 2026 23:59:37 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49077372</comments>
-      <description><![CDATA[<p>Where USB Memory Sticks are Born (2013)</p><p>61 points / 3 comments — by jacquesm</p><p><a href="https://news.ycombinator.com/item?id=49077372">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[53pt] 平均値は無意味: レイテンシ問題をデバッグするためのデータ可視化</title>
-      <link>https://fzakaria.com/2026/07/27/the-mean-means-nothing</link>
-      <guid isPermaLink="false">hn-49096170</guid>
-      <pubDate>Wed, 29 Jul 2026 11:42:04 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49096170</comments>
-      <description><![CDATA[<p>The mean means nothing: data visualization to debug a latency problem</p><p>53 points / 8 comments — by fanf2</p><p><a href="https://news.ycombinator.com/item?id=49096170">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[37pt] DeepSeek V4 Flash 0731 インテリジェンス、パフォーマンス、価格分析</title>
-      <link>https://artificialanalysis.ai/models/deepseek-v4-flash-ga</link>
+      <title>[497pt] DeepSeek V4 Flash 0731 インテリジェンス、パフォーマンス、価格分析</title>
+      <link>https://artificialanalysis.ai/models/deepseek-v4-flash</link>
       <guid isPermaLink="false">hn-49120299</guid>
       <pubDate>Fri, 31 Jul 2026 07:59:11 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49120299</comments>
-      <description><![CDATA[<p>DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis</p><p>37 points / 8 comments — by theanonymousone</p><p><a href="https://news.ycombinator.com/item?id=49120299">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis</p><p>497 points / 275 comments — by theanonymousone</p><p><a href="https://news.ycombinator.com/item?id=49120299">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[31pt] Go/WASMを使ってブラウザでTCP損失と輻輳をシミュレート</title>
-      <link>https://ccsim.fly.dev</link>
-      <guid isPermaLink="false">hn-49088098</guid>
-      <pubDate>Tue, 28 Jul 2026 18:38:14 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49088098</comments>
-      <description><![CDATA[<p>Simulating TCP loss and congestion in browser using Go/WASM</p><p>31 points / 1 comments — by dilyevsky</p><p><a href="https://news.ycombinator.com/item?id=49088098">HNのコメントを読む</a></p>]]></description>
+      <title>[302pt] qm</title>
+      <link>https://github.com/yc-software/qm</link>
+      <guid isPermaLink="false">hn-49126604</guid>
+      <pubDate>Fri, 31 Jul 2026 18:04:58 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49126604</comments>
+      <description><![CDATA[<p>qm</p><p>302 points / 68 comments — by tosh</p><p><a href="https://news.ycombinator.com/item?id=49126604">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[254pt] Tailscale は Hugging Face への侵入を防げなかった</title>
+      <link>https://tailscale.com/blog/hugging-face-intrusion</link>
+      <guid isPermaLink="false">hn-49127306</guid>
+      <pubDate>Fri, 31 Jul 2026 19:03:45 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49127306</comments>
+      <description><![CDATA[<p>Tailscale didn't stop the Hugging Face intrusion</p><p>254 points / 100 comments — by bluehatbrit</p><p><a href="https://news.ycombinator.com/item?id=49127306">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[162pt] Big Food vs. the People</title>
+      <link>https://www.lighthousereports.com/investigation/big-food-vs-the-people/</link>
+      <guid isPermaLink="false">hn-49124858</guid>
+      <pubDate>Fri, 31 Jul 2026 16:04:32 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49124858</comments>
+      <description><![CDATA[<p>Big Food vs. the People</p><p>162 points / 105 comments — by jruohonen</p><p><a href="https://news.ycombinator.com/item?id=49124858">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[145pt] Severance</title>
+      <link>https://lcamtuf.substack.com/p/severance</link>
+      <guid isPermaLink="false">hn-49125971</guid>
+      <pubDate>Fri, 31 Jul 2026 17:15:09 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49125971</comments>
+      <description><![CDATA[<p>Severance</p><p>145 points / 38 comments — by surprisetalk</p><p><a href="https://news.ycombinator.com/item?id=49125971">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[107pt] Kimi K3 を 29 GB の RAM と毎秒 0.50 tok で実行</title>
+      <link>https://github.com/sqliteai/waste</link>
+      <guid isPermaLink="false">hn-49123386</guid>
+      <pubDate>Fri, 31 Jul 2026 14:12:38 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49123386</comments>
+      <description><![CDATA[<p>Run Kimi K3 using 29 GB of RAM at 0.50 tok/s</p><p>107 points / 44 comments — by marcobambini</p><p><a href="https://news.ycombinator.com/item?id=49123386">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[105pt] Mac Studio で 25 Gbps の Thunderbolt Ethernet を実現</title>
+      <link>https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</link>
+      <guid isPermaLink="false">hn-49125034</guid>
+      <pubDate>Fri, 31 Jul 2026 16:15:31 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49125034</comments>
+      <description><![CDATA[<p>Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio</p><p>105 points / 67 comments — by speckx</p><p><a href="https://news.ycombinator.com/item?id=49125034">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[100pt] 最も公式な水は 1 ガロン 12 万ドル</title>
+      <link>https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/</link>
+      <guid isPermaLink="false">hn-49124042</guid>
+      <pubDate>Fri, 31 Jul 2026 15:00:15 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49124042</comments>
+      <description><![CDATA[<p>The most official water costs $120k a gallon</p><p>100 points / 81 comments — by surprisetalk</p><p><a href="https://news.ycombinator.com/item?id=49124042">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[82pt] Red Bull に関連した疑わしい研究がエナジードリンク政策を形作った</title>
+      <link>https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol</link>
+      <guid isPermaLink="false">hn-49124738</guid>
+      <pubDate>Fri, 31 Jul 2026 15:58:15 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49124738</comments>
+      <description><![CDATA[<p>Dubious research tied to Red Bull has shaped energy drink policy</p><p>82 points / 138 comments — by Jimmc414</p><p><a href="https://news.ycombinator.com/item?id=49124738">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[82pt] 10GB RAM を使用した 10 億規模グラフ上のアルゴリズム：DataFusion 最高</title>
+      <link>https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/</link>
+      <guid isPermaLink="false">hn-49124658</guid>
+      <pubDate>Fri, 31 Jul 2026 15:53:37 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49124658</comments>
+      <description><![CDATA[<p>Algorithms on billion-scale graph using 10GB RAM: I love DataFusion</p><p>82 points / 29 comments — by speckx</p><p><a href="https://news.ycombinator.com/item?id=49124658">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[79pt] Golang提案：container/: ジェネリック コレクション型</title>
+      <link>https://github.com/golang/go/issues/80590</link>
+      <guid isPermaLink="false">hn-49127031</guid>
+      <pubDate>Fri, 31 Jul 2026 18:39:47 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49127031</comments>
+      <description><![CDATA[<p>Golang proposal: container/: generic collection types</p><p>79 points / 37 comments — by jabits</p><p><a href="https://news.ycombinator.com/item?id=49127031">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[74pt] JPEG の仕組み：JPEG のロッシー圧縮方法をインタラクティブに探索</title>
+      <link>https://cgjennings.ca/articles/jpeg-compression/</link>
+      <guid isPermaLink="false">hn-49070810</guid>
+      <pubDate>Mon, 27 Jul 2026 15:11:14 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49070810</comments>
+      <description><![CDATA[<p>How JPEG works: Interactively explore JPEG's lossy compression methods</p><p>74 points / 7 comments — by at1as</p><p><a href="https://news.ycombinator.com/item?id=49070810">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[66pt] みんな LLM ルーターを構築している、我々は廃止した</title>
+      <link>https://manifest.build/blog/why-we-deprecated-our-llm-router/</link>
+      <guid isPermaLink="false">hn-49126630</guid>
+      <pubDate>Fri, 31 Jul 2026 18:06:39 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49126630</comments>
+      <description><![CDATA[<p>Everyone is building LLM routers, we deprecated ours</p><p>66 points / 36 comments — by brunaxLorax</p><p><a href="https://news.ycombinator.com/item?id=49126630">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[59pt] Servo 6月：実世界互換、メディアクエリ、SharedWorker ほか</title>
+      <link>https://servo.org/blog/2026/07/31/june-in-servo/</link>
+      <guid isPermaLink="false">hn-49126765</guid>
+      <pubDate>Fri, 31 Jul 2026 18:17:52 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49126765</comments>
+      <description><![CDATA[<p>June in Servo: real world compat, media queries, SharedWorker, and more</p><p>59 points / 16 comments — by iamnothere</p><p><a href="https://news.ycombinator.com/item?id=49126765">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[58pt] Zig で書かれた GTK4 SSH-askpass</title>
+      <link>https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/</link>
+      <guid isPermaLink="false">hn-49124496</guid>
+      <pubDate>Fri, 31 Jul 2026 15:40:13 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49124496</comments>
+      <description><![CDATA[<p>A GTK4 SSH-askpass in Zig</p><p>58 points / 18 comments — by surprisetalk</p><p><a href="https://news.ycombinator.com/item?id=49124496">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[37pt] Termixer (TUI DJ Mixer)</title>
+      <link>https://github.com/l00sed/termixer</link>
+      <guid isPermaLink="false">hn-49126883</guid>
+      <pubDate>Fri, 31 Jul 2026 18:28:08 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49126883</comments>
+      <description><![CDATA[<p>Termixer (TUI DJ Mixer)</p><p>37 points / 27 comments — by l00sed</p><p><a href="https://news.ycombinator.com/item?id=49126883">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[35pt] 鉄道網をフラットベッドスキャナとして使用 [動画]</title>
+      <link>https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner</link>
+      <guid isPermaLink="false">hn-49126919</guid>
+      <pubDate>Fri, 31 Jul 2026 18:30:44 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49126919</comments>
+      <description><![CDATA[<p>Using the railway network as a flatbed scanner [video]</p><p>35 points / 14 comments — by Jimmc414</p><p><a href="https://news.ycombinator.com/item?id=49126919">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[35pt] 25年前は暗号化、今はモデルウェイト</title>
+      <link>https://weeraman.com/because-we-can/</link>
+      <guid isPermaLink="false">hn-49083599</guid>
+      <pubDate>Tue, 28 Jul 2026 13:31:25 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49083599</comments>
+      <description><![CDATA[<p>Twenty-five years ago it was cryptography, today it's model weights</p><p>35 points / 6 comments — by aweeraman</p><p><a href="https://news.ycombinator.com/item?id=49083599">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[30pt] 最悪の Htmx を作ろう</title>
+      <link>https://zserge.com/posts/worst-htmx-ever/</link>
+      <guid isPermaLink="false">hn-49119270</guid>
+      <pubDate>Fri, 31 Jul 2026 05:16:45 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49119270</comments>
+      <description><![CDATA[<p>Let's make the worst Htmx</p><p>30 points / 8 comments — by RebelPotato</p><p><a href="https://news.ycombinator.com/item?id=49119270">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[23pt] Progressive Web Components</title>
+      <link>https://arielsalminen.com/2026/progressive-web-components/</link>
+      <guid isPermaLink="false">hn-49121196</guid>
+      <pubDate>Fri, 31 Jul 2026 10:04:40 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49121196</comments>
+      <description><![CDATA[<p>Progressive Web Components</p><p>23 points / 3 comments — by hosteur</p><p><a href="https://news.ycombinator.com/item?id=49121196">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[22pt] 認証ではなく認可を</title>
+      <link>https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html</link>
+      <guid isPermaLink="false">hn-49123468</guid>
+      <pubDate>Fri, 31 Jul 2026 14:17:43 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49123468</comments>
+      <description><![CDATA[<p>Authorize, don't authenticate</p><p>22 points / 4 comments — by marcua</p><p><a href="https://news.ycombinator.com/item?id=49123468">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[22pt] 参照安定性を型にする</title>
+      <link>https://jovidecroock.com/blog/referential-stability-types/</link>
+      <guid isPermaLink="false">hn-49064656</guid>
+      <pubDate>Mon, 27 Jul 2026 02:45:34 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49064656</comments>
+      <description><![CDATA[<p>Making Referential Stability a Type</p><p>22 points / 1 comments — by acmnrs</p><p><a href="https://news.ycombinator.com/item?id=49064656">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[20pt] Orca-Bench：言語モデルエージェントはオンコール対応の準備ができているか</title>
+      <link>https://arxiv.org/abs/2607.28545</link>
+      <guid isPermaLink="false">hn-49126943</guid>
+      <pubDate>Fri, 31 Jul 2026 18:32:43 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49126943</comments>
+      <description><![CDATA[<p>Orca-Bench: How Ready Are Language Model Agents for Oncall?</p><p>20 points / 5 comments — by yruzin</p><p><a href="https://news.ycombinator.com/item?id=49126943">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
       <title>[18pt] 預言者としてのベケット</title>
@@ -233,6 +217,14 @@
       <description><![CDATA[<p>Beckett the Prophet</p><p>18 points / 1 comments — by samclemens</p><p><a href="https://news.ycombinator.com/item?id=49008010">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
+      <title>[16pt] リストの単純なクラスタリングアルゴリズム</title>
+      <link>https://cassidoo.co/post/clustering-tiles/</link>
+      <guid isPermaLink="false">hn-49079837</guid>
+      <pubDate>Tue, 28 Jul 2026 05:39:52 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49079837</comments>
+      <description><![CDATA[<p>A simple clustering algorithm for lists</p><p>16 points / 2 comments — by nreece</p><p><a href="https://news.ycombinator.com/item?id=49079837">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
       <title>[13pt] 3社の買収企業を1つの統一されたウェブサイトに組織する方法</title>
       <link>https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/</link>
       <guid isPermaLink="false">hn-47999020</guid>
@@ -241,12 +233,20 @@
       <description><![CDATA[<p>How to organize 3 acquired companies into one coherent website</p><p>13 points / 0 comments — by mooreds</p><p><a href="https://news.ycombinator.com/item?id=47999020">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[12pt] Show HN: Guile Schemeで実装したudev</title>
-      <link>https://codeberg.org/goodev/goodev</link>
-      <guid isPermaLink="false">hn-49068229</guid>
-      <pubDate>Mon, 27 Jul 2026 11:51:08 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49068229</comments>
-      <description><![CDATA[<p>Show HN: A udev implementation in Guile Scheme</p><p>12 points / 5 comments — by mbakke</p><p><a href="https://news.ycombinator.com/item?id=49068229">HNのコメントを読む</a></p>]]></description>
+      <title>[12pt] 現実のConwayのGame of Life</title>
+      <link>https://lcamtuf.coredump.cx/blog/conway/</link>
+      <guid isPermaLink="false">hn-47439821</guid>
+      <pubDate>Thu, 19 Mar 2026 14:11:56 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=47439821</comments>
+      <description><![CDATA[<p>Conway's Game of Life, in real life</p><p>12 points / 1 comments — by ahlCVA</p><p><a href="https://news.ycombinator.com/item?id=47439821">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[10pt] DRAM 読み取り干渉の解明：RowHammer と RowPress 現象</title>
+      <link>https://arxiv.org/abs/2607.28233</link>
+      <guid isPermaLink="false">hn-49128323</guid>
+      <pubDate>Fri, 31 Jul 2026 20:44:29 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49128323</comments>
+      <description><![CDATA[<p>Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena</p><p>10 points / 3 comments — by Jimmc414</p><p><a href="https://news.ycombinator.com/item?id=49128323">HNのコメントを読む</a></p>]]></description>
     </item>
   </channel>
 </rss>
