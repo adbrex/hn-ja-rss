@@ -15,6 +15,10 @@
   "ja": "$500のRL微調整9Bオープンモデルがカタログレビューでフロンティアモデルをベンチマーク",
   "ts": "2026-07-28T11:10:58.283721+00:00"
  },
+ "A California aquifer may have crossed the point of no return": {
+  "ja": "カリフォルニアの帯水層が回復不能な地点を超えた可能性",
+  "ts": "2026-07-31T05:59:23.336566+00:00"
+ },
  "A Dying Art: The last of the morticians": {
   "ja": "消える職業: 最後の納棺師たち",
   "ts": "2026-07-28T11:10:58.283745+00:00"
@@ -41,11 +45,11 @@
  },
  "Advancing the price-performance frontier with GPT‑5.6": {
   "ja": "GPT-5.6でPrice-Performanceフロンティアを前進させる",
-  "ts": "2026-07-30T22:07:54.199767+00:00"
+  "ts": "2026-07-31T05:59:18.868663+00:00"
  },
  "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English": {
   "ja": "ASD-STE100簡易技術英語のドキュメント強制Agent Skill",
-  "ts": "2026-07-30T22:07:54.199767+00:00"
+  "ts": "2026-07-31T05:59:18.868669+00:00"
  },
  "An Uncomplicated Man": {
   "ja": "複雑でない男",
@@ -81,7 +85,7 @@
  },
  "Beckett the Prophet": {
   "ja": "預言者としてのベケット",
-  "ts": "2026-07-30T22:07:47.301692+00:00"
+  "ts": "2026-07-31T05:59:18.868679+00:00"
  },
  "Benchmarking Opus 5 on SlopCodeBench": {
   "ja": "SlopCodeBenchでOpus 5をベンチマーク",
@@ -109,7 +113,7 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-07-30T22:07:47.301696+00:00"
+  "ts": "2026-07-31T05:59:18.868682+00:00"
  },
  "Cracking Windows Open: Porting RADV to Win32": {
   "ja": "WindowsをこじあくてRADVをWin32に移植する",
@@ -145,7 +149,7 @@
  },
  "GCC steering committee announces AI policy": {
   "ja": "GCC運営委員会がAIポリシーを発表",
-  "ts": "2026-07-30T22:07:54.199767+00:00"
+  "ts": "2026-07-31T05:59:18.868668+00:00"
  },
  "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?": {
   "ja": "物理AIにおけるGPT-5.6対Claude Fable 5の性能比較",
@@ -153,7 +157,7 @@
  },
  "Gemini Robotics 2 brings whole body intelligence to robots": {
   "ja": "Gemini Robotics 2がロボットに全身知能をもたらす",
-  "ts": "2026-07-30T22:07:54.199767+00:00"
+  "ts": "2026-07-31T05:59:18.868665+00:00"
  },
  "Glue bonds to nonstick surfaces and wipes clean with ethanol": {
   "ja": "接着剤がノンスティック表面に接着し、エタノールで拭き取れる",
@@ -161,7 +165,7 @@
  },
  "Google will expand age checks on Android worldwide till the end of the year": {
   "ja": "GoogleがAndroidの年齢確認を年末までに世界中で拡大予定",
-  "ts": "2026-07-30T22:07:47.301672+00:00"
+  "ts": "2026-07-31T05:59:18.868666+00:00"
  },
  "Half-Life ported to Mac OS 9": {
   "ja": "Half-Life、Mac OS 9にポート",
@@ -201,7 +205,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-07-30T22:07:47.301694+00:00"
+  "ts": "2026-07-31T05:59:18.868681+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -219,9 +223,17 @@
   "ja": "狩猟採集民が7000年前に山岳湖に魚を導入",
   "ts": "2026-07-29T21:54:08.013720+00:00"
  },
+ "I flagged two research papers for fake authors and both were accepted as orals": {
+  "ja": "架空の著者で査読論文2本にフラグを立てたら、両方がオーラルセッションに採択された",
+  "ts": "2026-07-31T05:59:23.336566+00:00"
+ },
  "Interview with Boris Cherny [video]": {
   "ja": "Boris Chenyのインタビュー [動画]",
   "ts": "2026-07-29T05:44:46.045074+00:00"
+ },
+ "Investigating three real-world incidents in our cybersecurity evaluations": {
+  "ja": "サイバーセキュリティ評価における3つの実世界インシデントの調査",
+  "ts": "2026-07-31T05:59:23.336566+00:00"
  },
  "Keychron announces first open-source firmware for gaming mice": {
   "ja": "Keychronがゲーミングマウス向け初のオープンソースファームウェアを発表",
@@ -297,7 +309,7 @@
  },
  "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal": {
   "ja": "Memo-1: Minitélをターミナルに使って1からビルドした6502コンピュータ",
-  "ts": "2026-07-30T22:07:54.199767+00:00"
+  "ts": "2026-07-31T05:59:18.868678+00:00"
  },
  "More Tailscale tricks for your jailbroken Kindle": {
   "ja": "脱獄したKindleのためのTailscaleの便利な使い方",
@@ -333,7 +345,7 @@
  },
  "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up": {
   "ja": "物理学者がミューオンの謎を解く。今、過去の結果が整合しない",
-  "ts": "2026-07-30T22:07:54.199767+00:00"
+  "ts": "2026-07-31T05:59:18.868672+00:00"
  },
  "Programming Languages Are Authoring Tools for Platforms": {
   "ja": "プログラミング言語はプラットフォームのためのオーサリングツール",
@@ -353,7 +365,7 @@
  },
  "Read this before you buy that TV streaming stick": {
   "ja": "TVストリーミングスティックを買う前にこれを読め",
-  "ts": "2026-07-30T22:07:54.199767+00:00"
+  "ts": "2026-07-31T05:59:18.868659+00:00"
  },
  "Recursion is lying to you": {
   "ja": "再帰はあなたを騙している",
@@ -371,9 +383,17 @@
   "ja": "住宅用プロキシは国家安全保障脅威である",
   "ts": "2026-07-28T05:23:02.934777+00:00"
  },
+ "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free": {
+  "ja": "Rune 1.1: Python、Emacsエディタ、シンボルインデックスを追加、無料に",
+  "ts": "2026-07-31T05:59:23.336566+00:00"
+ },
  "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers": {
   "ja": "SQLiteの本番運用: WALモード、並行性、VFSレイヤーの最適化",
   "ts": "2026-07-29T11:17:37.025431+00:00"
+ },
+ "Saber-toothed cats became inbred–and struggled to move–before they went extinct": {
+  "ja": "サーベルトゥース・キャットは近親交配によって衰弱し、絶滅する前に移動が困難になった",
+  "ts": "2026-07-31T05:59:23.336566+00:00"
  },
  "Securing Services with Rootless Containers": {
   "ja": "ルートレスコンテナを使用したサービス保護",
@@ -401,7 +421,7 @@
  },
  "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it": {
   "ja": "Show HN: DeepSeekをGPT-OSSに蒸留しても検閲は転送されない。試してみよ",
-  "ts": "2026-07-30T22:07:54.199767+00:00"
+  "ts": "2026-07-31T05:59:18.868676+00:00"
  },
  "Show HN: How far do I have to go to run into 100k people?": {
   "ja": "Show HN: 10万人に出会うまでにどのくらい進む必要がある？",
@@ -457,7 +477,7 @@
  },
  "Stacked PRs are now live on GitHub": {
   "ja": "Stacked PRs がGitHubで利用可能に",
-  "ts": "2026-07-30T22:07:54.199767+00:00"
+  "ts": "2026-07-31T05:59:18.868662+00:00"
  },
  "Steel Bank Common Lisp version 2.6.7": {
   "ja": "Steel Bank Common Lisp バージョン 2.6.7",
@@ -475,6 +495,18 @@
   "ja": "10年でプログラミングを独習する（1998年）",
   "ts": "2026-07-29T11:17:33.572906+00:00"
  },
+ "The AI Aesthetic": {
+  "ja": "AI美学",
+  "ts": "2026-07-31T05:59:23.336566+00:00"
+ },
+ "The AI trade now runs on borrowed money, and the lenders are repricing it": {
+  "ja": "AI産業は借金で運営されており、貸し手はそれの価格を変更している",
+  "ts": "2026-07-31T05:59:23.336566+00:00"
+ },
+ "The American Grilled Cheese Sandwich Essay (2024)": {
+  "ja": "アメリカンチーズサンドウィッチ論(2024)",
+  "ts": "2026-07-31T05:59:23.336566+00:00"
+ },
  "The Burau representation of the braid group is faithful for n = 4": {
   "ja": "n=4のときのブレイド群のBurau表現は忠実である",
   "ts": "2026-07-28T05:23:02.934777+00:00"
@@ -489,7 +521,7 @@
  },
  "The Economic Benefit of Refactoring": {
   "ja": "リファクタリングの経済的効果",
-  "ts": "2026-07-30T22:07:54.199767+00:00"
+  "ts": "2026-07-31T05:59:18.868671+00:00"
  },
  "The Fabled Flatbreads of Uzbekistan (2015)": {
   "ja": "ウズベキスタンの伝説のフラットブレッド (2015)",
@@ -498,6 +530,18 @@
  "The Productivity Mirage": {
   "ja": "生産性の蜃気楼",
   "ts": "2026-07-30T11:01:01.391676+00:00"
+ },
+ "The Religion of Speed": {
+  "ja": "速度の宗教",
+  "ts": "2026-07-31T05:59:23.336566+00:00"
+ },
+ "The Session You Cannot take with you": {
+  "ja": "持ち出せないセッション",
+  "ts": "2026-07-31T05:59:23.336566+00:00"
+ },
+ "The bond market isn't buying what Fed Chair Warsh is selling": {
+  "ja": "債券市場はFed議長Warshの言い分を信じていない",
+  "ts": "2026-07-31T05:59:23.336566+00:00"
  },
  "The coolest use for the Vision Pro": {
   "ja": "Vision Proの最高の使用方法",
@@ -517,7 +561,7 @@
  },
  "The lost civic life of movie rental stores": {
   "ja": "映画レンタル店の失われた市民的生活",
-  "ts": "2026-07-30T22:07:54.199767+00:00"
+  "ts": "2026-07-31T05:59:18.868674+00:00"
  },
  "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted": {
   "ja": "Theo Conjecture、35年来の数学問題を解く、誰も予測しなかった項を発見",
@@ -541,7 +585,7 @@
  },
  "UEFA and its national associations will not participate in FIFA competitions": {
   "ja": "UEFA及びその加盟協会は FIFA大会に参加しない",
-  "ts": "2026-07-30T22:07:54.199767+00:00"
+  "ts": "2026-07-31T05:59:18.868646+00:00"
  },
  "Una GPS smart watch – Repairable, USB-C charging, developer-friendly": {
   "ja": "Una GPS スマートウォッチ－修理可能、USB-C充電、開発者フレンドリー",
@@ -578,6 +622,10 @@
  "What Even Are Microservices?": {
   "ja": "マイクロサービスとは何か",
   "ts": "2026-07-28T11:11:01.190453+00:00"
+ },
+ "Where USB Memory Sticks Are Born": {
+  "ja": "USBメモリスティックはどこで作られるのか",
+  "ts": "2026-07-31T05:59:23.336566+00:00"
  },
  "Why DNA damage from smoking and UV rays cause cancer in some but not others": {
   "ja": "喫煙とUV放射によるDNA損傷がなぜ人によってがんの原因になったりならなかったりするのか",
