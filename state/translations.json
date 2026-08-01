@@ -97,11 +97,15 @@
  },
  "Authorize, don't authenticate": {
   "ja": "認証ではなく認可を",
-  "ts": "2026-07-31T21:59:31.804562+00:00"
+  "ts": "2026-08-01T05:48:52.275504+00:00"
+ },
+ "BMW Spider-Man in-car advertising": {
+  "ja": "BMW Spider-Man車内広告",
+  "ts": "2026-08-01T05:48:56.409000+00:00"
  },
  "Beckett the Prophet": {
   "ja": "預言者としてのベケット",
-  "ts": "2026-07-31T21:59:26.083031+00:00"
+  "ts": "2026-08-01T05:48:52.275509+00:00"
  },
  "Benchmarking Opus 5 on SlopCodeBench": {
   "ja": "SlopCodeBenchでOpus 5をベンチマーク",
@@ -129,7 +133,7 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-07-31T21:59:26.083034+00:00"
+  "ts": "2026-08-01T05:48:52.275512+00:00"
  },
  "Cracking Windows Open: Porting RADV to Win32": {
   "ja": "WindowsをこじあくてRADVをWin32に移植する",
@@ -157,7 +161,7 @@
  },
  "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena": {
   "ja": "DRAM 読み取り干渉の解明：RowHammer と RowPress 現象",
-  "ts": "2026-07-31T21:59:31.804562+00:00"
+  "ts": "2026-08-01T05:48:52.275506+00:00"
  },
  "Discovering Cryptographic Weaknesses with Claude": {
   "ja": "Claudeで暗号学的な脆弱性を発見する",
@@ -181,11 +185,19 @@
  },
  "Elevators": {
   "ja": "エレベーター",
-  "ts": "2026-07-31T21:59:31.804562+00:00"
+  "ts": "2026-08-01T05:48:52.275468+00:00"
  },
  "Everyone is building LLM routers, we deprecated ours": {
   "ja": "みんな LLM ルーターを構築している、我々は廃止した",
   "ts": "2026-07-31T21:59:31.804562+00:00"
+ },
+ "Firefighter arson a long-standing issue – expert": {
+  "ja": "消防士の放火は長年の課題 – 専門家",
+  "ts": "2026-08-01T05:48:56.409000+00:00"
+ },
+ "Flint: A Visualization Language for the AI Era": {
+  "ja": "Flint: AI時代の可視化言語",
+  "ts": "2026-08-01T05:48:56.409000+00:00"
  },
  "GCC steering committee announces AI policy": {
   "ja": "GCC運営委員会がAIポリシーを発表",
@@ -201,7 +213,7 @@
  },
  "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio": {
   "ja": "Mac Studio で 25 Gbps の Thunderbolt Ethernet を実現",
-  "ts": "2026-07-31T21:59:31.804562+00:00"
+  "ts": "2026-08-01T05:48:52.275493+00:00"
  },
  "Glue bonds to nonstick surfaces and wipes clean with ethanol": {
   "ja": "接着剤がノンスティック表面に接着し、エタノールで拭き取れる",
@@ -209,7 +221,7 @@
  },
  "Golang proposal: container/: generic collection types": {
   "ja": "Golang提案：container/: ジェネリック コレクション型",
-  "ts": "2026-07-31T21:59:31.804562+00:00"
+  "ts": "2026-08-01T05:48:52.275498+00:00"
  },
  "Google fixed more Chrome bugs in June than over the past two years, thanks to AI": {
   "ja": "Google、AIのおかげで6月に過去2年間以上のChrome脆弱性を修正",
@@ -247,6 +259,10 @@
   "ja": "JPEG の仕組み：JPEG のロッシー圧縮方法をインタラクティブに探索",
   "ts": "2026-07-31T21:59:31.804562+00:00"
  },
+ "How far can you push the range of Wi-Fi connectivity in an ideal environment?": {
+  "ja": "理想的な環境下でWi-Fi接続範囲はどこまで広げられるか？",
+  "ts": "2026-08-01T05:48:56.409000+00:00"
+ },
  "How much can you delegate to agents?": {
   "ja": "エージェントにはどの程度委譲できるか",
   "ts": "2026-07-29T21:54:08.013720+00:00"
@@ -261,7 +277,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-07-31T21:59:26.083033+00:00"
+  "ts": "2026-08-01T05:48:52.275510+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -291,13 +307,17 @@
   "ja": "サイバーセキュリティ評価における3つの実世界インシデントの調査",
   "ts": "2026-07-31T05:59:23.336566+00:00"
  },
+ "Is AI reasoning right for the wrong reasons?": {
+  "ja": "AIの推論は間違った理由で正しいのか？",
+  "ts": "2026-08-01T05:48:56.409000+00:00"
+ },
  "JEP 401: Value Objects (Preview) merged to OpenJDK master": {
   "ja": "JEP 401: Value Objects (Preview) がOpenJDK masterにマージ",
   "ts": "2026-07-31T11:24:36.992076+00:00"
  },
  "June in Servo: real world compat, media queries, SharedWorker, and more": {
   "ja": "Servo 6月：実世界互換、メディアクエリ、SharedWorker ほか",
-  "ts": "2026-07-31T21:59:31.804562+00:00"
+  "ts": "2026-08-01T05:48:52.275500+00:00"
  },
  "Keychron announces first open-source firmware for gaming mice": {
   "ja": "Keychronがゲーミングマウス向け初のオープンソースファームウェアを発表",
@@ -337,7 +357,7 @@
  },
  "Let's make the worst Htmx": {
   "ja": "最悪の Htmx を作ろう",
-  "ts": "2026-07-31T21:59:31.804562+00:00"
+  "ts": "2026-08-01T05:48:52.275502+00:00"
  },
  "Lightweight Spring Boot Monitoring Without Prometheus and Grafana": {
   "ja": "PrometheusとGrafanaなしのSpring Boot軽量モニタリング",
@@ -461,7 +481,7 @@
  },
  "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s": {
   "ja": "Kimi K3 を 29 GB の RAM と毎秒 0.50 tok で実行",
-  "ts": "2026-07-31T21:59:31.804562+00:00"
+  "ts": "2026-08-01T05:48:52.275491+00:00"
  },
  "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free": {
   "ja": "Rune 1.1: Python、Emacsエディタ、シンボルインデックスを追加、無料に",
@@ -522,6 +542,10 @@
  "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript": {
   "ja": "Show HN: HNのリンクを開くたびに2つのタブを開くのに疲れたので、ユーザースクリプトを作った",
   "ts": "2026-07-29T11:17:33.572887+00:00"
+ },
+ "Show HN: I worked on a new browser for 2 years, today it passed Acid 3": {
+  "ja": "Show HN: 2年間ブラウザ開発に取り組み、本日Acid 3をパス",
+  "ts": "2026-08-01T05:48:56.409000+00:00"
  },
  "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac": {
   "ja": "Show HN: M-series Macの2GBメモリでGemma 4 26Bを動かすオープンソースエンジン",
@@ -589,7 +613,7 @@
  },
  "Tailscale didn't stop the Hugging Face intrusion": {
   "ja": "Tailscale は Hugging Face への侵入を防げなかった",
-  "ts": "2026-07-31T21:59:31.804562+00:00"
+  "ts": "2026-08-01T05:48:52.275485+00:00"
  },
  "Teach yourself programming in ten years (1998)": {
   "ja": "10年でプログラミングを独習する（1998年）",
@@ -602,6 +626,10 @@
  "The AI trade now runs on borrowed money, and the lenders are repricing it": {
   "ja": "AI産業は借金で運営されており、貸し手はそれの価格を変更している",
   "ts": "2026-07-31T05:59:23.336566+00:00"
+ },
+ "The Absurdity of Albert Camus": {
+  "ja": "アルベール・カミュの不条理",
+  "ts": "2026-08-01T05:48:56.409000+00:00"
  },
  "The American Grilled Cheese Sandwich Essay (2024)": {
   "ja": "アメリカンチーズサンドウィッチ論(2024)",
@@ -627,6 +655,10 @@
   "ja": "ウズベキスタンの伝説のフラットブレッド (2015)",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure": {
+  "ja": "初の大西洋横断電信ケーブル – 大胆で美しい失敗",
+  "ts": "2026-08-01T05:48:56.409000+00:00"
+ },
  "The Productivity Mirage": {
   "ja": "生産性の蜃気楼",
   "ts": "2026-07-30T11:01:01.391676+00:00"
@@ -646,6 +678,10 @@
  "The coolest use for the Vision Pro": {
   "ja": "Vision Proの最高の使用方法",
   "ts": "2026-07-30T11:01:01.391665+00:00"
+ },
+ "The development pipeline is a production system": {
+  "ja": "開発パイプラインは本番システムである",
+  "ts": "2026-08-01T05:48:56.409000+00:00"
  },
  "The first watch featuring computer functions": {
   "ja": "コンピュータ機能を備えた最初の腕時計",
@@ -669,7 +705,7 @@
  },
  "The most official water costs $120k a gallon": {
   "ja": "最も公式な水は 1 ガロン 12 万ドル",
-  "ts": "2026-07-31T21:59:31.804562+00:00"
+  "ts": "2026-08-01T05:48:52.275495+00:00"
  },
  "The session you cannot take with you": {
   "ja": "持ち運べないセッション",
@@ -697,7 +733,7 @@
  },
  "Twenty-five years ago it was cryptography, today it's model weights": {
   "ja": "25年前は暗号化、今はモデルウェイト",
-  "ts": "2026-07-31T21:59:31.804562+00:00"
+  "ts": "2026-08-01T05:48:52.275489+00:00"
  },
  "UEFA and its national associations will not participate in FIFA competitions": {
   "ja": "UEFA及びその加盟協会は FIFA大会に参加しない",
@@ -743,6 +779,10 @@
   "ja": "マイクロサービスとは何か",
   "ts": "2026-07-28T11:11:01.190453+00:00"
  },
+ "What Liberal Arts Education Is for (2024)": {
+  "ja": "リベラルアーツ教育の目的とは（2024年）",
+  "ts": "2026-08-01T05:48:56.409000+00:00"
+ },
  "Where USB Memory Sticks Are Born": {
   "ja": "USBメモリスティックはどこで作られるのか",
   "ts": "2026-07-31T05:59:23.336566+00:00"
@@ -766,5 +806,9 @@
  "Zig's Incremental Compilation Internals": {
   "ja": "Zigのインクリメンタルコンパイルの内部構造",
   "ts": "2026-07-29T11:17:33.572893+00:00"
+ },
+ "qm – Multiplayer agent harness for work": {
+  "ja": "qm – 仕事向けマルチプレイヤーエージェントハーネス",
+  "ts": "2026-08-01T05:48:56.409000+00:00"
  }
 }
