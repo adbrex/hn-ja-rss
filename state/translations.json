@@ -27,9 +27,17 @@
   "ja": "Zig で書かれた GTK4 SSH-askpass",
   "ts": "2026-07-31T21:59:31.804562+00:00"
  },
+ "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention": {
+  "ja": "偽装された監視条約：カナダがUN犯罪防止条約に署名",
+  "ts": "2026-08-01T21:47:42.064746+00:00"
+ },
  "A Trampoline": {
   "ja": "トランポリン",
   "ts": "2026-07-30T05:33:31.620488+00:00"
+ },
+ "A directory of people who love RSS": {
+  "ja": "RSSを愛する人々のディレクトリ",
+  "ts": "2026-08-01T21:47:42.064746+00:00"
  },
  "A missing underscore sent innocent man to prison for 18 months": {
   "ja": "アンダースコア記号の欠落により無実の男性が18ヶ月投獄",
@@ -117,7 +125,7 @@
  },
  "Beckett the Prophet": {
   "ja": "預言者としてのベケット",
-  "ts": "2026-08-01T10:29:11.166426+00:00"
+  "ts": "2026-08-01T21:47:35.631104+00:00"
  },
  "Benchmarking Opus 5 on SlopCodeBench": {
   "ja": "SlopCodeBenchでOpus 5をベンチマーク",
@@ -127,9 +135,17 @@
   "ja": "ギリシャとローマを超えて",
   "ts": "2026-07-29T05:44:50.795006+00:00"
  },
+ "But can your calculator run Linux?": {
+  "ja": "でも、あなたの電卓は Linuxを実行できるか",
+  "ts": "2026-08-01T21:47:42.064746+00:00"
+ },
  "C/C++ projects packaged for Zig": {
   "ja": "Zigでパッケージ化されたC/C++プロジェクト",
   "ts": "2026-07-28T11:10:58.283741+00:00"
+ },
+ "CISA Alert: Water Sector PLC Targeting": {
+  "ja": "CISAアラート：水道セクターPLCへの攻撃",
+  "ts": "2026-08-01T21:47:42.064746+00:00"
  },
  "Claude: Elevated errors across all models": {
   "ja": "Claude: 全モデルでのエラー上昇",
@@ -150,6 +166,10 @@
  "Cracking Windows Open: Porting RADV to Win32": {
   "ja": "WindowsをこじあくてRADVをWin32に移植する",
   "ts": "2026-07-29T11:17:37.025431+00:00"
+ },
+ "Cursor removed cost information from the usage page and CSV export": {
+  "ja": "Cursorが使用ページとCSVエクスポートからコスト情報を削除",
+  "ts": "2026-08-01T21:47:42.064746+00:00"
  },
  "DConf 2026 in London": {
   "ja": "DConf 2026 ロンドン開催",
@@ -207,13 +227,17 @@
   "ja": "みんな LLM ルーターを構築している、我々は廃止した",
   "ts": "2026-07-31T21:59:31.804562+00:00"
  },
+ "Explorative modeling: Train on the best of K guesses": {
+  "ja": "探索的モデリング：K個の予測の最良部分での訓練",
+  "ts": "2026-08-01T21:47:42.064746+00:00"
+ },
  "Firefighter arson a long-standing issue – expert": {
   "ja": "消防士の放火は長年の課題 – 専門家",
   "ts": "2026-08-01T05:48:56.409000+00:00"
  },
  "Flint: A Visualization Language for the AI Era": {
   "ja": "Flint: AI時代の可視化言語",
-  "ts": "2026-08-01T10:29:11.166420+00:00"
+  "ts": "2026-08-01T21:47:35.631078+00:00"
  },
  "G'mic 4.0: Squaring the Pixel, Easier": {
   "ja": "G'mic 4.0: ピクセルを二乗する、より簡単に",
@@ -239,6 +263,10 @@
   "ja": "接着剤がノンスティック表面に接着し、エタノールで拭き取れる",
   "ts": "2026-07-28T05:23:02.934777+00:00"
  },
+ "Glyphs 4 – the leading Mac font editor": {
+  "ja": "Glyphs 4 – 業界標準のMacフォントエディタ",
+  "ts": "2026-08-01T21:47:42.064746+00:00"
+ },
  "Golang proposal: container/: generic collection types": {
   "ja": "Golang提案：container/: ジェネリック コレクション型",
   "ts": "2026-08-01T10:29:11.166416+00:00"
@@ -246,6 +274,10 @@
  "Google fixed more Chrome bugs in June than over the past two years, thanks to AI": {
   "ja": "Google、AIのおかげで6月に過去2年間以上のChrome脆弱性を修正",
   "ts": "2026-08-01T10:29:11.166404+00:00"
+ },
+ "Google has abandoned Google News?": {
+  "ja": "Googleは Google Newsを放棄したのか",
+  "ts": "2026-08-01T21:47:42.064746+00:00"
  },
  "Google will expand age checks on Android worldwide till the end of the year": {
   "ja": "GoogleがAndroidの年齢確認を年末までに世界中で拡大予定",
@@ -275,6 +307,10 @@
   "ja": "eBPFコードのプロファイリング方法は？",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "How Google helped destroy adoption of RSS feeds (2023)": {
+  "ja": "Googleはいかにして RSSフィードの採用を破壊したか（2023年）",
+  "ts": "2026-08-01T21:47:42.064746+00:00"
+ },
  "How JPEG works: Interactively explore JPEG's lossy compression methods": {
   "ja": "JPEG の仕組み：JPEG のロッシー圧縮方法をインタラクティブに探索",
   "ts": "2026-07-31T21:59:31.804562+00:00"
@@ -297,7 +333,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-01T10:29:11.166428+00:00"
+  "ts": "2026-08-01T21:47:35.631105+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -343,6 +379,18 @@
   "ja": "Servo 6月：実世界互換、メディアクエリ、SharedWorker ほか",
   "ts": "2026-08-01T10:29:11.166414+00:00"
  },
+ "Just because a game is on disc doesn't mean it will work in the future": {
+  "ja": "ゲームがディスクにあるからといって、将来的に動作するとは限らない",
+  "ts": "2026-08-01T21:47:42.064746+00:00"
+ },
+ "Kaisel – Routes as Values. Dart 3 Native Router for Flutter": {
+  "ja": "Kaisel – ルーズ・アズ・バリューズ。Dart 3ネイティブルータ・フォー・Flutter",
+  "ts": "2026-08-01T21:47:42.064746+00:00"
+ },
+ "Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga": {
+  "ja": "Kenji/Serious Eats – 30分圧力鍋フォー・ガー",
+  "ts": "2026-08-01T21:47:42.064746+00:00"
+ },
  "Keychron announces first open-source firmware for gaming mice": {
   "ja": "Keychronがゲーミングマウス向け初のオープンソースファームウェアを発表",
   "ts": "2026-07-30T11:01:01.391672+00:00"
@@ -387,6 +435,10 @@
   "ja": "PrometheusとGrafanaなしのSpring Boot軽量モニタリング",
   "ts": "2026-07-29T05:44:50.795006+00:00"
  },
+ "Linux on ESP32": {
+  "ja": "ESP32上のLinux",
+  "ts": "2026-08-01T21:47:42.064746+00:00"
+ },
  "Lisp moving Forth moving Lisp": {
   "ja": "Lispが動くForthが動くLisp",
   "ts": "2026-07-29T11:17:37.025431+00:00"
@@ -427,6 +479,10 @@
   "ja": "Man and the Computer by John G. Kemeny（BASIC共同開発者による1972年の著作）",
   "ts": "2026-07-30T11:01:01.391691+00:00"
  },
+ "Manual: •.,:;…!?·": {
+  "ja": "マニュアル：•.,:;…!?·",
+  "ts": "2026-08-01T21:47:42.064746+00:00"
+ },
  "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal": {
   "ja": "Memo-1: Minitélをターミナルに使って1からビルドした6502コンピュータ",
   "ts": "2026-07-31T11:24:33.340240+00:00"
@@ -455,6 +511,10 @@
   "ja": "LLMにACM Digital Libraryへのアクセスを与える時が来た",
   "ts": "2026-07-29T11:17:33.572905+00:00"
  },
+ "Nyctography: A substituton cypher by Lewis Carroll": {
+  "ja": "Nyctography：ルイス・キャロルの置換暗号",
+  "ts": "2026-08-01T21:47:42.064746+00:00"
+ },
  "OpenAI just open-sourced Codex Security": {
   "ja": "OpenAIがCodex Securityをオープンソース化",
   "ts": "2026-07-28T21:57:37.461952+00:00"
@@ -467,9 +527,17 @@
   "ja": "オープンウェイトモデルに対する当社の立場",
   "ts": "2026-07-28T11:10:58.283692+00:00"
  },
+ "Pgtestdb's template cloning approach to testing is fast": {
+  "ja": "Pgtestdbのテンプレートクローニングアプローチによるテストの高速化",
+  "ts": "2026-08-01T21:47:42.064746+00:00"
+ },
  "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up": {
   "ja": "物理学者がミューオンの謎を解く。今、過去の結果が整合しない",
   "ts": "2026-07-31T11:24:33.340231+00:00"
+ },
+ "Postmortem for Kernel Soundness Bug #14576": {
+  "ja": "カーネル健全性バグ #14576 のポストモーテム",
+  "ts": "2026-08-01T21:47:42.064746+00:00"
  },
  "Programming Languages Are Authoring Tools for Platforms": {
   "ja": "プログラミング言語はプラットフォームのためのオーサリングツール",
@@ -503,9 +571,17 @@
   "ja": "料理のリファクタリング：イラクのシチューがシンガポールへ渡った話",
   "ts": "2026-07-30T05:33:36.898851+00:00"
  },
+ "Register deprivation: spills and runtime under forced register scarcity": {
+  "ja": "レジスタ剥奪：強制レジスタ不足下でのスピルとランタイム",
+  "ts": "2026-08-01T21:47:42.064746+00:00"
+ },
  "Residential Proxies Are a National Security Threat": {
   "ja": "住宅用プロキシは国家安全保障脅威である",
   "ts": "2026-07-28T05:23:02.934777+00:00"
+ },
+ "RipGrep musl binaries occasionally segfault during very-large searches": {
+  "ja": "RipGrep muslバイナリが大規模検索時に断続的にセグメンテーションフォルトを起こす",
+  "ts": "2026-08-01T21:47:42.064746+00:00"
  },
  "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s": {
   "ja": "Kimi K3 を 29 GB の RAM と毎秒 0.50 tok で実行",
@@ -522,6 +598,10 @@
  "Saber-toothed cats became inbred–and struggled to move–before they went extinct": {
   "ja": "サーベルトゥース・キャットは近親交配によって衰弱し、絶滅する前に移動が困難になった",
   "ts": "2026-07-31T11:24:33.340241+00:00"
+ },
+ "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets": {
+  "ja": "HuggingFace訓練データ7.6ペタバイトのシークレットスキャン",
+  "ts": "2026-08-01T21:47:42.064746+00:00"
  },
  "Securing Services with Rootless Containers": {
   "ja": "ルートレスコンテナを使用したサービス保護",
@@ -609,7 +689,7 @@
  },
  "Solid Queue 1.6.0 now supports fiber workers": {
   "ja": "Solid Queue 1.6.0がファイバーワーカーに対応",
-  "ts": "2026-08-01T10:29:15.366156+00:00"
+  "ts": "2026-08-01T21:47:35.631097+00:00"
  },
  "Solving poker in custom WebGPU kernels": {
   "ja": "カスタムWebGPUカーネルでポーカーを解く",
@@ -675,9 +755,13 @@
   "ja": "アメリカンチーズサンドウィッチ論(2024)",
   "ts": "2026-07-31T05:59:23.336566+00:00"
  },
+ "The Art of 64-bit Assembly": {
+  "ja": "64ビットアセンブリの芸術",
+  "ts": "2026-08-01T21:47:42.064746+00:00"
+ },
  "The Burau representation of the braid group is faithful for n = 4": {
   "ja": "n=4のときのブレイド群のBurau表現は忠実である",
-  "ts": "2026-07-28T05:23:02.934777+00:00"
+  "ts": "2026-08-01T21:47:35.631101+00:00"
  },
  "The Cold Email": {
   "ja": "コールドメール",
@@ -710,6 +794,10 @@
  "The Session You Cannot take with you": {
   "ja": "持ち出せないセッション",
   "ts": "2026-07-31T05:59:23.336566+00:00"
+ },
+ "The Silicon Valley Founder Meat Grinder": {
+  "ja": "シリコンバレー創業者ミートグラインダー",
+  "ts": "2026-08-01T21:47:42.064746+00:00"
  },
  "The bond market isn't buying what Fed Chair Warsh is selling": {
   "ja": "債券市場はFed議長Warshの言い分を信じていない",
