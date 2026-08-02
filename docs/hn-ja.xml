@@ -5,192 +5,200 @@
     <link>https://news.ycombinator.com/</link>
     <description>Hacker News のフロントページから人気順に最大30件を抽出し、タイトルを日本語訳したフィードです。1日3回更新。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 02 Aug 2026 10:28:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 21:48:31 +0000</lastBuildDate>
     <ttl>240</ttl>
     <atom:link href="https://YOUR-NAME.github.io/YOUR-REPO/hn-ja.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>[532pt] Googleはいかにして RSSフィードの採用を破壊したか（2023年）</title>
-      <link>https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds</link>
-      <guid isPermaLink="false">hn-49136821</guid>
-      <pubDate>Sat, 01 Aug 2026 18:07:07 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49136821</comments>
-      <description><![CDATA[<p>How Google helped destroy adoption of RSS feeds (2023)</p><p>532 points / 183 comments — by pudgywalsh</p><p><a href="https://news.ycombinator.com/item?id=49136821">HNのコメントを読む</a></p>]]></description>
+      <title>[306pt] Karpathy's Pelican</title>
+      <link>https://twitter.com/karpathy/status/2083749667410727319</link>
+      <guid isPermaLink="false">hn-49140998</guid>
+      <pubDate>Sun, 02 Aug 2026 04:05:56 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49140998</comments>
+      <description><![CDATA[<p>Karpathy’s Pelican</p><p>306 points / 244 comments — by delichon</p><p><a href="https://news.ycombinator.com/item?id=49140998">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[359pt] Diátaxis</title>
-      <link>https://diataxis.fr/</link>
-      <guid isPermaLink="false">hn-49138188</guid>
-      <pubDate>Sat, 01 Aug 2026 20:33:27 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49138188</comments>
-      <description><![CDATA[<p>Diátaxis</p><p>359 points / 44 comments — by ryanseys</p><p><a href="https://news.ycombinator.com/item?id=49138188">HNのコメントを読む</a></p>]]></description>
+      <title>[174pt] 英語学習者に教える単語がどう変わったか</title>
+      <link>https://pudding.cool/2026/07/essential-words/</link>
+      <guid isPermaLink="false">hn-49145590</guid>
+      <pubDate>Sun, 02 Aug 2026 15:41:08 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49145590</comments>
+      <description><![CDATA[<p>How the words we teach English language learners changed</p><p>174 points / 101 comments — by c-oreills</p><p><a href="https://news.ycombinator.com/item?id=49145590">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[344pt] Seedance 2.5</title>
-      <link>https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5</link>
-      <guid isPermaLink="false">hn-49138302</guid>
-      <pubDate>Sat, 01 Aug 2026 20:45:12 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49138302</comments>
-      <description><![CDATA[<p>Seedance 2.5</p><p>344 points / 185 comments — by njaremko</p><p><a href="https://news.ycombinator.com/item?id=49138302">HNのコメントを読む</a></p>]]></description>
+      <title>[162pt] Meshdiff – ブラウザで2つのSTLバージョンを視覚的に比較、クライアント側処理</title>
+      <link>https://meshdiff.com/</link>
+      <guid isPermaLink="false">hn-49143479</guid>
+      <pubDate>Sun, 02 Aug 2026 11:34:41 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49143479</comments>
+      <description><![CDATA[<p>Meshdiff – visually compare two STL versions in the browser, client-side</p><p>162 points / 16 comments — by projscope</p><p><a href="https://news.ycombinator.com/item?id=49143479">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[305pt] AI財務アドバイスは意外に優秀。適切な質問をすれば特に</title>
-      <link>https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions</link>
-      <guid isPermaLink="false">hn-49139102</guid>
-      <pubDate>Sat, 01 Aug 2026 22:25:12 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49139102</comments>
-      <description><![CDATA[<p>AI financial advice is surprisingly good, especially if you ask right questions</p><p>305 points / 279 comments — by foxtrot8672</p><p><a href="https://news.ycombinator.com/item?id=49139102">HNのコメントを読む</a></p>]]></description>
+      <title>[160pt] Show HN: Bor – Linuxデスクトップ向けオープンソースポリシー管理</title>
+      <link>https://getbor.dev/blog/2026-08-02-bor-v080-release/</link>
+      <guid isPermaLink="false">hn-49142569</guid>
+      <pubDate>Sun, 02 Aug 2026 09:06:33 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49142569</comments>
+      <description><![CDATA[<p>Show HN: Bor – Open-source policy management for Linux desktops</p><p>160 points / 19 comments — by eniac111</p><p><a href="https://news.ycombinator.com/item?id=49142569">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[220pt] Go 1.27 インタラクティブツアー</title>
-      <link>https://victoriametrics.com/blog/go-1-27/index.html</link>
-      <guid isPermaLink="false">hn-49140218</guid>
-      <pubDate>Sun, 02 Aug 2026 01:35:51 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49140218</comments>
-      <description><![CDATA[<p>Go 1.27 Interactive Tour</p><p>220 points / 82 comments — by Hixon10</p><p><a href="https://news.ycombinator.com/item?id=49140218">HNのコメントを読む</a></p>]]></description>
+      <title>[139pt] RISC OS Openの20年</title>
+      <link>https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open</link>
+      <guid isPermaLink="false">hn-49143967</guid>
+      <pubDate>Sun, 02 Aug 2026 12:36:07 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49143967</comments>
+      <description><![CDATA[<p>Twenty Years of RISC OS Open</p><p>139 points / 24 comments — by AlexeyBrin</p><p><a href="https://news.ycombinator.com/item?id=49143967">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[171pt] Show HN: 15歳のエンジニア志望です。自作したサイクロイド歯車です</title>
-      <link>https://github.com/tom-ilan/cycloidal_gearbox</link>
-      <guid isPermaLink="false">hn-49140396</guid>
-      <pubDate>Sun, 02 Aug 2026 02:07:09 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49140396</comments>
-      <description><![CDATA[<p>Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built</p><p>171 points / 42 comments — by tomilan</p><p><a href="https://news.ycombinator.com/item?id=49140396">HNのコメントを読む</a></p>]]></description>
+      <title>[133pt] F* – 汎用証明指向プログラミング言語</title>
+      <link>https://fstar-lang.org/</link>
+      <guid isPermaLink="false">hn-49143925</guid>
+      <pubDate>Sun, 02 Aug 2026 12:31:16 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49143925</comments>
+      <description><![CDATA[<p>F*: A general-purpose proof-oriented programming language</p><p>133 points / 56 comments — by ducktective</p><p><a href="https://news.ycombinator.com/item?id=49143925">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[150pt] カーネル健全性バグ #14576 のポストモーテム</title>
-      <link>https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/</link>
-      <guid isPermaLink="false">hn-49137060</guid>
-      <pubDate>Sat, 01 Aug 2026 18:32:20 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49137060</comments>
-      <description><![CDATA[<p>Postmortem for Kernel Soundness Bug #14576</p><p>150 points / 57 comments — by juhopitk</p><p><a href="https://news.ycombinator.com/item?id=49137060">HNのコメントを読む</a></p>]]></description>
+      <title>[129pt] 折り紙地球儀</title>
+      <link>https://foldingglobes.com/globes</link>
+      <guid isPermaLink="false">hn-49093845</guid>
+      <pubDate>Wed, 29 Jul 2026 05:53:00 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49093845</comments>
+      <description><![CDATA[<p>Folding Paper Globes</p><p>129 points / 28 comments — by dango2506</p><p><a href="https://news.ycombinator.com/item?id=49093845">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[129pt] MI355XでKimi K3を実行。B300より優れたコスト当たり性能</title>
-      <link>https://www.wafer.ai/blog/kimi-k3-mi355x</link>
-      <guid isPermaLink="false">hn-49141073</guid>
-      <pubDate>Sun, 02 Aug 2026 04:21:14 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49141073</comments>
-      <description><![CDATA[<p>Running Kimi K3 on MI355X at Better Performance per Dollar Than B300</p><p>129 points / 39 comments — by ilreb</p><p><a href="https://news.ycombinator.com/item?id=49141073">HNのコメントを読む</a></p>]]></description>
+      <title>[128pt] Show HN: Kakehashi – Linux ARM上でmacOSバイナリを実行する試験的ユーザースペース</title>
+      <link>https://github.com/wie-project/kakehashi</link>
+      <guid isPermaLink="false">hn-49145937</guid>
+      <pubDate>Sun, 02 Aug 2026 16:26:40 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49145937</comments>
+      <description><![CDATA[<p>Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM</p><p>128 points / 32 comments — by vlad_kalinkin</p><p><a href="https://news.ycombinator.com/item?id=49145937">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[105pt] Androidの相互運用性における大きな勝利</title>
-      <link>https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/</link>
-      <guid isPermaLink="false">hn-49124051</guid>
-      <pubDate>Fri, 31 Jul 2026 15:01:07 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49124051</comments>
-      <description><![CDATA[<p>A big win for Android interoperability</p><p>105 points / 34 comments — by soheilpro</p><p><a href="https://news.ycombinator.com/item?id=49124051">HNのコメントを読む</a></p>]]></description>
+      <title>[107pt] SDL 2を使用したFasttracker IIクローン（C言語版）</title>
+      <link>https://16-bits.org/ft2.php</link>
+      <guid isPermaLink="false">hn-49094151</guid>
+      <pubDate>Wed, 29 Jul 2026 06:47:22 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49094151</comments>
+      <description><![CDATA[<p>Fasttracker II clone in C using SDL 2</p><p>107 points / 33 comments — by andsoitis</p><p><a href="https://news.ycombinator.com/item?id=49094151">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[97pt] でも、あなたの電卓は Linuxを実行できるか</title>
-      <link>https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html</link>
-      <guid isPermaLink="false">hn-49137713</guid>
-      <pubDate>Sat, 01 Aug 2026 19:44:48 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49137713</comments>
-      <description><![CDATA[<p>But can your calculator run Linux?</p><p>97 points / 9 comments — by jandeboevrie</p><p><a href="https://news.ycombinator.com/item?id=49137713">HNのコメントを読む</a></p>]]></description>
+      <title>[97pt] Show HN: Fuse – 静的型付き関数型プログラミング言語</title>
+      <link>https://fuselang.org</link>
+      <guid isPermaLink="false">hn-49143412</guid>
+      <pubDate>Sun, 02 Aug 2026 11:23:56 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49143412</comments>
+      <description><![CDATA[<p>Show HN: Fuse – statically typed functional programming language</p><p>97 points / 27 comments — by the_unproven</p><p><a href="https://news.ycombinator.com/item?id=49143412">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[90pt] Tailwind CSSをお勧めしない</title>
-      <link>https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/</link>
-      <guid isPermaLink="false">hn-49141891</guid>
-      <pubDate>Sun, 02 Aug 2026 07:09:38 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49141891</comments>
-      <description><![CDATA[<p>I don't recommend Tailwind CSS</p><p>90 points / 89 comments — by andros</p><p><a href="https://news.ycombinator.com/item?id=49141891">HNのコメントを読む</a></p>]]></description>
+      <title>[94pt] 開発者がツールに執着するのはツールが信頼をエンコードするから</title>
+      <link>https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/</link>
+      <guid isPermaLink="false">hn-49097961</guid>
+      <pubDate>Wed, 29 Jul 2026 14:25:54 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49097961</comments>
+      <description><![CDATA[<p>Developers are attached to tools because tools encode trust</p><p>94 points / 41 comments — by HieronymusBosch</p><p><a href="https://news.ycombinator.com/item?id=49097961">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[81pt] 習慣形成の謎を解き明かす</title>
-      <link>https://www.kyoto-u.ac.jp/en/research-news/2026-07-28</link>
-      <guid isPermaLink="false">hn-49139383</guid>
-      <pubDate>Sat, 01 Aug 2026 22:55:52 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49139383</comments>
-      <description><![CDATA[<p>Unraveling the mysteries of habit formation</p><p>81 points / 29 comments — by hhs</p><p><a href="https://news.ycombinator.com/item?id=49139383">HNのコメントを読む</a></p>]]></description>
+      <title>[79pt] 「この女性を潰せ」：eBay嫌がらせキャンペーンが5600万ドルの合意金に至った経緯</title>
+      <link>https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2</link>
+      <guid isPermaLink="false">hn-49147435</guid>
+      <pubDate>Sun, 02 Aug 2026 19:19:24 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49147435</comments>
+      <description><![CDATA[<p>'Crush this lady': how eBay harassment campaign led to $56M payout</p><p>79 points / 25 comments — by JumpCrisscross</p><p><a href="https://news.ycombinator.com/item?id=49147435">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[80pt] Atomはどの点ではRSSより優れているか</title>
-      <link>https://chrismorgan.info/atom%3Erss</link>
-      <guid isPermaLink="false">hn-49138897</guid>
-      <pubDate>Sat, 01 Aug 2026 22:00:16 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49138897</comments>
-      <description><![CDATA[<p>Atom is better than RSS, in ways that matter</p><p>80 points / 44 comments — by frizlab</p><p><a href="https://news.ycombinator.com/item?id=49138897">HNのコメントを読む</a></p>]]></description>
+      <title>[79pt] 交通カードが手描きで設計されていた時代（2022年）</title>
+      <link>https://letterformarchive.org/news/milwaukee-transit-passes/</link>
+      <guid isPermaLink="false">hn-49123003</guid>
+      <pubDate>Fri, 31 Jul 2026 13:38:04 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49123003</comments>
+      <description><![CDATA[<p>When transit passes were designed by hand (2022)</p><p>79 points / 20 comments — by nate</p><p><a href="https://news.ycombinator.com/item?id=49123003">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[75pt] Nyctography：ルイス・キャロルの置換暗号</title>
-      <link>https://en.wikipedia.org/wiki/Nyctography</link>
-      <guid isPermaLink="false">hn-49081851</guid>
-      <pubDate>Tue, 28 Jul 2026 10:30:02 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49081851</comments>
-      <description><![CDATA[<p>Nyctography: A substituton cypher by Lewis Carroll</p><p>75 points / 13 comments — by nanna</p><p><a href="https://news.ycombinator.com/item?id=49081851">HNのコメントを読む</a></p>]]></description>
+      <title>[69pt] Show HN: NixOS-DGX-Spark – DGX SparkでのNixとNixOS</title>
+      <link>https://github.com/graham33/nixos-dgx-spark</link>
+      <guid isPermaLink="false">hn-49146267</guid>
+      <pubDate>Sun, 02 Aug 2026 17:05:54 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49146267</comments>
+      <description><![CDATA[<p>Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark</p><p>69 points / 16 comments — by graham33</p><p><a href="https://news.ycombinator.com/item?id=49146267">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[66pt] ASRock BC-250: 予算重視のSteamマシン構築</title>
-      <link>https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/</link>
-      <guid isPermaLink="false">hn-49140213</guid>
-      <pubDate>Sun, 02 Aug 2026 01:35:11 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49140213</comments>
-      <description><![CDATA[<p>ASRock BC-250: Building the Budget Steam Machine</p><p>66 points / 25 comments — by plug_world</p><p><a href="https://news.ycombinator.com/item?id=49140213">HNのコメントを読む</a></p>]]></description>
+      <title>[66pt] TP-Link TL-841Nのroot化、ファームウェア解析、永続的な認証情報</title>
+      <link>https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/</link>
+      <guid isPermaLink="false">hn-49145883</guid>
+      <pubDate>Sun, 02 Aug 2026 16:19:17 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49145883</comments>
+      <description><![CDATA[<p>Rooting, firmware analysis and persistent credentials of TP-Link TL-841N</p><p>66 points / 10 comments — by mindracer</p><p><a href="https://news.ycombinator.com/item?id=49145883">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[60pt] RFC 10015: TLS 1.2およびDTLS 1.2の廃止予定の鍵交換方式</title>
-      <link>https://www.rfc-editor.org/rfc/rfc10015.html</link>
-      <guid isPermaLink="false">hn-49139711</guid>
-      <pubDate>Sat, 01 Aug 2026 23:44:55 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49139711</comments>
-      <description><![CDATA[<p>RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2</p><p>60 points / 15 comments — by Jimmc414</p><p><a href="https://news.ycombinator.com/item?id=49139711">HNのコメントを読む</a></p>]]></description>
+      <title>[65pt] 欧州EV販売でBEV50%増加、市場シェア26%に到達</title>
+      <link>https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/</link>
+      <guid isPermaLink="false">hn-49147450</guid>
+      <pubDate>Sun, 02 Aug 2026 19:20:50 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49147450</comments>
+      <description><![CDATA[<p>Europe EV Sales BEVs Jump 50% &amp; Reach 26% Market Share</p><p>65 points / 43 comments — by 01-_-</p><p><a href="https://news.ycombinator.com/item?id=49147450">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[58pt] MkLinuxとカスタマイズされたApple Workgroup Server 9150</title>
-      <link>http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html</link>
-      <guid isPermaLink="false">hn-49140702</guid>
-      <pubDate>Sun, 02 Aug 2026 03:12:52 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49140702</comments>
-      <description><![CDATA[<p>MkLinux and the pimped-out Apple Workgroup Server 9150</p><p>58 points / 2 comments — by goldenskye</p><p><a href="https://news.ycombinator.com/item?id=49140702">HNのコメントを読む</a></p>]]></description>
+      <title>[60pt] ノートテイングと個人的知識管理</title>
+      <link>https://unattributed.cc/note-taking-and-personal-knowledge-management</link>
+      <guid isPermaLink="false">hn-49084324</guid>
+      <pubDate>Tue, 28 Jul 2026 14:21:10 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49084324</comments>
+      <description><![CDATA[<p>Note-Taking and Personal Knowledge Management</p><p>60 points / 17 comments — by surprisetalk</p><p><a href="https://news.ycombinator.com/item?id=49084324">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[55pt] 深海探査機が太平洋の深くで『エイリアン』サメを発見</title>
-      <link>https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#</link>
-      <guid isPermaLink="false">hn-49140599</guid>
-      <pubDate>Sun, 02 Aug 2026 02:51:15 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49140599</comments>
-      <description><![CDATA[<p>Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific</p><p>55 points / 21 comments — by pkaeding</p><p><a href="https://news.ycombinator.com/item?id=49140599">HNのコメントを読む</a></p>]]></description>
+      <title>[47pt] 私の個人的なAIベンチマーク：「ハプスブルク家の顎を持つカエルのSVGを生成する」</title>
+      <link>https://frogs.vaguespac.es/</link>
+      <guid isPermaLink="false">hn-49147622</guid>
+      <pubDate>Sun, 02 Aug 2026 19:42:08 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49147622</comments>
+      <description><![CDATA[<p>My personal AI benchmark: "Generate an SVG of a frog with a Habsburg jaw."</p><p>47 points / 25 comments — by thebigship</p><p><a href="https://news.ycombinator.com/item?id=49147622">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[46pt] random.bytes()は実行されるが機能しない</title>
-      <link>https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt</link>
-      <guid isPermaLink="false">hn-49140405</guid>
-      <pubDate>Sun, 02 Aug 2026 02:08:26 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49140405</comments>
-      <description><![CDATA[<p>When random.bytes() runs but doesn't work</p><p>46 points / 20 comments — by Funes-</p><p><a href="https://news.ycombinator.com/item?id=49140405">HNのコメントを読む</a></p>]]></description>
+      <title>[33pt] AImania：チューリップからトークンへ</title>
+      <link>https://seanhelvey.com/tools-and-their-tools/</link>
+      <guid isPermaLink="false">hn-49148159</guid>
+      <pubDate>Sun, 02 Aug 2026 20:48:28 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49148159</comments>
+      <description><![CDATA[<p>AI Mania: From Tulips to Tokens</p><p>33 points / 20 comments — by Lambda11</p><p><a href="https://news.ycombinator.com/item?id=49148159">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[33pt] Elena、Progressive Web Componentsを構築するためのライブラリ</title>
-      <link>https://elenajs.com/</link>
-      <guid isPermaLink="false">hn-49109759</guid>
-      <pubDate>Thu, 30 Jul 2026 13:31:56 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49109759</comments>
-      <description><![CDATA[<p>Elena, a library for building Progressive Web Components</p><p>33 points / 2 comments — by brianzelip</p><p><a href="https://news.ycombinator.com/item?id=49109759">HNのコメントを読む</a></p>]]></description>
+      <title>[28pt] SSH認証情報の収集：ハニーポットネットワークからの知見</title>
+      <link>https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/</link>
+      <guid isPermaLink="false">hn-49146605</guid>
+      <pubDate>Sun, 02 Aug 2026 17:45:51 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49146605</comments>
+      <description><![CDATA[<p>Harvesting SSH Credentials: Insights from My Honeypot Network</p><p>28 points / 21 comments — by whatbackup</p><p><a href="https://news.ycombinator.com/item?id=49146605">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[22pt] 128ビットプロセッサの展望（John Mashey SGI 1995）</title>
-      <link>https://yarchive.net/comp/128bit.html</link>
-      <guid isPermaLink="false">hn-49140174</guid>
-      <pubDate>Sun, 02 Aug 2026 01:26:12 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49140174</comments>
-      <description><![CDATA[<p>The Prospects for 128 Bit Processors ( John Mashey SGI 1995)</p><p>22 points / 7 comments — by Alien1Being</p><p><a href="https://news.ycombinator.com/item?id=49140174">HNのコメントを読む</a></p>]]></description>
+      <title>[26pt] EU年齢確認プロジェクトがハードウェアバウンドアテステーションを義務化</title>
+      <link>https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/</link>
+      <guid isPermaLink="false">hn-49148128</guid>
+      <pubDate>Sun, 02 Aug 2026 20:44:24 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49148128</comments>
+      <description><![CDATA[<p>EU Age Verification Project Mandates Hardware-Bound Attestation</p><p>26 points / 10 comments — by RobotToaster</p><p><a href="https://news.ycombinator.com/item?id=49148128">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[18pt] 預言者としてのベケット</title>
-      <link>https://theamericanscholar.org/beckett-the-prophet/</link>
-      <guid isPermaLink="false">hn-49008010</guid>
-      <pubDate>Wed, 22 Jul 2026 15:08:20 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49008010</comments>
-      <description><![CDATA[<p>Beckett the Prophet</p><p>18 points / 1 comments — by samclemens</p><p><a href="https://news.ycombinator.com/item?id=49008010">HNのコメントを読む</a></p>]]></description>
+      <title>[15pt] 機械を中に入れよう</title>
+      <link>https://blog.semenzin.com/let-the-machines-in/</link>
+      <guid isPermaLink="false">hn-49147890</guid>
+      <pubDate>Sun, 02 Aug 2026 20:17:16 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49147890</comments>
+      <description><![CDATA[<p>Let the machines in</p><p>15 points / 2 comments — by lluvt</p><p><a href="https://news.ycombinator.com/item?id=49147890">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[15pt] Google検索の時間フィルターが数日前に破損</title>
-      <link>https://mastodon.online/@mwichary/117023736804129342</link>
-      <guid isPermaLink="false">hn-49142458</guid>
-      <pubDate>Sun, 02 Aug 2026 08:48:53 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49142458</comments>
-      <description><![CDATA[<p>The time filter in Google Search broke a few days ago</p><p>15 points / 4 comments — by latexr</p><p><a href="https://news.ycombinator.com/item?id=49142458">HNのコメントを読む</a></p>]]></description>
+      <title>[15pt] Snow Leopardの神話</title>
+      <link>https://www.rubenerd.au/the-myth-of-snow-leopard/</link>
+      <guid isPermaLink="false">hn-49146960</guid>
+      <pubDate>Sun, 02 Aug 2026 18:21:45 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49146960</comments>
+      <description><![CDATA[<p>The Myth of Snow Leopard</p><p>15 points / 2 comments — by speckx</p><p><a href="https://news.ycombinator.com/item?id=49146960">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[13pt] タートルにインスパイアされたインタラクティブPythonプロジェクト</title>
+      <link>https://www.codembark.com/projects/fv20lz9map/spider-web-drawing</link>
+      <guid isPermaLink="false">hn-49083146</guid>
+      <pubDate>Tue, 28 Jul 2026 13:00:56 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49083146</comments>
+      <description><![CDATA[<p>Turtle-inspired interactive Python project</p><p>13 points / 3 comments — by camdenreslink</p><p><a href="https://news.ycombinator.com/item?id=49083146">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
       <title>[13pt] 3社の買収企業を1つの統一されたウェブサイトに組織する方法</title>
@@ -209,28 +217,20 @@
       <description><![CDATA[<p>Conway's Game of Life, in real life</p><p>12 points / 1 comments — by ahlCVA</p><p><a href="https://news.ycombinator.com/item?id=47439821">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[10pt] OpenTelemetryでエスプレッソマシンを計測する</title>
-      <link>https://clickhouse.com/blog/espresso-machine-observability-with-otel</link>
-      <guid isPermaLink="false">hn-49107216</guid>
-      <pubDate>Thu, 30 Jul 2026 08:06:25 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49107216</comments>
-      <description><![CDATA[<p>Instrumenting my espresso machine with OpenTelemetry</p><p>10 points / 2 comments — by g0xA52A2A</p><p><a href="https://news.ycombinator.com/item?id=49107216">HNのコメントを読む</a></p>]]></description>
+      <title>[11pt] FamilyWildでX11サーバーをホスト間で共有する</title>
+      <link>https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/</link>
+      <guid isPermaLink="false">hn-49147978</guid>
+      <pubDate>Sun, 02 Aug 2026 20:26:47 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49147978</comments>
+      <description><![CDATA[<p>Sharing an X11 Server Across Hosts with FamilyWild</p><p>11 points / 2 comments — by shirozuki</p><p><a href="https://news.ycombinator.com/item?id=49147978">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[9pt] Show HN: Logan Basic v2.1 - オンラインBASICインタプリタ</title>
-      <link>https://sinusoft.com/loganbasic/</link>
-      <guid isPermaLink="false">hn-49115423</guid>
-      <pubDate>Thu, 30 Jul 2026 20:36:53 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49115423</comments>
-      <description><![CDATA[<p>Show HN: Logan Basic v2.1 - An online BASIC interpreter.</p><p>9 points / 3 comments — by Sinusoid314</p><p><a href="https://news.ycombinator.com/item?id=49115423">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[9pt] 数学者のいない数学</title>
-      <link>https://borretti.me/article/mathematics-without-mathematicians</link>
-      <guid isPermaLink="false">hn-49142083</guid>
-      <pubDate>Sun, 02 Aug 2026 07:47:26 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49142083</comments>
-      <description><![CDATA[<p>Mathematics Without Mathematicians</p><p>9 points / 1 comments — by varjag</p><p><a href="https://news.ycombinator.com/item?id=49142083">HNのコメントを読む</a></p>]]></description>
+      <title>[11pt] Show HN: Framework 12をきしむドアのような音にする</title>
+      <link>https://github.com/ArcaEge/creakwork12</link>
+      <guid isPermaLink="false">hn-49148048</guid>
+      <pubDate>Sun, 02 Aug 2026 20:33:01 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49148048</comments>
+      <description><![CDATA[<p>Show HN: Make your Framework 12 sound like a creaky door</p><p>11 points / 1 comments — by arcaege</p><p><a href="https://news.ycombinator.com/item?id=49148048">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
       <title>[9pt] Show HN: 2012年の自己署名証明書ジェネレータをGoで書き直した – cert-depot.com</title>

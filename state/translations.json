@@ -1,4 +1,8 @@
 {
+ "'Crush this lady': how eBay harassment campaign led to $56M payout": {
+  "ja": "「この女性を潰せ」：eBay嫌がらせキャンペーンが5600万ドルの合意金に至った経緯",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
+ },
  "2x, not 10x: coding with LLMs in 2026": {
   "ja": "2026年のLLMでのコーディング：2x、10xではなく",
   "ts": "2026-07-30T22:07:54.199767+00:00"
@@ -58,6 +62,10 @@
  "A.I. companies are recruiting electricians and carpenters by the thousands": {
   "ja": "AI企業が電気技師と大工を数千人規模で採用中",
   "ts": "2026-07-30T11:01:01.391674+00:00"
+ },
+ "AI Mania: From Tulips to Tokens": {
+  "ja": "AImania：チューリップからトークンへ",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
  },
  "AI doesn't generate working products, that's still your job": {
   "ja": "AIが機能する製品を生成することはない。それはあなたの仕事だ",
@@ -181,7 +189,7 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-08-02T10:28:27.316288+00:00"
+  "ts": "2026-08-02T21:48:24.550574+00:00"
  },
  "Cracking Windows Open: Porting RADV to Win32": {
   "ja": "WindowsをこじあくてRADVをWin32に移植する",
@@ -219,6 +227,10 @@
   "ja": "DRAM 読み取り干渉の解明：RowHammer と RowPress 現象",
   "ts": "2026-08-01T05:48:52.275506+00:00"
  },
+ "Developers are attached to tools because tools encode trust": {
+  "ja": "開発者がツールに執着するのはツールが信頼をエンコードするから",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
+ },
  "Discovering Cryptographic Weaknesses with Claude": {
   "ja": "Claudeで暗号学的な脆弱性を発見する",
   "ts": "2026-07-29T05:44:46.045064+00:00"
@@ -239,6 +251,10 @@
   "ja": "ESP32-C6消費電力: Arduino vs. Zephyr vs. ESP-IDF 比較",
   "ts": "2026-07-30T11:01:04.677477+00:00"
  },
+ "EU Age Verification Project Mandates Hardware-Bound Attestation": {
+  "ja": "EU年齢確認プロジェクトがハードウェアバウンドアテステーションを義務化",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
+ },
  "EU will mandate labels on authentic-looking AI content starting August 2": {
   "ja": "EUは8月2日から本物そっくりなAIコンテンツにラベルを付けることを義務付け",
   "ts": "2026-08-01T10:29:15.366156+00:00"
@@ -255,6 +271,10 @@
   "ja": "エレベーター",
   "ts": "2026-08-01T10:29:11.166381+00:00"
  },
+ "Europe EV Sales BEVs Jump 50% & Reach 26% Market Share": {
+  "ja": "欧州EV販売でBEV50%増加、市場シェア26%に到達",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
+ },
  "Everyone is building LLM routers, we deprecated ours": {
   "ja": "みんな LLM ルーターを構築している、我々は廃止した",
   "ts": "2026-07-31T21:59:31.804562+00:00"
@@ -263,6 +283,14 @@
   "ja": "探索的モデリング：K個の予測の最良部分での訓練",
   "ts": "2026-08-01T21:47:42.064746+00:00"
  },
+ "F*: A general-purpose proof-oriented programming language": {
+  "ja": "F* – 汎用証明指向プログラミング言語",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
+ },
+ "Fasttracker II clone in C using SDL 2": {
+  "ja": "SDL 2を使用したFasttracker IIクローン（C言語版）",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
+ },
  "Firefighter arson a long-standing issue – expert": {
   "ja": "消防士の放火は長年の課題 – 専門家",
   "ts": "2026-08-01T05:48:56.409000+00:00"
@@ -270,6 +298,10 @@
  "Flint: A Visualization Language for the AI Era": {
   "ja": "Flint: AI時代の可視化言語",
   "ts": "2026-08-01T21:47:35.631078+00:00"
+ },
+ "Folding Paper Globes": {
+  "ja": "折り紙地球儀",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
  },
  "Four Time Scales for Technology Development and Deployment": {
   "ja": "技術開発と展開の4つのタイムスケール",
@@ -339,6 +371,10 @@
   "ja": "Harmony Explained：音楽の科学理論への進展 (2012)",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "Harvesting SSH Credentials: Insights from My Honeypot Network": {
+  "ja": "SSH認証情報の収集：ハニーポットネットワークからの知見",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
+ },
  "Hooray for the Sockets Interface": {
   "ja": "Socketsインターフェースで万歳",
   "ts": "2026-07-29T11:17:33.572914+00:00"
@@ -363,6 +399,10 @@
   "ja": "エージェントにはどの程度委譲できるか",
   "ts": "2026-07-29T21:54:08.013720+00:00"
  },
+ "How the words we teach English language learners changed": {
+  "ja": "英語学習者に教える単語がどう変わったか",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
+ },
  "How to Survive Boiling Water": {
   "ja": "沸騰水での生き残り方",
   "ts": "2026-07-28T11:11:01.190453+00:00"
@@ -373,7 +413,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-02T10:28:27.316287+00:00"
+  "ts": "2026-08-02T21:48:24.550554+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -435,6 +475,10 @@
   "ja": "Kaisel – ルーズ・アズ・バリューズ。Dart 3ネイティブルータ・フォー・Flutter",
   "ts": "2026-08-01T21:47:42.064746+00:00"
  },
+ "Karpathy’s Pelican": {
+  "ja": "Karpathy's Pelican",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
+ },
  "Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga": {
   "ja": "Kenji/Serious Eats – 30分圧力鍋フォー・ガー",
   "ts": "2026-08-02T05:49:34.469571+00:00"
@@ -478,6 +522,10 @@
  "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences": {
   "ja": "LearnVector – Andrew Ngのことばアンドワンラーニング体験を構築するAI企業",
   "ts": "2026-07-29T11:17:33.572901+00:00"
+ },
+ "Let the machines in": {
+  "ja": "機械を中に入れよう",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
  },
  "Let's make the worst Htmx": {
   "ja": "最悪の Htmx を作ろう",
@@ -529,7 +577,7 @@
  },
  "Making your JITted Code known: Let me count the ways": {
   "ja": "JITコンパイルされたコードを知らせる: その方法を数えてみた",
-  "ts": "2026-08-02T10:28:27.316293+00:00"
+  "ts": "2026-08-02T21:48:24.550580+00:00"
  },
  "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)": {
   "ja": "Man and the Computer by John G. Kemeny（BASIC共同開発者による1972年の著作）",
@@ -547,6 +595,10 @@
   "ja": "Memo-1: Minitélをターミナルに使って1からビルドした6502コンピュータ",
   "ts": "2026-07-31T11:24:33.340240+00:00"
  },
+ "Meshdiff – visually compare two STL versions in the browser, client-side": {
+  "ja": "Meshdiff – ブラウザで2つのSTLバージョンを視覚的に比較、クライアント側処理",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
+ },
  "MkLinux and the pimped-out Apple Workgroup Server 9150": {
   "ja": "MkLinuxとカスタマイズされたApple Workgroup Server 9150",
   "ts": "2026-08-02T10:28:27.316279+00:00"
@@ -559,6 +611,10 @@
   "ja": "Waylandでの複数のマウスカーソル",
   "ts": "2026-07-29T05:44:50.795006+00:00"
  },
+ "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"": {
+  "ja": "私の個人的なAIベンチマーク：「ハプスブルク家の顎を持つカエルのSVGを生成する」",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
+ },
  "NSF pilots 4-year PhDs with industry research placements": {
   "ja": "NSF、業界研究配置を伴う4年間博士課程のパイロットプログラムを開始",
   "ts": "2026-07-30T05:33:36.898851+00:00"
@@ -570,6 +626,10 @@
  "New HIV vaccine shows unprecedented success in preclinical study": {
   "ja": "新しいHIVワクチン、前臨床試験で前例のない成功を示す",
   "ts": "2026-07-29T05:44:46.045034+00:00"
+ },
+ "Note-Taking and Personal Knowledge Management": {
+  "ja": "ノートテイングと個人的知識管理",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
  },
  "Now is the time to give LLMs access to the ACM digital library": {
   "ja": "LLMにACM Digital Libraryへのアクセスを与える時が来た",
@@ -655,6 +715,10 @@
   "ja": "RipGrep muslバイナリが大規模検索時に断続的にセグメンテーションフォルトを起こす",
   "ts": "2026-08-01T21:47:42.064746+00:00"
  },
+ "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N": {
+  "ja": "TP-Link TL-841Nのroot化、ファームウェア解析、永続的な認証情報",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
+ },
  "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s": {
   "ja": "Kimi K3 を 29 GB の RAM と毎秒 0.50 tok で実行",
   "ts": "2026-08-01T10:29:11.166406+00:00"
@@ -691,6 +755,10 @@
   "ja": "Kimi K3のセルフホスティング：ハードウェアコスト20%増で解決率20%向上",
   "ts": "2026-07-29T21:54:08.013720+00:00"
  },
+ "Sharing an X11 Server Across Hosts with FamilyWild": {
+  "ja": "FamilyWildでX11サーバーをホスト間で共有する",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
+ },
  "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem": {
   "ja": "Godot VRのシップとPSVR2へのポート：部分的事後検討",
   "ts": "2026-07-29T21:54:08.013720+00:00"
@@ -702,6 +770,10 @@
  "Show HN: A udev implementation in Guile Scheme": {
   "ja": "Show HN: Guile Schemeで実装したudev",
   "ts": "2026-07-31T11:24:36.992076+00:00"
+ },
+ "Show HN: Bor – Open-source policy management for Linux desktops": {
+  "ja": "Show HN: Bor – Linuxデスクトップ向けオープンソースポリシー管理",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
  },
  "Show HN: CheapFoodMap – A map of good meals under $10": {
   "ja": "Show HN: CheapFoodMap – 10ドル以下の食事マップ",
@@ -715,6 +787,10 @@
   "ja": "Show HN: DeepSeekをGPT-OSSに蒸留しても検閲は転送されない。試してみよ",
   "ts": "2026-07-31T11:24:33.340236+00:00"
  },
+ "Show HN: Fuse – statically typed functional programming language": {
+  "ja": "Show HN: Fuse – 静的型付き関数型プログラミング言語",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
+ },
  "Show HN: Gander, an Android file viewer that asks for no permissions at all": {
   "ja": "Show HN: Gander、一切の権限を要求しないAndroidファイルビューア",
   "ts": "2026-07-31T11:24:36.992076+00:00"
@@ -725,7 +801,7 @@
  },
  "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com": {
   "ja": "Show HN: 2012年の自己署名証明書ジェネレータをGoで書き直した – cert-depot.com",
-  "ts": "2026-08-02T10:28:27.316291+00:00"
+  "ts": "2026-08-02T21:48:24.550578+00:00"
  },
  "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript": {
   "ja": "Show HN: HNのリンクを開くたびに2つのタブを開くのに疲れたので、ユーザースクリプトを作った",
@@ -739,9 +815,21 @@
   "ja": "Show HN: 15歳のエンジニア志望です。自作したサイクロイド歯車です",
   "ts": "2026-08-02T10:28:27.316262+00:00"
  },
+ "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM": {
+  "ja": "Show HN: Kakehashi – Linux ARM上でmacOSバイナリを実行する試験的ユーザースペース",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
+ },
  "Show HN: Logan Basic v2.1 - An online BASIC interpreter.": {
   "ja": "Show HN: Logan Basic v2.1 - オンラインBASICインタプリタ",
   "ts": "2026-08-02T10:28:30.211842+00:00"
+ },
+ "Show HN: Make your Framework 12 sound like a creaky door": {
+  "ja": "Show HN: Framework 12をきしむドアのような音にする",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
+ },
+ "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark": {
+  "ja": "Show HN: NixOS-DGX-Spark – DGX SparkでのNixとNixOS",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
  },
  "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac": {
   "ja": "Show HN: M-series Macの2GBメモリでGemma 4 26Bを動かすオープンソースエンジン",
@@ -871,6 +959,10 @@
   "ja": "初の大西洋横断電信ケーブル – 大胆で美しい失敗",
   "ts": "2026-08-01T05:48:56.409000+00:00"
  },
+ "The Myth of Snow Leopard": {
+  "ja": "Snow Leopardの神話",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
+ },
  "The Productivity Mirage": {
   "ja": "生産性の蜃気楼",
   "ts": "2026-07-30T11:01:01.391676+00:00"
@@ -955,6 +1047,14 @@
   "ja": "ダムなエアコンをスマート化（敷金を失わずに）",
   "ts": "2026-07-30T11:01:01.391681+00:00"
  },
+ "Turtle-inspired interactive Python project": {
+  "ja": "タートルにインスパイアされたインタラクティブPythonプロジェクト",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
+ },
+ "Twenty Years of RISC OS Open": {
+  "ja": "RISC OS Openの20年",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
+ },
  "Twenty-five years ago it was cryptography, today it's model weights": {
   "ja": "25年前は暗号化、今はモデルウェイト",
   "ts": "2026-08-01T05:48:52.275489+00:00"
@@ -1018,6 +1118,10 @@
  "When random.bytes() runs but doesn't work": {
   "ja": "random.bytes()は実行されるが機能しない",
   "ts": "2026-08-02T10:28:27.316282+00:00"
+ },
+ "When transit passes were designed by hand (2022)": {
+  "ja": "交通カードが手描きで設計されていた時代（2022年）",
+  "ts": "2026-08-02T21:48:31.720714+00:00"
  },
  "Where USB Memory Sticks Are Born": {
   "ja": "USBメモリスティックはどこで作られるのか",
