@@ -59,9 +59,17 @@
   "ja": "AIが機能する製品を生成することはない。それはあなたの仕事だ",
   "ts": "2026-08-01T10:29:15.366156+00:00"
  },
+ "AI financial advice is surprisingly good, especially if you ask right questions": {
+  "ja": "AI財務アドバイスは意外に優秀。適切な質問をすれば特に",
+  "ts": "2026-08-02T05:49:41.204416+00:00"
+ },
  "AI's top startups are barely publishing their research": {
   "ja": "AIの有力スタートアップがほぼ研究発表をしていない",
   "ts": "2026-07-30T11:01:01.391668+00:00"
+ },
+ "ASRock BC-250: Building the Budget Steam Machine": {
+  "ja": "ASRock BC-250: 予算重視のSteamマシン構築",
+  "ts": "2026-08-02T05:49:41.204416+00:00"
  },
  "About the security content of macOS Tahoe 26.6": {
   "ja": "macOS Tahoe 26.6のセキュリティコンテンツについて",
@@ -107,6 +115,10 @@
   "ja": "宇宙飛行士、6ヶ月のミッション後も続く「観察者」の感覚を報告",
   "ts": "2026-07-28T05:23:02.934777+00:00"
  },
+ "Atom is better than RSS, in ways that matter": {
+  "ja": "Atomはどの点ではRSSより優れているか",
+  "ts": "2026-08-02T05:49:41.204416+00:00"
+ },
  "Atomarine: Nuclear Data Centers at Sea": {
   "ja": "Atomarine: 海上の原子力データセンター",
   "ts": "2026-07-30T11:01:04.677477+00:00"
@@ -125,7 +137,7 @@
  },
  "Beckett the Prophet": {
   "ja": "預言者としてのベケット",
-  "ts": "2026-08-01T21:47:35.631104+00:00"
+  "ts": "2026-08-02T05:49:34.469580+00:00"
  },
  "Benchmarking Opus 5 on SlopCodeBench": {
   "ja": "SlopCodeBenchでOpus 5をベンチマーク",
@@ -137,7 +149,7 @@
  },
  "But can your calculator run Linux?": {
   "ja": "でも、あなたの電卓は Linuxを実行できるか",
-  "ts": "2026-08-01T21:47:42.064746+00:00"
+  "ts": "2026-08-02T05:49:34.469574+00:00"
  },
  "C/C++ projects packaged for Zig": {
   "ja": "Zigでパッケージ化されたC/C++プロジェクト",
@@ -146,6 +158,10 @@
  "CISA Alert: Water Sector PLC Targeting": {
   "ja": "CISAアラート：水道セクターPLCへの攻撃",
   "ts": "2026-08-01T21:47:42.064746+00:00"
+ },
+ "China begins producing advanced chipmaking deep-ultraviolet lithography machines": {
+  "ja": "中国が先端チップ製造向け深紫外線リソグラフィ装置の生産を開始",
+  "ts": "2026-08-02T05:49:41.204416+00:00"
  },
  "Claude: Elevated errors across all models": {
   "ja": "Claude: 全モデルでのエラー上昇",
@@ -161,7 +177,7 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-08-01T10:29:11.166430+00:00"
+  "ts": "2026-08-02T05:49:34.469583+00:00"
  },
  "Cracking Windows Open: Porting RADV to Win32": {
   "ja": "WindowsをこじあくてRADVをWin32に移植する",
@@ -178,6 +194,10 @@
  "DMARC has been public since 2012 but most company domains still don't enforce it": {
   "ja": "DMARCは2012年から公開されているが、ほとんどの企業ドメインはまだこれを強制していない",
   "ts": "2026-07-28T21:57:37.461952+00:00"
+ },
+ "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific": {
+  "ja": "深海探査機が太平洋の深くで『エイリアン』サメを発見",
+  "ts": "2026-08-02T05:49:41.204416+00:00"
  },
  "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis": {
   "ja": "DeepSeek V4 Flash 0731 インテリジェンス、パフォーマンス、価格分析",
@@ -202,6 +222,10 @@
  "Document-borne AI worms can self-propagate through Copilot for Word": {
   "ja": "ドキュメント経由のAIワーム、Copilot for Wordを通じた自己伝播が可能",
   "ts": "2026-07-29T21:54:08.013720+00:00"
+ },
+ "Don't credit the LLM": {
+  "ja": "LLMを信用するな",
+  "ts": "2026-08-02T05:49:41.204416+00:00"
  },
  "Dubious research tied to Red Bull has shaped energy drink policy": {
   "ja": "Red Bull に関連した疑わしい研究がエナジードリンク政策を形作った",
@@ -239,6 +263,10 @@
   "ja": "Flint: AI時代の可視化言語",
   "ts": "2026-08-01T21:47:35.631078+00:00"
  },
+ "Four Time Scales for Technology Development and Deployment": {
+  "ja": "技術開発と展開の4つのタイムスケール",
+  "ts": "2026-08-02T05:49:41.204416+00:00"
+ },
  "G'mic 4.0: Squaring the Pixel, Easier": {
   "ja": "G'mic 4.0: ピクセルを二乗する、より簡単に",
   "ts": "2026-08-01T10:29:15.366156+00:00"
@@ -266,6 +294,10 @@
  "Glyphs 4 – the leading Mac font editor": {
   "ja": "Glyphs 4 – 業界標準のMacフォントエディタ",
   "ts": "2026-08-01T21:47:42.064746+00:00"
+ },
+ "Go 1.27 Interactive Tour": {
+  "ja": "Go 1.27 インタラクティブツアー",
+  "ts": "2026-08-02T05:49:41.204416+00:00"
  },
  "Golang proposal: container/: generic collection types": {
   "ja": "Golang提案：container/: ジェネリック コレクション型",
@@ -309,7 +341,7 @@
  },
  "How Google helped destroy adoption of RSS feeds (2023)": {
   "ja": "Googleはいかにして RSSフィードの採用を破壊したか（2023年）",
-  "ts": "2026-08-01T21:47:42.064746+00:00"
+  "ts": "2026-08-02T05:49:34.469546+00:00"
  },
  "How JPEG works: Interactively explore JPEG's lossy compression methods": {
   "ja": "JPEG の仕組み：JPEG のロッシー圧縮方法をインタラクティブに探索",
@@ -333,7 +365,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-01T21:47:35.631105+00:00"
+  "ts": "2026-08-02T05:49:34.469581+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -389,7 +421,7 @@
  },
  "Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga": {
   "ja": "Kenji/Serious Eats – 30分圧力鍋フォー・ガー",
-  "ts": "2026-08-01T21:47:42.064746+00:00"
+  "ts": "2026-08-02T05:49:34.469571+00:00"
  },
  "Keychron announces first open-source firmware for gaming mice": {
   "ja": "Keychronがゲーミングマウス向け初のオープンソースファームウェアを発表",
@@ -406,6 +438,10 @@
  "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)": {
   "ja": "Kimi Linear：表現力豊かで効率的なAttention Architecture (2025)",
   "ts": "2026-07-28T21:57:37.461952+00:00"
+ },
+ "Kobuk the Destroyer – Tales from the Wild, Unseen World of Test Engineering": {
+  "ja": "Kobuk the Destroyer – テストエンジニアリングの野生で未知の世界から",
+  "ts": "2026-08-02T05:49:41.204416+00:00"
  },
  "Kuna: Decompiler Development in the Age of Coding Agents": {
   "ja": "Kuna: コーディングエージェント時代のデコンパイラ開発",
@@ -434,6 +470,10 @@
  "Lightweight Spring Boot Monitoring Without Prometheus and Grafana": {
   "ja": "PrometheusとGrafanaなしのSpring Boot軽量モニタリング",
   "ts": "2026-07-29T05:44:50.795006+00:00"
+ },
+ "Linux desktop market share has hit over 10% in North America": {
+  "ja": "Linuxデスクトップのシェアが北米で10%を超えた",
+  "ts": "2026-08-02T05:49:41.204416+00:00"
  },
  "Linux on ESP32": {
   "ja": "ESP32上のLinux",
@@ -487,6 +527,10 @@
   "ja": "Memo-1: Minitélをターミナルに使って1からビルドした6502コンピュータ",
   "ts": "2026-07-31T11:24:33.340240+00:00"
  },
+ "MkLinux and the pimped-out Apple Workgroup Server 9150": {
+  "ja": "MkLinuxとカスタマイズされたApple Workgroup Server 9150",
+  "ts": "2026-08-02T05:49:41.204416+00:00"
+ },
  "More Tailscale tricks for your jailbroken Kindle": {
   "ja": "脱獄したKindleのためのTailscaleの便利な使い方",
   "ts": "2026-07-29T11:17:33.572899+00:00"
@@ -513,7 +557,7 @@
  },
  "Nyctography: A substituton cypher by Lewis Carroll": {
   "ja": "Nyctography：ルイス・キャロルの置換暗号",
-  "ts": "2026-08-01T21:47:42.064746+00:00"
+  "ts": "2026-08-02T05:49:34.469576+00:00"
  },
  "OpenAI just open-sourced Codex Security": {
   "ja": "OpenAIがCodex Securityをオープンソース化",
@@ -535,13 +579,21 @@
   "ja": "物理学者がミューオンの謎を解く。今、過去の結果が整合しない",
   "ts": "2026-07-31T11:24:33.340231+00:00"
  },
+ "Plug-in solar is coming. Plug-in batteries should follow": {
+  "ja": "プラグイン太陽光パネルが到来。プラグイン電池も後に続くはず",
+  "ts": "2026-08-02T05:49:41.204416+00:00"
+ },
  "Postmortem for Kernel Soundness Bug #14576": {
   "ja": "カーネル健全性バグ #14576 のポストモーテム",
-  "ts": "2026-08-01T21:47:42.064746+00:00"
+  "ts": "2026-08-02T05:49:34.469569+00:00"
  },
  "Programming Languages Are Authoring Tools for Platforms": {
   "ja": "プログラミング言語はプラットフォームのためのオーサリングツール",
   "ts": "2026-07-28T11:11:01.190453+00:00"
+ },
+ "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2": {
+  "ja": "RFC 10015: TLS 1.2およびDTLS 1.2の廃止予定の鍵交換方式",
+  "ts": "2026-08-02T05:49:41.204416+00:00"
  },
  "RTX 2080 Ti Memory Upgrade to 22 GB": {
   "ja": "RTX 2080 Tiメモリを22GBにアップグレード",
@@ -591,6 +643,10 @@
   "ja": "Rune 1.1: Python、Emacsエディタ、シンボルインデックスを追加、無料に",
   "ts": "2026-07-31T11:24:33.340238+00:00"
  },
+ "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300": {
+  "ja": "MI355XでKimi K3を実行。B300より優れたコスト当たり性能",
+  "ts": "2026-08-02T05:49:41.204416+00:00"
+ },
  "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers": {
   "ja": "SQLiteの本番運用: WALモード、並行性、VFSレイヤーの最適化",
   "ts": "2026-07-29T11:17:37.025431+00:00"
@@ -631,6 +687,10 @@
   "ja": "Show HN: CheapFoodMap – 10ドル以下の食事マップ",
   "ts": "2026-07-30T11:01:01.391680+00:00"
  },
+ "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators": {
+  "ja": "Show HN: CostPerPrompt – ライブAI APIの価格設定と実ワークロード経費計算ツール",
+  "ts": "2026-08-02T05:49:41.204416+00:00"
+ },
  "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it": {
   "ja": "Show HN: DeepSeekをGPT-OSSに蒸留しても検閲は転送されない。試してみよ",
   "ts": "2026-07-31T11:24:33.340236+00:00"
@@ -654,6 +714,10 @@
  "Show HN: I worked on a new browser for 2 years, today it passed Acid 3": {
   "ja": "Show HN: 2年間ブラウザ開発に取り組み、本日Acid 3をパス",
   "ts": "2026-08-01T05:48:56.409000+00:00"
+ },
+ "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built": {
+  "ja": "Show HN: 15歳のエンジニア志望です。自作したサイクロイド歯車です",
+  "ts": "2026-08-02T05:49:41.204416+00:00"
  },
  "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac": {
   "ja": "Show HN: M-series Macの2GBメモリでGemma 4 26Bを動かすオープンソースエンジン",
@@ -757,7 +821,7 @@
  },
  "The Art of 64-bit Assembly": {
   "ja": "64ビットアセンブリの芸術",
-  "ts": "2026-08-01T21:47:42.064746+00:00"
+  "ts": "2026-08-02T05:49:34.469566+00:00"
  },
  "The Burau representation of the braid group is faithful for n = 4": {
   "ja": "n=4のときのブレイド群のBurau表現は忠実である",
@@ -871,6 +935,10 @@
   "ja": "Una GPS スマートウォッチ－修理可能、USB-C充電、開発者フレンドリー",
   "ts": "2026-07-29T11:17:33.572896+00:00"
  },
+ "Unraveling the mysteries of habit formation": {
+  "ja": "習慣形成の謎を解き明かす",
+  "ts": "2026-08-02T05:49:41.204416+00:00"
+ },
  "Upper stage impacting the moon on 2026 August 5": {
   "ja": "2026年8月5日に月に衝突する上段ロケット",
   "ts": "2026-07-30T22:07:54.199767+00:00"
@@ -903,6 +971,10 @@
   "ja": "GPT 5.6 Solに実ビジネスをやらせたら嘘をついてスパムを送り$447失った",
   "ts": "2026-07-30T22:07:54.199767+00:00"
  },
+ "We accidentally built an LLVM compiler for Jax": {
+  "ja": "Jax向けのLLVMコンパイラを偶然開発した",
+  "ts": "2026-08-02T05:49:41.204416+00:00"
+ },
  "What Even Are Microservices?": {
   "ja": "マイクロサービスとは何か",
   "ts": "2026-07-28T11:11:01.190453+00:00"
@@ -910,6 +982,10 @@
  "What Liberal Arts Education Is for (2024)": {
   "ja": "リベラルアーツ教育の目的とは（2024年）",
   "ts": "2026-08-01T05:48:56.409000+00:00"
+ },
+ "When random.bytes() runs but doesn't work": {
+  "ja": "random.bytes()は実行されるが機能しない",
+  "ts": "2026-08-02T05:49:41.204416+00:00"
  },
  "Where USB Memory Sticks Are Born": {
   "ja": "USBメモリスティックはどこで作られるのか",
