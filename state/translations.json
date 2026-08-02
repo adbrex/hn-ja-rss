@@ -35,6 +35,10 @@
   "ja": "トランポリン",
   "ts": "2026-07-30T05:33:31.620488+00:00"
  },
+ "A big win for Android interoperability": {
+  "ja": "Androidの相互運用性における大きな勝利",
+  "ts": "2026-08-02T10:28:30.211842+00:00"
+ },
  "A directory of people who love RSS": {
   "ja": "RSSを愛する人々のディレクトリ",
   "ts": "2026-08-01T21:47:42.064746+00:00"
@@ -61,7 +65,7 @@
  },
  "AI financial advice is surprisingly good, especially if you ask right questions": {
   "ja": "AI財務アドバイスは意外に優秀。適切な質問をすれば特に",
-  "ts": "2026-08-02T05:49:41.204416+00:00"
+  "ts": "2026-08-02T10:28:27.316257+00:00"
  },
  "AI's top startups are barely publishing their research": {
   "ja": "AIの有力スタートアップがほぼ研究発表をしていない",
@@ -69,7 +73,7 @@
  },
  "ASRock BC-250: Building the Budget Steam Machine": {
   "ja": "ASRock BC-250: 予算重視のSteamマシン構築",
-  "ts": "2026-08-02T05:49:41.204416+00:00"
+  "ts": "2026-08-02T10:28:27.316275+00:00"
  },
  "About the security content of macOS Tahoe 26.6": {
   "ja": "macOS Tahoe 26.6のセキュリティコンテンツについて",
@@ -117,7 +121,7 @@
  },
  "Atom is better than RSS, in ways that matter": {
   "ja": "Atomはどの点ではRSSより優れているか",
-  "ts": "2026-08-02T05:49:41.204416+00:00"
+  "ts": "2026-08-02T10:28:27.316272+00:00"
  },
  "Atomarine: Nuclear Data Centers at Sea": {
   "ja": "Atomarine: 海上の原子力データセンター",
@@ -137,7 +141,7 @@
  },
  "Beckett the Prophet": {
   "ja": "預言者としてのベケット",
-  "ts": "2026-08-02T05:49:34.469580+00:00"
+  "ts": "2026-08-02T10:28:27.316285+00:00"
  },
  "Benchmarking Opus 5 on SlopCodeBench": {
   "ja": "SlopCodeBenchでOpus 5をベンチマーク",
@@ -149,7 +153,7 @@
  },
  "But can your calculator run Linux?": {
   "ja": "でも、あなたの電卓は Linuxを実行できるか",
-  "ts": "2026-08-02T05:49:34.469574+00:00"
+  "ts": "2026-08-02T10:28:27.316268+00:00"
  },
  "C/C++ projects packaged for Zig": {
   "ja": "Zigでパッケージ化されたC/C++プロジェクト",
@@ -177,7 +181,7 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-08-02T05:49:34.469583+00:00"
+  "ts": "2026-08-02T10:28:27.316288+00:00"
  },
  "Cracking Windows Open: Porting RADV to Win32": {
   "ja": "WindowsをこじあくてRADVをWin32に移植する",
@@ -197,7 +201,7 @@
  },
  "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific": {
   "ja": "深海探査機が太平洋の深くで『エイリアン』サメを発見",
-  "ts": "2026-08-02T05:49:41.204416+00:00"
+  "ts": "2026-08-02T10:28:27.316281+00:00"
  },
  "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis": {
   "ja": "DeepSeek V4 Flash 0731 インテリジェンス、パフォーマンス、価格分析",
@@ -242,6 +246,10 @@
  "EYG: A Programming Language for Humans": {
   "ja": "EYG: 人間のためのプログラミング言語",
   "ts": "2026-07-28T11:10:58.283738+00:00"
+ },
+ "Elena, a library for building Progressive Web Components": {
+  "ja": "Elena、Progressive Web Componentsを構築するためのライブラリ",
+  "ts": "2026-08-02T10:28:30.211842+00:00"
  },
  "Elevators": {
   "ja": "エレベーター",
@@ -297,7 +305,7 @@
  },
  "Go 1.27 Interactive Tour": {
   "ja": "Go 1.27 インタラクティブツアー",
-  "ts": "2026-08-02T05:49:41.204416+00:00"
+  "ts": "2026-08-02T10:28:27.316260+00:00"
  },
  "Golang proposal: container/: generic collection types": {
   "ja": "Golang提案：container/: ジェネリック コレクション型",
@@ -341,7 +349,7 @@
  },
  "How Google helped destroy adoption of RSS feeds (2023)": {
   "ja": "Googleはいかにして RSSフィードの採用を破壊したか（2023年）",
-  "ts": "2026-08-02T05:49:34.469546+00:00"
+  "ts": "2026-08-02T10:28:27.316240+00:00"
  },
  "How JPEG works: Interactively explore JPEG's lossy compression methods": {
   "ja": "JPEG の仕組み：JPEG のロッシー圧縮方法をインタラクティブに探索",
@@ -365,7 +373,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-02T05:49:34.469581+00:00"
+  "ts": "2026-08-02T10:28:27.316287+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -383,6 +391,10 @@
   "ja": "狩猟採集民が7000年前に山岳湖に魚を導入",
   "ts": "2026-07-29T21:54:08.013720+00:00"
  },
+ "I don't recommend Tailwind CSS": {
+  "ja": "Tailwind CSSをお勧めしない",
+  "ts": "2026-08-02T10:28:30.211842+00:00"
+ },
  "I flagged two research papers for fake authors and both were accepted as orals": {
   "ja": "架空の著者で査読論文2本にフラグを立てたら、両方がオーラルセッションに採択された",
   "ts": "2026-07-31T11:24:33.340232+00:00"
@@ -390,6 +402,10 @@
  "Increasing the lifespan of a bulb makes it worse in every other way": {
   "ja": "電球の寿命を延ばすことは他のあらゆる面で悪化させる",
   "ts": "2026-08-01T10:29:15.366156+00:00"
+ },
+ "Instrumenting my espresso machine with OpenTelemetry": {
+  "ja": "OpenTelemetryでエスプレッソマシンを計測する",
+  "ts": "2026-08-02T10:28:30.211842+00:00"
  },
  "Interview with Boris Cherny [video]": {
   "ja": "Boris Chenyのインタビュー [動画]",
@@ -513,7 +529,7 @@
  },
  "Making your JITted Code known: Let me count the ways": {
   "ja": "JITコンパイルされたコードを知らせる: その方法を数えてみた",
-  "ts": "2026-07-29T11:17:37.025431+00:00"
+  "ts": "2026-08-02T10:28:27.316293+00:00"
  },
  "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)": {
   "ja": "Man and the Computer by John G. Kemeny（BASIC共同開発者による1972年の著作）",
@@ -523,13 +539,17 @@
   "ja": "マニュアル：•.,:;…!?·",
   "ts": "2026-08-01T21:47:42.064746+00:00"
  },
+ "Mathematics Without Mathematicians": {
+  "ja": "数学者のいない数学",
+  "ts": "2026-08-02T10:28:30.211842+00:00"
+ },
  "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal": {
   "ja": "Memo-1: Minitélをターミナルに使って1からビルドした6502コンピュータ",
   "ts": "2026-07-31T11:24:33.340240+00:00"
  },
  "MkLinux and the pimped-out Apple Workgroup Server 9150": {
   "ja": "MkLinuxとカスタマイズされたApple Workgroup Server 9150",
-  "ts": "2026-08-02T05:49:41.204416+00:00"
+  "ts": "2026-08-02T10:28:27.316279+00:00"
  },
  "More Tailscale tricks for your jailbroken Kindle": {
   "ja": "脱獄したKindleのためのTailscaleの便利な使い方",
@@ -557,7 +577,7 @@
  },
  "Nyctography: A substituton cypher by Lewis Carroll": {
   "ja": "Nyctography：ルイス・キャロルの置換暗号",
-  "ts": "2026-08-02T05:49:34.469576+00:00"
+  "ts": "2026-08-02T10:28:27.316273+00:00"
  },
  "OpenAI just open-sourced Codex Security": {
   "ja": "OpenAIがCodex Securityをオープンソース化",
@@ -585,7 +605,7 @@
  },
  "Postmortem for Kernel Soundness Bug #14576": {
   "ja": "カーネル健全性バグ #14576 のポストモーテム",
-  "ts": "2026-08-02T05:49:34.469569+00:00"
+  "ts": "2026-08-02T10:28:27.316264+00:00"
  },
  "Programming Languages Are Authoring Tools for Platforms": {
   "ja": "プログラミング言語はプラットフォームのためのオーサリングツール",
@@ -593,7 +613,7 @@
  },
  "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2": {
   "ja": "RFC 10015: TLS 1.2およびDTLS 1.2の廃止予定の鍵交換方式",
-  "ts": "2026-08-02T05:49:41.204416+00:00"
+  "ts": "2026-08-02T10:28:27.316277+00:00"
  },
  "RTX 2080 Ti Memory Upgrade to 22 GB": {
   "ja": "RTX 2080 Tiメモリを22GBにアップグレード",
@@ -645,7 +665,7 @@
  },
  "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300": {
   "ja": "MI355XでKimi K3を実行。B300より優れたコスト当たり性能",
-  "ts": "2026-08-02T05:49:41.204416+00:00"
+  "ts": "2026-08-02T10:28:27.316266+00:00"
  },
  "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers": {
   "ja": "SQLiteの本番運用: WALモード、並行性、VFSレイヤーの最適化",
@@ -705,7 +725,7 @@
  },
  "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com": {
   "ja": "Show HN: 2012年の自己署名証明書ジェネレータをGoで書き直した – cert-depot.com",
-  "ts": "2026-07-29T11:17:37.025431+00:00"
+  "ts": "2026-08-02T10:28:27.316291+00:00"
  },
  "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript": {
   "ja": "Show HN: HNのリンクを開くたびに2つのタブを開くのに疲れたので、ユーザースクリプトを作った",
@@ -717,7 +737,11 @@
  },
  "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built": {
   "ja": "Show HN: 15歳のエンジニア志望です。自作したサイクロイド歯車です",
-  "ts": "2026-08-02T05:49:41.204416+00:00"
+  "ts": "2026-08-02T10:28:27.316262+00:00"
+ },
+ "Show HN: Logan Basic v2.1 - An online BASIC interpreter.": {
+  "ja": "Show HN: Logan Basic v2.1 - オンラインBASICインタプリタ",
+  "ts": "2026-08-02T10:28:30.211842+00:00"
  },
  "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac": {
   "ja": "Show HN: M-series Macの2GBメモリでGemma 4 26Bを動かすオープンソースエンジン",
@@ -851,6 +875,10 @@
   "ja": "生産性の蜃気楼",
   "ts": "2026-07-30T11:01:01.391676+00:00"
  },
+ "The Prospects for 128 Bit Processors ( John Mashey SGI 1995)": {
+  "ja": "128ビットプロセッサの展望（John Mashey SGI 1995）",
+  "ts": "2026-08-02T10:28:30.211842+00:00"
+ },
  "The Religion of Speed": {
   "ja": "速度の宗教",
   "ts": "2026-07-31T11:24:33.340233+00:00"
@@ -903,6 +931,10 @@
   "ja": "持ち運べないセッション",
   "ts": "2026-07-31T11:24:36.992076+00:00"
  },
+ "The time filter in Google Search broke a few days ago": {
+  "ja": "Google検索の時間フィルターが数日前に破損",
+  "ts": "2026-08-02T10:28:30.211842+00:00"
+ },
  "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted": {
   "ja": "Theo Conjecture、35年来の数学問題を解く、誰も予測しなかった項を発見",
   "ts": "2026-07-29T21:54:08.013720+00:00"
@@ -937,7 +969,7 @@
  },
  "Unraveling the mysteries of habit formation": {
   "ja": "習慣形成の謎を解き明かす",
-  "ts": "2026-08-02T05:49:41.204416+00:00"
+  "ts": "2026-08-02T10:28:27.316270+00:00"
  },
  "Upper stage impacting the moon on 2026 August 5": {
   "ja": "2026年8月5日に月に衝突する上段ロケット",
@@ -985,7 +1017,7 @@
  },
  "When random.bytes() runs but doesn't work": {
   "ja": "random.bytes()は実行されるが機能しない",
-  "ts": "2026-08-02T05:49:41.204416+00:00"
+  "ts": "2026-08-02T10:28:27.316282+00:00"
  },
  "Where USB Memory Sticks Are Born": {
   "ja": "USBメモリスティックはどこで作られるのか",
