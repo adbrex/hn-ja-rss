@@ -75,6 +75,10 @@
   "ja": "AI財務アドバイスは意外に優秀。適切な質問をすれば特に",
   "ts": "2026-08-02T10:28:27.316257+00:00"
  },
+ "AI migrated legacy COBOL programs to Java, bugs included": {
+  "ja": "AIがレガシーCOBOLプログラムをJavaに移行、バグ込みで",
+  "ts": "2026-08-03T06:14:03.792442+00:00"
+ },
  "AI's top startups are barely publishing their research": {
   "ja": "AIの有力スタートアップがほぼ研究発表をしていない",
   "ts": "2026-07-30T11:01:01.391668+00:00"
@@ -143,6 +147,10 @@
   "ja": "認証ではなく認可を",
   "ts": "2026-08-01T05:48:52.275504+00:00"
  },
+ "Autoregressive Language Model on the 6502 Processor": {
+  "ja": "6502プロセッサ上の自己回帰言語モデル",
+  "ts": "2026-08-03T06:14:03.792442+00:00"
+ },
  "BMW Spider-Man in-car advertising": {
   "ja": "BMW Spider-Man車内広告",
   "ts": "2026-08-01T05:48:56.409000+00:00"
@@ -171,6 +179,10 @@
   "ja": "CISAアラート：水道セクターPLCへの攻撃",
   "ts": "2026-08-01T21:47:42.064746+00:00"
  },
+ "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K": {
+  "ja": "CP/M-386 – 386保護モード用CP/M、CP/M‑68Kから派生",
+  "ts": "2026-08-03T06:14:03.792442+00:00"
+ },
  "China begins producing advanced chipmaking deep-ultraviolet lithography machines": {
   "ja": "中国が先端チップ製造向け深紫外線リソグラフィ装置の生産を開始",
   "ts": "2026-08-02T05:49:41.204416+00:00"
@@ -189,11 +201,15 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-08-02T21:48:24.550574+00:00"
+  "ts": "2026-08-03T06:13:57.452089+00:00"
  },
  "Cracking Windows Open: Porting RADV to Win32": {
   "ja": "WindowsをこじあくてRADVをWin32に移植する",
   "ts": "2026-07-29T11:17:37.025431+00:00"
+ },
+ "Cro – elegant reactive services in Raku": {
+  "ja": "Cro – Rakuの優雅なリアクティブサービス",
+  "ts": "2026-08-03T06:14:03.792442+00:00"
  },
  "Cursor removed cost information from the usage page and CSV export": {
   "ja": "Cursorが使用ページとCSVエクスポートからコスト情報を削除",
@@ -229,7 +245,7 @@
  },
  "Developers are attached to tools because tools encode trust": {
   "ja": "開発者がツールに執着するのはツールが信頼をエンコードするから",
-  "ts": "2026-08-02T21:48:31.720714+00:00"
+  "ts": "2026-08-03T06:13:57.452071+00:00"
  },
  "Discovering Cryptographic Weaknesses with Claude": {
   "ja": "Claudeで暗号学的な脆弱性を発見する",
@@ -289,7 +305,7 @@
  },
  "Fasttracker II clone in C using SDL 2": {
   "ja": "SDL 2を使用したFasttracker IIクローン（C言語版）",
-  "ts": "2026-08-02T21:48:31.720714+00:00"
+  "ts": "2026-08-03T06:13:57.452078+00:00"
  },
  "Firefighter arson a long-standing issue – expert": {
   "ja": "消防士の放火は長年の課題 – 専門家",
@@ -401,7 +417,7 @@
  },
  "How the words we teach English language learners changed": {
   "ja": "英語学習者に教える単語がどう変わったか",
-  "ts": "2026-08-02T21:48:31.720714+00:00"
+  "ts": "2026-08-03T06:13:57.452069+00:00"
  },
  "How to Survive Boiling Water": {
   "ja": "沸騰水での生き残り方",
@@ -413,7 +429,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-02T21:48:24.550554+00:00"
+  "ts": "2026-08-03T06:13:57.452087+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -477,7 +493,7 @@
  },
  "Karpathy’s Pelican": {
   "ja": "Karpathy's Pelican",
-  "ts": "2026-08-02T21:48:31.720714+00:00"
+  "ts": "2026-08-03T06:13:57.452049+00:00"
  },
  "Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga": {
   "ja": "Kenji/Serious Eats – 30分圧力鍋フォー・ガー",
@@ -615,6 +631,10 @@
   "ja": "私の個人的なAIベンチマーク：「ハプスブルク家の顎を持つカエルのSVGを生成する」",
   "ts": "2026-08-02T21:48:31.720714+00:00"
  },
+ "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”": {
+  "ja": "個人用AIベンチマーク: ハプスブルク家の顎を持つカエルのSVGを生成する",
+  "ts": "2026-08-03T06:14:03.792442+00:00"
+ },
  "NSF pilots 4-year PhDs with industry research placements": {
   "ja": "NSF、業界研究配置を伴う4年間博士課程のパイロットプログラムを開始",
   "ts": "2026-07-30T05:33:36.898851+00:00"
@@ -629,7 +649,7 @@
  },
  "Note-Taking and Personal Knowledge Management": {
   "ja": "ノートテイングと個人的知識管理",
-  "ts": "2026-08-02T21:48:31.720714+00:00"
+  "ts": "2026-08-03T06:13:57.452073+00:00"
  },
  "Now is the time to give LLMs access to the ACM digital library": {
   "ja": "LLMにACM Digital Libraryへのアクセスを与える時が来た",
@@ -642,6 +662,10 @@
  "OpenAI just open-sourced Codex Security": {
   "ja": "OpenAIがCodex Securityをオープンソース化",
   "ts": "2026-07-28T21:57:37.461952+00:00"
+ },
+ "OpenAI's super PAC is funding AI-generated news site attacking industry critics": {
+  "ja": "OpenAIのスーパーPACが業界批評家を攻撃するAI生成ニュースサイトに資金提供",
+  "ts": "2026-08-03T06:14:03.792442+00:00"
  },
  "Orca-Bench: How Ready Are Language Model Agents for Oncall?": {
   "ja": "Orca-Bench：言語モデルエージェントはオンコール対応の準備ができているか",
@@ -671,9 +695,17 @@
   "ja": "プログラミング言語はプラットフォームのためのオーサリングツール",
   "ts": "2026-07-28T11:11:01.190453+00:00"
  },
+ "Qwen3.8-Max: A New Bar for Coding and Cowork": {
+  "ja": "Qwen3.8-Max: コーディングと協働の新しい基準",
+  "ts": "2026-08-03T06:14:03.792442+00:00"
+ },
  "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2": {
   "ja": "RFC 10015: TLS 1.2およびDTLS 1.2の廃止予定の鍵交換方式",
   "ts": "2026-08-02T10:28:27.316277+00:00"
+ },
+ "RFC 9851: TLS 1.2 is in Feature Freeze": {
+  "ja": "RFC 9851: TLS 1.2がフィーチャーフリーズ状態に",
+  "ts": "2026-08-03T06:14:03.792442+00:00"
  },
  "RTX 2080 Ti Memory Upgrade to 22 GB": {
   "ja": "RTX 2080 Tiメモリを22GBにアップグレード",
@@ -686,6 +718,10 @@
  "ReFrame – The EPaper Camera": {
   "ja": "ReFrame – EPaper Camera",
   "ts": "2026-07-29T11:17:33.572908+00:00"
+ },
+ "Read the novels and forget everything else": {
+  "ja": "小説を読んで他は全て忘れる",
+  "ts": "2026-08-03T06:14:03.792442+00:00"
  },
  "Read this before you buy that TV streaming stick": {
   "ja": "TVストリーミングスティックを買う前にこれを読め",
@@ -717,7 +753,7 @@
  },
  "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N": {
   "ja": "TP-Link TL-841Nのroot化、ファームウェア解析、永続的な認証情報",
-  "ts": "2026-08-02T21:48:31.720714+00:00"
+  "ts": "2026-08-03T06:13:57.452082+00:00"
  },
  "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s": {
   "ja": "Kimi K3 を 29 GB の RAM と毎秒 0.50 tok で実行",
@@ -762,6 +798,10 @@
  "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem": {
   "ja": "Godot VRのシップとPSVR2へのポート：部分的事後検討",
   "ts": "2026-07-29T21:54:08.013720+00:00"
+ },
+ "Show HN: A Handwritten Blogging Platform": {
+  "ja": "Show HN: 手書きブログプラットフォーム",
+  "ts": "2026-08-03T06:14:03.792442+00:00"
  },
  "Show HN: A local merge queue for parallel Claude Code agents": {
   "ja": "Show HN: 並列Claude Codeエージェント用のローカルマージキュー",
@@ -815,9 +855,13 @@
   "ja": "Show HN: 15歳のエンジニア志望です。自作したサイクロイド歯車です",
   "ts": "2026-08-02T10:28:27.316262+00:00"
  },
+ "Show HN: Isopolis – Isometric pixel map of SF": {
+  "ja": "Show HN: Isopolis – SFのアイソメトリックピクセルマップ",
+  "ts": "2026-08-03T06:14:03.792442+00:00"
+ },
  "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM": {
   "ja": "Show HN: Kakehashi – Linux ARM上でmacOSバイナリを実行する試験的ユーザースペース",
-  "ts": "2026-08-02T21:48:31.720714+00:00"
+  "ts": "2026-08-03T06:13:57.452066+00:00"
  },
  "Show HN: Logan Basic v2.1 - An online BASIC interpreter.": {
   "ja": "Show HN: Logan Basic v2.1 - オンラインBASICインタプリタ",
@@ -825,11 +869,11 @@
  },
  "Show HN: Make your Framework 12 sound like a creaky door": {
   "ja": "Show HN: Framework 12をきしむドアのような音にする",
-  "ts": "2026-08-02T21:48:31.720714+00:00"
+  "ts": "2026-08-03T06:13:57.452085+00:00"
  },
  "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark": {
   "ja": "Show HN: NixOS-DGX-Spark – DGX SparkでのNixとNixOS",
-  "ts": "2026-08-02T21:48:31.720714+00:00"
+  "ts": "2026-08-03T06:13:57.452080+00:00"
  },
  "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac": {
   "ja": "Show HN: M-series Macの2GBメモリでGemma 4 26Bを動かすオープンソースエンジン",
@@ -838,6 +882,10 @@
  "Show HN: Optimize and serve models with Fable quality at half the cost": {
   "ja": "Show HN: Fable品質のモデルを半分のコストで最適化して提供",
   "ts": "2026-07-30T22:07:54.199767+00:00"
+ },
+ "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours": {
+  "ja": "Show HN: Shitty – 高速ターミナル。メモリアンセーフでお前のより高速",
+  "ts": "2026-08-03T06:14:03.792442+00:00"
  },
  "Show HN: Supapool – a Supabase per coding agent in ~400 ms": {
   "ja": "Show HN: Supapool – ~400msで1つのSuabaseあたり1つのコーディングエージェント",
@@ -899,6 +947,10 @@
   "ja": "Substackのライター諸君、ウェブサイトが必要だ",
   "ts": "2026-07-29T11:17:33.572867+00:00"
  },
+ "SwiftUI After 7 Years": {
+  "ja": "7年後のSwiftUI",
+  "ts": "2026-08-03T06:14:03.792442+00:00"
+ },
  "Tailscale didn't stop the Hugging Face intrusion": {
   "ja": "Tailscale は Hugging Face への侵入を防げなかった",
   "ts": "2026-08-01T05:48:52.275485+00:00"
@@ -942,6 +994,10 @@
  "The Cold Email": {
   "ja": "コールドメール",
   "ts": "2026-07-30T11:01:01.391678+00:00"
+ },
+ "The Computational Theory of Mind (2015)": {
+  "ja": "心の計算論 (2015)",
+  "ts": "2026-08-03T06:14:03.792442+00:00"
  },
  "The Difference Between a Button and a Link": {
   "ja": "ボタンとリンクの違い",
@@ -1018,6 +1074,10 @@
  "The most official water costs $120k a gallon": {
   "ja": "最も公式な水は 1 ガロン 12 万ドル",
   "ts": "2026-08-01T10:29:11.166412+00:00"
+ },
+ "The myth of Snow Leopard": {
+  "ja": "Snow Leopardの神話",
+  "ts": "2026-08-03T06:14:03.792442+00:00"
  },
  "The session you cannot take with you": {
   "ja": "持ち運べないセッション",
@@ -1121,7 +1181,7 @@
  },
  "When transit passes were designed by hand (2022)": {
   "ja": "交通カードが手描きで設計されていた時代（2022年）",
-  "ts": "2026-08-02T21:48:31.720714+00:00"
+  "ts": "2026-08-03T06:13:57.452076+00:00"
  },
  "Where USB Memory Sticks Are Born": {
   "ja": "USBメモリスティックはどこで作られるのか",
@@ -1130,6 +1190,10 @@
  "Where USB Memory Sticks are Born (2013)": {
   "ja": "USBメモリスティックの製造地 (2013)",
   "ts": "2026-07-31T11:24:36.992076+00:00"
+ },
+ "Why Book Corners won't sync contributions back to OpenStreetMap": {
+  "ja": "Book CornerがOpenStreetMapに貢献を同期バックしない理由",
+  "ts": "2026-08-03T06:14:03.792442+00:00"
  },
  "Why DNA damage from smoking and UV rays cause cancer in some but not others": {
   "ja": "喫煙とUV放射によるDNA損傷がなぜ人によってがんの原因になったりならなかったりするのか",
@@ -1142,6 +1206,10 @@
  "Why is everyone trying to build a solid-state battery?": {
   "ja": "なぜ全員が全固体電池の開発を試みているのか",
   "ts": "2026-07-30T22:07:54.199767+00:00"
+ },
+ "Why we write our own C and C++ inference engines": {
+  "ja": "独自のCとC++推論エンジンを書く理由",
+  "ts": "2026-08-03T06:14:03.792442+00:00"
  },
  "Zig's Incremental Compilation Internals": {
   "ja": "Zigのインクリメンタルコンパイルの内部構造",
