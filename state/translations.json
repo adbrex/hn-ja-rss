@@ -15,6 +15,10 @@
   "ja": "日本で7.1の地震",
   "ts": "2026-07-28T11:11:01.190453+00:00"
  },
+ "9front \"This Was Supposed to Be Fun\" Released": {
+  "ja": "9front \"This Was Supposed to Be Fun\" リリース",
+  "ts": "2026-08-03T12:15:46.460959+00:00"
+ },
  "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review": {
   "ja": "$500のRL微調整9Bオープンモデルがカタログレビューでフロンティアモデルをベンチマーク",
   "ts": "2026-07-28T11:10:58.283721+00:00"
@@ -149,7 +153,7 @@
  },
  "Autoregressive Language Model on the 6502 Processor": {
   "ja": "6502プロセッサ上の自己回帰言語モデル",
-  "ts": "2026-08-03T06:14:03.792442+00:00"
+  "ts": "2026-08-03T12:15:41.058720+00:00"
  },
  "BMW Spider-Man in-car advertising": {
   "ja": "BMW Spider-Man車内広告",
@@ -167,6 +171,10 @@
   "ja": "ギリシャとローマを超えて",
   "ts": "2026-07-29T05:44:50.795006+00:00"
  },
+ "Bonsai: Janestreet's UI Library": {
+  "ja": "Bonsai: Janestreetの UI ライブラリ",
+  "ts": "2026-08-03T12:15:46.460959+00:00"
+ },
  "But can your calculator run Linux?": {
   "ja": "でも、あなたの電卓は Linuxを実行できるか",
   "ts": "2026-08-02T10:28:27.316268+00:00"
@@ -181,7 +189,7 @@
  },
  "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K": {
   "ja": "CP/M-386 – 386保護モード用CP/M、CP/M‑68Kから派生",
-  "ts": "2026-08-03T06:14:03.792442+00:00"
+  "ts": "2026-08-03T12:15:41.058724+00:00"
  },
  "China begins producing advanced chipmaking deep-ultraviolet lithography machines": {
   "ja": "中国が先端チップ製造向け深紫外線リソグラフィ装置の生産を開始",
@@ -199,13 +207,21 @@
   "ja": "並行性、対話性、可変性、2つを選べ",
   "ts": "2026-07-30T11:01:04.677477+00:00"
  },
+ "Convergence is not enough": {
+  "ja": "収束では足りない",
+  "ts": "2026-08-03T12:15:46.460959+00:00"
+ },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-08-03T06:13:57.452089+00:00"
+  "ts": "2026-08-03T12:15:41.058728+00:00"
  },
  "Cracking Windows Open: Porting RADV to Win32": {
   "ja": "WindowsをこじあくてRADVをWin32に移植する",
   "ts": "2026-07-29T11:17:37.025431+00:00"
+ },
+ "Critical CVE issued for hallucinated SQLite vulnerability": {
+  "ja": "架空のSQLite脆弱性について発行された重大なCVE",
+  "ts": "2026-08-03T12:15:46.460959+00:00"
  },
  "Cro – elegant reactive services in Raku": {
   "ja": "Cro – Rakuの優雅なリアクティブサービス",
@@ -245,7 +261,7 @@
  },
  "Developers are attached to tools because tools encode trust": {
   "ja": "開発者がツールに執着するのはツールが信頼をエンコードするから",
-  "ts": "2026-08-03T06:13:57.452071+00:00"
+  "ts": "2026-08-03T12:15:41.058714+00:00"
  },
  "Discovering Cryptographic Weaknesses with Claude": {
   "ja": "Claudeで暗号学的な脆弱性を発見する",
@@ -254,6 +270,10 @@
  "Document-borne AI worms can self-propagate through Copilot for Word": {
   "ja": "ドキュメント経由のAIワーム、Copilot for Wordを通じた自己伝播が可能",
   "ts": "2026-07-29T21:54:08.013720+00:00"
+ },
+ "Don't be a meat proxy": {
+  "ja": "ミートプロキシになるな",
+  "ts": "2026-08-03T12:15:46.460959+00:00"
  },
  "Don't credit the LLM": {
   "ja": "LLMを信用するな",
@@ -429,7 +449,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-03T06:13:57.452087+00:00"
+  "ts": "2026-08-03T12:15:41.058727+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -454,6 +474,10 @@
  "I flagged two research papers for fake authors and both were accepted as orals": {
   "ja": "架空の著者で査読論文2本にフラグを立てたら、両方がオーラルセッションに採択された",
   "ts": "2026-07-31T11:24:33.340232+00:00"
+ },
+ "ICE Collected Nearly 1M People's DNA Last Year–Including Young Children": {
+  "ja": "ICEが昨年およそ100万人のDNAを収集—幼い子どもを含む",
+  "ts": "2026-08-03T12:15:46.460959+00:00"
  },
  "Increasing the lifespan of a bulb makes it worse in every other way": {
   "ja": "電球の寿命を延ばすことは他のあらゆる面で悪化させる",
@@ -649,7 +673,7 @@
  },
  "Note-Taking and Personal Knowledge Management": {
   "ja": "ノートテイングと個人的知識管理",
-  "ts": "2026-08-03T06:13:57.452073+00:00"
+  "ts": "2026-08-03T12:15:41.058716+00:00"
  },
  "Now is the time to give LLMs access to the ACM digital library": {
   "ja": "LLMにACM Digital Libraryへのアクセスを与える時が来た",
@@ -658,6 +682,10 @@
  "Nyctography: A substituton cypher by Lewis Carroll": {
   "ja": "Nyctography：ルイス・キャロルの置換暗号",
   "ts": "2026-08-02T10:28:27.316273+00:00"
+ },
+ "Octane – React's programming model, compiled": {
+  "ja": "Octane – Reactのプログラミングモデルをコンパイル",
+  "ts": "2026-08-03T12:15:46.460959+00:00"
  },
  "OpenAI just open-sourced Codex Security": {
   "ja": "OpenAIがCodex Securityをオープンソース化",
@@ -675,6 +703,10 @@
   "ja": "オープンウェイトモデルに対する当社の立場",
   "ts": "2026-07-28T11:10:58.283692+00:00"
  },
+ "PISIGuard: Protect your personal and sensitive info when you chat with AI": {
+  "ja": "PISIGuard: AIとのチャットで個人情報と機密情報を保護",
+  "ts": "2026-08-03T12:15:46.460959+00:00"
+ },
  "Pgtestdb's template cloning approach to testing is fast": {
   "ja": "Pgtestdbのテンプレートクローニングアプローチによるテストの高速化",
   "ts": "2026-08-01T21:47:42.064746+00:00"
@@ -691,13 +723,17 @@
   "ja": "カーネル健全性バグ #14576 のポストモーテム",
   "ts": "2026-08-02T10:28:27.316264+00:00"
  },
+ "Prevent cognitive debt by manually retyping LLM-generated code": {
+  "ja": "LLMが生成したコードを手動で再入力して認知的債務を防ぐ",
+  "ts": "2026-08-03T12:15:46.460959+00:00"
+ },
  "Programming Languages Are Authoring Tools for Platforms": {
   "ja": "プログラミング言語はプラットフォームのためのオーサリングツール",
   "ts": "2026-07-28T11:11:01.190453+00:00"
  },
  "Qwen3.8-Max: A New Bar for Coding and Cowork": {
   "ja": "Qwen3.8-Max: コーディングと協働の新しい基準",
-  "ts": "2026-08-03T06:14:03.792442+00:00"
+  "ts": "2026-08-03T12:15:41.058690+00:00"
  },
  "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2": {
   "ja": "RFC 10015: TLS 1.2およびDTLS 1.2の廃止予定の鍵交換方式",
@@ -767,6 +803,10 @@
   "ja": "MI355XでKimi K3を実行。B300より優れたコスト当たり性能",
   "ts": "2026-08-02T10:28:27.316266+00:00"
  },
+ "Rust project goals: Immobile types and guaranteed destructors": {
+  "ja": "Rustプロジェクトの目標：不動型と保証されたデストラクタ",
+  "ts": "2026-08-03T12:15:46.460959+00:00"
+ },
  "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers": {
   "ja": "SQLiteの本番運用: WALモード、並行性、VFSレイヤーの最適化",
   "ts": "2026-07-29T11:17:37.025431+00:00"
@@ -801,7 +841,7 @@
  },
  "Show HN: A Handwritten Blogging Platform": {
   "ja": "Show HN: 手書きブログプラットフォーム",
-  "ts": "2026-08-03T06:14:03.792442+00:00"
+  "ts": "2026-08-03T12:15:41.058718+00:00"
  },
  "Show HN: A local merge queue for parallel Claude Code agents": {
   "ja": "Show HN: 並列Claude Codeエージェント用のローカルマージキュー",
@@ -857,11 +897,11 @@
  },
  "Show HN: Isopolis – Isometric pixel map of SF": {
   "ja": "Show HN: Isopolis – SFのアイソメトリックピクセルマップ",
-  "ts": "2026-08-03T06:14:03.792442+00:00"
+  "ts": "2026-08-03T12:15:41.058710+00:00"
  },
  "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM": {
   "ja": "Show HN: Kakehashi – Linux ARM上でmacOSバイナリを実行する試験的ユーザースペース",
-  "ts": "2026-08-03T06:13:57.452066+00:00"
+  "ts": "2026-08-03T12:15:41.058712+00:00"
  },
  "Show HN: Logan Basic v2.1 - An online BASIC interpreter.": {
   "ja": "Show HN: Logan Basic v2.1 - オンラインBASICインタプリタ",
@@ -870,6 +910,10 @@
  "Show HN: Make your Framework 12 sound like a creaky door": {
   "ja": "Show HN: Framework 12をきしむドアのような音にする",
   "ts": "2026-08-03T06:13:57.452085+00:00"
+ },
+ "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone": {
+  "ja": "Show HN: Nightcrawler – スマートフォン上で動作するローカルAIペネストレーションテストエージェント",
+  "ts": "2026-08-03T12:15:46.460959+00:00"
  },
  "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark": {
   "ja": "Show HN: NixOS-DGX-Spark – DGX SparkでのNixとNixOS",
@@ -891,6 +935,10 @@
   "ja": "Show HN: Supapool – ~400msで1つのSuabaseあたり1つのコーディングエージェント",
   "ts": "2026-07-30T22:07:54.199767+00:00"
  },
+ "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge": {
+  "ja": "Show HN: UniFiの遅いPPPoEパフォーマンスをPPPoE Half-Bridgeで修正",
+  "ts": "2026-08-03T12:15:46.460959+00:00"
+ },
  "Show HN: What should the GUI for AI agents look like?": {
   "ja": "Show HN: AIエージェントのGUIはどのような形であるべきか",
   "ts": "2026-07-31T11:24:36.992076+00:00"
@@ -906,6 +954,10 @@
  "Simulating TCP loss and congestion in browser using Go/WASM": {
   "ja": "Go/WASMを使ってブラウザでTCP損失と輻輳をシミュレート",
   "ts": "2026-07-31T11:24:36.992076+00:00"
+ },
+ "Situational Awareness and the Impending Stock Market Volatility": {
+  "ja": "状況認識と迫り来る株式市場のボラティリティ",
+  "ts": "2026-08-03T12:15:46.460959+00:00"
  },
  "So you want to use plants to reduce CO₂": {
   "ja": "植物でCO₂を削減したいなら",
@@ -949,7 +1001,7 @@
  },
  "SwiftUI After 7 Years": {
   "ja": "7年後のSwiftUI",
-  "ts": "2026-08-03T06:14:03.792442+00:00"
+  "ts": "2026-08-03T12:15:41.058715+00:00"
  },
  "Tailscale didn't stop the Hugging Face intrusion": {
   "ja": "Tailscale は Hugging Face への侵入を防げなかった",
@@ -1087,6 +1139,10 @@
   "ja": "Google検索の時間フィルターが数日前に破損",
   "ts": "2026-08-02T10:28:30.211842+00:00"
  },
+ "The true power of regular expressions (2012)": {
+  "ja": "正規表現の真の力（2012年）",
+  "ts": "2026-08-03T12:15:46.460959+00:00"
+ },
  "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted": {
   "ja": "Theo Conjecture、35年来の数学問題を解く、誰も予測しなかった項を発見",
   "ts": "2026-07-29T21:54:08.013720+00:00"
@@ -1167,6 +1223,10 @@
   "ja": "Jax向けのLLVMコンパイラを偶然開発した",
   "ts": "2026-08-02T05:49:41.204416+00:00"
  },
+ "What DMARC Protects You From, and What It Does Not": {
+  "ja": "DMARCがあなたを保護するもの、保護しないもの",
+  "ts": "2026-08-03T12:15:46.460959+00:00"
+ },
  "What Even Are Microservices?": {
   "ja": "マイクロサービスとは何か",
   "ts": "2026-07-28T11:11:01.190453+00:00"
@@ -1193,7 +1253,7 @@
  },
  "Why Book Corners won't sync contributions back to OpenStreetMap": {
   "ja": "Book CornerがOpenStreetMapに貢献を同期バックしない理由",
-  "ts": "2026-08-03T06:14:03.792442+00:00"
+  "ts": "2026-08-03T12:15:41.058721+00:00"
  },
  "Why DNA damage from smoking and UV rays cause cancer in some but not others": {
   "ja": "喫煙とUV放射によるDNA損傷がなぜ人によってがんの原因になったりならなかったりするのか",
@@ -1209,7 +1269,7 @@
  },
  "Why we write our own C and C++ inference engines": {
   "ja": "独自のCとC++推論エンジンを書く理由",
-  "ts": "2026-08-03T06:14:03.792442+00:00"
+  "ts": "2026-08-03T12:15:41.058723+00:00"
  },
  "Zig's Incremental Compilation Internals": {
   "ja": "Zigのインクリメンタルコンパイルの内部構造",
