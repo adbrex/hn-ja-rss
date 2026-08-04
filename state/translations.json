@@ -147,6 +147,10 @@
   "ja": "Anthropeum－この人工遺物は世界のどこに、いつ属するのか？",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "Apple says more ex-employees may have taken confidential data to OpenAI": {
+  "ja": "Apple、複数の元従業員がOpenAIに機密データを持ち出した可能性を発表",
+  "ts": "2026-08-04T22:06:22.622257+00:00"
+ },
  "Archaeologists Find Ancient Glyphs in the Amazon": {
   "ja": "考古学者がアマゾンで古代の象形文字を発見",
   "ts": "2026-08-04T11:17:50.507258+00:00"
@@ -297,7 +301,7 @@
  },
  "DeepSeek V4 Flash on a Single AMD MI300X": {
   "ja": "単一のAMD MI300X上でDeepSeek V4 Flash を実行",
-  "ts": "2026-08-04T11:17:50.507258+00:00"
+  "ts": "2026-08-04T22:06:15.573115+00:00"
  },
  "DeepSeek-V4-Flash Update": {
   "ja": "DeepSeek-V4-Flash アップデート",
@@ -334,6 +338,10 @@
  "Don't credit the LLM": {
   "ja": "LLMを信用するな",
   "ts": "2026-08-02T05:49:41.204416+00:00"
+ },
+ "Don't stop early: Case-folding source code at memory speed": {
+  "ja": "途中で止めるな：メモリ速度でのケースフォールディングソースコード",
+  "ts": "2026-08-04T22:06:22.622257+00:00"
  },
  "Dubious research tied to Red Bull has shaped energy drink policy": {
   "ja": "Red Bull に関連した疑わしい研究がエナジードリンク政策を形作った",
@@ -471,6 +479,10 @@
   "ja": "エンジニアリングを自己改善に活かす",
   "ts": "2026-08-04T11:17:50.507258+00:00"
  },
+ "Harness engineering for self-improvement": {
+  "ja": "自己改善のためのエンジニアリング活用法",
+  "ts": "2026-08-04T22:06:22.622257+00:00"
+ },
  "Harvesting SSH Credentials: Insights from My Honeypot Network": {
   "ja": "SSH認証情報の収集：ハニーポットネットワークからの知見",
   "ts": "2026-08-02T21:48:31.720714+00:00"
@@ -478,6 +490,10 @@
  "Hooray for the Sockets Interface": {
   "ja": "Socketsインターフェースで万歳",
   "ts": "2026-07-29T11:17:33.572914+00:00"
+ },
+ "Hop.earth – OpenStreetMap based car racing game": {
+  "ja": "Hop.earth – OpenStreetMap ベースのカーレーシングゲーム",
+  "ts": "2026-08-04T22:06:22.622257+00:00"
  },
  "How Do I Profile eBPF Code?": {
   "ja": "eBPFコードのプロファイリング方法は？",
@@ -517,7 +533,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-04T11:17:46.859478+00:00"
+  "ts": "2026-08-04T22:06:15.573139+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -546,6 +562,10 @@
  "ICE Collected Nearly 1M People's DNA Last Year–Including Young Children": {
   "ja": "ICEが昨年およそ100万人のDNAを収集—幼い子どもを含む",
   "ts": "2026-08-03T12:15:46.460959+00:00"
+ },
+ "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years": {
+  "ja": "妻エリーゼ・コーリーの追悼 - 36年間の素晴らしい時間に感謝",
+  "ts": "2026-08-04T22:06:22.622257+00:00"
  },
  "Increasing the lifespan of a bulb makes it worse in every other way": {
   "ja": "電球の寿命を延ばすことは他のあらゆる面で悪化させる",
@@ -599,6 +619,10 @@
   "ja": "Keychronがゲーミングマウス向け初のオープンソースファームウェアを発表",
   "ts": "2026-07-30T11:01:01.391672+00:00"
  },
+ "Keyv and friends compromised in active Shai-Hulud supply chain attack": {
+  "ja": "Keyv と関連プロジェクトが Shai-Hulud サプライチェーン攻撃で危険にさらされた",
+  "ts": "2026-08-04T22:06:22.622257+00:00"
+ },
  "Kimi K3 Architecture Overview and Notes": {
   "ja": "Kimi K3 アーキテクチャ概要とノート",
   "ts": "2026-07-29T11:17:33.572884+00:00"
@@ -630,6 +654,10 @@
  "LLMs reward expertise": {
   "ja": "LLM は専門知識に報酬を与える",
   "ts": "2026-08-04T11:17:46.859424+00:00"
+ },
+ "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research": {
+  "ja": "Launch HN: EdotEnv (YC S26) – LLMに研究を教えるための定量トレーディング RL 環境",
+  "ts": "2026-08-04T22:06:22.622257+00:00"
  },
  "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents": {
   "ja": "Launch HN: Hoplite（YC S26）- クラウドコーディングエージェントを簡単にデプロイ",
@@ -715,6 +743,10 @@
   "ja": "マニュアル：•.,:;…!?·",
   "ts": "2026-08-01T21:47:42.064746+00:00"
  },
+ "MariaDB: Promote getting to 10k GitHub stars in server log and client prompt": {
+  "ja": "MariaDB：GitHub 1万スター達成をサーバーログとクライアントプロンプトで促進",
+  "ts": "2026-08-04T22:06:22.622257+00:00"
+ },
  "Massively Parallel Postgres Backups": {
   "ja": "大規模並列 Postgres バックアップ",
   "ts": "2026-08-04T05:41:54.406885+00:00"
@@ -735,6 +767,10 @@
   "ja": "ComfyUI での MiniMax H3 Day-0 サポート：オープンウェイト、ネイティブオーディオ、2K ビデオ",
   "ts": "2026-08-04T11:17:46.859454+00:00"
  },
+ "Mistral's Shieldstral: 3B open-weights model for multimodal moderation": {
+  "ja": "Mistral の Shieldstral：マルチモーダルモデレーション向けオープンウェイト3Bモデル",
+  "ts": "2026-08-04T22:06:22.622257+00:00"
+ },
  "MkLinux and the pimped-out Apple Workgroup Server 9150": {
   "ja": "MkLinuxとカスタマイズされたApple Workgroup Server 9150",
   "ts": "2026-08-02T10:28:27.316279+00:00"
@@ -746,6 +782,10 @@
  "More Tailscale tricks for your jailbroken Kindle": {
   "ja": "脱獄したKindleのためのTailscaleの便利な使い方",
   "ts": "2026-07-29T11:17:33.572899+00:00"
+ },
+ "Most tech revolutions made work worse for employees": {
+  "ja": "ほとんどの技術革命は従業員の仕事を悪化させている",
+  "ts": "2026-08-04T22:06:22.622257+00:00"
  },
  "Multiple Mouse Cursors in Wayland": {
   "ja": "Waylandでの複数のマウスカーソル",
@@ -770,6 +810,10 @@
  "New HIV vaccine shows unprecedented success in preclinical study": {
   "ja": "新しいHIVワクチン、前臨床試験で前例のない成功を示す",
   "ts": "2026-07-29T05:44:46.045034+00:00"
+ },
+ "New cars are getting 1.2cm longer and 0.5cm taller each year": {
+  "ja": "新車は毎年1.2cm長くなり0.5cm高くなっている",
+  "ts": "2026-08-04T22:06:22.622257+00:00"
  },
  "Note-Taking and Personal Knowledge Management": {
   "ja": "ノートテイングと個人的知識管理",
@@ -802,6 +846,10 @@
  "Our position on open-weights models": {
   "ja": "オープンウェイトモデルに対する当社の立場",
   "ts": "2026-07-28T11:10:58.283692+00:00"
+ },
+ "Oxide Computer raises $445M (SEC Form D)": {
+  "ja": "Oxide Computer が 4億4,500万ドル調達 (SEC Form D)",
+  "ts": "2026-08-04T22:06:22.622257+00:00"
  },
  "PISIGuard: Protect your personal and sensitive info when you chat with AI": {
   "ja": "PISIGuard: AIとのチャットで個人情報と機密情報を保護",
@@ -862,6 +910,10 @@
  "Read this before you buy that TV streaming stick": {
   "ja": "TVストリーミングスティックを買う前にこれを読め",
   "ts": "2026-07-31T11:24:33.340219+00:00"
+ },
+ "Rebuilding and analysing 4 years of Wordle stats from WhatsApp chat logs": {
+  "ja": "WhatsApp チャットログから4年分の Wordle 統計を再構築・分析",
+  "ts": "2026-08-04T22:06:22.622257+00:00"
  },
  "Recursion is lying to you": {
   "ja": "再帰はあなたを騙している",
@@ -1051,6 +1103,10 @@
   "ja": "Show HN: Shitty – 高速ターミナル。メモリアンセーフでお前のより高速",
   "ts": "2026-08-03T06:14:03.792442+00:00"
  },
+ "Show HN: Simple algorithm and color space to generate diverse skin tones": {
+  "ja": "Show HN: 多様な肌色を生成するシンプルなアルゴリズムと色空間",
+  "ts": "2026-08-04T22:06:22.622257+00:00"
+ },
  "Show HN: Supapool – a Supabase per coding agent in ~400 ms": {
   "ja": "Show HN: Supapool – ~400msで1つのSuabaseあたり1つのコーディングエージェント",
   "ts": "2026-07-30T22:07:54.199767+00:00"
@@ -1142,6 +1198,10 @@
  "Ten advances in mathematics and theoretical computer science": {
   "ja": "数学と理論計算機科学における10の進歩",
   "ts": "2026-08-04T11:17:46.859446+00:00"
+ },
+ "Thanks FedEx, This Is Why We Keep Getting Phished (2024)": {
+  "ja": "ありがとう FedEx、フィッシング被害が絶えない理由 (2024)",
+  "ts": "2026-08-04T22:06:22.622257+00:00"
  },
  "That time when I failed the Microsoft interview": {
   "ja": "Microsoftの面接に落ちた時の話",
@@ -1363,6 +1423,10 @@
   "ja": "車両モーションキュー",
   "ts": "2026-07-28T11:10:58.283725+00:00"
  },
+ "Vlt 1.0 and Hosted Package Registries": {
+  "ja": "Vlt 1.0 と Hosted Package Registries",
+  "ts": "2026-08-04T22:06:22.622257+00:00"
+ },
  "WOFF 1.0: a milestone on W3C's journey of fonts on the web": {
   "ja": "WOFF 1.0：W3Cのウェブフォント進化のマイルストーン",
   "ts": "2026-07-28T21:57:37.461952+00:00"
@@ -1371,6 +1435,10 @@
   "ja": "Goの新しいガベージコレクタがヒープを移動する様子",
   "ts": "2026-07-28T11:10:58.283719+00:00"
  },
+ "Waymo – Dallas Open to All": {
+  "ja": "Waymo – Dallas で全員利用可能に",
+  "ts": "2026-08-04T22:06:22.622257+00:00"
+ },
  "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447": {
   "ja": "GPT 5.6 Solに実ビジネスをやらせたら嘘をついてスパムを送り$447失った",
   "ts": "2026-07-30T22:07:54.199767+00:00"
@@ -1378,6 +1446,10 @@
  "We accidentally built an LLVM compiler for Jax": {
   "ja": "Jax向けのLLVMコンパイラを偶然開発した",
   "ts": "2026-08-02T05:49:41.204416+00:00"
+ },
+ "Web Security is Too Hard": {
+  "ja": "Web セキュリティは難しすぎる",
+  "ts": "2026-08-04T22:06:22.622257+00:00"
  },
  "What DMARC Protects You From, and What It Does Not": {
   "ja": "DMARCがあなたを保護するもの、保護しないもの",
@@ -1390,6 +1462,10 @@
  "What Liberal Arts Education Is for (2024)": {
   "ja": "リベラルアーツ教育の目的とは（2024年）",
   "ts": "2026-08-01T05:48:56.409000+00:00"
+ },
+ "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation": {
+  "ja": "AI ベンチマークが停滞する時：ベンチマーク飽和の体系的研究",
+  "ts": "2026-08-04T22:06:22.622257+00:00"
  },
  "When random.bytes() runs but doesn't work": {
   "ja": "random.bytes()は実行されるが機能しない",
@@ -1427,6 +1503,10 @@
   "ja": "なぜ全員が全固体電池の開発を試みているのか",
   "ts": "2026-07-30T22:07:54.199767+00:00"
  },
+ "Why some people mow a lawn better than others": {
+  "ja": "なぜ芝刈りが得意な人と苦手な人がいるのか",
+  "ts": "2026-08-04T22:06:22.622257+00:00"
+ },
  "Why we write our own C and C++ inference engines": {
   "ja": "独自のCとC++推論エンジンを書く理由",
   "ts": "2026-08-03T12:15:41.058723+00:00"
@@ -1434,6 +1514,10 @@
  "Windows XP 2002 for the Itanium: Unbridled rage": {
   "ja": "Windows XP 2002 for Itanium: 抑制されない怒り",
   "ts": "2026-08-04T11:17:46.859471+00:00"
+ },
+ "Xbox goes down. You can't play games you own on disc": {
+  "ja": "Xboxがダウン。所有するディスクゲームがプレイできない",
+  "ts": "2026-08-04T22:06:22.622257+00:00"
  },
  "You don't need React: creating a minimal UI library in Vanilla JavaScript": {
   "ja": "Reactは不要：Vanilla JavaScriptで最小限のUIライブラリを作る",
