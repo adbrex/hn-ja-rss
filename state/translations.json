@@ -5,7 +5,7 @@
  },
  "200 Milliseconds": {
   "ja": "200 ミリ秒",
-  "ts": "2026-08-03T22:01:24.604148+00:00"
+  "ts": "2026-08-04T05:41:54.406877+00:00"
  },
  "2x, not 10x: coding with LLMs in 2026": {
   "ja": "2026年のLLMでのコーディング：2x、10xではなく",
@@ -113,11 +113,15 @@
  },
  "AirLLM 70B inference with single 4GB GPU": {
   "ja": "AirLLM 70B を単一 4GB GPU で推論",
-  "ts": "2026-08-03T22:01:24.604148+00:00"
+  "ts": "2026-08-04T05:41:54.406879+00:00"
  },
  "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion": {
   "ja": "10GB RAM を使用した 10 億規模グラフ上のアルゴリズム：DataFusion 最高",
   "ts": "2026-07-31T21:59:31.804562+00:00"
+ },
+ "Amazonian civilization had estimated 3M people in 3% of forest area": {
+  "ja": "アマゾン文明は森林面積の3%に300万人を居住させていた推定",
+  "ts": "2026-08-04T05:41:58.523074+00:00"
  },
  "An Uncomplicated Man": {
   "ja": "複雑でない男",
@@ -133,7 +137,7 @@
  },
  "Andy Pavlo joins ClickHouse to establish ClickHouse Labs": {
   "ja": "Andy Pavlo が ClickHouse Labs 設立のため ClickHouse に参加",
-  "ts": "2026-08-03T22:01:24.604148+00:00"
+  "ts": "2026-08-04T05:41:54.406874+00:00"
  },
  "Angels in Coptic Magic I: Introduction": {
   "ja": "コプト魔術における天使 I: 入門",
@@ -146,6 +150,14 @@
  "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts": {
   "ja": "Ars Astronomica – 稀少なヘブライ語およびラテン語の天文学テキストの英訳",
   "ts": "2026-07-28T11:11:01.190453+00:00"
+ },
+ "Ask HN: Who is hiring? (August 2026)": {
+  "ja": "Ask HN: 誰が採用していますか？（2026年8月）",
+  "ts": "2026-08-04T05:41:58.523074+00:00"
+ },
+ "Ask HN: Who wants to be hired? (August 2026)": {
+  "ja": "Ask HN: 誰が採用されたいですか？（2026年8月）",
+  "ts": "2026-08-04T05:41:58.523074+00:00"
  },
  "Astronauts describe persistent 'observer' sensation after 6 month missions": {
   "ja": "宇宙飛行士、6ヶ月のミッション後も続く「観察者」の感覚を報告",
@@ -189,7 +201,7 @@
  },
  "Bonsai: Janestreet's UI Library": {
   "ja": "Bonsai: Janestreetの UI ライブラリ",
-  "ts": "2026-08-03T22:01:15.290420+00:00"
+  "ts": "2026-08-04T05:41:54.406873+00:00"
  },
  "But can your calculator run Linux?": {
   "ja": "でも、あなたの電卓は Linuxを実行できるか",
@@ -209,7 +221,7 @@
  },
  "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years": {
   "ja": "Kermit 45周年を祝う：15年ぶりの新しい C-Kermit リリース",
-  "ts": "2026-08-03T22:01:24.604148+00:00"
+  "ts": "2026-08-04T05:41:54.406884+00:00"
  },
  "China begins producing advanced chipmaking deep-ultraviolet lithography machines": {
   "ja": "中国が先端チップ製造向け深紫外線リソグラフィ装置の生産を開始",
@@ -233,7 +245,7 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-08-03T12:15:41.058728+00:00"
+  "ts": "2026-08-04T05:41:54.406893+00:00"
  },
  "Cracking Windows Open: Porting RADV to Win32": {
   "ja": "WindowsをこじあくてRADVをWin32に移植する",
@@ -263,6 +275,10 @@
   "ja": "DMARCは2012年から公開されているが、ほとんどの企業ドメインはまだこれを強制していない",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "Decades-old fish sauce at abandoned factory in Canada finally being removed": {
+  "ja": "カナダの放棄された工場の数十年前の魚醤がようやく撤去へ",
+  "ts": "2026-08-04T05:41:58.523074+00:00"
+ },
  "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific": {
   "ja": "深海探査機が太平洋の深くで『エイリアン』サメを発見",
   "ts": "2026-08-02T10:28:27.316281+00:00"
@@ -289,7 +305,7 @@
  },
  "Devtools must be open source": {
   "ja": "開発者ツールはオープンソースである必要がある",
-  "ts": "2026-08-03T22:01:24.604148+00:00"
+  "ts": "2026-08-04T05:41:54.406866+00:00"
  },
  "Discovering Cryptographic Weaknesses with Claude": {
   "ja": "Claudeで暗号学的な脆弱性を発見する",
@@ -457,7 +473,7 @@
  },
  "How Hollywood stopped making movies in Hollywood": {
   "ja": "ハリウッドはいかにしてハリウッドでの映画製作をやめたか",
-  "ts": "2026-08-03T22:01:24.604148+00:00"
+  "ts": "2026-08-04T05:41:54.406882+00:00"
  },
  "How JPEG works: Interactively explore JPEG's lossy compression methods": {
   "ja": "JPEG の仕組み：JPEG のロッシー圧縮方法をインタラクティブに探索",
@@ -485,7 +501,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-03T12:15:41.058727+00:00"
+  "ts": "2026-08-04T05:41:54.406892+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -579,6 +595,10 @@
   "ja": "Kimi Linear：表現力豊かで効率的なAttention Architecture (2025)",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "KisakCOD – Open-source reimplementation of Call of Duty 4 Multiplayer": {
+  "ja": "KisakCOD – Call of Duty 4マルチプレイヤーのオープンソース再実装",
+  "ts": "2026-08-04T05:41:58.523074+00:00"
+ },
  "KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer": {
   "ja": "KisakCOD – Call of Duty 4 Multiplayer のオープンソース再実装",
   "ts": "2026-08-03T22:01:24.604148+00:00"
@@ -593,11 +613,11 @@
  },
  "LLMs reward expertise": {
   "ja": "LLM は専門知識に報酬を与える",
-  "ts": "2026-08-03T22:01:24.604148+00:00"
+  "ts": "2026-08-04T05:41:54.406847+00:00"
  },
  "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents": {
   "ja": "Launch HN: Hoplite（YC S26）- クラウドコーディングエージェントを簡単にデプロイ",
-  "ts": "2026-08-03T22:01:24.604148+00:00"
+  "ts": "2026-08-04T05:41:54.406888+00:00"
  },
  "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools": {
   "ja": "Launch HN: Prized (YC S26) – エンジニア以外のスタッフがセキュアな内部ツールを構築",
@@ -681,7 +701,7 @@
  },
  "Massively Parallel Postgres Backups": {
   "ja": "大規模並列 Postgres バックアップ",
-  "ts": "2026-08-03T22:01:24.604148+00:00"
+  "ts": "2026-08-04T05:41:54.406885+00:00"
  },
  "Mathematics Without Mathematicians": {
   "ja": "数学者のいない数学",
@@ -697,11 +717,15 @@
  },
  "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video": {
   "ja": "ComfyUI での MiniMax H3 Day-0 サポート：オープンウェイト、ネイティブオーディオ、2K ビデオ",
-  "ts": "2026-08-03T22:01:24.604148+00:00"
+  "ts": "2026-08-04T05:41:54.406876+00:00"
  },
  "MkLinux and the pimped-out Apple Workgroup Server 9150": {
   "ja": "MkLinuxとカスタマイズされたApple Workgroup Server 9150",
   "ts": "2026-08-02T10:28:27.316279+00:00"
+ },
+ "More German than many Germans": {
+  "ja": "多くのドイツ人よりもドイツ的",
+  "ts": "2026-08-04T05:41:58.523074+00:00"
  },
  "More Tailscale tricks for your jailbroken Kindle": {
   "ja": "脱獄したKindleのためのTailscaleの便利な使い方",
@@ -785,7 +809,7 @@
  },
  "Prevent cognitive debt by manually retyping LLM-generated code": {
   "ja": "LLMが生成したコードを手動で再入力して認知的債務を防ぐ",
-  "ts": "2026-08-03T22:01:15.290415+00:00"
+  "ts": "2026-08-04T05:41:54.406871+00:00"
  },
  "Programming Languages Are Authoring Tools for Platforms": {
   "ja": "プログラミング言語はプラットフォームのためのオーサリングツール",
@@ -841,7 +865,7 @@
  },
  "Replacing the Kobo Libra H2O Battery": {
   "ja": "Kobo Libra H2O バッテリーの交換",
-  "ts": "2026-08-03T22:01:24.604148+00:00"
+  "ts": "2026-08-04T05:41:54.406890+00:00"
  },
  "Residential Proxies Are a National Security Threat": {
   "ja": "住宅用プロキシは国家安全保障脅威である",
@@ -1003,6 +1027,10 @@
   "ja": "Show HN: あなたの MCP 上のエージェントセッション向けプロダクト分析（およびevals）",
   "ts": "2026-08-03T22:01:24.604148+00:00"
  },
+ "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone": {
+  "ja": "Show HN: 80B Qwenを4.3GBのRAMでMacで実行、35BをiPhoneで実行",
+  "ts": "2026-08-04T05:41:58.523074+00:00"
+ },
  "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours": {
   "ja": "Show HN: Shitty – 高速ターミナル。メモリアンセーフでお前のより高速",
   "ts": "2026-08-03T06:14:03.792442+00:00"
@@ -1037,7 +1065,7 @@
  },
  "Smaller, faster, safer: running Kimi and GLM at scale": {
   "ja": "より小さく、より速く、より安全に：Kimi と GLM を規模を持って実行",
-  "ts": "2026-08-03T22:01:24.604148+00:00"
+  "ts": "2026-08-04T05:41:54.406881+00:00"
  },
  "So you want to use plants to reduce CO₂": {
   "ja": "植物でCO₂を削減したいなら",
@@ -1097,7 +1125,7 @@
  },
  "Ten advances in mathematics and theoretical computer science": {
   "ja": "数学と理論計算機科学における10の進歩",
-  "ts": "2026-08-03T22:01:15.290409+00:00"
+  "ts": "2026-08-04T05:41:54.406869+00:00"
  },
  "The AI Aesthetic": {
   "ja": "AI美学",
@@ -1235,6 +1263,10 @@
   "ja": "Theo Conjecture、35年来の数学問題を解く、誰も予測しなかった項を発見",
   "ts": "2026-07-29T21:54:08.013720+00:00"
  },
+ "They Forgot What Happened Last Time: Hacking the Windows 365 Link [video]": {
+  "ja": "They Forgot What Happened Last Time: Windows 365 Linkをハッキング [動画]",
+  "ts": "2026-08-04T05:41:58.523074+00:00"
+ },
  "Three Theses on the Literacy Crisis": {
   "ja": "識字危機に関する3つのテーゼ",
   "ts": "2026-07-28T05:23:02.934777+00:00"
@@ -1254,6 +1286,10 @@
  "Turtle-inspired interactive Python project": {
   "ja": "タートルにインスパイアされたインタラクティブPythonプロジェクト",
   "ts": "2026-08-02T21:48:31.720714+00:00"
+ },
+ "Twenty Years of Pandoc": {
+  "ja": "Pandocの20年",
+  "ts": "2026-08-04T05:41:58.523074+00:00"
  },
  "Twenty Years of RISC OS Open": {
   "ja": "RISC OS Openの20年",
@@ -1351,6 +1387,10 @@
   "ja": "喫煙とUV放射によるDNA損傷がなぜ人によってがんの原因になったりならなかったりするのか",
   "ts": "2026-07-30T22:07:54.199767+00:00"
  },
+ "Why did we wait so long for the bicycle? (2019)": {
+  "ja": "なぜ自転車の登場までそんなに待たなければならなかったのか？(2019)",
+  "ts": "2026-08-04T05:41:58.523074+00:00"
+ },
  "Why do we think we understand the world more than we actually do?": {
   "ja": "なぜ私たちは世界を実際よりも理解していると思うのか",
   "ts": "2026-07-28T05:23:02.934777+00:00"
@@ -1363,9 +1403,17 @@
   "ja": "独自のCとC++推論エンジンを書く理由",
   "ts": "2026-08-03T12:15:41.058723+00:00"
  },
+ "Windows XP 2002 for the Itanium: Unbridled rage": {
+  "ja": "Windows XP 2002 for Itanium: 抑制されない怒り",
+  "ts": "2026-08-04T05:41:58.523074+00:00"
+ },
  "ZX Spectrum System Tour: Sound": {
   "ja": "ZX Spectrum システムツアー：サウンド",
   "ts": "2026-08-03T22:01:24.604148+00:00"
+ },
+ "ZX Spectrum System Tour: Text Mode": {
+  "ja": "ZX SpectrumシステムツアーTextモード",
+  "ts": "2026-08-04T05:41:58.523074+00:00"
  },
  "Zig's Incremental Compilation Internals": {
   "ja": "Zigのインクリメンタルコンパイルの内部構造",
