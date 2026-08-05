@@ -167,6 +167,10 @@
   "ja": "考古学者がアマゾンで古代の象形文字を発見",
   "ts": "2026-08-04T11:17:50.507258+00:00"
  },
+ "Aristotle quotes on virtue, knowledge, and happiness": {
+  "ja": "徳、知識、幸福についてのアリストテレスの格言",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
+ },
  "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts": {
   "ja": "Ars Astronomica – 稀少なヘブライ語およびラテン語の天文学テキストの英訳",
   "ts": "2026-07-28T11:11:01.190453+00:00"
@@ -182,6 +186,10 @@
  "Astronauts describe persistent 'observer' sensation after 6 month missions": {
   "ja": "宇宙飛行士、6ヶ月のミッション後も続く「観察者」の感覚を報告",
   "ts": "2026-07-28T05:23:02.934777+00:00"
+ },
+ "Atlassian Rovo Exfiltrates Data, Bypassing Controls": {
+  "ja": "Atlassian Rovoがデータ漏洩、コントロール回避",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
  },
  "Atom is better than RSS, in ways that matter": {
   "ja": "Atomはどの点ではRSSより優れているか",
@@ -207,6 +215,10 @@
   "ja": "BMW Spider-Man車内広告",
   "ts": "2026-08-01T05:48:56.409000+00:00"
  },
+ "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models": {
+  "ja": "GPT-5.6 Solを100倍安いオープンモデルでレトリーバル性能で上回る",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
+ },
  "Beauty in my backyard": {
   "ja": "我が家の庭の美しさ",
   "ts": "2026-08-04T11:17:50.507258+00:00"
@@ -231,6 +243,10 @@
   "ja": "Bugtraqが復活",
   "ts": "2026-08-05T11:14:05.015380+00:00"
  },
+ "Building an Advanced Agentic Harness": {
+  "ja": "高度なエージェント環境の構築",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
+ },
  "But can your calculator run Linux?": {
   "ja": "でも、あなたの電卓は Linuxを実行できるか",
   "ts": "2026-08-02T10:28:27.316268+00:00"
@@ -251,6 +267,14 @@
   "ja": "Kermit 45周年を祝う：15年ぶりの新しい C-Kermit リリース",
   "ts": "2026-08-04T11:17:46.859465+00:00"
  },
+ "Celld: Self-hosted, distributed Durable Objects": {
+  "ja": "Celld: セルフホストの分散Durable Objects",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
+ },
+ "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs": {
+  "ja": "Google DeepMindの人事変更: Demis HassabisがCEOから会長へ、Jeff Deanが退職",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
+ },
  "China begins producing advanced chipmaking deep-ultraviolet lithography machines": {
   "ja": "中国が先端チップ製造向け深紫外線リソグラフィ装置の生産を開始",
   "ts": "2026-08-02T05:49:41.204416+00:00"
@@ -258,6 +282,10 @@
  "Claude: Elevated errors across all models": {
   "ja": "Claude: 全モデルでのエラー上昇",
   "ts": "2026-07-29T21:54:08.013720+00:00"
+ },
+ "Cloudflare OS: an open platform for agents, apps, and work": {
+  "ja": "Cloudflare OS: エージェント、アプリ、ワークのためのオープンプラットフォーム",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
  },
  "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals": {
   "ja": "知能の商品化：良い、悪い、そして醜い循環AIディール",
@@ -342,6 +370,10 @@
  "Discovering Cryptographic Weaknesses with Claude": {
   "ja": "Claudeで暗号学的な脆弱性を発見する",
   "ts": "2026-07-29T05:44:46.045064+00:00"
+ },
+ "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast": {
+  "ja": "広島原爆によって鍛造された多成分合金の発見",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
  },
  "Document-borne AI worms can self-propagate through Copilot for Word": {
   "ja": "ドキュメント経由のAIワーム、Copilot for Wordを通じた自己伝播が可能",
@@ -479,6 +511,10 @@
   "ja": "Golang提案：container/: ジェネリック コレクション型",
   "ts": "2026-08-01T10:29:11.166416+00:00"
  },
+ "Goodhart's Law Comes for Every Benchmark You Trust": {
+  "ja": "グッドハートの法則がすべてのベンチマークを襲う",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
+ },
  "Google fixed more Chrome bugs in June than over the past two years, thanks to AI": {
   "ja": "Google、AIのおかげで6月に過去2年間以上のChrome脆弱性を修正",
   "ts": "2026-08-01T10:29:11.166404+00:00"
@@ -595,6 +631,10 @@
   "ja": "架空の著者で査読論文2本にフラグを立てたら、両方がオーラルセッションに採択された",
   "ts": "2026-07-31T11:24:33.340232+00:00"
  },
+ "I'm switching my phone from Android to Linux": {
+  "ja": "スマートフォンをAndroidからLinuxに乗り換える",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
+ },
  "ICE Collected Nearly 1M People's DNA Last Year–Including Young Children": {
   "ja": "ICEが昨年およそ100万人のDNAを収集—幼い子どもを含む",
   "ts": "2026-08-03T12:15:46.460959+00:00"
@@ -626,6 +666,10 @@
  "Is AI reasoning right for the wrong reasons?": {
   "ja": "AIの推論は間違った理由で正しいのか？",
   "ts": "2026-08-01T05:48:56.409000+00:00"
+ },
+ "I’m leaving OpenAI to build telepathy": {
+  "ja": "OpenAIを離職してテレパシーを構築する",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
  },
  "JEP 401: Value Objects (Preview) merged to OpenJDK master": {
   "ja": "JEP 401: Value Objects (Preview) がOpenJDK masterにマージ",
@@ -702,6 +746,10 @@
  "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents": {
   "ja": "Launch HN: Hoplite（YC S26）- クラウドコーディングエージェントを簡単にデプロイ",
   "ts": "2026-08-04T11:17:46.859475+00:00"
+ },
+ "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod": {
+  "ja": "Launch HN: HyperProbe (YC S26) – 本番環境で読み取り専用デバッグを行うエージェント",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
  },
  "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools": {
   "ja": "Launch HN: Prized (YC S26) – エンジニア以外のスタッフがセキュアな内部ツールを構築",
@@ -803,6 +851,10 @@
   "ja": "Meshdiff – ブラウザで2つのSTLバージョンを視覚的に比較、クライアント側処理",
   "ts": "2026-08-02T21:48:31.720714+00:00"
  },
+ "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery": {
+  "ja": "MetaがAI生成児童性虐待画像を含む広告を掲載",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
+ },
  "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video": {
   "ja": "ComfyUI での MiniMax H3 Day-0 サポート：オープンウェイト、ネイティブオーディオ、2K ビデオ",
   "ts": "2026-08-04T11:17:46.859454+00:00"
@@ -831,6 +883,10 @@
   "ja": "Waylandでの複数のマウスカーソル",
   "ts": "2026-07-29T05:44:50.795006+00:00"
  },
+ "Muse Code and Muse Spark 1.2": {
+  "ja": "Muse CodeとMuse Spark 1.2",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
+ },
  "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"": {
   "ja": "私の個人的なAIベンチマーク：「ハプスブルク家の顎を持つカエルのSVGを生成する」",
   "ts": "2026-08-02T21:48:31.720714+00:00"
@@ -855,6 +911,10 @@
   "ja": "新車は毎年1.2cm長くなり0.5cm高くなっている",
   "ts": "2026-08-04T22:06:22.622257+00:00"
  },
+ "Nikita Bier Steps Down as Head of Product at X": {
+  "ja": "Nikita BierがXのプロダクト責任者を退任",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
+ },
  "Note-Taking and Personal Knowledge Management": {
   "ja": "ノートテイングと個人的知識管理",
   "ts": "2026-08-03T12:15:41.058716+00:00"
@@ -862,6 +922,10 @@
  "Now is the time to give LLMs access to the ACM digital library": {
   "ja": "LLMにACM Digital Libraryへのアクセスを与える時が来た",
   "ts": "2026-07-29T11:17:33.572905+00:00"
+ },
+ "Nvidia's Vera Whitepaper Has a Thread Loose": {
+  "ja": "NvidiaのVera Whitepapeが糸がほつれている",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
  },
  "Nyctography: A substituton cypher by Lewis Carroll": {
   "ja": "Nyctography：ルイス・キャロルの置換暗号",
@@ -871,9 +935,17 @@
   "ja": "Octane – Reactのプログラミングモデルをコンパイル",
   "ts": "2026-08-03T12:15:46.460959+00:00"
  },
+ "Online Friends Are Real Friends": {
+  "ja": "オンラインの友人は本当の友人である",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
+ },
  "OpenAI just open-sourced Codex Security": {
   "ja": "OpenAIがCodex Securityをオープンソース化",
   "ts": "2026-07-28T21:57:37.461952+00:00"
+ },
+ "OpenAI says my prepaid credits were consumed, refuses to show any record": {
+  "ja": "OpenAIが前払いクレジットが消費されたと主張、記録の提示を拒否",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
  },
  "OpenAI's super PAC is funding AI-generated news site attacking industry critics": {
   "ja": "OpenAIのスーパーPACが業界批評家を攻撃するAI生成ニュースサイトに資金提供",
@@ -895,9 +967,17 @@
   "ja": "PISIGuard: AIとのチャットで個人情報と機密情報を保護",
   "ts": "2026-08-03T12:15:46.460959+00:00"
  },
+ "Painting with Gaussians": {
+  "ja": "ガウス関数で描く",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
+ },
  "Pgtestdb's template cloning approach to testing is fast": {
   "ja": "Pgtestdbのテンプレートクローニングアプローチによるテストの高速化",
   "ts": "2026-08-01T21:47:42.064746+00:00"
+ },
+ "Phishers are hijacking legitimate cloud infrastructure": {
+  "ja": "フィッシャーが正規クラウドインフラを乗っ取っている",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
  },
  "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up": {
   "ja": "物理学者がミューオンの謎を解く。今、過去の結果が整合しない",
@@ -918,6 +998,10 @@
  "Prevent cognitive debt by manually retyping LLM-generated code": {
   "ja": "LLMが生成したコードを手動で再入力して認知的債務を防ぐ",
   "ts": "2026-08-04T11:17:46.859448+00:00"
+ },
+ "Prime Agent: A self-improving RLM agent": {
+  "ja": "Prime Agent: 自己改善するRLMエージェント",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
  },
  "Programming Languages Are Authoring Tools for Platforms": {
   "ja": "プログラミング言語はプラットフォームのためのオーサリングツール",
@@ -994,6 +1078,10 @@
  "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N": {
   "ja": "TP-Link TL-841Nのroot化、ファームウェア解析、永続的な認証情報",
   "ts": "2026-08-03T06:13:57.452082+00:00"
+ },
+ "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field": {
+  "ja": "Rubin Observatory初のLSSTカメラ公開: COSMOS領域で50万の銀河",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
  },
  "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s": {
   "ja": "Kimi K3 を 29 GB の RAM と毎秒 0.50 tok で実行",
@@ -1247,6 +1335,10 @@
   "ja": "Substackのライター諸君、ウェブサイトが必要だ",
   "ts": "2026-07-29T11:17:33.572867+00:00"
  },
+ "Sula: A Gemini protocol server written in Scryer Prolog": {
+  "ja": "Sula: Scryer Prologで書かれたGeminiプロトコルサーバー",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
+ },
  "SwiftUI After 7 Years": {
   "ja": "7年後のSwiftUI",
   "ts": "2026-08-03T12:15:41.058715+00:00"
@@ -1323,6 +1415,10 @@
   "ja": "リファクタリングの経済的効果",
   "ts": "2026-07-31T11:24:33.340229+00:00"
  },
+ "The Entropy of a Markov Chain": {
+  "ja": "マルコフ鎖のエントロピー",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
+ },
  "The Fabled Flatbreads of Uzbekistan (2015)": {
   "ja": "ウズベキスタンの伝説のフラットブレッド (2015)",
   "ts": "2026-07-28T21:57:37.461952+00:00"
@@ -1358,6 +1454,14 @@
  "The Silicon Valley Founder Meat Grinder": {
   "ja": "シリコンバレー創業者ミートグラインダー",
   "ts": "2026-08-01T21:47:42.064746+00:00"
+ },
+ "The Title Cards in Blade Runner Are Fucking Amazing": {
+  "ja": "ブレードランナーのタイトルカードはマジで素晴らしい",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
+ },
+ "The Valley of Webhooks": {
+  "ja": "Webhookの谷",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
  },
  "The bond market isn't buying what Fed Chair Warsh is selling": {
   "ja": "債券市場はFed議長Warshの言い分を信じていない",
@@ -1554,6 +1658,10 @@
  "What Liberal Arts Education Is for (2024)": {
   "ja": "リベラルアーツ教育の目的とは（2024年）",
   "ts": "2026-08-01T05:48:56.409000+00:00"
+ },
+ "What happens if you put work into the second dimension?": {
+  "ja": "2次元に仕事を投じたらどうなるか",
+  "ts": "2026-08-05T22:07:29.867079+00:00"
  },
  "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation": {
   "ja": "AI ベンチマークが停滞する時：ベンチマーク飽和の体系的研究",
