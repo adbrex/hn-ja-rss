@@ -85,7 +85,7 @@
  },
  "AI fuels more than half of cybercrime in Africa as scams surge – Interpol": {
   "ja": "AIがアフリカのサイバー犯罪の半数以上を助長、詐欺急増中 – Interpol",
-  "ts": "2026-08-05T05:40:22.633007+00:00"
+  "ts": "2026-08-05T11:14:05.015364+00:00"
  },
  "AI migrated legacy COBOL programs to Java, bugs included": {
   "ja": "AIがレガシーCOBOLプログラムをJavaに移行、バグ込みで",
@@ -130,6 +130,10 @@
  "Amazonian civilization had estimated 3M people in 3% of forest area": {
   "ja": "アマゾン文明は森林面積の3%に300万人を居住させていた推定",
   "ts": "2026-08-04T11:17:46.859467+00:00"
+ },
+ "An SLM trained on $8 ESP32-S3": {
+  "ja": "$8のESP32-S3で訓練されたSLM",
+  "ts": "2026-08-05T11:14:07.867001+00:00"
  },
  "An Uncomplicated Man": {
   "ja": "複雑でない男",
@@ -225,7 +229,7 @@
  },
  "Bugtraq is back": {
   "ja": "Bugtraqが復活",
-  "ts": "2026-08-05T05:40:22.633007+00:00"
+  "ts": "2026-08-05T11:14:05.015380+00:00"
  },
  "But can your calculator run Linux?": {
   "ja": "でも、あなたの電卓は Linuxを実行できるか",
@@ -269,7 +273,7 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-08-05T05:40:11.541296+00:00"
+  "ts": "2026-08-05T11:14:05.015386+00:00"
  },
  "Cracking Windows Open: Porting RADV to Win32": {
   "ja": "WindowsをこじあくてRADVをWin32に移植する",
@@ -361,7 +365,7 @@
  },
  "DuckDB – Data power tools for your laptop, now in Clojure (2023)": {
   "ja": "DuckDB – ラップトップ向けのデータパワーツール、Clojure版（2023年）",
-  "ts": "2026-08-05T05:40:22.633007+00:00"
+  "ts": "2026-08-05T11:14:05.015373+00:00"
  },
  "ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison": {
   "ja": "ESP32-C6消費電力: Arduino vs. Zephyr vs. ESP-IDF 比較",
@@ -381,7 +385,7 @@
  },
  "Eight Myths on Software Engineering and GenAI": {
   "ja": "ソフトウェアエンジニアリングとGenAIに関する8つの誤解",
-  "ts": "2026-08-05T05:40:22.633007+00:00"
+  "ts": "2026-08-05T11:14:05.015367+00:00"
  },
  "Elena, a library for building Progressive Web Components": {
   "ja": "Elena、Progressive Web Componentsを構築するためのライブラリ",
@@ -425,7 +429,7 @@
  },
  "Flowise is shutting down": {
   "ja": "Flowiseがサービス終了",
-  "ts": "2026-08-05T05:40:22.633007+00:00"
+  "ts": "2026-08-05T11:14:05.015378+00:00"
  },
  "Folding Paper Globes": {
   "ja": "折り紙地球儀",
@@ -561,7 +565,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-05T05:40:11.541294+00:00"
+  "ts": "2026-08-05T11:14:05.015384+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -597,11 +601,11 @@
  },
  "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay": {
   "ja": "WebKitのIPおよびDNS漏洩、プロキシブラウザとiCloud Private Relayに影響",
-  "ts": "2026-08-05T05:40:22.633007+00:00"
+  "ts": "2026-08-05T11:14:05.015371+00:00"
  },
  "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years": {
   "ja": "妻エリーゼ・コーリーの追悼 - 36年間の素晴らしい時間に感謝",
-  "ts": "2026-08-05T05:40:11.541261+00:00"
+  "ts": "2026-08-05T11:14:05.015328+00:00"
  },
  "Increasing the lifespan of a bulb makes it worse in every other way": {
   "ja": "電球の寿命を延ばすことは他のあらゆる面で悪化させる",
@@ -805,7 +809,7 @@
  },
  "Mistral's Shieldstral: 3B open-weights model for multimodal moderation": {
   "ja": "Mistral の Shieldstral：マルチモーダルモデレーション向けオープンウェイト3Bモデル",
-  "ts": "2026-08-05T05:40:11.541285+00:00"
+  "ts": "2026-08-05T11:14:05.015354+00:00"
  },
  "MkLinux and the pimped-out Apple Workgroup Server 9150": {
   "ja": "MkLinuxとカスタマイズされたApple Workgroup Server 9150",
@@ -901,7 +905,7 @@
  },
  "Pi's Minimalism Is Its Advantage": {
   "ja": "Piの極シンプルさが強み",
-  "ts": "2026-08-05T05:40:22.633007+00:00"
+  "ts": "2026-08-05T11:14:05.015356+00:00"
  },
  "Plug-in solar is coming. Plug-in batteries should follow": {
   "ja": "プラグイン太陽光パネルが到来。プラグイン電池も後に続くはず",
@@ -981,7 +985,7 @@
  },
  "Rio-vt and librio: Rio's terminal engine, now embeddable": {
   "ja": "Rio-vtとlibrio：Rioのターミナルエンジン、組み込み可能に",
-  "ts": "2026-08-05T05:40:22.633007+00:00"
+  "ts": "2026-08-05T11:14:05.015382+00:00"
  },
  "RipGrep musl binaries occasionally segfault during very-large searches": {
   "ja": "RipGrep muslバイナリが大規模検索時に断続的にセグメンテーションフォルトを起こす",
@@ -1089,7 +1093,7 @@
  },
  "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com": {
   "ja": "Show HN: 2012年の自己署名証明書ジェネレータをGoで書き直した – cert-depot.com",
-  "ts": "2026-08-02T21:48:24.550578+00:00"
+  "ts": "2026-08-05T11:14:05.015388+00:00"
  },
  "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript": {
   "ja": "Show HN: HNのリンクを開くたびに2つのタブを開くのに疲れたので、ユーザースクリプトを作った",
@@ -1118,6 +1122,10 @@
  "Show HN: Make your Framework 12 sound like a creaky door": {
   "ja": "Show HN: Framework 12をきしむドアのような音にする",
   "ts": "2026-08-03T06:13:57.452085+00:00"
+ },
+ "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone": {
+  "ja": "Show HN: Maple-Preview – iPhone上でTernary 20B MoEを120 tok/sで実行",
+  "ts": "2026-08-05T11:14:07.867001+00:00"
  },
  "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone": {
   "ja": "Show HN: Maple-Preview – iPhoneで毎秒120トークンで動作するternary 20B MoE",
@@ -1157,7 +1165,7 @@
  },
  "Show HN: Simple algorithm and color space to generate diverse skin tones": {
   "ja": "Show HN: 多様な肌色を生成するシンプルなアルゴリズムと色空間",
-  "ts": "2026-08-05T05:40:11.541280+00:00"
+  "ts": "2026-08-05T11:14:05.015352+00:00"
  },
  "Show HN: Supapool – a Supabase per coding agent in ~400 ms": {
   "ja": "Show HN: Supapool – ~400msで1つのSuabaseあたり1つのコーディングエージェント",
@@ -1225,7 +1233,7 @@
  },
  "Stateless MCP has recaptured my interest": {
   "ja": "Stateless MCPが改めて関心を呼ぶ",
-  "ts": "2026-08-05T05:40:22.633007+00:00"
+  "ts": "2026-08-05T11:14:05.015365+00:00"
  },
  "Steel Bank Common Lisp version 2.6.7": {
   "ja": "Steel Bank Common Lisp バージョン 2.6.7",
@@ -1413,7 +1421,7 @@
  },
  "There Will Come Soft Rains (1950) [pdf]": {
   "ja": "やがて雨は静かに降りて来るだろう（1950年）[pdf]",
-  "ts": "2026-08-05T05:40:22.633007+00:00"
+  "ts": "2026-08-05T11:14:05.015358+00:00"
  },
  "They Forgot What Happened Last Time: Hacking the Windows 365 Link [video]": {
   "ja": "They Forgot What Happened Last Time: Windows 365 Linkをハッキング [動画]",
@@ -1497,7 +1505,7 @@
  },
  "Video2NAND – Abusing video codecs for great computational power": {
   "ja": "Video2NAND – 動画コーデックを悪用した高い計算能力",
-  "ts": "2026-08-05T05:40:22.633007+00:00"
+  "ts": "2026-08-05T11:14:05.015376+00:00"
  },
  "Vlt 1.0 and Hosted Package Registries": {
   "ja": "Vlt 1.0 と Hosted Package Registries",
@@ -1513,7 +1521,7 @@
  },
  "Waymo in Dallas": {
   "ja": "ダラスのWaymo",
-  "ts": "2026-08-05T05:40:22.633007+00:00"
+  "ts": "2026-08-05T11:14:05.015360+00:00"
  },
  "Waymo – Dallas Open to All": {
   "ja": "Waymo – Dallas で全員利用可能に",
@@ -1529,7 +1537,7 @@
  },
  "We finally learned to center a div, then browsers added sidebars": {
   "ja": "div要素のセンタリング方法をようやく習得したら、ブラウザがサイドバーを追加した",
-  "ts": "2026-08-05T05:40:22.633007+00:00"
+  "ts": "2026-08-05T11:14:05.015369+00:00"
  },
  "Web Security is Too Hard": {
   "ja": "Web セキュリティは難しすぎる",
@@ -1587,6 +1595,10 @@
   "ja": "なぜ全員が全固体電池の開発を試みているのか",
   "ts": "2026-07-30T22:07:54.199767+00:00"
  },
+ "Why is it all in the kernel?": {
+  "ja": "なぜ全部がカーネルの中にあるのか",
+  "ts": "2026-08-05T11:14:07.867001+00:00"
+ },
  "Why some people mow a lawn better than others": {
   "ja": "なぜ芝刈りが得意な人と苦手な人がいるのか",
   "ts": "2026-08-04T22:06:22.622257+00:00"
@@ -1601,7 +1613,7 @@
  },
  "Xbox goes down. You can't play games you own on disc": {
   "ja": "Xboxがダウン。所有するディスクゲームがプレイできない",
-  "ts": "2026-08-04T22:06:22.622257+00:00"
+  "ts": "2026-08-05T11:14:05.015348+00:00"
  },
  "You don't need React: creating a minimal UI library in Vanilla JavaScript": {
   "ja": "Reactは不要：Vanilla JavaScriptで最小限のUIライブラリを作る",
@@ -1615,6 +1627,10 @@
   "ja": "ZX SpectrumシステムツアーTextモード",
   "ts": "2026-08-04T05:41:58.523074+00:00"
  },
+ "Zero-Mem: Zero-Token Memory Operations for LLM Agents": {
+  "ja": "Zero-Mem: LLM Agentsのゼロトークンメモリ操作",
+  "ts": "2026-08-05T11:14:07.867001+00:00"
+ },
  "Zig's Incremental Compilation Internals": {
   "ja": "Zigのインクリメンタルコンパイルの内部構造",
   "ts": "2026-07-29T11:17:33.572893+00:00"
@@ -1625,10 +1641,14 @@
  },
  "libexpat now funded by the City of Munich for up to 6 months": {
   "ja": "libexpat、ミュンヘン市から最大6ヶ月間の資金を獲得",
-  "ts": "2026-08-05T05:40:22.633007+00:00"
+  "ts": "2026-08-05T11:14:05.015362+00:00"
  },
  "qm – Multiplayer agent harness for work": {
   "ja": "qm – 仕事向けマルチプレイヤーエージェントハーネス",
   "ts": "2026-08-01T10:29:11.166401+00:00"
+ },
+ "“Gravity is worth asking about”": {
+  "ja": "「重力は問う価値がある」",
+  "ts": "2026-08-05T11:14:07.867001+00:00"
  }
 }
