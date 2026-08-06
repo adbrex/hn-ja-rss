@@ -189,7 +189,7 @@
  },
  "Atlassian Rovo Exfiltrates Data, Bypassing Controls": {
   "ja": "Atlassian Rovoがデータ漏洩、コントロール回避",
-  "ts": "2026-08-06T05:41:25.823448+00:00"
+  "ts": "2026-08-06T11:14:18.091442+00:00"
  },
  "Atom is better than RSS, in ways that matter": {
   "ja": "Atomはどの点ではRSSより優れているか",
@@ -217,7 +217,7 @@
  },
  "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models": {
   "ja": "GPT-5.6 Solを100倍安いオープンモデルでレトリーバル性能で上回る",
-  "ts": "2026-08-06T05:41:25.823439+00:00"
+  "ts": "2026-08-06T11:14:18.091432+00:00"
  },
  "Beauty in my backyard": {
   "ja": "我が家の庭の美しさ",
@@ -241,11 +241,11 @@
  },
  "Born Against, or why hobby programming communities are against LLM usage": {
   "ja": "Born Against、またはホビープログラミングコミュニティがLLM使用に反対する理由",
-  "ts": "2026-08-06T05:41:30.536041+00:00"
+  "ts": "2026-08-06T11:14:18.091436+00:00"
  },
  "Branchless Rust: Making a Filter 4x Faster by Removing an If": {
   "ja": "Branchless Rust: 条件分岐を削除してフィルタを4倍高速化",
-  "ts": "2026-08-06T05:41:30.536041+00:00"
+  "ts": "2026-08-06T11:14:18.091448+00:00"
  },
  "Bugtraq is back": {
   "ja": "Bugtraqが復活",
@@ -277,11 +277,11 @@
  },
  "Celld: Self-hosted, distributed Durable Objects": {
   "ja": "Celld: セルフホストの分散Durable Objects",
-  "ts": "2026-08-06T05:41:25.823450+00:00"
+  "ts": "2026-08-06T11:14:18.091446+00:00"
  },
  "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs": {
   "ja": "Google DeepMindの人事変更: Demis HassabisがCEOから会長へ、Jeff Deanが退職",
-  "ts": "2026-08-06T05:41:25.823404+00:00"
+  "ts": "2026-08-06T11:14:18.091408+00:00"
  },
  "China begins producing advanced chipmaking deep-ultraviolet lithography machines": {
   "ja": "中国が先端チップ製造向け深紫外線リソグラフィ装置の生産を開始",
@@ -293,7 +293,7 @@
  },
  "Cloudflare OS: an open platform for agents, apps, and work": {
   "ja": "Cloudflare OS: エージェント、アプリ、ワークのためのオープンプラットフォーム",
-  "ts": "2026-08-06T05:41:25.823434+00:00"
+  "ts": "2026-08-06T11:14:18.091426+00:00"
  },
  "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals": {
   "ja": "知能の商品化：良い、悪い、そして醜い循環AIディール",
@@ -309,7 +309,7 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-08-06T05:41:25.823468+00:00"
+  "ts": "2026-08-06T11:14:18.091466+00:00"
  },
  "Cracking Windows Open: Porting RADV to Win32": {
   "ja": "WindowsをこじあくてRADVをWin32に移植する",
@@ -342,6 +342,10 @@
  "Decades-old fish sauce at abandoned factory in Canada finally being removed": {
   "ja": "カナダの放棄された工場の数十年前の魚醤がようやく撤去へ",
   "ts": "2026-08-04T05:41:58.523074+00:00"
+ },
+ "Decimen Optical Transfer: fountain-coded QR file transfer": {
+  "ja": "Decimen Optical Transfer: fountain-codedなQRファイル転送",
+  "ts": "2026-08-06T11:14:20.569785+00:00"
  },
  "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific": {
   "ja": "深海探査機が太平洋の深くで『エイリアン』サメを発見",
@@ -381,7 +385,7 @@
  },
  "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast": {
   "ja": "広島原爆によって鍛造された多成分合金の発見",
-  "ts": "2026-08-06T05:41:25.823457+00:00"
+  "ts": "2026-08-06T11:14:18.091452+00:00"
  },
  "Document-borne AI worms can self-propagate through Copilot for Word": {
   "ja": "ドキュメント経由のAIワーム、Copilot for Wordを通じた自己伝播が可能",
@@ -603,6 +607,10 @@
   "ja": "英語学習者に教える単語がどう変わったか",
   "ts": "2026-08-03T06:13:57.452069+00:00"
  },
+ "How to Make a Nintendo 64 Game in 2026": {
+  "ja": "2026年にNintendo 64ゲームを作る方法",
+  "ts": "2026-08-06T11:14:20.569785+00:00"
+ },
  "How to Survive Boiling Water": {
   "ja": "沸騰水での生き残り方",
   "ts": "2026-07-28T11:11:01.190453+00:00"
@@ -613,7 +621,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-06T05:41:25.823466+00:00"
+  "ts": "2026-08-06T11:14:18.091465+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -649,7 +657,7 @@
  },
  "I'm switching my phone from Android to Linux": {
   "ja": "スマートフォンをAndroidからLinuxに乗り換える",
-  "ts": "2026-08-06T05:41:25.823441+00:00"
+  "ts": "2026-08-06T11:14:18.091429+00:00"
  },
  "ICE Collected Nearly 1M People's DNA Last Year–Including Young Children": {
   "ja": "ICEが昨年およそ100万人のDNAを収集—幼い子どもを含む",
@@ -765,7 +773,7 @@
  },
  "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod": {
   "ja": "Launch HN: HyperProbe (YC S26) – 本番環境で読み取り専用デバッグを行うエージェント",
-  "ts": "2026-08-06T05:41:25.823464+00:00"
+  "ts": "2026-08-06T11:14:18.091460+00:00"
  },
  "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools": {
   "ja": "Launch HN: Prized (YC S26) – エンジニア以外のスタッフがセキュアな内部ツールを構築",
@@ -786,6 +794,10 @@
  "Let the machines in": {
   "ja": "機械を中に入れよう",
   "ts": "2026-08-02T21:48:31.720714+00:00"
+ },
+ "Let's all meet up in the Y2K": {
+  "ja": "Y2Kで皆で会おう",
+  "ts": "2026-08-06T11:14:20.569785+00:00"
  },
  "Let's make the worst Htmx": {
   "ja": "最悪の Htmx を作ろう",
@@ -901,7 +913,7 @@
  },
  "Muse Code and Muse Spark 1.2": {
   "ja": "Muse CodeとMuse Spark 1.2",
-  "ts": "2026-08-06T05:41:25.823445+00:00"
+  "ts": "2026-08-06T11:14:18.091440+00:00"
  },
  "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"": {
   "ja": "私の個人的なAIベンチマーク：「ハプスブルク家の顎を持つカエルのSVGを生成する」",
@@ -917,11 +929,11 @@
  },
  "NVIDIA’s Vera Whitepaper Has a Thread Loose": {
   "ja": "NVIDIAのVera Whitepaperに脆弱性",
-  "ts": "2026-08-06T05:41:30.536041+00:00"
+  "ts": "2026-08-06T11:14:18.091454+00:00"
  },
  "Nashville uses eminent domain to block data center near zoo": {
   "ja": "ナッシュビル、動物園近くのデータセンターを阻止するため収用権を行使",
-  "ts": "2026-08-06T05:41:30.536041+00:00"
+  "ts": "2026-08-06T11:14:18.091444+00:00"
  },
  "Netflix employee fired for sharing personal details in retreat trust exercise": {
   "ja": "Netflix従業員、リトリートの信頼醸成演習で個人情報を共有したため解雇",
@@ -1017,7 +1029,7 @@
  },
  "Position: LLMs Can't Jump": {
   "ja": "Position: LLMsはジャンプできない",
-  "ts": "2026-08-06T05:41:30.536041+00:00"
+  "ts": "2026-08-06T11:14:18.091438+00:00"
  },
  "Postmortem for Kernel Soundness Bug #14576": {
   "ja": "カーネル健全性バグ #14576 のポストモーテム",
@@ -1029,7 +1041,7 @@
  },
  "Prime Agent: A self-improving RLM agent": {
   "ja": "Prime Agent: 自己改善するRLMエージェント",
-  "ts": "2026-08-06T05:41:25.823455+00:00"
+  "ts": "2026-08-06T11:14:18.091449+00:00"
  },
  "Programming Languages Are Authoring Tools for Platforms": {
   "ja": "プログラミング言語はプラットフォームのためのオーサリングツール",
@@ -1041,7 +1053,7 @@
  },
  "Quantego: A Family of Lego Models of IBM Quantum Computers": {
   "ja": "Quantego: IBM Quantum Computersのレゴモデルファミリー",
-  "ts": "2026-08-06T05:41:30.536041+00:00"
+  "ts": "2026-08-06T11:14:18.091462+00:00"
  },
  "Qwen3.8-Max: A New Bar for Coding and Cowork": {
   "ja": "Qwen3.8-Max: コーディングと協働の新しい基準",
@@ -1381,7 +1393,7 @@
  },
  "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)": {
   "ja": "追従的なAIは向社会的意思を減少させ依存を促進する (2025)",
-  "ts": "2026-08-06T05:41:30.536041+00:00"
+  "ts": "2026-08-06T11:14:18.091458+00:00"
  },
  "Tailscale didn't stop the Hugging Face intrusion": {
   "ja": "Tailscale は Hugging Face への侵入を防げなかった",
@@ -1457,7 +1469,7 @@
  },
  "The Entropy of a Markov Chain": {
   "ja": "マルコフ鎖のエントロピー",
-  "ts": "2026-08-05T22:07:29.867079+00:00"
+  "ts": "2026-08-06T11:14:18.091456+00:00"
  },
  "The Fabled Flatbreads of Uzbekistan (2015)": {
   "ja": "ウズベキスタンの伝説のフラットブレッド (2015)",
@@ -1561,7 +1573,7 @@
  },
  "The title cards in Blade Runner are amazing": {
   "ja": "Blade Runnerのタイトルカードは素晴らしい",
-  "ts": "2026-08-06T05:41:30.536041+00:00"
+  "ts": "2026-08-06T11:14:18.091434+00:00"
  },
  "The true power of regular expressions (2012)": {
   "ja": "正規表現の真の力（2012年）",
@@ -1702,6 +1714,10 @@
  "What Even Are Microservices?": {
   "ja": "マイクロサービスとは何か",
   "ts": "2026-07-28T11:11:01.190453+00:00"
+ },
+ "What I love about Django": {
+  "ja": "Djangoが好きな理由",
+  "ts": "2026-08-06T11:14:20.569785+00:00"
  },
  "What Liberal Arts Education Is for (2024)": {
   "ja": "リベラルアーツ教育の目的とは（2024年）",
