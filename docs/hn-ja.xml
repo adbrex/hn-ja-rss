@@ -5,232 +5,224 @@
     <link>https://news.ycombinator.com/</link>
     <description>Hacker News のフロントページから人気順に最大30件を抽出し、タイトルを日本語訳したフィードです。1日3回更新。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 06 Aug 2026 11:14:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 01:00:14 +0000</lastBuildDate>
     <ttl>240</ttl>
     <atom:link href="https://YOUR-NAME.github.io/YOUR-REPO/hn-ja.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>[772pt] Discovery Loop</title>
-      <link>https://www.discoveryloop.com/</link>
-      <guid isPermaLink="false">hn-49184960</guid>
-      <pubDate>Wed, 05 Aug 2026 16:19:44 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49184960</comments>
-      <description><![CDATA[<p>Discovery Loop</p><p>772 points / 485 comments — by xtreak29</p><p><a href="https://news.ycombinator.com/item?id=49184960">HNのコメントを読む</a></p>]]></description>
+      <title>[854pt] Mario Meets Pareto</title>
+      <link>https://www.mayerowitz.io/blog/mario-meets-pareto</link>
+      <guid isPermaLink="false">hn-49195231</guid>
+      <pubDate>Thu, 06 Aug 2026 11:24:53 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49195231</comments>
+      <description><![CDATA[<p>Mario Meets Pareto</p><p>854 points / 148 comments — by theanonymousone</p><p><a href="https://news.ycombinator.com/item?id=49195231">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[677pt] Google DeepMindの人事変更: Demis HassabisがCEOから会長へ、Jeff Deanが退職</title>
-      <link>https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/</link>
-      <guid isPermaLink="false">hn-49184755</guid>
-      <pubDate>Wed, 05 Aug 2026 16:05:31 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49184755</comments>
-      <description><![CDATA[<p>Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs</p><p>677 points / 729 comments — by colesantiago</p><p><a href="https://news.ycombinator.com/item?id=49184755">HNのコメントを読む</a></p>]]></description>
+      <title>[418pt] Qwen3.8 Max、agentic indexで最高総合モデルにランク</title>
+      <link>https://artificialanalysis.ai/?intelligence=agentic-index</link>
+      <guid isPermaLink="false">hn-49200652</guid>
+      <pubDate>Thu, 06 Aug 2026 18:44:49 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49200652</comments>
+      <description><![CDATA[<p>Qwen3.8 Max now ranked as the best overall model by agentic index</p><p>418 points / 268 comments — by apitman</p><p><a href="https://news.ycombinator.com/item?id=49200652">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[567pt] Cloudflare OS: エージェント、アプリ、ワークのためのオープンプラットフォーム</title>
-      <link>https://blog.cloudflare.com/cloudflare-os/</link>
-      <guid isPermaLink="false">hn-49182996</guid>
-      <pubDate>Wed, 05 Aug 2026 13:58:53 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49182996</comments>
-      <description><![CDATA[<p>Cloudflare OS: an open platform for agents, apps, and work</p><p>567 points / 274 comments — by speckx</p><p><a href="https://news.ycombinator.com/item?id=49182996">HNのコメントを読む</a></p>]]></description>
+      <title>[327pt] AMDがTaaalasを買収、モデルをシリコンに刻み込むことで推論性能を向上</title>
+      <link>https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344</link>
+      <guid isPermaLink="false">hn-49201970</guid>
+      <pubDate>Thu, 06 Aug 2026 20:23:11 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49201970</comments>
+      <description><![CDATA[<p>AMD acquires Taalas to boost inference performance by etching models in silicon</p><p>327 points / 260 comments — by itvision</p><p><a href="https://news.ycombinator.com/item?id=49201970">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[443pt] Zed DeltaDB</title>
-      <link>https://zed.dev/deltadb</link>
-      <guid isPermaLink="false">hn-49187256</guid>
-      <pubDate>Wed, 05 Aug 2026 18:52:54 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49187256</comments>
-      <description><![CDATA[<p>Zed DeltaDB</p><p>443 points / 236 comments — by ahamez</p><p><a href="https://news.ycombinator.com/item?id=49187256">HNのコメントを読む</a></p>]]></description>
+      <title>[311pt] GitHub ActionsとPagesで劣化した可用性</title>
+      <link>https://www.githubstatus.com/incidents/qcvjkzcs7j74</link>
+      <guid isPermaLink="false">hn-49198302</guid>
+      <pubDate>Thu, 06 Aug 2026 15:49:38 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49198302</comments>
+      <description><![CDATA[<p>GitHub Actions and Pages are experiencing degraded availability</p><p>311 points / 264 comments — by Footkerchief</p><p><a href="https://news.ycombinator.com/item?id=49198302">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[350pt] スマートフォンをAndroidからLinuxに乗り換える</title>
-      <link>https://runarcn.no/android-to-linux/</link>
-      <guid isPermaLink="false">hn-49188022</guid>
-      <pubDate>Wed, 05 Aug 2026 19:50:13 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49188022</comments>
-      <description><![CDATA[<p>I'm switching my phone from Android to Linux</p><p>350 points / 349 comments — by speckx</p><p><a href="https://news.ycombinator.com/item?id=49188022">HNのコメントを読む</a></p>]]></description>
+      <title>[268pt] ステーキを調理するのにほぼスキルは不要</title>
+      <link>https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/</link>
+      <guid isPermaLink="false">hn-49198069</guid>
+      <pubDate>Thu, 06 Aug 2026 15:30:48 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49198069</comments>
+      <description><![CDATA[<p>Almost no skill required to cook a steak</p><p>268 points / 308 comments — by yusyd</p><p><a href="https://news.ycombinator.com/item?id=49198069">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[327pt] GPT-5.6 Solを100倍安いオープンモデルでレトリーバル性能で上回る</title>
-      <link>https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency</link>
-      <guid isPermaLink="false">hn-49186762</guid>
-      <pubDate>Wed, 05 Aug 2026 18:18:56 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49186762</comments>
-      <description><![CDATA[<p>Beating GPT-5.6 Sol on retrieval with 100x cheaper open models</p><p>327 points / 81 comments — by moonikakiss</p><p><a href="https://news.ycombinator.com/item?id=49186762">HNのコメントを読む</a></p>]]></description>
+      <title>[248pt] 4万回のゲーム実行で、AIエージェントコマンドを承認する際に人間が3件に1件の脅威を見落とし</title>
+      <link>https://scalex.dev/blog/ai-agent-permissions-stats/</link>
+      <guid isPermaLink="false">hn-49195468</guid>
+      <pubDate>Thu, 06 Aug 2026 11:58:07 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49195468</comments>
+      <description><![CDATA[<p>Humans missed 1 in 3 threats approving AI agent commands across 40k game runs</p><p>248 points / 190 comments — by Wirbelwind</p><p><a href="https://news.ycombinator.com/item?id=49195468">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[288pt] Blade Runnerのタイトルカードは素晴らしい</title>
-      <link>https://randsinrepose.com/archives/blade-runner-title-cards/</link>
-      <guid isPermaLink="false">hn-49189287</guid>
-      <pubDate>Wed, 05 Aug 2026 21:29:23 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49189287</comments>
-      <description><![CDATA[<p>The title cards in Blade Runner are amazing</p><p>288 points / 139 comments — by ExMachina73</p><p><a href="https://news.ycombinator.com/item?id=49189287">HNのコメントを読む</a></p>]]></description>
+      <title>[216pt] Pareto Front</title>
+      <link>https://en.wikipedia.org/wiki/Pareto_front</link>
+      <guid isPermaLink="false">hn-49096439</guid>
+      <pubDate>Wed, 29 Jul 2026 12:12:29 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49096439</comments>
+      <description><![CDATA[<p>Pareto Front</p><p>216 points / 93 comments — by binyu</p><p><a href="https://news.ycombinator.com/item?id=49096439">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[284pt] Born Against、またはホビープログラミングコミュニティがLLM使用に反対する理由</title>
-      <link>https://blog.fogus.me/llm/born-against.html</link>
-      <guid isPermaLink="false">hn-49187061</guid>
-      <pubDate>Wed, 05 Aug 2026 18:37:49 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49187061</comments>
-      <description><![CDATA[<p>Born Against, or why hobby programming communities are against LLM usage</p><p>284 points / 283 comments — by lladnar</p><p><a href="https://news.ycombinator.com/item?id=49187061">HNのコメントを読む</a></p>]]></description>
+      <title>[202pt] Quake – 30th Anniversary Update</title>
+      <link>https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update</link>
+      <guid isPermaLink="false">hn-49201930</guid>
+      <pubDate>Thu, 06 Aug 2026 20:21:19 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49201930</comments>
+      <description><![CDATA[<p>Quake – 30th Anniversary Update</p><p>202 points / 102 comments — by dsubburam</p><p><a href="https://news.ycombinator.com/item?id=49201930">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[283pt] Position: LLMsはジャンプできない</title>
-      <link>https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt</link>
-      <guid isPermaLink="false">hn-49181083</guid>
-      <pubDate>Wed, 05 Aug 2026 11:01:37 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49181083</comments>
-      <description><![CDATA[<p>Position: LLMs Can't Jump</p><p>283 points / 185 comments — by theanonymousone</p><p><a href="https://news.ycombinator.com/item?id=49181083">HNのコメントを読む</a></p>]]></description>
+      <title>[185pt] Launch HN: ProvenMetal (YC S26)、基板を数週間ではなく数日で納品</title>
+      <link>https://provenmetal.com</link>
+      <guid isPermaLink="false">hn-49198464</guid>
+      <pubDate>Thu, 06 Aug 2026 15:59:15 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49198464</comments>
+      <description><![CDATA[<p>Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks</p><p>185 points / 129 comments — by willcarkner</p><p><a href="https://news.ycombinator.com/item?id=49198464">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[266pt] Muse CodeとMuse Spark 1.2</title>
-      <link>https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2</link>
-      <guid isPermaLink="false">hn-49187575</guid>
-      <pubDate>Wed, 05 Aug 2026 19:15:52 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49187575</comments>
-      <description><![CDATA[<p>Muse Code and Muse Spark 1.2</p><p>266 points / 167 comments — by paulkrush</p><p><a href="https://news.ycombinator.com/item?id=49187575">HNのコメントを読む</a></p>]]></description>
+      <title>[183pt] Taste Is All That's Left</title>
+      <link>https://notashelf.dev/posts/taste-is-all-thats-left</link>
+      <guid isPermaLink="false">hn-49199346</guid>
+      <pubDate>Thu, 06 Aug 2026 17:01:33 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49199346</comments>
+      <description><![CDATA[<p>Taste Is All That's Left</p><p>183 points / 149 comments — by tsak</p><p><a href="https://news.ycombinator.com/item?id=49199346">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[256pt] Crime Pays but Botany Doesn't</title>
-      <link>https://www.crimepaysbutbotanydoesnt.com/reading-list</link>
-      <guid isPermaLink="false">hn-49192566</guid>
-      <pubDate>Thu, 06 Aug 2026 04:46:35 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49192566</comments>
-      <description><![CDATA[<p>Crime Pays but Botany Doesn't</p><p>256 points / 102 comments — by DarkContinent</p><p><a href="https://news.ycombinator.com/item?id=49192566">HNのコメントを読む</a></p>]]></description>
+      <title>[140pt] ChatGPTでGPT-5.6 Solを改善、無料ユーザーへのGPT-5.6 Luna アクセスを拡大</title>
+      <link>https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/</link>
+      <guid isPermaLink="false">hn-49199357</guid>
+      <pubDate>Thu, 06 Aug 2026 17:02:04 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49199357</comments>
+      <description><![CDATA[<p>Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users</p><p>140 points / 100 comments — by tedsanders</p><p><a href="https://news.ycombinator.com/item?id=49199357">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[242pt] Atlassian Rovoがデータ漏洩、コントロール回避</title>
-      <link>https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data</link>
-      <guid isPermaLink="false">hn-49185983</guid>
-      <pubDate>Wed, 05 Aug 2026 17:23:25 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49185983</comments>
-      <description><![CDATA[<p>Atlassian Rovo Exfiltrates Data, Bypassing Controls</p><p>242 points / 97 comments — by hackerBanana</p><p><a href="https://news.ycombinator.com/item?id=49185983">HNのコメントを読む</a></p>]]></description>
+      <title>[136pt] HerdrがY Combinatorに参加。ランタイムはオープンなまま</title>
+      <link>https://herdr.dev/blog/herdr-is-joining-y-combinator/</link>
+      <guid isPermaLink="false">hn-49201003</guid>
+      <pubDate>Thu, 06 Aug 2026 19:14:21 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49201003</comments>
+      <description><![CDATA[<p>Herdr is joining Y Combinator. The runtime stays open</p><p>136 points / 91 comments — by collinmanderson</p><p><a href="https://news.ycombinator.com/item?id=49201003">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[241pt] ナッシュビル、動物園近くのデータセンターを阻止するため収用権を行使</title>
-      <link>https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project</link>
-      <guid isPermaLink="false">hn-49191624</guid>
-      <pubDate>Thu, 06 Aug 2026 02:15:14 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49191624</comments>
-      <description><![CDATA[<p>Nashville uses eminent domain to block data center near zoo</p><p>241 points / 308 comments — by mapping365</p><p><a href="https://news.ycombinator.com/item?id=49191624">HNのコメントを読む</a></p>]]></description>
+      <title>[132pt] 科学者が太陽の表面でKelvin-Helmholtz不安定性を発見</title>
+      <link>https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/</link>
+      <guid isPermaLink="false">hn-49184355</guid>
+      <pubDate>Wed, 05 Aug 2026 15:33:23 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49184355</comments>
+      <description><![CDATA[<p>Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun</p><p>132 points / 21 comments — by neversaydie</p><p><a href="https://news.ycombinator.com/item?id=49184355">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[226pt] Celld: セルフホストの分散Durable Objects</title>
-      <link>https://github.com/denoland/celld</link>
-      <guid isPermaLink="false">hn-49185430</guid>
-      <pubDate>Wed, 05 Aug 2026 16:50:06 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49185430</comments>
-      <description><![CDATA[<p>Celld: Self-hosted, distributed Durable Objects</p><p>226 points / 38 comments — by calvinfo</p><p><a href="https://news.ycombinator.com/item?id=49185430">HNのコメントを読む</a></p>]]></description>
+      <title>[104pt] Rollercoaster Tycoonインスパイアのアニメーションでチップの製造を学ぶ</title>
+      <link>https://laurentiugabriel.github.io/ChipTycoon/</link>
+      <guid isPermaLink="false">hn-49120149</guid>
+      <pubDate>Fri, 31 Jul 2026 07:37:13 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49120149</comments>
+      <description><![CDATA[<p>Learn how chips are made with this Rollercoaster Tycoon-inspired animation</p><p>104 points / 18 comments — by laurentiurad</p><p><a href="https://news.ycombinator.com/item?id=49120149">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[197pt] Branchless Rust: 条件分岐を削除してフィルタを4倍高速化</title>
-      <link>https://www.greyblake.com/blog/branchless-rust/</link>
-      <guid isPermaLink="false">hn-49151991</guid>
-      <pubDate>Mon, 03 Aug 2026 06:37:05 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49151991</comments>
-      <description><![CDATA[<p>Branchless Rust: Making a Filter 4x Faster by Removing an If</p><p>197 points / 50 comments — by greyblake</p><p><a href="https://news.ycombinator.com/item?id=49151991">HNのコメントを読む</a></p>]]></description>
+      <title>[95pt] 統合タイミングベルトループバックファスナーのシンプルな優雅さ</title>
+      <link>https://danielmangum.com/posts/integrated-timing-belt-loopback-fastener/</link>
+      <guid isPermaLink="false">hn-49143782</guid>
+      <pubDate>Sun, 02 Aug 2026 12:14:34 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49143782</comments>
+      <description><![CDATA[<p>The simple elegance of the integrated timing belt loopback fastener</p><p>95 points / 20 comments — by hasheddan</p><p><a href="https://news.ycombinator.com/item?id=49143782">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[186pt] Prime Agent: 自己改善するRLMエージェント</title>
-      <link>https://www.primeintellect.ai/blog/prime-agent</link>
-      <guid isPermaLink="false">hn-49189075</guid>
-      <pubDate>Wed, 05 Aug 2026 21:11:57 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49189075</comments>
-      <description><![CDATA[<p>Prime Agent: A self-improving RLM agent</p><p>186 points / 38 comments — by Xeophon</p><p><a href="https://news.ycombinator.com/item?id=49189075">HNのコメントを読む</a></p>]]></description>
+      <title>[84pt] Show HN: Channels SDK – 任意のエージェントを任意のチャネルに対応させる (Slack、MS Teams)</title>
+      <link>https://github.com/CopilotKit/channels-sdk</link>
+      <guid isPermaLink="false">hn-49198583</guid>
+      <pubDate>Thu, 06 Aug 2026 16:05:51 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49198583</comments>
+      <description><![CDATA[<p>Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)</p><p>84 points / 20 comments — by davidmckayv</p><p><a href="https://news.ycombinator.com/item?id=49198583">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[182pt] GNU Hurd News 2026-Q2</title>
-      <link>https://www.gnu.org/software/hurd/news/2026-q2.html</link>
-      <guid isPermaLink="false">hn-49146183</guid>
-      <pubDate>Sun, 02 Aug 2026 16:57:32 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49146183</comments>
-      <description><![CDATA[<p>GNU Hurd News 2026-Q2</p><p>182 points / 122 comments — by plaguna</p><p><a href="https://news.ycombinator.com/item?id=49146183">HNのコメントを読む</a></p>]]></description>
+      <title>[83pt] 携帯電話がランニングを「誰かが携帯電話を奪って走り去った」と検出</title>
+      <link>https://mastodon.gamedev.place/@rygorous/117047697255584965</link>
+      <guid isPermaLink="false">hn-49200439</guid>
+      <pubDate>Thu, 06 Aug 2026 18:26:08 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49200439</comments>
+      <description><![CDATA[<p>My phone detects going on a run as “someone snatching my phone and running off”</p><p>83 points / 150 comments — by luu</p><p><a href="https://news.ycombinator.com/item?id=49200439">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[138pt] 広島原爆によって鍛造された多成分合金の発見</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.aeg8299</link>
-      <guid isPermaLink="false">hn-49115096</guid>
-      <pubDate>Thu, 30 Jul 2026 20:09:43 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49115096</comments>
-      <description><![CDATA[<p>Discovery of a multicomponent alloy forged by the Hiroshima atomic blast</p><p>138 points / 63 comments — by _____k</p><p><a href="https://news.ycombinator.com/item?id=49115096">HNのコメントを読む</a></p>]]></description>
+      <title>[72pt] ネパール政府をHave I Been Pwnedに迎える</title>
+      <link>https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/</link>
+      <guid isPermaLink="false">hn-49203105</guid>
+      <pubDate>Thu, 06 Aug 2026 21:52:16 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49203105</comments>
+      <description><![CDATA[<p>Welcoming the Nepalese Government to Have I Been Pwned</p><p>72 points / 13 comments — by gnabgib</p><p><a href="https://news.ycombinator.com/item?id=49203105">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[133pt] NVIDIAのVera Whitepaperに脆弱性</title>
-      <link>https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread</link>
-      <guid isPermaLink="false">hn-49189234</guid>
-      <pubDate>Wed, 05 Aug 2026 21:24:45 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49189234</comments>
-      <description><![CDATA[<p>NVIDIA’s Vera Whitepaper Has a Thread Loose</p><p>133 points / 28 comments — by pella</p><p><a href="https://news.ycombinator.com/item?id=49189234">HNのコメントを読む</a></p>]]></description>
+      <title>[58pt] USB-Cケーブルのラベルを信頼するのをやめて、テストを始めた</title>
+      <link>https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/</link>
+      <guid isPermaLink="false">hn-49152255</guid>
+      <pubDate>Mon, 03 Aug 2026 07:12:57 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49152255</comments>
+      <description><![CDATA[<p>I stopped trusting USB-C cable labels and started testing them</p><p>58 points / 37 comments — by baranul</p><p><a href="https://news.ycombinator.com/item?id=49152255">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[131pt] マルコフ鎖のエントロピー</title>
-      <link>https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain</link>
-      <guid isPermaLink="false">hn-49183017</guid>
-      <pubDate>Wed, 05 Aug 2026 14:00:10 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49183017</comments>
-      <description><![CDATA[<p>The Entropy of a Markov Chain</p><p>131 points / 12 comments — by surprisetalk</p><p><a href="https://news.ycombinator.com/item?id=49183017">HNのコメントを読む</a></p>]]></description>
+      <title>[58pt] htmxを使用した段階的に拡張されたフォームの構築</title>
+      <link>https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/</link>
+      <guid isPermaLink="false">hn-49116252</guid>
+      <pubDate>Thu, 30 Jul 2026 21:45:48 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49116252</comments>
+      <description><![CDATA[<p>Building Progressively Enhanced Forms Using htmx</p><p>58 points / 10 comments — by mpweiher</p><p><a href="https://news.ycombinator.com/item?id=49116252">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[129pt] 追従的なAIは向社会的意思を減少させ依存を促進する (2025)</title>
-      <link>https://arxiv.org/abs/2510.01395</link>
-      <guid isPermaLink="false">hn-49186720</guid>
-      <pubDate>Wed, 05 Aug 2026 18:17:03 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49186720</comments>
-      <description><![CDATA[<p>Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)</p><p>129 points / 71 comments — by robin_reala</p><p><a href="https://news.ycombinator.com/item?id=49186720">HNのコメントを読む</a></p>]]></description>
+      <title>[55pt] ASICをリバースエンジニアリングできるか</title>
+      <link>https://blog.janestreet.com/can-you-reverse-engineer-an-asic/</link>
+      <guid isPermaLink="false">hn-49200933</guid>
+      <pubDate>Thu, 06 Aug 2026 19:07:33 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49200933</comments>
+      <description><![CDATA[<p>Can you reverse engineer an ASIC?</p><p>55 points / 37 comments — by bschne</p><p><a href="https://news.ycombinator.com/item?id=49200933">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[119pt] 2026年にNintendo 64ゲームを作る方法</title>
-      <link>https://phoboslab.org/log/2026/08/xibalba64-making-of</link>
-      <guid isPermaLink="false">hn-49168622</guid>
-      <pubDate>Tue, 04 Aug 2026 13:24:03 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49168622</comments>
-      <description><![CDATA[<p>How to Make a Nintendo 64 Game in 2026</p><p>119 points / 33 comments — by atan2</p><p><a href="https://news.ycombinator.com/item?id=49168622">HNのコメントを読む</a></p>]]></description>
+      <title>[50pt] vLLMの内部：高スループットLLM推論システムの解剖学 (2025)</title>
+      <link>https://www.aleksagordic.com/blog/vllm</link>
+      <guid isPermaLink="false">hn-49202852</guid>
+      <pubDate>Thu, 06 Aug 2026 21:30:21 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49202852</comments>
+      <description><![CDATA[<p>Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</p><p>50 points / 2 comments — by sebg</p><p><a href="https://news.ycombinator.com/item?id=49202852">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[74pt] Djangoが好きな理由</title>
-      <link>https://buttondown.com/blog/what-i-love-about-django</link>
-      <guid isPermaLink="false">hn-49193673</guid>
-      <pubDate>Thu, 06 Aug 2026 07:34:06 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49193673</comments>
-      <description><![CDATA[<p>What I love about Django</p><p>74 points / 49 comments — by j4mie</p><p><a href="https://news.ycombinator.com/item?id=49193673">HNのコメントを読む</a></p>]]></description>
+      <title>[43pt] バイオエンジニアリングされたチューインガムはHPVおよび他の微生物と戦う方法を提供する可能性</title>
+      <link>https://www.sciencedaily.com/releases/2026/08/260803080917.htm</link>
+      <guid isPermaLink="false">hn-49202716</guid>
+      <pubDate>Thu, 06 Aug 2026 21:18:32 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49202716</comments>
+      <description><![CDATA[<p>Bioengineered chewing gum may offer a way to fight HPV and other microbes</p><p>43 points / 4 comments — by Audiophilip</p><p><a href="https://news.ycombinator.com/item?id=49202716">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[61pt] Y2Kで皆で会おう</title>
-      <link>https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/</link>
-      <guid isPermaLink="false">hn-49193314</guid>
-      <pubDate>Thu, 06 Aug 2026 06:43:38 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49193314</comments>
-      <description><![CDATA[<p>Let's all meet up in the Y2K</p><p>61 points / 25 comments — by msephton</p><p><a href="https://news.ycombinator.com/item?id=49193314">HNのコメントを読む</a></p>]]></description>
+      <title>[36pt] Show HN: Pokémon EmeraldがRaspberry Pi Pico 2に移植</title>
+      <link>https://github.com/mattdeeds/pokeemerald-rp2350</link>
+      <guid isPermaLink="false">hn-49203059</guid>
+      <pubDate>Thu, 06 Aug 2026 21:49:07 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49203059</comments>
+      <description><![CDATA[<p>Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2</p><p>36 points / 16 comments — by mdeeds</p><p><a href="https://news.ycombinator.com/item?id=49203059">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[59pt] Launch HN: HyperProbe (YC S26) – 本番環境で読み取り専用デバッグを行うエージェント</title>
-      <link>https://www.hyperprobe.co</link>
-      <guid isPermaLink="false">hn-49185389</guid>
-      <pubDate>Wed, 05 Aug 2026 16:47:15 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49185389</comments>
-      <description><![CDATA[<p>Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod</p><p>59 points / 41 comments — by shailendraht</p><p><a href="https://news.ycombinator.com/item?id=49185389">HNのコメントを読む</a></p>]]></description>
+      <title>[26pt] Trumpが新しい大統領令で再度米国の出生地市民権を制限しようとする</title>
+      <link>https://www.bbc.com/news/articles/cj63966j95yo</link>
+      <guid isPermaLink="false">hn-49204046</guid>
+      <pubDate>Thu, 06 Aug 2026 23:29:15 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49204046</comments>
+      <description><![CDATA[<p>Trump again tries to limit US birthright citizenship with new executive orders</p><p>26 points / 0 comments — by samaysharma</p><p><a href="https://news.ycombinator.com/item?id=49204046">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[34pt] Quantego: IBM Quantum Computersのレゴモデルファミリー</title>
-      <link>https://quantego.org/</link>
-      <guid isPermaLink="false">hn-49112348</guid>
-      <pubDate>Thu, 30 Jul 2026 16:35:08 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49112348</comments>
-      <description><![CDATA[<p>Quantego: A Family of Lego Models of IBM Quantum Computers</p><p>34 points / 19 comments — by rbanffy</p><p><a href="https://news.ycombinator.com/item?id=49112348">HNのコメントを読む</a></p>]]></description>
+      <title>[23pt] Metaにソーシャルメディアから子どもへの害に対処するため9億4,200万ドルの支払いを命じる</title>
+      <link>https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7</link>
+      <guid isPermaLink="false">hn-49204352</guid>
+      <pubDate>Fri, 07 Aug 2026 00:06:28 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49204352</comments>
+      <description><![CDATA[<p>Meta Ordered to Pay $942M to Address Harm to Kids from Social Media</p><p>23 points / 5 comments — by boplicity</p><p><a href="https://news.ycombinator.com/item?id=49204352">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[30pt] Decimen Optical Transfer: fountain-codedなQRファイル転送</title>
-      <link>https://github.com/bashalarmistalt/decimen-optical-transfer</link>
-      <guid isPermaLink="false">hn-49157792</guid>
-      <pubDate>Mon, 03 Aug 2026 16:17:03 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49157792</comments>
-      <description><![CDATA[<p>Decimen Optical Transfer: fountain-coded QR file transfer</p><p>30 points / 11 comments — by ksec</p><p><a href="https://news.ycombinator.com/item?id=49157792">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[16pt] Morioka Shoten</title>
-      <link>https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten</link>
-      <guid isPermaLink="false">hn-49129551</guid>
-      <pubDate>Fri, 31 Jul 2026 23:14:08 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49129551</comments>
-      <description><![CDATA[<p>Morioka Shoten</p><p>16 points / 7 comments — by skogstokig</p><p><a href="https://news.ycombinator.com/item?id=49129551">HNのコメントを読む</a></p>]]></description>
+      <title>[15pt] STV: Atari STの全モーションビデオコーデック</title>
+      <link>https://medium.com/@jonas.eschenburg/stv-a-video-codec-for-the-atari-st-6e46355c50e4</link>
+      <guid isPermaLink="false">hn-49113256</guid>
+      <pubDate>Thu, 30 Jul 2026 17:46:32 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49113256</comments>
+      <description><![CDATA[<p>STV: A full-motion video codec for the Atari ST</p><p>15 points / 1 comments — by indyjo</p><p><a href="https://news.ycombinator.com/item?id=49113256">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
       <title>[13pt] 3社の買収企業を1つの統一されたウェブサイトに組織する方法</title>
@@ -247,6 +239,14 @@
       <pubDate>Thu, 19 Mar 2026 14:11:56 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=47439821</comments>
       <description><![CDATA[<p>Conway's Game of Life, in real life</p><p>12 points / 1 comments — by ahlCVA</p><p><a href="https://news.ycombinator.com/item?id=47439821">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[11pt] miniKanrenにおけるボトムアップ列挙へ向けて：剪定とメモ化を通じて</title>
+      <link>https://arxiv.org/abs/2607.25373</link>
+      <guid isPermaLink="false">hn-49161617</guid>
+      <pubDate>Mon, 03 Aug 2026 21:22:01 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49161617</comments>
+      <description><![CDATA[<p>Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization</p><p>11 points / 1 comments — by Jimmc414</p><p><a href="https://news.ycombinator.com/item?id=49161617">HNのコメントを読む</a></p>]]></description>
     </item>
   </channel>
 </rss>

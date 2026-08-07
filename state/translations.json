@@ -99,6 +99,10 @@
   "ja": "AIの有力スタートアップがほぼ研究発表をしていない",
   "ts": "2026-07-30T11:01:01.391668+00:00"
  },
+ "AMD acquires Taalas to boost inference performance by etching models in silicon": {
+  "ja": "AMDがTaaalasを買収、モデルをシリコンに刻み込むことで推論性能を向上",
+  "ts": "2026-08-07T01:00:14.602517+00:00"
+ },
  "ASRock BC-250: Building the Budget Steam Machine": {
   "ja": "ASRock BC-250: 予算重視のSteamマシン構築",
   "ts": "2026-08-02T10:28:27.316275+00:00"
@@ -126,6 +130,10 @@
  "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion": {
   "ja": "10GB RAM を使用した 10 億規模グラフ上のアルゴリズム：DataFusion 最高",
   "ts": "2026-07-31T21:59:31.804562+00:00"
+ },
+ "Almost no skill required to cook a steak": {
+  "ja": "ステーキを調理するのにほぼスキルは不要",
+  "ts": "2026-08-07T01:00:14.602517+00:00"
  },
  "Amazonian civilization had estimated 3M people in 3% of forest area": {
   "ja": "アマゾン文明は森林面積の3%に300万人を居住させていた推定",
@@ -235,6 +243,10 @@
   "ja": "ギリシャとローマを超えて",
   "ts": "2026-07-29T05:44:50.795006+00:00"
  },
+ "Bioengineered chewing gum may offer a way to fight HPV and other microbes": {
+  "ja": "バイオエンジニアリングされたチューインガムはHPVおよび他の微生物と戦う方法を提供する可能性",
+  "ts": "2026-08-07T01:00:14.602517+00:00"
+ },
  "Bonsai: Janestreet's UI Library": {
   "ja": "Bonsai: Janestreetの UI ライブラリ",
   "ts": "2026-08-04T11:17:46.859450+00:00"
@@ -250,6 +262,10 @@
  "Bugtraq is back": {
   "ja": "Bugtraqが復活",
   "ts": "2026-08-05T11:14:05.015380+00:00"
+ },
+ "Building Progressively Enhanced Forms Using htmx": {
+  "ja": "htmxを使用した段階的に拡張されたフォームの構築",
+  "ts": "2026-08-07T01:00:14.602517+00:00"
  },
  "Building an Advanced Agentic Harness": {
   "ja": "高度なエージェント環境の構築",
@@ -270,6 +286,10 @@
  "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K": {
   "ja": "CP/M-386 – 386保護モード用CP/M、CP/M‑68Kから派生",
   "ts": "2026-08-03T12:15:41.058724+00:00"
+ },
+ "Can you reverse engineer an ASIC?": {
+  "ja": "ASICをリバースエンジニアリングできるか",
+  "ts": "2026-08-07T01:00:14.602517+00:00"
  },
  "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years": {
   "ja": "Kermit 45周年を祝う：15年ぶりの新しい C-Kermit リリース",
@@ -309,7 +329,7 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-08-06T11:14:18.091466+00:00"
+  "ts": "2026-08-07T01:00:06.605063+00:00"
  },
  "Cracking Windows Open: Porting RADV to Win32": {
   "ja": "WindowsをこじあくてRADVをWin32に移植する",
@@ -511,6 +531,10 @@
   "ja": "Mac Studio で 25 Gbps の Thunderbolt Ethernet を実現",
   "ts": "2026-08-01T10:29:11.166410+00:00"
  },
+ "GitHub Actions and Pages are experiencing degraded availability": {
+  "ja": "GitHub ActionsとPagesで劣化した可用性",
+  "ts": "2026-08-07T01:00:14.602517+00:00"
+ },
  "Glue bonds to nonstick surfaces and wipes clean with ethanol": {
   "ja": "接着剤がノンスティック表面に接着し、エタノールで拭き取れる",
   "ts": "2026-07-28T05:23:02.934777+00:00"
@@ -571,6 +595,10 @@
   "ja": "SSH認証情報の収集：ハニーポットネットワークからの知見",
   "ts": "2026-08-02T21:48:31.720714+00:00"
  },
+ "Herdr is joining Y Combinator. The runtime stays open": {
+  "ja": "HerdrがY Combinatorに参加。ランタイムはオープンなまま",
+  "ts": "2026-08-07T01:00:14.602517+00:00"
+ },
  "Hooray for the Sockets Interface": {
   "ja": "Socketsインターフェースで万歳",
   "ts": "2026-07-29T11:17:33.572914+00:00"
@@ -621,7 +649,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-06T11:14:18.091465+00:00"
+  "ts": "2026-08-07T01:00:06.605045+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -634,6 +662,10 @@
  "Hulios: An eBPF-powered, transparent Tor gateway for Linux": {
   "ja": "Hulios：eBPF搭載の透過的LinuxむけTorゲートウェイ",
   "ts": "2026-07-28T21:57:37.461952+00:00"
+ },
+ "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs": {
+  "ja": "4万回のゲーム実行で、AIエージェントコマンドを承認する際に人間が3件に1件の脅威を見落とし",
+  "ts": "2026-08-07T01:00:14.602517+00:00"
  },
  "Hunter-gatherers introduced fish to a mountain lake 7000 years ago": {
   "ja": "狩猟採集民が7000年前に山岳湖に魚を導入",
@@ -651,6 +683,10 @@
   "ja": "架空の著者で査読論文2本にフラグを立てたら、両方がオーラルセッションに採択された",
   "ts": "2026-07-31T11:24:33.340232+00:00"
  },
+ "I stopped trusting USB-C cable labels and started testing them": {
+  "ja": "USB-Cケーブルのラベルを信頼するのをやめて、テストを始めた",
+  "ts": "2026-08-07T01:00:14.602517+00:00"
+ },
  "I'll be stepping back from leading product for X": {
   "ja": "Xの製品リーダーシップから身を引く",
   "ts": "2026-08-06T05:41:30.536041+00:00"
@@ -667,6 +703,10 @@
   "ja": "WebKitのIPおよびDNS漏洩、プロキシブラウザとiCloud Private Relayに影響",
   "ts": "2026-08-05T11:14:05.015371+00:00"
  },
+ "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users": {
+  "ja": "ChatGPTでGPT-5.6 Solを改善、無料ユーザーへのGPT-5.6 Luna アクセスを拡大",
+  "ts": "2026-08-07T01:00:14.602517+00:00"
+ },
  "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years": {
   "ja": "妻エリーゼ・コーリーの追悼 - 36年間の素晴らしい時間に感謝",
   "ts": "2026-08-05T11:14:05.015328+00:00"
@@ -674,6 +714,10 @@
  "Increasing the lifespan of a bulb makes it worse in every other way": {
   "ja": "電球の寿命を延ばすことは他のあらゆる面で悪化させる",
   "ts": "2026-08-01T10:29:15.366156+00:00"
+ },
+ "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)": {
+  "ja": "vLLMの内部：高スループットLLM推論システムの解剖学 (2025)",
+  "ts": "2026-08-07T01:00:14.602517+00:00"
  },
  "Instrumenting my espresso machine with OpenTelemetry": {
   "ja": "OpenTelemetryでエスプレッソマシンを計測する",
@@ -779,6 +823,10 @@
   "ja": "Launch HN: Prized (YC S26) – エンジニア以外のスタッフがセキュアな内部ツールを構築",
   "ts": "2026-07-30T22:07:54.199767+00:00"
  },
+ "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks": {
+  "ja": "Launch HN: ProvenMetal (YC S26)、基板を数週間ではなく数日で納品",
+  "ts": "2026-08-07T01:00:14.602517+00:00"
+ },
  "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals": {
   "ja": "Launch HN: Rise Reforming (YC S26) – 廃棄ガスを貴重な化学物質に転換",
   "ts": "2026-07-28T11:10:58.283737+00:00"
@@ -786,6 +834,10 @@
  "Launch HN: Tokenless (YC S26) – Automatic model switching to save money": {
   "ja": "Launch HN: Tokenless (YC S26) – コスト削減のための自動モデル切り替え",
   "ts": "2026-07-30T11:01:01.391689+00:00"
+ },
+ "Learn how chips are made with this Rollercoaster Tycoon-inspired animation": {
+  "ja": "Rollercoaster Tycoonインスパイアのアニメーションでチップの製造を学ぶ",
+  "ts": "2026-08-07T01:00:14.602517+00:00"
  },
  "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences": {
   "ja": "LearnVector – Andrew Ngのことばアンドワンラーニング体験を構築するAI企業",
@@ -879,6 +931,10 @@
   "ja": "Meshdiff – ブラウザで2つのSTLバージョンを視覚的に比較、クライアント側処理",
   "ts": "2026-08-02T21:48:31.720714+00:00"
  },
+ "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media": {
+  "ja": "Metaにソーシャルメディアから子どもへの害に対処するため9億4,200万ドルの支払いを命じる",
+  "ts": "2026-08-07T01:00:14.602517+00:00"
+ },
  "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery": {
   "ja": "MetaがAI生成児童性虐待画像を含む広告を掲載",
   "ts": "2026-08-05T22:07:29.867079+00:00"
@@ -922,6 +978,10 @@
  "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”": {
   "ja": "個人用AIベンチマーク: ハプスブルク家の顎を持つカエルのSVGを生成する",
   "ts": "2026-08-03T06:14:03.792442+00:00"
+ },
+ "My phone detects going on a run as “someone snatching my phone and running off”": {
+  "ja": "携帯電話がランニングを「誰かが携帯電話を奪って走り去った」と検出",
+  "ts": "2026-08-07T01:00:14.602517+00:00"
  },
  "NSF pilots 4-year PhDs with industry research placements": {
   "ja": "NSF、業界研究配置を伴う4年間博士課程のパイロットプログラムを開始",
@@ -1055,6 +1115,10 @@
   "ja": "Quantego: IBM Quantum Computersのレゴモデルファミリー",
   "ts": "2026-08-06T11:14:18.091462+00:00"
  },
+ "Qwen3.8 Max now ranked as the best overall model by agentic index": {
+  "ja": "Qwen3.8 Max、agentic indexで最高総合モデルにランク",
+  "ts": "2026-08-07T01:00:14.602517+00:00"
+ },
  "Qwen3.8-Max: A New Bar for Coding and Cowork": {
   "ja": "Qwen3.8-Max: コーディングと協働の新しい基準",
   "ts": "2026-08-03T12:15:41.058690+00:00"
@@ -1159,6 +1223,10 @@
   "ja": "SQLiteの本番運用: WALモード、並行性、VFSレイヤーの最適化",
   "ts": "2026-07-29T11:17:37.025431+00:00"
  },
+ "STV: A full-motion video codec for the Atari ST": {
+  "ja": "STV: Atari STの全モーションビデオコーデック",
+  "ts": "2026-08-07T01:00:14.602517+00:00"
+ },
  "Saber-toothed cats became inbred–and struggled to move–before they went extinct": {
   "ja": "サーベルトゥース・キャットは近親交配によって衰弱し、絶滅する前に移動が困難になった",
   "ts": "2026-07-31T11:24:33.340241+00:00"
@@ -1166,6 +1234,10 @@
  "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets": {
   "ja": "HuggingFace訓練データ7.6ペタバイトのシークレットスキャン",
   "ts": "2026-08-01T21:47:42.064746+00:00"
+ },
+ "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun": {
+  "ja": "科学者が太陽の表面でKelvin-Helmholtz不安定性を発見",
+  "ts": "2026-08-07T01:00:14.602517+00:00"
  },
  "Securing Services with Rootless Containers": {
   "ja": "ルートレスコンテナを使用したサービス保護",
@@ -1283,6 +1355,10 @@
   "ja": "Show HN: Fable品質のモデルを半分のコストで最適化して提供",
   "ts": "2026-07-30T22:07:54.199767+00:00"
  },
+ "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2": {
+  "ja": "Show HN: Pokémon EmeraldがRaspberry Pi Pico 2に移植",
+  "ts": "2026-08-07T01:00:14.602517+00:00"
+ },
  "Show HN: Product analytics (and evals) for agent sessions on your MCP": {
   "ja": "Show HN: あなたの MCP 上のエージェントセッション向けプロダクト分析（およびevals）",
   "ts": "2026-08-03T22:01:24.604148+00:00"
@@ -1306,6 +1382,10 @@
  "Show HN: Supapool – a Supabase per coding agent in ~400 ms": {
   "ja": "Show HN: Supapool – ~400msで1つのSuabaseあたり1つのコーディングエージェント",
   "ts": "2026-07-30T22:07:54.199767+00:00"
+ },
+ "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)": {
+  "ja": "Show HN: Channels SDK – 任意のエージェントを任意のチャネルに対応させる (Slack、MS Teams)",
+  "ts": "2026-08-07T01:00:14.602517+00:00"
  },
  "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge": {
   "ja": "Show HN: UniFiの遅いPPPoEパフォーマンスをPPPoE Half-Bridgeで修正",
@@ -1567,6 +1647,10 @@
   "ja": "持ち運べないセッション",
   "ts": "2026-07-31T11:24:36.992076+00:00"
  },
+ "The simple elegance of the integrated timing belt loopback fastener": {
+  "ja": "統合タイミングベルトループバックファスナーのシンプルな優雅さ",
+  "ts": "2026-08-07T01:00:14.602517+00:00"
+ },
  "The time filter in Google Search broke a few days ago": {
   "ja": "Google検索の時間フィルターが数日前に破損",
   "ts": "2026-08-02T10:28:30.211842+00:00"
@@ -1595,6 +1679,10 @@
   "ja": "識字危機に関する3つのテーゼ",
   "ts": "2026-07-28T05:23:02.934777+00:00"
  },
+ "Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization": {
+  "ja": "miniKanrenにおけるボトムアップ列挙へ向けて：剪定とメモ化を通じて",
+  "ts": "2026-08-07T01:00:14.602517+00:00"
+ },
  "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design": {
   "ja": "Transformer Transformer: モーション条件付きロボット共設計のための統一モデル",
   "ts": "2026-07-29T11:17:33.572912+00:00"
@@ -1602,6 +1690,10 @@
  "Trembling Photons in Non-Abelian Electric Fields": {
   "ja": "非可換電場における光子の振動",
   "ts": "2026-08-04T11:17:50.507258+00:00"
+ },
+ "Trump again tries to limit US birthright citizenship with new executive orders": {
+  "ja": "Trumpが新しい大統領令で再度米国の出生地市民権を制限しようとする",
+  "ts": "2026-08-07T01:00:14.602517+00:00"
  },
  "Truth is not a direction: a Tarski attack on LLM probes": {
   "ja": "真実は方向ではない：LLMプローブへのTarskiアタック",
@@ -1706,6 +1798,10 @@
  "Web Security is Too Hard": {
   "ja": "Web セキュリティは難しすぎる",
   "ts": "2026-08-04T22:06:22.622257+00:00"
+ },
+ "Welcoming the Nepalese Government to Have I Been Pwned": {
+  "ja": "ネパール政府をHave I Been Pwnedに迎える",
+  "ts": "2026-08-07T01:00:14.602517+00:00"
  },
  "What DMARC Protects You From, and What It Does Not": {
   "ja": "DMARCがあなたを保護するもの、保護しないもの",
