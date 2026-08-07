@@ -9,7 +9,7 @@
  },
  "2027 memory capacity is reportedly sold out": {
   "ja": "2027年メモリ容量が売り切れたと報道",
-  "ts": "2026-08-07T09:54:33.877044+00:00"
+  "ts": "2026-08-07T21:32:23.738666+00:00"
  },
  "2x, not 10x: coding with LLMs in 2026": {
   "ja": "2026年のLLMでのコーディング：2x、10xではなく",
@@ -71,6 +71,10 @@
   "ja": "Macysの真ん中に建つ小さな固執した建物が再び見える",
   "ts": "2026-08-01T10:29:15.366156+00:00"
  },
+ "A year of fighting scrapers on my 1.5 million-page website": {
+  "ja": "150万ページのウェブサイトでスクレイパーと戦った1年間",
+  "ts": "2026-08-07T21:32:30.787829+00:00"
+ },
  "A.I. companies are recruiting electricians and carpenters by the thousands": {
   "ja": "AI企業が電気技師と大工を数千人規模で採用中",
   "ts": "2026-07-30T11:01:01.391674+00:00"
@@ -105,7 +109,7 @@
  },
  "AMD acquires Taalas to boost inference performance by etching models in silicon": {
   "ja": "AMDがTaaalasを買収、モデルをシリコンに刻み込むことで推論性能を向上",
-  "ts": "2026-08-07T09:54:29.419367+00:00"
+  "ts": "2026-08-07T21:32:23.738647+00:00"
  },
  "ASRock BC-250: Building the Budget Steam Machine": {
   "ja": "ASRock BC-250: 予算重視のSteamマシン構築",
@@ -151,9 +155,17 @@
   "ja": "複雑でない男",
   "ts": "2026-07-28T05:23:02.934777+00:00"
  },
+ "An all-sky map of half a million supermassive black holes": {
+  "ja": "100万個の超大質量ブラックホールの全天マップ",
+  "ts": "2026-08-07T21:32:30.787829+00:00"
+ },
  "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident": {
   "ja": "Frontier Lab Agent侵入の解剖学：2026年7月インシデントのタイムライン",
   "ts": "2026-07-30T11:01:01.391670+00:00"
+ },
+ "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it": {
+  "ja": "Ancient Library – 1,060のギリシャ語・ラテン語テキスト、任意の単語をクリックして解析",
+  "ts": "2026-08-07T21:32:30.787829+00:00"
  },
  "Ancient Rome's version of Google Maps: how long to reach the beach": {
   "ja": "古代ローマ版Googleマップ: ビーチまでどのくらいかかるか",
@@ -170,6 +182,10 @@
  "Anthropeum – Where in the world, and when, does this human artifact belong?": {
   "ja": "Anthropeum－この人工遺物は世界のどこに、いつ属するのか？",
   "ts": "2026-07-28T21:57:37.461952+00:00"
+ },
+ "App Store Rejection of the Week: Dark Hours": {
+  "ja": "App Store却下の今週の例：Dark Hours",
+  "ts": "2026-08-07T21:32:30.787829+00:00"
  },
  "Apple says more ex-employees may have taken confidential data to OpenAI": {
   "ja": "Apple、複数の元従業員がOpenAIに機密データを持ち出した可能性を発表",
@@ -194,6 +210,10 @@
  "Ask HN: Who wants to be hired? (August 2026)": {
   "ja": "Ask HN: 誰が採用されたいですか？（2026年8月）",
   "ts": "2026-08-04T11:17:46.859469+00:00"
+ },
+ "Assembly Hall of Shame": {
+  "ja": "Assembly恥の殿堂",
+  "ts": "2026-08-07T21:32:30.787829+00:00"
  },
  "Astronauts describe persistent 'observer' sensation after 6 month missions": {
   "ja": "宇宙飛行士、6ヶ月のミッション後も続く「観察者」の感覚を報告",
@@ -263,6 +283,10 @@
   "ja": "Branchless Rust: 条件分岐を削除してフィルタを4倍高速化",
   "ts": "2026-08-06T11:14:18.091448+00:00"
  },
+ "Britain's New World of Tobacco (2017)": {
+  "ja": "英国の新しいタバコの世界（2017）",
+  "ts": "2026-08-07T21:32:30.787829+00:00"
+ },
  "Bugtraq is back": {
   "ja": "Bugtraqが復活",
   "ts": "2026-08-05T11:14:05.015380+00:00"
@@ -274,6 +298,10 @@
  "Building an Advanced Agentic Harness": {
   "ja": "高度なエージェント環境の構築",
   "ts": "2026-08-05T22:07:29.867079+00:00"
+ },
+ "Building community out of strangers (2023)": {
+  "ja": "見知らぬ人からコミュニティを構築する（2023）",
+  "ts": "2026-08-07T21:32:30.787829+00:00"
  },
  "But can your calculator run Linux?": {
   "ja": "でも、あなたの電卓は Linuxを実行できるか",
@@ -294,6 +322,10 @@
  "Can you reverse engineer an ASIC?": {
   "ja": "ASICをリバースエンジニアリングできるか",
   "ts": "2026-08-07T04:50:18.700400+00:00"
+ },
+ "Carl's Required Reading": {
+  "ja": "Carlの必読書",
+  "ts": "2026-08-07T21:32:30.787829+00:00"
  },
  "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years": {
   "ja": "Kermit 45周年を祝う：15年ぶりの新しい C-Kermit リリース",
@@ -362,6 +394,10 @@
  "DMARC has been public since 2012 but most company domains still don't enforce it": {
   "ja": "DMARCは2012年から公開されているが、ほとんどの企業ドメインはまだこれを強制していない",
   "ts": "2026-07-28T21:57:37.461952+00:00"
+ },
+ "Databricks drove down AI coding spend 70%": {
+  "ja": "DatabricksがAIコーディングコストを70%削減",
+  "ts": "2026-08-07T21:32:30.787829+00:00"
  },
  "Decades-old fish sauce at abandoned factory in Canada finally being removed": {
   "ja": "カナダの放棄された工場の数十年前の魚醤がようやく撤去へ",
@@ -574,6 +610,10 @@
  "Google will expand age checks on Android worldwide till the end of the year": {
   "ja": "GoogleがAndroidの年齢確認を年末までに世界中で拡大予定",
   "ts": "2026-07-31T05:59:18.868666+00:00"
+ },
+ "Guarded Methods in OCaml": {
+  "ja": "OCamlのガード付きメソッド",
+  "ts": "2026-08-07T21:32:30.787829+00:00"
  },
  "Hackers Stalked Me by Hijacking a Smartwatch for Kids": {
   "ja": "ハッカーがキッズスマートウォッチをハイジャックして私を追跡した",
@@ -807,6 +847,10 @@
   "ja": "KisakCOD – Call of Duty 4 Multiplayer のオープンソース再実装",
   "ts": "2026-08-03T22:01:24.604148+00:00"
  },
+ "Kitesurf: Agent-first browser that runs in V8 isolates": {
+  "ja": "Kitesurf：V8 isolatesで動作するエージェント優先ブラウザ",
+  "ts": "2026-08-07T21:32:30.787829+00:00"
+ },
  "Kobuk the Destroyer – Tales from the Wild, Unseen World of Test Engineering": {
   "ja": "Kobuk the Destroyer – テストエンジニアリングの野生で未知の世界から",
   "ts": "2026-08-02T05:49:41.204416+00:00"
@@ -903,6 +947,10 @@
   "ja": "MCP 2026-07-28 仕様：トランスポートがステートレスになる",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD": {
+  "ja": "Postgresを分析処理で300倍高速化：バッチ処理、演算子融合、SIMD",
+  "ts": "2026-08-07T21:32:30.787829+00:00"
+ },
  "Making Postgres queues scale": {
   "ja": "Postgresキューをスケールさせる",
   "ts": "2026-07-30T22:07:54.199767+00:00"
@@ -995,6 +1043,14 @@
   "ja": "携帯電話がランニングを「誰かが携帯電話を奪って走り去った」と検出",
   "ts": "2026-08-07T09:54:29.419407+00:00"
  },
+ "Mykhailo Fedorov reveals struggle to secure Patriot missiles and Western support": {
+  "ja": "ミハイロ・フェドロフが愛国者ミサイルと西側支援確保の苦闘を明かす",
+  "ts": "2026-08-07T21:32:30.787829+00:00"
+ },
+ "Möbius-Strip Crosswords": {
+  "ja": "メビウスの帯クロスワード",
+  "ts": "2026-08-07T21:32:30.787829+00:00"
+ },
  "NSF pilots 4-year PhDs with industry research placements": {
   "ja": "NSF、業界研究配置を伴う4年間博士課程のパイロットプログラムを開始",
   "ts": "2026-07-30T05:33:36.898851+00:00"
@@ -1017,7 +1073,7 @@
  },
  "New Mexico court orders Meta to pay $567m over harms to children’s mental health": {
   "ja": "ニューメキシコ州の裁判所、Metaに子どもの心身に与えた害について567百万ドルの支払いを命じる",
-  "ts": "2026-08-07T09:54:33.877044+00:00"
+  "ts": "2026-08-07T21:32:23.738658+00:00"
  },
  "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software": {
   "ja": "ニューオーリンズ、Carbyneの AI搭載緊急通報トリアージソフトウェアをテスト中",
@@ -1067,6 +1123,10 @@
   "ja": "OpenAIのスーパーPACが業界批評家を攻撃するAI生成ニュースサイトに資金提供",
   "ts": "2026-08-03T06:14:03.792442+00:00"
  },
+ "Oracle bans AI-generated code from OpenJDK": {
+  "ja": "OracleがOpenJDKへのAI生成コードを禁止",
+  "ts": "2026-08-07T21:32:30.787829+00:00"
+ },
  "Orca-Bench: How Ready Are Language Model Agents for Oncall?": {
   "ja": "Orca-Bench：言語モデルエージェントはオンコール対応の準備ができているか",
   "ts": "2026-07-31T21:59:31.804562+00:00"
@@ -1090,6 +1150,10 @@
  "Parsers don't have to be complicated": {
   "ja": "パーサーは複雑である必要がない",
   "ts": "2026-08-07T09:54:33.877044+00:00"
+ },
+ "Petri Nets as a Music Sequencer": {
+  "ja": "ペトリネットを音楽シーケンサーとして使用",
+  "ts": "2026-08-07T21:32:30.787829+00:00"
  },
  "Pgtestdb's template cloning approach to testing is fast": {
   "ja": "Pgtestdbのテンプレートクローニングアプローチによるテストの高速化",
@@ -1131,6 +1195,10 @@
   "ja": "プログラミング言語はプラットフォームのためのオーサリングツール",
   "ts": "2026-07-28T11:11:01.190453+00:00"
  },
+ "Psychological Warfare in Reverse Engineering": {
+  "ja": "リバースエンジニアリングにおける心理戦",
+  "ts": "2026-08-07T21:32:30.787829+00:00"
+ },
  "Pushing the limits of RISC-V emulation": {
   "ja": "RISC-Vエミュレーションの限界に挑む",
   "ts": "2026-08-06T05:41:30.536041+00:00"
@@ -1162,6 +1230,10 @@
  "RTX 2080 Ti Memory Upgrade to 22 GB": {
   "ja": "RTX 2080 Tiメモリを22GBにアップグレード",
   "ts": "2026-07-28T11:10:58.283726+00:00"
+ },
+ "Radical Study Suggests Life on Earth Arose Twice": {
+  "ja": "地球上の生命は2度発生した可能性を示す革新的な研究",
+  "ts": "2026-08-07T21:32:30.787829+00:00"
  },
  "Ray tracing massive amounts of animated geometry using tetrahedral cages": {
   "ja": "四面体ケージを使った大量のアニメーション化ジオメトリのレイトレーシング",
@@ -1206,6 +1278,10 @@
  "Residential Proxies Are a National Security Threat": {
   "ja": "住宅用プロキシは国家安全保障脅威である",
   "ts": "2026-07-28T05:23:02.934777+00:00"
+ },
+ "Responding to the next frontier of critical cyber capabilities": {
+  "ja": "次世代の重大なサイバー能力への対応",
+  "ts": "2026-08-07T21:32:30.787829+00:00"
  },
  "Retired man plants trees on forgotten land, now it's Sao Paulo's largest park": {
   "ja": "退職した男性が忘れられた土地に木を植える、今ではサンパウロ最大の公園に",
@@ -1439,6 +1515,10 @@
   "ja": "Show HN: Yap – macOSのオープンソースオンデバイス音声ディクテーション、モデルダウンロード不要",
   "ts": "2026-07-28T11:10:58.283735+00:00"
  },
+ "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS": {
+  "ja": "Show HN: textlog – 静かなテキストのみのマイクロブログプラットフォーム、オープンソース、JavaScript不要",
+  "ts": "2026-08-07T21:32:30.787829+00:00"
+ },
  "Simulating TCP loss and congestion in browser using Go/WASM": {
   "ja": "Go/WASMを使ってブラウザでTCP損失と輻輳をシミュレート",
   "ts": "2026-07-31T11:24:36.992076+00:00"
@@ -1517,7 +1597,7 @@
  },
  "São Paulo resident transforms degraded area into urban forest": {
   "ja": "サンパウロの住民、劣化地域を都市森林に変える",
-  "ts": "2026-08-07T09:54:33.877044+00:00"
+  "ts": "2026-08-07T21:32:23.738662+00:00"
  },
  "Tailscale didn't stop the Hugging Face intrusion": {
   "ja": "Tailscale は Hugging Face への侵入を防げなかった",
@@ -1723,6 +1803,10 @@
   "ja": "They Forgot What Happened Last Time: Windows 365 Linkをハッキング [動画]",
   "ts": "2026-08-04T05:41:58.523074+00:00"
  },
+ "Thoroughly Understanding C++ ABI (2024)": {
+  "ja": "C++ ABIを徹底的に理解する（2024）",
+  "ts": "2026-08-07T21:32:30.787829+00:00"
+ },
  "Three Theses on the Literacy Crisis": {
   "ja": "識字危機に関する3つのテーゼ",
   "ts": "2026-07-28T05:23:02.934777+00:00"
@@ -1766,6 +1850,10 @@
  "Twenty-five years ago it was cryptography, today it's model weights": {
   "ja": "25年前は暗号化、今はモデルウェイト",
   "ts": "2026-08-01T05:48:52.275489+00:00"
+ },
+ "TypeStax: A type scale generator with vintage audio hardware interface": {
+  "ja": "TypeStax：ビンテージオーディオハードウェアインターフェイス付きタイプスケールジェネレータ",
+  "ts": "2026-08-07T21:32:30.787829+00:00"
  },
  "U.S. used 'virtually all' of its long-range precision missiles during Iran war": {
   "ja": "米国がイラン戦争中に長距離精密ミサイルをほぼ全て使用",
@@ -1867,6 +1955,10 @@
   "ja": "リベラルアーツ教育の目的とは（2024年）",
   "ts": "2026-08-01T05:48:56.409000+00:00"
  },
+ "What happens if an entire class of workers loses faith in their careers": {
+  "ja": "労働者階級全体がキャリアへの信頼を失ったら何が起こるか",
+  "ts": "2026-08-07T21:32:30.787829+00:00"
+ },
  "What happens if you put work into the second dimension?": {
   "ja": "2次元に仕事を投じたらどうなるか",
   "ts": "2026-08-05T22:07:29.867079+00:00"
@@ -1894,6 +1986,10 @@
  "Where USB Memory Sticks are Born (2013)": {
   "ja": "USBメモリスティックの製造地 (2013)",
   "ts": "2026-07-31T11:24:36.992076+00:00"
+ },
+ "Why Are There Statues of Beavers on Top of This Oxford Street Shop?": {
+  "ja": "なぜこのOxford Streetの店の上にはビーバーの像があるのか",
+  "ts": "2026-08-07T21:32:30.787829+00:00"
  },
  "Why Book Corners won't sync contributions back to OpenStreetMap": {
   "ja": "Book CornerがOpenStreetMapに貢献を同期バックしない理由",
