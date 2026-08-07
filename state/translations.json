@@ -7,6 +7,10 @@
   "ja": "200 ミリ秒",
   "ts": "2026-08-04T11:17:46.859456+00:00"
  },
+ "2027 memory capacity is reportedly sold out": {
+  "ja": "2027年メモリ容量が売り切れたと報道",
+  "ts": "2026-08-07T09:54:33.877044+00:00"
+ },
  "2x, not 10x: coding with LLMs in 2026": {
   "ja": "2026年のLLMでのコーディング：2x、10xではなく",
   "ts": "2026-07-30T22:07:54.199767+00:00"
@@ -101,7 +105,7 @@
  },
  "AMD acquires Taalas to boost inference performance by etching models in silicon": {
   "ja": "AMDがTaaalasを買収、モデルをシリコンに刻み込むことで推論性能を向上",
-  "ts": "2026-08-07T04:50:18.700345+00:00"
+  "ts": "2026-08-07T09:54:29.419367+00:00"
  },
  "ASRock BC-250: Building the Budget Steam Machine": {
   "ja": "ASRock BC-250: 予算重視のSteamマシン構築",
@@ -245,7 +249,7 @@
  },
  "Bioengineered chewing gum may offer a way to fight HPV and other microbes": {
   "ja": "バイオエンジニアリングされたチューインガムはHPVおよび他の微生物と戦う方法を提供する可能性",
-  "ts": "2026-08-07T04:50:18.700398+00:00"
+  "ts": "2026-08-07T09:54:29.419409+00:00"
  },
  "Bonsai: Janestreet's UI Library": {
   "ja": "Bonsai: Janestreetの UI ライブラリ",
@@ -507,6 +511,10 @@
   "ja": "技術開発と展開の4つのタイムスケール",
   "ts": "2026-08-02T05:49:41.204416+00:00"
  },
+ "Framework discloses data breach via Metabase 0-day": {
+  "ja": "Framework、Metabase 0-dayによるデータ流出を公表",
+  "ts": "2026-08-07T09:54:33.877044+00:00"
+ },
  "From boiling lead and black art: The history of mathematical typography (2017)": {
   "ja": "沸騰した鉛と黒い芸術から：数学的組版の歴史（2017年）",
   "ts": "2026-08-05T05:40:22.633007+00:00"
@@ -533,7 +541,7 @@
  },
  "GitHub Actions and Pages are experiencing degraded availability": {
   "ja": "GitHub ActionsとPagesで劣化した可用性",
-  "ts": "2026-08-07T04:50:18.700367+00:00"
+  "ts": "2026-08-07T09:54:29.419387+00:00"
  },
  "Glue bonds to nonstick surfaces and wipes clean with ethanol": {
   "ja": "接着剤がノンスティック表面に接着し、エタノールで拭き取れる",
@@ -601,7 +609,7 @@
  },
  "Herdr is joining Y Combinator. The runtime stays open": {
   "ja": "HerdrがY Combinatorに参加。ランタイムはオープンなまま",
-  "ts": "2026-08-07T04:50:18.700382+00:00"
+  "ts": "2026-08-07T09:54:29.419399+00:00"
  },
  "Hooray for the Sockets Interface": {
   "ja": "Socketsインターフェースで万歳",
@@ -653,7 +661,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-07T04:50:18.700406+00:00"
+  "ts": "2026-08-07T09:54:29.419418+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -669,7 +677,7 @@
  },
  "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs": {
   "ja": "4万回のゲーム実行で、AIエージェントコマンドを承認する際に人間が3件に1件の脅威を見落とし",
-  "ts": "2026-08-07T04:50:18.700373+00:00"
+  "ts": "2026-08-07T09:54:29.419393+00:00"
  },
  "Hunter-gatherers introduced fish to a mountain lake 7000 years ago": {
   "ja": "狩猟採集民が7000年前に山岳湖に魚を導入",
@@ -689,7 +697,7 @@
  },
  "I stopped trusting USB-C cable labels and started testing them": {
   "ja": "USB-Cケーブルのラベルを信頼するのをやめて、テストを始めた",
-  "ts": "2026-08-07T04:50:18.700385+00:00"
+  "ts": "2026-08-07T09:54:29.419402+00:00"
  },
  "I'll be stepping back from leading product for X": {
   "ja": "Xの製品リーダーシップから身を引く",
@@ -709,7 +717,7 @@
  },
  "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users": {
   "ja": "ChatGPTでGPT-5.6 Solを改善、無料ユーザーへのGPT-5.6 Luna アクセスを拡大",
-  "ts": "2026-08-07T04:50:18.700378+00:00"
+  "ts": "2026-08-07T09:54:29.419395+00:00"
  },
  "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years": {
   "ja": "妻エリーゼ・コーリーの追悼 - 36年間の素晴らしい時間に感謝",
@@ -721,7 +729,7 @@
  },
  "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)": {
   "ja": "vLLMの内部：高スループットLLM推論システムの解剖学 (2025)",
-  "ts": "2026-08-07T04:50:18.700396+00:00"
+  "ts": "2026-08-07T09:54:29.419411+00:00"
  },
  "Instrumenting my espresso machine with OpenTelemetry": {
   "ja": "OpenTelemetryでエスプレッソマシンを計測する",
@@ -829,7 +837,7 @@
  },
  "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks": {
   "ja": "Launch HN: ProvenMetal (YC S26)、基板を数週間ではなく数日で納品",
-  "ts": "2026-08-07T04:50:18.700376+00:00"
+  "ts": "2026-08-07T09:54:29.419400+00:00"
  },
  "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals": {
   "ja": "Launch HN: Rise Reforming (YC S26) – 廃棄ガスを貴重な化学物質に転換",
@@ -841,7 +849,7 @@
  },
  "Learn how chips are made with this Rollercoaster Tycoon-inspired animation": {
   "ja": "Rollercoaster Tycoonインスパイアのアニメーションでチップの製造を学ぶ",
-  "ts": "2026-08-07T04:50:18.700387+00:00"
+  "ts": "2026-08-07T09:54:29.419404+00:00"
  },
  "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences": {
   "ja": "LearnVector – Andrew Ngのことばアンドワンラーニング体験を構築するAI企業",
@@ -985,7 +993,7 @@
  },
  "My phone detects going on a run as “someone snatching my phone and running off”": {
   "ja": "携帯電話がランニングを「誰かが携帯電話を奪って走り去った」と検出",
-  "ts": "2026-08-07T04:50:18.700393+00:00"
+  "ts": "2026-08-07T09:54:29.419407+00:00"
  },
  "NSF pilots 4-year PhDs with industry research placements": {
   "ja": "NSF、業界研究配置を伴う4年間博士課程のパイロットプログラムを開始",
@@ -1006,6 +1014,14 @@
  "New HIV vaccine shows unprecedented success in preclinical study": {
   "ja": "新しいHIVワクチン、前臨床試験で前例のない成功を示す",
   "ts": "2026-07-29T05:44:46.045034+00:00"
+ },
+ "New Mexico court orders Meta to pay $567m over harms to children’s mental health": {
+  "ja": "ニューメキシコ州の裁判所、Metaに子どもの心身に与えた害について567百万ドルの支払いを命じる",
+  "ts": "2026-08-07T09:54:33.877044+00:00"
+ },
+ "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software": {
+  "ja": "ニューオーリンズ、Carbyneの AI搭載緊急通報トリアージソフトウェアをテスト中",
+  "ts": "2026-08-07T09:54:33.877044+00:00"
  },
  "New cars are getting 1.2cm longer and 0.5cm taller each year": {
   "ja": "新車は毎年1.2cm長くなり0.5cm高くなっている",
@@ -1071,6 +1087,10 @@
   "ja": "ガウス関数で描く",
   "ts": "2026-08-05T22:07:29.867079+00:00"
  },
+ "Parsers don't have to be complicated": {
+  "ja": "パーサーは複雑である必要がない",
+  "ts": "2026-08-07T09:54:33.877044+00:00"
+ },
  "Pgtestdb's template cloning approach to testing is fast": {
   "ja": "Pgtestdbのテンプレートクローニングアプローチによるテストの高速化",
   "ts": "2026-08-01T21:47:42.064746+00:00"
@@ -1117,7 +1137,7 @@
  },
  "Quake – 30th Anniversary Update": {
   "ja": "Quake – 30周年アップデート",
-  "ts": "2026-08-07T04:50:22.396857+00:00"
+  "ts": "2026-08-07T09:54:29.419390+00:00"
  },
  "Quantego: A Family of Lego Models of IBM Quantum Computers": {
   "ja": "Quantego: IBM Quantum Computersのレゴモデルファミリー",
@@ -1237,7 +1257,7 @@
  },
  "STV: A full-motion video codec for the Atari ST": {
   "ja": "STV: Atari STの全モーションビデオコーデック",
-  "ts": "2026-08-07T04:50:18.700404+00:00"
+  "ts": "2026-08-07T09:54:29.419416+00:00"
  },
  "Saber-toothed cats became inbred–and struggled to move–before they went extinct": {
   "ja": "サーベルトゥース・キャットは近親交配によって衰弱し、絶滅する前に移動が困難になった",
@@ -1249,7 +1269,7 @@
  },
  "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun": {
   "ja": "科学者が太陽の表面でKelvin-Helmholtz不安定性を発見",
-  "ts": "2026-08-07T04:50:18.700380+00:00"
+  "ts": "2026-08-07T09:54:29.419397+00:00"
  },
  "Securing Services with Rootless Containers": {
   "ja": "ルートレスコンテナを使用したサービス保護",
@@ -1274,6 +1294,10 @@
  "Show HN: A Handwritten Blogging Platform": {
   "ja": "Show HN: 手書きブログプラットフォーム",
   "ts": "2026-08-03T12:15:41.058718+00:00"
+ },
+ "Show HN: A free mini game that makes you a smarter fly fisherperson": {
+  "ja": "Show HN: フライフィッシングをより上手にするミニゲーム",
+  "ts": "2026-08-07T09:54:33.877044+00:00"
  },
  "Show HN: A local merge queue for parallel Claude Code agents": {
   "ja": "Show HN: 並列Claude Codeエージェント用のローカルマージキュー",
@@ -1455,6 +1479,10 @@
   "ja": "SpecForge – 形式仕様を執筆するためのプラットフォーム",
   "ts": "2026-07-29T11:17:37.025431+00:00"
  },
+ "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters": {
+  "ja": "鉄硫黄クラスタ上のSQD/QSCI量子化学ベンチマークのSpin監査",
+  "ts": "2026-08-07T09:54:33.877044+00:00"
+ },
  "Stacked PRs are now live on GitHub": {
   "ja": "Stacked PRs がGitHubで利用可能に",
   "ts": "2026-07-31T11:24:33.340222+00:00"
@@ -1486,6 +1514,10 @@
  "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)": {
   "ja": "追従的なAIは向社会的意思を減少させ依存を促進する (2025)",
   "ts": "2026-08-06T11:14:18.091458+00:00"
+ },
+ "São Paulo resident transforms degraded area into urban forest": {
+  "ja": "サンパウロの住民、劣化地域を都市森林に変える",
+  "ts": "2026-08-07T09:54:33.877044+00:00"
  },
  "Tailscale didn't stop the Hugging Face intrusion": {
   "ja": "Tailscale は Hugging Face への侵入を防げなかった",
@@ -1817,7 +1849,7 @@
  },
  "Welcoming the Nepalese Government to Have I Been Pwned": {
   "ja": "ネパール政府をHave I Been Pwnedに迎える",
-  "ts": "2026-08-07T04:50:18.700389+00:00"
+  "ts": "2026-08-07T09:54:29.419406+00:00"
  },
  "What DMARC Protects You From, and What It Does Not": {
   "ja": "DMARCがあなたを保護するもの、保護しないもの",
@@ -1838,6 +1870,10 @@
  "What happens if you put work into the second dimension?": {
   "ja": "2次元に仕事を投じたらどうなるか",
   "ts": "2026-08-05T22:07:29.867079+00:00"
+ },
+ "What is a product?": {
+  "ja": "プロダクトとは何か",
+  "ts": "2026-08-07T09:54:33.877044+00:00"
  },
  "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation": {
   "ja": "AI ベンチマークが停滞する時：ベンチマーク飽和の体系的研究",
@@ -1869,7 +1905,7 @@
  },
  "Why Estonians invite strangers into their back gardens each summer": {
   "ja": "エストニア人が毎年夏に見知らぬ人を自分たちの裏庭に招待する理由",
-  "ts": "2026-08-07T04:50:22.396857+00:00"
+  "ts": "2026-08-07T09:54:29.419413+00:00"
  },
  "Why did we wait so long for the bicycle? (2019)": {
   "ja": "なぜ自転車の登場までそんなに待たなければならなかったのか？(2019)",
