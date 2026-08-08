@@ -9,7 +9,7 @@
  },
  "2027 memory capacity is reportedly sold out": {
   "ja": "2027年メモリ容量が売り切れたと報道",
-  "ts": "2026-08-07T21:32:23.738666+00:00"
+  "ts": "2026-08-08T04:07:01.818681+00:00"
  },
  "2x, not 10x: coding with LLMs in 2026": {
   "ja": "2026年のLLMでのコーディング：2x、10xではなく",
@@ -73,7 +73,7 @@
  },
  "A year of fighting scrapers on my 1.5 million-page website": {
   "ja": "150万ページのウェブサイトでスクレイパーと戦った1年間",
-  "ts": "2026-08-07T21:32:30.787829+00:00"
+  "ts": "2026-08-08T04:07:01.818679+00:00"
  },
  "A.I. companies are recruiting electricians and carpenters by the thousands": {
   "ja": "AI企業が電気技師と大工を数千人規模で採用中",
@@ -157,7 +157,7 @@
  },
  "An all-sky map of half a million supermassive black holes": {
   "ja": "100万個の超大質量ブラックホールの全天マップ",
-  "ts": "2026-08-07T21:32:30.787829+00:00"
+  "ts": "2026-08-08T04:07:01.818695+00:00"
  },
  "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident": {
   "ja": "Frontier Lab Agent侵入の解剖学：2026年7月インシデントのタイムライン",
@@ -165,7 +165,7 @@
  },
  "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it": {
   "ja": "Ancient Library – 1,060のギリシャ語・ラテン語テキスト、任意の単語をクリックして解析",
-  "ts": "2026-08-07T21:32:30.787829+00:00"
+  "ts": "2026-08-08T04:07:01.818691+00:00"
  },
  "Ancient Rome's version of Google Maps: how long to reach the beach": {
   "ja": "古代ローマ版Googleマップ: ビーチまでどのくらいかかるか",
@@ -213,7 +213,7 @@
  },
  "Assembly Hall of Shame": {
   "ja": "Assembly恥の殿堂",
-  "ts": "2026-08-07T21:32:30.787829+00:00"
+  "ts": "2026-08-08T04:07:01.818683+00:00"
  },
  "Astronauts describe persistent 'observer' sensation after 6 month missions": {
   "ja": "宇宙飛行士、6ヶ月のミッション後も続く「観察者」の感覚を報告",
@@ -323,9 +323,13 @@
   "ja": "ASICをリバースエンジニアリングできるか",
   "ts": "2026-08-07T04:50:18.700400+00:00"
  },
+ "Captain Bible Reverse Engineering": {
+  "ja": "Captain Bible リバースエンジニアリング",
+  "ts": "2026-08-08T04:07:10.574101+00:00"
+ },
  "Carl's Required Reading": {
   "ja": "Carlの必読書",
-  "ts": "2026-08-07T21:32:30.787829+00:00"
+  "ts": "2026-08-08T04:07:01.818697+00:00"
  },
  "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years": {
   "ja": "Kermit 45周年を祝う：15年ぶりの新しい C-Kermit リリース",
@@ -378,6 +382,10 @@
  "Cro – elegant reactive services in Raku": {
   "ja": "Cro – Rakuの優雅なリアクティブサービス",
   "ts": "2026-08-03T06:14:03.792442+00:00"
+ },
+ "Curlese, Five Years Later": {
+  "ja": "Curlese、5年後",
+  "ts": "2026-08-08T04:07:10.574101+00:00"
  },
  "Cursor removed cost information from the usage page and CSV export": {
   "ja": "Cursorが使用ページとCSVエクスポートからコスト情報を削除",
@@ -615,6 +623,10 @@
   "ja": "OCamlのガード付きメソッド",
   "ts": "2026-08-07T21:32:30.787829+00:00"
  },
+ "Guarded Methods in OCaml (2025)": {
+  "ja": "OCaml の Guarded Methods (2025)",
+  "ts": "2026-08-08T04:07:10.574101+00:00"
+ },
  "Hackers Stalked Me by Hijacking a Smartwatch for Kids": {
   "ja": "ハッカーがキッズスマートウォッチをハイジャックして私を追跡した",
   "ts": "2026-08-07T04:50:22.396857+00:00"
@@ -849,7 +861,7 @@
  },
  "Kitesurf: Agent-first browser that runs in V8 isolates": {
   "ja": "Kitesurf：V8 isolatesで動作するエージェント優先ブラウザ",
-  "ts": "2026-08-07T21:32:30.787829+00:00"
+  "ts": "2026-08-08T04:07:01.818687+00:00"
  },
  "Kobuk the Destroyer – Tales from the Wild, Unseen World of Test Engineering": {
   "ja": "Kobuk the Destroyer – テストエンジニアリングの野生で未知の世界から",
@@ -949,7 +961,7 @@
  },
  "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD": {
   "ja": "Postgresを分析処理で300倍高速化：バッチ処理、演算子融合、SIMD",
-  "ts": "2026-08-07T21:32:30.787829+00:00"
+  "ts": "2026-08-08T04:07:01.818685+00:00"
  },
  "Making Postgres queues scale": {
   "ja": "Postgresキューをスケールさせる",
@@ -966,6 +978,10 @@
  "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)": {
   "ja": "Man and the Computer by John G. Kemeny（BASIC共同開発者による1972年の著作）",
   "ts": "2026-07-30T11:01:01.391691+00:00"
+ },
+ "Managing AI Coding Costs at Scale": {
+  "ja": "AI コーディングコストを大規模で管理する",
+  "ts": "2026-08-08T04:07:10.574101+00:00"
  },
  "Manual: •.,:;…!?·": {
   "ja": "マニュアル：•.,:;…!?·",
@@ -1049,7 +1065,11 @@
  },
  "Möbius-Strip Crosswords": {
   "ja": "メビウスの帯クロスワード",
-  "ts": "2026-08-07T21:32:30.787829+00:00"
+  "ts": "2026-08-08T04:07:01.818701+00:00"
+ },
+ "NASA to keep its 48-year-old Voyager 2 probe running for yet another year": {
+  "ja": "NASA、48年前の Voyager 2 探査機をさらに1年間稼働させる",
+  "ts": "2026-08-08T04:07:10.574101+00:00"
  },
  "NSF pilots 4-year PhDs with industry research placements": {
   "ja": "NSF、業界研究配置を伴う4年間博士課程のパイロットプログラムを開始",
@@ -1073,7 +1093,7 @@
  },
  "New Mexico court orders Meta to pay $567m over harms to children’s mental health": {
   "ja": "ニューメキシコ州の裁判所、Metaに子どもの心身に与えた害について567百万ドルの支払いを命じる",
-  "ts": "2026-08-07T21:32:23.738658+00:00"
+  "ts": "2026-08-08T04:07:01.818652+00:00"
  },
  "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software": {
   "ja": "ニューオーリンズ、Carbyneの AI搭載緊急通報トリアージソフトウェアをテスト中",
@@ -1125,7 +1145,7 @@
  },
  "Oracle bans AI-generated code from OpenJDK": {
   "ja": "OracleがOpenJDKへのAI生成コードを禁止",
-  "ts": "2026-08-07T21:32:30.787829+00:00"
+  "ts": "2026-08-08T04:07:01.818677+00:00"
  },
  "Orca-Bench: How Ready Are Language Model Agents for Oncall?": {
   "ja": "Orca-Bench：言語モデルエージェントはオンコール対応の準備ができているか",
@@ -1163,6 +1183,10 @@
   "ja": "フィッシャーが正規クラウドインフラを乗っ取っている",
   "ts": "2026-08-05T22:07:29.867079+00:00"
  },
+ "Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night": {
+  "ja": "物理学者がペットのハムスターのホイールを Strava に接続。毎晩遠くまで走る",
+  "ts": "2026-08-08T04:07:10.574101+00:00"
+ },
  "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up": {
   "ja": "物理学者がミューオンの謎を解く。今、過去の結果が整合しない",
   "ts": "2026-07-31T11:24:33.340231+00:00"
@@ -1199,6 +1223,10 @@
   "ja": "リバースエンジニアリングにおける心理戦",
   "ts": "2026-08-07T21:32:30.787829+00:00"
  },
+ "Psychological Warfare in Reverse Engineering (2015)": {
+  "ja": "リバースエンジニアリングにおける心理戦 (2015)",
+  "ts": "2026-08-08T04:07:10.574101+00:00"
+ },
  "Pushing the limits of RISC-V emulation": {
   "ja": "RISC-Vエミュレーションの限界に挑む",
   "ts": "2026-08-06T05:41:30.536041+00:00"
@@ -1233,7 +1261,7 @@
  },
  "Radical Study Suggests Life on Earth Arose Twice": {
   "ja": "地球上の生命は2度発生した可能性を示す革新的な研究",
-  "ts": "2026-08-07T21:32:30.787829+00:00"
+  "ts": "2026-08-08T04:07:01.818699+00:00"
  },
  "Ray tracing massive amounts of animated geometry using tetrahedral cages": {
   "ja": "四面体ケージを使った大量のアニメーション化ジオメトリのレイトレーシング",
@@ -1281,7 +1309,7 @@
  },
  "Responding to the next frontier of critical cyber capabilities": {
   "ja": "次世代の重大なサイバー能力への対応",
-  "ts": "2026-08-07T21:32:30.787829+00:00"
+  "ts": "2026-08-08T04:07:01.818689+00:00"
  },
  "Retired man plants trees on forgotten land, now it's Sao Paulo's largest park": {
   "ja": "退職した男性が忘れられた土地に木を植える、今ではサンパウロ最大の公園に",
@@ -1507,6 +1535,10 @@
   "ja": "Show HN: AIエージェントのGUIはどのような形であるべきか",
   "ts": "2026-07-31T11:24:36.992076+00:00"
  },
+ "Show HN: Wyzer Programming Language": {
+  "ja": "Show HN: Wyzer プログラミング言語",
+  "ts": "2026-08-08T04:07:10.574101+00:00"
+ },
  "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library": {
   "ja": "Show HN: XY－高速で合成可能なGPU高速化インタラクティブプロッティングライブラリ",
   "ts": "2026-07-28T21:57:37.461952+00:00"
@@ -1517,7 +1549,7 @@
  },
  "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS": {
   "ja": "Show HN: textlog – 静かなテキストのみのマイクロブログプラットフォーム、オープンソース、JavaScript不要",
-  "ts": "2026-08-07T21:32:30.787829+00:00"
+  "ts": "2026-08-08T04:07:01.818693+00:00"
  },
  "Simulating TCP loss and congestion in browser using Go/WASM": {
   "ja": "Go/WASMを使ってブラウザでTCP損失と輻輳をシミュレート",
@@ -1691,6 +1723,10 @@
   "ja": "Snow Leopardの神話",
   "ts": "2026-08-02T21:48:31.720714+00:00"
  },
+ "The Nixpkgs core team has disbanded": {
+  "ja": "Nixpkgs コアチームが解散",
+  "ts": "2026-08-08T04:07:10.574101+00:00"
+ },
  "The Origins of Vintage Comics Part 1": {
   "ja": "ビンテージコミックスの起源 Part 1",
   "ts": "2026-08-06T05:41:30.536041+00:00"
@@ -1855,6 +1891,10 @@
   "ja": "TypeStax：ビンテージオーディオハードウェアインターフェイス付きタイプスケールジェネレータ",
   "ts": "2026-08-07T21:32:30.787829+00:00"
  },
+ "U.S. Department of Energy Launches the Genesis Open Models Initiative": {
+  "ja": "U.S. Department of Energy が Genesis Open Models Initiative を開始",
+  "ts": "2026-08-08T04:07:10.574101+00:00"
+ },
  "U.S. used 'virtually all' of its long-range precision missiles during Iran war": {
   "ja": "米国がイラン戦争中に長距離精密ミサイルをほぼ全て使用",
   "ts": "2026-08-04T11:17:50.507258+00:00"
@@ -1911,6 +1951,10 @@
   "ja": "Goの新しいガベージコレクタがヒープを移動する様子",
   "ts": "2026-07-28T11:10:58.283719+00:00"
  },
+ "Water system controllers don't belong on the internet, says ex-NSA chief": {
+  "ja": "給水システムコントローラーはインターネットに接続すべきではない、と元NSA長官が指摘",
+  "ts": "2026-08-08T04:07:10.574101+00:00"
+ },
  "Waymo in Dallas": {
   "ja": "ダラスのWaymo",
   "ts": "2026-08-05T11:14:05.015360+00:00"
@@ -1957,7 +2001,7 @@
  },
  "What happens if an entire class of workers loses faith in their careers": {
   "ja": "労働者階級全体がキャリアへの信頼を失ったら何が起こるか",
-  "ts": "2026-08-07T21:32:30.787829+00:00"
+  "ts": "2026-08-08T04:07:01.818673+00:00"
  },
  "What happens if you put work into the second dimension?": {
   "ja": "2次元に仕事を投じたらどうなるか",
@@ -1989,7 +2033,7 @@
  },
  "Why Are There Statues of Beavers on Top of This Oxford Street Shop?": {
   "ja": "なぜこのOxford Streetの店の上にはビーバーの像があるのか",
-  "ts": "2026-08-07T21:32:30.787829+00:00"
+  "ts": "2026-08-08T04:07:01.818703+00:00"
  },
  "Why Book Corners won't sync contributions back to OpenStreetMap": {
   "ja": "Book CornerがOpenStreetMapに貢献を同期バックしない理由",
@@ -2002,6 +2046,10 @@
  "Why Estonians invite strangers into their back gardens each summer": {
   "ja": "エストニア人が毎年夏に見知らぬ人を自分たちの裏庭に招待する理由",
   "ts": "2026-08-07T09:54:29.419413+00:00"
+ },
+ "Why are all the amounts values negative?": {
+  "ja": "すべての金額の値がなぜマイナスなのか",
+  "ts": "2026-08-08T04:07:10.574101+00:00"
  },
  "Why did we wait so long for the bicycle? (2019)": {
   "ja": "なぜ自転車の登場までそんなに待たなければならなかったのか？(2019)",
