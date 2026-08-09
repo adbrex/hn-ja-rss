@@ -223,6 +223,10 @@
   "ja": "Ars Astronomica – 稀少なヘブライ語およびラテン語の天文学テキストの英訳",
   "ts": "2026-07-28T11:11:01.190453+00:00"
  },
+ "Ask HN: What are you working on? (August 2026)": {
+  "ja": "Ask HN: 何に取り組んでいますか？（2026年8月）",
+  "ts": "2026-08-09T21:24:15.218424+00:00"
+ },
  "Ask HN: Who is hiring? (August 2026)": {
   "ja": "Ask HN: 誰が採用していますか？（2026年8月）",
   "ts": "2026-08-04T11:17:46.859463+00:00"
@@ -405,11 +409,15 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-08-09T09:32:00.990075+00:00"
+  "ts": "2026-08-09T21:24:07.777578+00:00"
  },
  "Cracking Windows Open: Porting RADV to Win32": {
   "ja": "WindowsをこじあくてRADVをWin32に移植する",
   "ts": "2026-07-29T11:17:37.025431+00:00"
+ },
+ "Crickets as Pets": {
+  "ja": "ペットとしてのコオロギ",
+  "ts": "2026-08-09T21:24:15.218424+00:00"
  },
  "Critical CVE issued for hallucinated SQLite vulnerability": {
   "ja": "架空のSQLite脆弱性について発行された重大なCVE",
@@ -486,6 +494,10 @@
  "Delayed Gratification – Proud to Be 'Last to Breaking News'": {
   "ja": "遅延した満足感－「速報の最後」であることに誇りを持つ",
   "ts": "2026-07-29T11:17:33.572889+00:00"
+ },
+ "Deletes all instances of Microsoft's GDID and prevents minting of new ones": {
+  "ja": "Microsoftの GDID のすべてのインスタンスを削除し、新しいインスタンスの生成を防止",
+  "ts": "2026-08-09T21:24:15.218424+00:00"
  },
  "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena": {
   "ja": "DRAM 読み取り干渉の解明：RowHammer と RowPress 現象",
@@ -571,9 +583,17 @@
   "ja": "欧州EV販売でBEV50%増加、市場シェア26%に到達",
   "ts": "2026-08-02T21:48:31.720714+00:00"
  },
+ "Every fast write moves work somewhere else": {
+  "ja": "高速書き込みはすべて仕事を別の場所に移動させる",
+  "ts": "2026-08-09T21:24:15.218424+00:00"
+ },
  "Everyone is building LLM routers, we deprecated ours": {
   "ja": "みんな LLM ルーターを構築している、我々は廃止した",
   "ts": "2026-07-31T21:59:31.804562+00:00"
+ },
+ "Everything you do is being recorded": {
+  "ja": "あなたのすべての行動は記録されている",
+  "ts": "2026-08-09T21:24:15.218424+00:00"
  },
  "Exact, parallel 2D Delaunay triangulation for int32 coordinates": {
   "ja": "int32座標に対する正確で並列な2D Delaunay三角分割",
@@ -771,6 +791,10 @@
   "ja": "eBPFコードのプロファイリング方法は？",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "How Golden Is Silence, Actually?": {
+  "ja": "沈黙はどの程度ゴールデンなのか",
+  "ts": "2026-08-09T21:24:15.218424+00:00"
+ },
  "How Google helped destroy adoption of RSS feeds (2023)": {
   "ja": "Googleはいかにして RSSフィードの採用を破壊したか（2023年）",
   "ts": "2026-08-02T10:28:27.316240+00:00"
@@ -778,6 +802,10 @@
  "How Hollywood stopped making movies in Hollywood": {
   "ja": "ハリウッドはいかにしてハリウッドでの映画製作をやめたか",
   "ts": "2026-08-04T05:41:54.406882+00:00"
+ },
+ "How I use LLMs to learn complex topics": {
+  "ja": "複雑なトピックを学ぶためにLLMsを活用する方法",
+  "ts": "2026-08-09T21:24:15.218424+00:00"
  },
  "How JPEG works: Interactively explore JPEG's lossy compression methods": {
   "ja": "JPEG の仕組み：JPEG のロッシー圧縮方法をインタラクティブに探索",
@@ -809,7 +837,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-09T09:32:00.990073+00:00"
+  "ts": "2026-08-09T21:24:07.777574+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -907,6 +935,10 @@
   "ja": "AIの推論は間違った理由で正しいのか？",
   "ts": "2026-08-01T05:48:56.409000+00:00"
  },
+ "Is it all just vapourware?": {
+  "ja": "それはすべてベイパーウェアなのか",
+  "ts": "2026-08-09T21:24:15.218424+00:00"
+ },
  "I’m leaving OpenAI to build telepathy": {
   "ja": "OpenAIを離職してテレパシーを構築する",
   "ts": "2026-08-05T22:07:29.867079+00:00"
@@ -914,6 +946,10 @@
  "JEP 401: Value Objects (Preview) merged to OpenJDK master": {
   "ja": "JEP 401: Value Objects (Preview) がOpenJDK masterにマージ",
   "ts": "2026-07-31T11:24:36.992076+00:00"
+ },
+ "John C. Lilly on solid state intelligence and the elimination of man (1978)": {
+  "ja": "John C. Lillyが語るソリッドステート知能と人類の排除（1978）",
+  "ts": "2026-08-09T21:24:15.218424+00:00"
  },
  "June in Servo: real world compat, media queries, SharedWorker, and more": {
   "ja": "Servo 6月：実世界互換、メディアクエリ、SharedWorker ほか",
@@ -1089,7 +1125,7 @@
  },
  "Making your JITted Code known: Let me count the ways": {
   "ja": "JITコンパイルされたコードを知らせる: その方法を数えてみた",
-  "ts": "2026-08-02T21:48:24.550580+00:00"
+  "ts": "2026-08-09T21:24:07.777582+00:00"
  },
  "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)": {
   "ja": "Man and the Computer by John G. Kemeny（BASIC共同開発者による1972年の著作）",
@@ -1255,6 +1291,10 @@
   "ja": "LLMにACM Digital Libraryへのアクセスを与える時が来た",
   "ts": "2026-07-29T11:17:33.572905+00:00"
  },
+ "Npm-scan: Modern supply chain security for the npm ecosystem": {
+  "ja": "Npm-scan: npmエコシステムの最新サプライチェーンセキュリティ",
+  "ts": "2026-08-09T21:24:15.218424+00:00"
+ },
  "Nvidia's Vera Whitepaper Has a Thread Loose": {
   "ja": "NvidiaのVera Whitepapeが糸がほつれている",
   "ts": "2026-08-05T22:07:29.867079+00:00"
@@ -1286,6 +1326,10 @@
  "OpenAI's super PAC is funding AI-generated news site attacking industry critics": {
   "ja": "OpenAIのスーパーPACが業界批評家を攻撃するAI生成ニュースサイトに資金提供",
   "ts": "2026-08-03T06:14:03.792442+00:00"
+ },
+ "OpenChamber: An Agentic Development Environment": {
+  "ja": "OpenChamber: エージェント開発環境",
+  "ts": "2026-08-09T21:24:15.218424+00:00"
  },
  "Oracle bans AI-generated code from OpenJDK": {
   "ja": "OracleがOpenJDKへのAI生成コードを禁止",
@@ -1343,9 +1387,17 @@
   "ja": "Piの極シンプルさが強み",
   "ts": "2026-08-05T11:14:05.015356+00:00"
  },
+ "Plug-In Solar Panels Starting to Sprout in U.S. Backyards": {
+  "ja": "プラグイン型太陽光パネル、米国の裏庭で広がり始める",
+  "ts": "2026-08-09T21:24:15.218424+00:00"
+ },
  "Plug-in solar is coming. Plug-in batteries should follow": {
   "ja": "プラグイン太陽光パネルが到来。プラグイン電池も後に続くはず",
   "ts": "2026-08-02T05:49:41.204416+00:00"
+ },
+ "Poland now 6th-largest EU economy, ahead of Switzerland and Belgium": {
+  "ja": "ポーランド、EUで6番目の大型経済へ、スイスとベルギーを上回る",
+  "ts": "2026-08-09T21:24:15.218424+00:00"
  },
  "Position: LLMs Can't Jump": {
   "ja": "Position: LLMsはジャンプできない",
@@ -1419,6 +1471,10 @@
   "ja": "地球上の生命は2度発生した可能性を示す革新的な研究",
   "ts": "2026-08-08T09:30:29.480448+00:00"
  },
+ "Ransomware gangs skip the CEO, head straight for the 40-something IT manager": {
+  "ja": "ランサムウェアギャング、CEOをスキップして40代のITマネージャーを直撃",
+  "ts": "2026-08-09T21:24:15.218424+00:00"
+ },
  "Ray tracing massive amounts of animated geometry using tetrahedral cages": {
   "ja": "四面体ケージを使った大量のアニメーション化ジオメトリのレイトレーシング",
   "ts": "2026-07-28T11:10:58.283728+00:00"
@@ -1479,6 +1535,10 @@
   "ja": "訂正：正当だったApp Store却下の一週間",
   "ts": "2026-08-09T09:32:05.584523+00:00"
  },
+ "Reviving a four year old reMarkable 2": {
+  "ja": "4年前のreMarkable 2を復活させる",
+  "ts": "2026-08-09T21:24:15.218424+00:00"
+ },
  "Rio-vt and librio: Rio's terminal engine, now embeddable": {
   "ja": "Rio-vtとlibrio：Rioのターミナルエンジン、組み込み可能に",
   "ts": "2026-08-05T11:14:05.015382+00:00"
@@ -1531,6 +1591,10 @@
   "ja": "サーベルトゥース・キャットは近親交配によって衰弱し、絶滅する前に移動が困難になった",
   "ts": "2026-07-31T11:24:33.340241+00:00"
  },
+ "Saying No": {
+  "ja": "ノーと言うこと",
+  "ts": "2026-08-09T21:24:15.218424+00:00"
+ },
  "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets": {
   "ja": "HuggingFace訓練データ7.6ペタバイトのシークレットスキャン",
   "ts": "2026-08-01T21:47:42.064746+00:00"
@@ -1570,6 +1634,10 @@
  "Show HN: A Handwritten Blogging Platform": {
   "ja": "Show HN: 手書きブログプラットフォーム",
   "ts": "2026-08-03T12:15:41.058718+00:00"
+ },
+ "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5": {
+  "ja": "Show HN: RISC-5ではなくRISC-Vで動作するProject Oberonシステムバージョン",
+  "ts": "2026-08-09T21:24:15.218424+00:00"
  },
  "Show HN: A free mini game that makes you a smarter fly fisherperson": {
   "ja": "Show HN: フライフィッシングをより上手にするミニゲーム",
@@ -1613,7 +1681,7 @@
  },
  "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com": {
   "ja": "Show HN: 2012年の自己署名証明書ジェネレータをGoで書き直した – cert-depot.com",
-  "ts": "2026-08-09T04:13:02.787191+00:00"
+  "ts": "2026-08-09T21:24:07.777580+00:00"
  },
  "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript": {
   "ja": "Show HN: HNのリンクを開くたびに2つのタブを開くのに疲れたので、ユーザースクリプトを作った",
@@ -1698,6 +1766,10 @@
  "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)": {
   "ja": "Show HN: Channels SDK – 任意のエージェントを任意のチャネルに対応させる (Slack、MS Teams)",
   "ts": "2026-08-07T04:50:18.700395+00:00"
+ },
+ "Show HN: Today's cities on a globe of Earth's tectonic past and future": {
+  "ja": "Show HN: 地球の過去と未来のテクトニクス地球儀上に表示した現在の都市",
+  "ts": "2026-08-09T21:24:15.218424+00:00"
  },
  "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge": {
   "ja": "Show HN: UniFiの遅いPPPoEパフォーマンスをPPPoE Half-Bridgeで修正",
@@ -1785,7 +1857,7 @@
  },
  "Stylized GGX Shading": {
   "ja": "スタイル化されたGGXシェーディング",
-  "ts": "2026-08-09T09:32:05.584523+00:00"
+  "ts": "2026-08-09T21:24:07.777556+00:00"
  },
  "Substack writers, you need a website": {
   "ja": "Substackのライター諸君、ウェブサイトが必要だ",
@@ -1810,6 +1882,10 @@
  "Tailscale didn't stop the Hugging Face intrusion": {
   "ja": "Tailscale は Hugging Face への侵入を防げなかった",
   "ts": "2026-08-01T05:48:52.275485+00:00"
+ },
+ "Taxi drivers rarely die of Alzheimer's": {
+  "ja": "タクシー運転手がアルツハイマー病で死ぬことはめったにない",
+  "ts": "2026-08-09T21:24:15.218424+00:00"
  },
  "Teach yourself programming in ten years (1998)": {
   "ja": "10年でプログラミングを独習する（1998年）",
@@ -2011,6 +2087,10 @@
   "ja": "Blade Runnerのタイトルカードは素晴らしい",
   "ts": "2026-08-06T11:14:18.091434+00:00"
  },
+ "The tragedy of the commons, AI edition": {
+  "ja": "コモンズの悲劇、AI版",
+  "ts": "2026-08-09T21:24:15.218424+00:00"
+ },
  "The true power of regular expressions (2012)": {
   "ja": "正規表現の真の力（2012年）",
   "ts": "2026-08-03T12:15:46.460959+00:00"
@@ -2022,6 +2102,10 @@
  "TheoremDB – A public workspace for machine mathematics": {
   "ja": "TheoremDB – 機械数学のためのパブリックワークスペース",
   "ts": "2026-08-09T09:32:05.584523+00:00"
+ },
+ "There Are Magic Hexagons of Every Order": {
+  "ja": "すべての位数でマジックヘキサゴンが存在する",
+  "ts": "2026-08-09T21:24:15.218424+00:00"
  },
  "There Will Come Soft Rains (1950) [pdf]": {
   "ja": "やがて雨は静かに降りて来るだろう（1950年）[pdf]",
@@ -2235,6 +2319,10 @@
   "ja": "AI ベンチマークが停滞する時：ベンチマーク飽和の体系的研究",
   "ts": "2026-08-04T22:06:22.622257+00:00"
  },
+ "When Compilers Disagree About UTF‑8": {
+  "ja": "コンパイラがUTF-8について見解が異なる場合",
+  "ts": "2026-08-09T21:24:15.218424+00:00"
+ },
  "When Feature Flags Do and Don't Make Sense": {
   "ja": "フィーチャーフラグが有意である場合と有意でない場合",
   "ts": "2026-08-09T04:13:08.257601+00:00"
@@ -2298,6 +2386,10 @@
  "Why we write our own C and C++ inference engines": {
   "ja": "独自のCとC++推論エンジンを書く理由",
   "ts": "2026-08-03T12:15:41.058723+00:00"
+ },
+ "Windows 11's built-in Weather app wastes more than 1 GB of RAM": {
+  "ja": "Windows 11の組み込みWeatherアプリが1GB以上のRAMを浪費している",
+  "ts": "2026-08-09T21:24:15.218424+00:00"
  },
  "Windows XP 2002 for the Itanium: Unbridled rage": {
   "ja": "Windows XP 2002 for Itanium: 抑制されない怒り",
