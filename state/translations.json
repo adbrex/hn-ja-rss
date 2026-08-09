@@ -319,6 +319,10 @@
   "ja": "htmxを使用した段階的に拡張されたフォームの構築",
   "ts": "2026-08-07T04:50:18.700401+00:00"
  },
+ "Building a local positioning system to track runners using Ultra-Wideband": {
+  "ja": "Ultra-Wideband を使用してランナーを追跡するローカル測位システムの構築",
+  "ts": "2026-08-09T04:13:08.257601+00:00"
+ },
  "Building an Advanced Agentic Harness": {
   "ja": "高度なエージェント環境の構築",
   "ts": "2026-08-05T22:07:29.867079+00:00"
@@ -345,7 +349,7 @@
  },
  "Can Intel finally beat ARM on performance per Watt?": {
   "ja": "Intelは最終的にARM をPower/W で上回れるのか",
-  "ts": "2026-08-08T21:22:35.314726+00:00"
+  "ts": "2026-08-09T04:13:02.787174+00:00"
  },
  "Can you reverse engineer an ASIC?": {
   "ja": "ASICをリバースエンジニアリングできるか",
@@ -370,6 +374,10 @@
  "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs": {
   "ja": "Google DeepMindの人事変更: Demis HassabisがCEOから会長へ、Jeff Deanが退職",
   "ts": "2026-08-06T11:14:18.091408+00:00"
+ },
+ "ChatGPT starts blocking direct requests to copy an author's style": {
+  "ja": "ChatGPTが著者のスタイルをコピーするダイレクト要求をブロックし始める",
+  "ts": "2026-08-09T04:13:08.257601+00:00"
  },
  "China begins producing advanced chipmaking deep-ultraviolet lithography machines": {
   "ja": "中国が先端チップ製造向け深紫外線リソグラフィ装置の生産を開始",
@@ -397,7 +405,7 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-08-07T04:50:18.700408+00:00"
+  "ts": "2026-08-09T04:13:02.787189+00:00"
  },
  "Cracking Windows Open: Porting RADV to Win32": {
   "ja": "WindowsをこじあくてRADVをWin32に移植する",
@@ -423,6 +431,10 @@
   "ja": "DConf 2026 ロンドン開催",
   "ts": "2026-07-28T11:10:58.283731+00:00"
  },
+ "DDisasm: Reversible (bi-directional) Disassembler": {
+  "ja": "DDisasm: 可逆的（双方向）逆アセンブラー",
+  "ts": "2026-08-09T04:13:08.257601+00:00"
+ },
  "DDoS against Norwegian government IT infrastructure – status": {
   "ja": "ノルウェー政府 IT インフラへの DDoS 攻撃 - ステータス",
   "ts": "2026-08-03T22:01:24.604148+00:00"
@@ -430,6 +442,10 @@
  "DMARC has been public since 2012 but most company domains still don't enforce it": {
   "ja": "DMARCは2012年から公開されているが、ほとんどの企業ドメインはまだこれを強制していない",
   "ts": "2026-07-28T21:57:37.461952+00:00"
+ },
+ "Danish high schoolers will have to verbally defend written assignments": {
+  "ja": "デンマークの高校生は論述課題を口頭で弁論する必要がある",
+  "ts": "2026-08-09T04:13:08.257601+00:00"
  },
  "Databricks drove down AI coding spend 70%": {
   "ja": "DatabricksがAIコーディングコストを70%削減",
@@ -490,6 +506,10 @@
  "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast": {
   "ja": "広島原爆によって鍛造された多成分合金の発見",
   "ts": "2026-08-06T11:14:18.091452+00:00"
+ },
+ "Dithered QR Codes": {
+  "ja": "ディザリングされたQRコード",
+  "ts": "2026-08-09T04:13:08.257601+00:00"
  },
  "Document-borne AI worms can self-propagate through Copilot for Word": {
   "ja": "ドキュメント経由のAIワーム、Copilot for Wordを通じた自己伝播が可能",
@@ -569,7 +589,7 @@
  },
  "Fastmail offers EU data region": {
   "ja": "Fastmailが欧州データリージョンを提供",
-  "ts": "2026-08-08T21:22:35.314726+00:00"
+  "ts": "2026-08-09T04:13:02.787166+00:00"
  },
  "Fasttracker II clone in C using SDL 2": {
   "ja": "SDL 2を使用したFasttracker IIクローン（C言語版）",
@@ -629,7 +649,7 @@
  },
  "Gateway 2000's hilariously bad ads in the 90s (Part II)": {
   "ja": "Gateway 2000の90年代の笑える広告集（パート II）",
-  "ts": "2026-08-08T21:22:35.314726+00:00"
+  "ts": "2026-08-09T04:13:02.787178+00:00"
  },
  "Gemini Robotics 2 brings whole body intelligence to robots": {
   "ja": "Gemini Robotics 2がロボットに全身知能をもたらす",
@@ -777,7 +797,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-07T09:54:29.419418+00:00"
+  "ts": "2026-08-09T04:13:02.787187+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -834,6 +854,10 @@
  "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users": {
   "ja": "ChatGPTでGPT-5.6 Solを改善、無料ユーザーへのGPT-5.6 Luna アクセスを拡大",
   "ts": "2026-08-07T09:54:29.419395+00:00"
+ },
+ "Improving Heuristics for A* Pathfinding": {
+  "ja": "A*経路探索のヒューリスティック改善",
+  "ts": "2026-08-09T04:13:08.257601+00:00"
  },
  "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years": {
   "ja": "妻エリーゼ・コーリーの追悼 - 36年間の素晴らしい時間に感謝",
@@ -1021,7 +1045,7 @@
  },
  "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength": {
   "ja": "オフィスで携帯を紛失。Claudeが Bluetooth信号強度の追跡を提案",
-  "ts": "2026-08-08T21:22:35.314726+00:00"
+  "ts": "2026-08-09T04:13:02.787172+00:00"
  },
  "MCP 2026-07-28 Specification: transport going stateless": {
   "ja": "MCP 2026-07-28 仕様：トランスポートがステートレスになる",
@@ -1038,6 +1062,10 @@
  "Making Referential Stability a Type": {
   "ja": "参照安定性を型にする",
   "ts": "2026-07-31T21:59:31.804562+00:00"
+ },
+ "Making difficulty curves in games": {
+  "ja": "ゲームの難易度カーブの作り方",
+  "ts": "2026-08-09T04:13:08.257601+00:00"
  },
  "Making your JITted Code known: Let me count the ways": {
   "ja": "JITコンパイルされたコードを知らせる: その方法を数えてみた",
@@ -1077,7 +1105,7 @@
  },
  "Message your other Claude Code sessions": {
   "ja": "別のClaude Codeセッションにメッセージを送信",
-  "ts": "2026-08-08T21:22:35.314726+00:00"
+  "ts": "2026-08-09T04:13:02.787182+00:00"
  },
  "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media": {
   "ja": "Metaにソーシャルメディアから子どもへの害に対処するため9億4,200万ドルの支払いを命じる",
@@ -1134,6 +1162,10 @@
  "My phone detects going on a run as “someone snatching my phone and running off”": {
   "ja": "携帯電話がランニングを「誰かが携帯電話を奪って走り去った」と検出",
   "ts": "2026-08-07T09:54:29.419407+00:00"
+ },
+ "My server is a phone now": {
+  "ja": "今、私のサーバーは電話である",
+  "ts": "2026-08-09T04:13:08.257601+00:00"
  },
  "Mykhailo Fedorov reveals struggle to secure Patriot missiles and Western support": {
   "ja": "ミハイロ・フェドロフが愛国者ミサイルと西側支援確保の苦闘を明かす",
@@ -1213,7 +1245,7 @@
  },
  "Open-source interactive map for the Aug 12 total solar eclipse": {
   "ja": "8月12日の皆既日食向けオープンソース対話型マップ",
-  "ts": "2026-08-08T21:22:35.314726+00:00"
+  "ts": "2026-08-09T04:13:02.787180+00:00"
  },
  "OpenAI just open-sourced Codex Security": {
   "ja": "OpenAIがCodex Securityをオープンソース化",
@@ -1234,6 +1266,10 @@
  "Orca-Bench: How Ready Are Language Model Agents for Oncall?": {
   "ja": "Orca-Bench：言語モデルエージェントはオンコール対応の準備ができているか",
   "ts": "2026-07-31T21:59:31.804562+00:00"
+ },
+ "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386": {
+  "ja": "Os8088: IBM XT、286、386向けのMac的な強力OS",
+  "ts": "2026-08-09T04:13:08.257601+00:00"
  },
  "Our position on open-weights models": {
   "ja": "オープンウェイトモデルに対する当社の立場",
@@ -1294,6 +1330,10 @@
  "Prevent cognitive debt by manually retyping LLM-generated code": {
   "ja": "LLMが生成したコードを手動で再入力して認知的債務を防ぐ",
   "ts": "2026-08-04T11:17:46.859448+00:00"
+ },
+ "Preventing Misfolding by Preventing Folding": {
+  "ja": "折り畳みを防ぐことで誤折り畳みを防ぐ",
+  "ts": "2026-08-09T04:13:08.257601+00:00"
  },
  "Prime Agent: A self-improving RLM agent": {
   "ja": "Prime Agent: 自己改善するRLMエージェント",
@@ -1483,6 +1523,10 @@
   "ja": "Godot VRのシップとPSVR2へのポート：部分的事後検討",
   "ts": "2026-07-29T21:54:08.013720+00:00"
  },
+ "Shopify replaced Redis with MySQL for inventory reservations–and it scaled": {
+  "ja": "ShopifyがインベントリリザベーションのRedisをMySQLに置き換え–スケールしている",
+  "ts": "2026-08-09T04:13:08.257601+00:00"
+ },
  "Show HN: A Handwritten Blogging Platform": {
   "ja": "Show HN: 手書きブログプラットフォーム",
   "ts": "2026-08-03T12:15:41.058718+00:00"
@@ -1529,7 +1573,7 @@
  },
  "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com": {
   "ja": "Show HN: 2012年の自己署名証明書ジェネレータをGoで書き直した – cert-depot.com",
-  "ts": "2026-08-05T11:14:05.015388+00:00"
+  "ts": "2026-08-09T04:13:02.787191+00:00"
  },
  "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript": {
   "ja": "Show HN: HNのリンクを開くたびに2つのタブを開くのに疲れたので、ユーザースクリプトを作った",
@@ -1839,6 +1883,10 @@
   "ja": "シリコンバレー創業者ミートグラインダー",
   "ts": "2026-08-01T21:47:42.064746+00:00"
  },
+ "The Sound and Music of 'Hyper Light Drifter' [video]": {
+  "ja": "『Hyper Light Drifter』のサウンドとミュージック [ビデオ]",
+  "ts": "2026-08-09T04:13:08.257601+00:00"
+ },
  "The Sylvester–Gallai Theorem": {
   "ja": "Sylvester–Gallai 定理",
   "ts": "2026-08-07T04:50:22.396857+00:00"
@@ -1891,6 +1939,10 @@
   "ja": "Snow Leopardの神話",
   "ts": "2026-08-03T06:14:03.792442+00:00"
  },
+ "The phone book that led us to Assad's spy chief in hiding": {
+  "ja": "潜伏していたアサド政権のスパイ局長に導いた電話帳",
+  "ts": "2026-08-09T04:13:08.257601+00:00"
+ },
  "The sale of Electronic Arts has been finalized": {
   "ja": "Electronic Artsの売却が完了",
   "ts": "2026-08-05T05:40:22.633007+00:00"
@@ -1937,11 +1989,11 @@
  },
  "Timeline of the OpenAI accidental attack against Hugging Face": {
   "ja": "OpenAiによるHugging Faceへの不意の攻撃のタイムライン",
-  "ts": "2026-08-08T21:22:35.314726+00:00"
+  "ts": "2026-08-09T04:13:02.787152+00:00"
  },
  "TinySol, a tiny solitaire game for DOS": {
   "ja": "TinySol、DOS用のちっぽけなソリティアゲーム",
-  "ts": "2026-08-08T21:22:35.314726+00:00"
+  "ts": "2026-08-09T04:13:02.787184+00:00"
  },
  "Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization": {
   "ja": "miniKanrenにおけるボトムアップ列挙へ向けて：剪定とメモ化を通じて",
@@ -1957,7 +2009,7 @@
  },
  "Triton: DirectX 11 Driver for QEMU": {
   "ja": "Triton: QEMUのDirectX 11ドライバ",
-  "ts": "2026-08-08T21:22:35.314726+00:00"
+  "ts": "2026-08-09T04:13:02.787176+00:00"
  },
  "Trump again tries to limit US birthright citizenship with new executive orders": {
   "ja": "Trumpが新しい大統領令で再度米国の出生地市民権を制限しようとする",
@@ -2005,11 +2057,15 @@
  },
  "US Military's cyber command unit grapples with cluster of deaths by suicide": {
   "ja": "米軍サイバー司令部、自殺による死亡事例の急増に直面",
-  "ts": "2026-08-08T21:22:35.314726+00:00"
+  "ts": "2026-08-09T04:13:02.787169+00:00"
  },
  "Una GPS smart watch – Repairable, USB-C charging, developer-friendly": {
   "ja": "Una GPS スマートウォッチ－修理可能、USB-C充電、開発者フレンドリー",
   "ts": "2026-07-29T11:17:33.572896+00:00"
+ },
+ "Unexpected events and prosocial behavior: the Batman effect": {
+  "ja": "予期しないイベントと向社会的行動: バットマン効果",
+  "ts": "2026-08-09T04:13:08.257601+00:00"
  },
  "Unraveling the mysteries of habit formation": {
   "ja": "習慣形成の謎を解き明かす",
@@ -2123,6 +2179,10 @@
   "ja": "AI ベンチマークが停滞する時：ベンチマーク飽和の体系的研究",
   "ts": "2026-08-04T22:06:22.622257+00:00"
  },
+ "When Feature Flags Do and Don't Make Sense": {
+  "ja": "フィーチャーフラグが有意である場合と有意でない場合",
+  "ts": "2026-08-09T04:13:08.257601+00:00"
+ },
  "When random.bytes() runs but doesn't work": {
   "ja": "random.bytes()は実行されるが機能しない",
   "ts": "2026-08-02T10:28:27.316282+00:00"
@@ -2234,6 +2294,10 @@
  "qm – Multiplayer agent harness for work": {
   "ja": "qm – 仕事向けマルチプレイヤーエージェントハーネス",
   "ts": "2026-08-01T10:29:11.166401+00:00"
+ },
+ "“Code was never the hard part” is an insult to all programmers": {
+  "ja": "「コードなんて簡単だ」というのはすべてのプログラマーへの侮辱である",
+  "ts": "2026-08-09T04:13:08.257601+00:00"
  },
  "“Gravity is worth asking about”": {
   "ja": "「重力は問う価値がある」",
