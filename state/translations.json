@@ -23,6 +23,10 @@
   "ja": "2026年のLLMでのコーディング：2x、10xではなく",
   "ts": "2026-07-30T22:07:54.199767+00:00"
  },
+ "50k Boat Names": {
+  "ja": "50,000隻分のボート名",
+  "ts": "2026-08-10T21:34:46.290115+00:00"
+ },
  "60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)": {
   "ja": "60年前、潜水艦が初めて水没したまま地球を一周 (2020)",
   "ts": "2026-07-29T11:17:37.025431+00:00"
@@ -243,6 +247,10 @@
   "ja": "Ars Astronomica – 稀少なヘブライ語およびラテン語の天文学テキストの英訳",
   "ts": "2026-07-28T11:11:01.190453+00:00"
  },
+ "Ask HN: In your experience, what are sound conventions for e-ink UI development?": {
+  "ja": "Ask HN: e-ink UI開発における健全な慣例とは何か",
+  "ts": "2026-08-10T21:34:46.290115+00:00"
+ },
  "Ask HN: What are you working on? (August 2026)": {
   "ja": "Ask HN: 何に取り組んでいますか？（2026年8月）",
   "ts": "2026-08-10T10:11:18.427015+00:00"
@@ -298,6 +306,10 @@
  "BYOC Is Not Just 'Deploy into Their Cloud'": {
   "ja": "BYOCは単なる「クラウドへのデプロイ」ではない",
   "ts": "2026-08-08T21:22:35.314726+00:00"
+ },
+ "Back to the Future of Handwriting Recognition (2016)": {
+  "ja": "手書き認識の未来へ向かって（2016年）",
+  "ts": "2026-08-10T21:34:46.290115+00:00"
  },
  "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models": {
   "ja": "GPT-5.6 Solを100倍安いオープンモデルでレトリーバル性能で上回る",
@@ -553,7 +565,7 @@
  },
  "Docker Sandboxes – Disposable, isolated sandboxes for AI agents": {
   "ja": "Docker Sandboxes – AIエージェント向けの使い捨て分離サンドボックス",
-  "ts": "2026-08-10T10:11:21.500473+00:00"
+  "ts": "2026-08-10T21:34:38.568008+00:00"
  },
  "Document-borne AI worms can self-propagate through Copilot for Word": {
   "ja": "ドキュメント経由のAIワーム、Copilot for Wordを通じた自己伝播が可能",
@@ -631,9 +643,17 @@
   "ja": "INT8 ConvRot の説明（FP8 はもはや不要）",
   "ts": "2026-08-03T22:01:24.604148+00:00"
  },
+ "Exploiting System Management Mode with a very long interrupt": {
+  "ja": "システム管理モードの悪用 – 極めて長い割り込みを利用",
+  "ts": "2026-08-10T21:34:46.290115+00:00"
+ },
  "Explorative modeling: Train on the best of K guesses": {
   "ja": "探索的モデリング：K個の予測の最良部分での訓練",
   "ts": "2026-08-01T21:47:42.064746+00:00"
+ },
+ "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines": {
+  "ja": "Claude/GPTナレッジカットオフと事前学習タイムラインの探索",
+  "ts": "2026-08-10T21:34:46.290115+00:00"
  },
  "F*: A general-purpose proof-oriented programming language": {
   "ja": "F* – 汎用証明指向プログラミング言語",
@@ -869,7 +889,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-10T10:11:18.427049+00:00"
+  "ts": "2026-08-10T21:34:38.568030+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -882,6 +902,10 @@
  "Hulios: An eBPF-powered, transparent Tor gateway for Linux": {
   "ja": "Hulios：eBPF搭載の透過的LinuxむけTorゲートウェイ",
   "ts": "2026-07-28T21:57:37.461952+00:00"
+ },
+ "Humanising LLM Outputs Is Dumb": {
+  "ja": "LLM出力の「人間らしさ化」は愚かである",
+  "ts": "2026-08-10T21:34:46.290115+00:00"
  },
  "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs": {
   "ja": "4万回のゲーム実行で、AIエージェントコマンドを承認する際に人間が3件に1件の脅威を見落とし",
@@ -926,6 +950,10 @@
  "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay": {
   "ja": "WebKitのIPおよびDNS漏洩、プロキシブラウザとiCloud Private Relayに影響",
   "ts": "2026-08-05T11:14:05.015371+00:00"
+ },
+ "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification": {
+  "ja": "イリノイ州、Linuxに年齢確認責任を負わせる法律を可決",
+  "ts": "2026-08-10T21:34:46.290115+00:00"
  },
  "Illinois just told every operating system to start reporting your kid's age": {
   "ja": "Illinoisがすべてのオペレーティングシステムに子どもの年齢報告を指示",
@@ -1035,6 +1063,10 @@
   "ja": "Kimi Linear：表現力豊かで効率的なAttention Architecture (2025)",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints": {
+  "ja": "Kinney Drugs、AIphone assistantを数百件の顧客苦情受けて撤回",
+  "ts": "2026-08-10T21:34:46.290115+00:00"
+ },
  "KisakCOD – Open-source reimplementation of Call of Duty 4 Multiplayer": {
   "ja": "KisakCOD – Call of Duty 4マルチプレイヤーのオープンソース再実装",
   "ts": "2026-08-04T05:41:58.523074+00:00"
@@ -1083,6 +1115,10 @@
   "ja": "Launch HN: Rise Reforming (YC S26) – 廃棄ガスを貴重な化学物質に転換",
   "ts": "2026-07-28T11:10:58.283737+00:00"
  },
+ "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers": {
+  "ja": "Launch HN: Stoa Markets (YC S26) – GPUとAIサーバーのマーケットプレイス",
+  "ts": "2026-08-10T21:34:46.290115+00:00"
+ },
  "Launch HN: Tokenless (YC S26) – Automatic model switching to save money": {
   "ja": "Launch HN: Tokenless (YC S26) – コスト削減のための自動モデル切り替え",
   "ts": "2026-07-30T11:01:01.391689+00:00"
@@ -1106,6 +1142,10 @@
  "Let's make the worst Htmx": {
   "ja": "最悪の Htmx を作ろう",
   "ts": "2026-08-01T05:48:52.275502+00:00"
+ },
+ "Letter to Governor Abbott on responsible AI infrastructure in Texas": {
+  "ja": "テキサス州Governor Abbottへの書簡 – 責任あるAIインフラストラクチャについて",
+  "ts": "2026-08-10T21:34:46.290115+00:00"
  },
  "Lightweight Spring Boot Monitoring Without Prometheus and Grafana": {
   "ja": "PrometheusとGrafanaなしのSpring Boot軽量モニタリング",
@@ -1147,6 +1187,10 @@
   "ja": "MCP 2026-07-28 仕様：トランスポートがステートレスになる",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia": {
+  "ja": "マグニチュード7.4地震 – コロンビア、San José del Palmar南方5km",
+  "ts": "2026-08-10T21:34:46.290115+00:00"
+ },
  "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD": {
   "ja": "Postgresを分析処理で300倍高速化：バッチ処理、演算子融合、SIMD",
   "ts": "2026-08-08T09:30:29.480429+00:00"
@@ -1182,6 +1226,14 @@
  "MariaDB: Promote getting to 10k GitHub stars in server log and client prompt": {
   "ja": "MariaDB：GitHub 1万スター達成をサーバーログとクライアントプロンプトで促進",
   "ts": "2026-08-04T22:06:22.622257+00:00"
+ },
+ "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models": {
+  "ja": "Mark Zuckerberg、「閉鎖的な」AI競合他社を批判。Metaがオープンモデルへ回帰",
+  "ts": "2026-08-10T21:34:46.290115+00:00"
+ },
+ "Mars Bar from 1991 found – and it's 20g bigger than today's": {
+  "ja": "1991年のMars Bar発見 – 現在のものより20g大きい",
+  "ts": "2026-08-10T21:34:46.290115+00:00"
  },
  "Massively Parallel Postgres Backups": {
   "ja": "大規模並列 Postgres バックアップ",
@@ -1223,6 +1275,10 @@
   "ja": "ComfyUI での MiniMax H3 Day-0 サポート：オープンウェイト、ネイティブオーディオ、2K ビデオ",
   "ts": "2026-08-04T11:17:46.859454+00:00"
  },
+ "Mistral Patent for “Code implemented tool calls”": {
+  "ja": "Mistral「コード実装ツール呼び出し」特許",
+  "ts": "2026-08-10T21:34:46.290115+00:00"
+ },
  "Mistral's Shieldstral: 3B open-weights model for multimodal moderation": {
   "ja": "Mistral の Shieldstral：マルチモーダルモデレーション向けオープンウェイト3Bモデル",
   "ts": "2026-08-05T11:14:05.015354+00:00"
@@ -1254,6 +1310,10 @@
  "Muse Code and Muse Spark 1.2": {
   "ja": "Muse CodeとMuse Spark 1.2",
   "ts": "2026-08-06T11:14:18.091440+00:00"
+ },
+ "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows": {
+  "ja": "Muse Glimmer: 常時稼働ローカルエージェントワークフロー向けに最適化された30Bパラメータモデル",
+  "ts": "2026-08-10T21:34:46.290115+00:00"
  },
  "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"": {
   "ja": "私の個人的なAIベンチマーク：「ハプスブルク家の顎を持つカエルのSVGを生成する」",
@@ -1403,6 +1463,10 @@
   "ja": "ガウス関数で描く",
   "ts": "2026-08-05T22:07:29.867079+00:00"
  },
+ "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes": {
+  "ja": "Parametron: トランジスタも真空管も使わない1950年代の日本製コンピュータ",
+  "ts": "2026-08-10T21:34:46.290115+00:00"
+ },
  "Parsers don't have to be complicated": {
   "ja": "パーサーは複雑である必要がない",
   "ts": "2026-08-07T09:54:33.877044+00:00"
@@ -1478,6 +1542,10 @@
  "Psychological Warfare in Reverse Engineering (2015)": {
   "ja": "リバースエンジニアリングにおける心理戦 (2015)",
   "ts": "2026-08-08T09:30:29.480454+00:00"
+ },
+ "Publishing Schematics Before \"Open Source\" Was a Word": {
+  "ja": "「オープンソース」という言葉が生まれる前に回路図を公開する",
+  "ts": "2026-08-10T21:34:46.290115+00:00"
  },
  "Pushing the limits of RISC-V emulation": {
   "ja": "RISC-Vエミュレーションの限界に挑む",
@@ -1659,6 +1727,10 @@
   "ja": "ルートレスコンテナを使用したサービス保護",
   "ts": "2026-07-28T11:10:58.283730+00:00"
  },
+ "Security Vulnerability in Pioneer Rekordbox": {
+  "ja": "Pioneer Rekordboxのセキュリティ脆弱性",
+  "ts": "2026-08-10T21:34:46.290115+00:00"
+ },
  "Self-contained highly-portable Python distributions": {
   "ja": "自己完結型で高い可搬性のPythonディストリビューション",
   "ts": "2026-07-28T11:10:58.283723+00:00"
@@ -1702,6 +1774,10 @@
  "Show HN: A udev implementation in Guile Scheme": {
   "ja": "Show HN: Guile Schemeで実装したudev",
   "ts": "2026-07-31T11:24:36.992076+00:00"
+ },
+ "Show HN: Ante, a coding agent in a single binary that runs offline": {
+  "ja": "Show HN: Ante、単一バイナリで動作するオフラインコーディングエージェント",
+  "ts": "2026-08-10T21:34:46.290115+00:00"
  },
  "Show HN: Bor – Open-source policy management for Linux desktops": {
   "ja": "Show HN: Bor – Linuxデスクトップ向けオープンソースポリシー管理",
@@ -1770,6 +1846,10 @@
  "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone": {
   "ja": "Show HN: Maple-Preview – iPhoneで毎秒120トークンで動作するternary 20B MoE",
   "ts": "2026-08-05T05:40:22.633007+00:00"
+ },
+ "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots": {
+  "ja": "Show HN: Needle2: スマートフォン、ウェアラブル、スマートホーム、ロボット向け14MBエージェントLLM",
+  "ts": "2026-08-10T21:34:46.290115+00:00"
  },
  "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone": {
   "ja": "Show HN: Nightcrawler – スマートフォン上で動作するローカルAIペネストレーションテストエージェント",
@@ -1935,6 +2015,10 @@
   "ja": "サンパウロの住民、劣化地域を都市森林に変える",
   "ts": "2026-08-07T21:32:23.738662+00:00"
  },
+ "Tail-call optimization in C is relatively recent (2025)": {
+  "ja": "C言語の末尾呼び出し最適化は比較的最近の機能（2025年）",
+  "ts": "2026-08-10T21:34:46.290115+00:00"
+ },
  "Tailscale didn't stop the Hugging Face intrusion": {
   "ja": "Tailscale は Hugging Face への侵入を防げなかった",
   "ts": "2026-08-01T05:48:52.275485+00:00"
@@ -2059,6 +2143,10 @@
   "ja": "128ビットプロセッサの展望（John Mashey SGI 1995）",
   "ts": "2026-08-02T10:28:30.211842+00:00"
  },
+ "The Psychedelic Toad of the Sonoran Desert": {
+  "ja": "ソノラン砂漠のサイケデリック・ヒキガエル",
+  "ts": "2026-08-10T21:34:46.290115+00:00"
+ },
  "The Religion of Speed": {
   "ja": "速度の宗教",
   "ts": "2026-07-31T11:24:33.340233+00:00"
@@ -2082,6 +2170,10 @@
  "The Title Cards in Blade Runner Are Fucking Amazing": {
   "ja": "ブレードランナーのタイトルカードはマジで素晴らしい",
   "ts": "2026-08-05T22:07:29.867079+00:00"
+ },
+ "The Tragedy of the Cognitive Commons": {
+  "ja": "認知の共有地の悲劇",
+  "ts": "2026-08-10T21:34:46.290115+00:00"
  },
  "The Valley of Webhooks": {
   "ja": "Webhookの谷",
@@ -2198,6 +2290,10 @@
  "TinySol, a tiny solitaire game for DOS": {
   "ja": "TinySol、DOS用のちっぽけなソリティアゲーム",
   "ts": "2026-08-09T04:13:02.787184+00:00"
+ },
+ "Tl;dv: Over 180k meetings left wide open": {
+  "ja": "Tl;dv: 18万件以上のミーティングが丸見け状態",
+  "ts": "2026-08-10T21:34:46.290115+00:00"
  },
  "Touring the Consensus, Six Months In": {
   "ja": "Consensusツアー、6ヶ月経過時点",
