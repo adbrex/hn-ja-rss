@@ -5,7 +5,7 @@
  },
  "\"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes\" (1892)": {
   "ja": "「ペルシャのMâR-Nâmeh、すなわちヘビの兆候から占うための書」(1892)",
-  "ts": "2026-08-10T04:24:59.798687+00:00"
+  "ts": "2026-08-10T10:11:18.427046+00:00"
  },
  "'Crush this lady': how eBay harassment campaign led to $56M payout": {
   "ja": "「この女性を潰せ」：eBay嫌がらせキャンペーンが5600万ドルの合意金に至った経緯",
@@ -137,7 +137,7 @@
  },
  "ATProto for Distributed Systems Engineers": {
   "ja": "分散システムエンジニア向けATProto",
-  "ts": "2026-08-10T04:24:59.798687+00:00"
+  "ts": "2026-08-10T10:11:18.427035+00:00"
  },
  "About the security content of macOS Tahoe 26.6": {
   "ja": "macOS Tahoe 26.6のセキュリティコンテンツについて",
@@ -175,6 +175,10 @@
   "ja": "アマゾン文明は森林面積の3%に300万人を居住させていた推定",
   "ts": "2026-08-04T11:17:46.859467+00:00"
  },
+ "An Interesting Fourier Transform – 1/F Noise": {
+  "ja": "興味深いフーリエ変換 – 1/Fノイズ",
+  "ts": "2026-08-10T10:11:21.500473+00:00"
+ },
  "An SLM trained on $8 ESP32-S3": {
   "ja": "$8のESP32-S3で訓練されたSLM",
   "ts": "2026-08-05T11:14:07.867001+00:00"
@@ -182,6 +186,10 @@
  "An Uncomplicated Man": {
   "ja": "複雑でない男",
   "ts": "2026-07-28T05:23:02.934777+00:00"
+ },
+ "An alias-based formulation of the borrow checker (2018)": {
+  "ja": "借用チェッカーのエイリアスベース定式化 (2018)",
+  "ts": "2026-08-10T10:11:21.500473+00:00"
  },
  "An all-sky map of half a million supermassive black holes": {
   "ja": "100万個の超大質量ブラックホールの全天マップ",
@@ -201,7 +209,7 @@
  },
  "Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]": {
   "ja": "Andrew Wilesによるフェルマーの最終定理の証明 (1995) [動画]",
-  "ts": "2026-08-10T04:24:59.798687+00:00"
+  "ts": "2026-08-10T10:11:18.427037+00:00"
  },
  "Andy Pavlo joins ClickHouse to establish ClickHouse Labs": {
   "ja": "Andy Pavlo が ClickHouse Labs 設立のため ClickHouse に参加",
@@ -237,7 +245,7 @@
  },
  "Ask HN: What are you working on? (August 2026)": {
   "ja": "Ask HN: 何に取り組んでいますか？（2026年8月）",
-  "ts": "2026-08-10T04:24:54.693090+00:00"
+  "ts": "2026-08-10T10:11:18.427015+00:00"
  },
  "Ask HN: Who is hiring? (August 2026)": {
   "ja": "Ask HN: 誰が採用していますか？（2026年8月）",
@@ -274,6 +282,10 @@
  "Authorize, don't authenticate": {
   "ja": "認証ではなく認可を",
   "ts": "2026-08-01T05:48:52.275504+00:00"
+ },
+ "Auto mode is now the default in Claude Code": {
+  "ja": "Claude Codeの自動モードがデフォルトに",
+  "ts": "2026-08-10T10:11:21.500473+00:00"
  },
  "Autoregressive Language Model on the 6502 Processor": {
   "ja": "6502プロセッサ上の自己回帰言語モデル",
@@ -421,7 +433,7 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-08-10T04:24:54.693109+00:00"
+  "ts": "2026-08-10T10:11:18.427051+00:00"
  },
  "Cracking Windows Open: Porting RADV to Win32": {
   "ja": "WindowsをこじあくてRADVをWin32に移植する",
@@ -539,6 +551,10 @@
   "ja": "ディザリングされたQRコード",
   "ts": "2026-08-09T09:32:00.990060+00:00"
  },
+ "Docker Sandboxes – Disposable, isolated sandboxes for AI agents": {
+  "ja": "Docker Sandboxes – AIエージェント向けの使い捨て分離サンドボックス",
+  "ts": "2026-08-10T10:11:21.500473+00:00"
+ },
  "Document-borne AI worms can self-propagate through Copilot for Word": {
   "ja": "ドキュメント経由のAIワーム、Copilot for Wordを通じた自己伝播が可能",
   "ts": "2026-07-29T21:54:08.013720+00:00"
@@ -605,7 +621,7 @@
  },
  "Everything you do is being recorded": {
   "ja": "あなたのすべての行動は記録されている",
-  "ts": "2026-08-10T04:24:54.693086+00:00"
+  "ts": "2026-08-10T10:11:18.427009+00:00"
  },
  "Exact, parallel 2D Delaunay triangulation for int32 coordinates": {
   "ja": "int32座標に対する正確で並列な2D Delaunay三角分割",
@@ -817,7 +833,7 @@
  },
  "How I use LLMs to learn complex topics": {
   "ja": "複雑なトピックを学ぶためにLLMsを活用する方法",
-  "ts": "2026-08-10T04:24:54.693066+00:00"
+  "ts": "2026-08-10T10:11:18.426991+00:00"
  },
  "How JPEG works: Interactively explore JPEG's lossy compression methods": {
   "ja": "JPEG の仕組み：JPEG のロッシー圧縮方法をインタラクティブに探索",
@@ -825,7 +841,7 @@
  },
  "How We Pushed CDC into Postgres": {
   "ja": "CDCをPostgresに移行させた方法",
-  "ts": "2026-08-10T04:24:59.798687+00:00"
+  "ts": "2026-08-10T10:11:18.427030+00:00"
  },
  "How far can you push the range of Wi-Fi connectivity in an ideal environment?": {
   "ja": "理想的な環境下でWi-Fi接続範囲はどこまで広げられるか？",
@@ -853,7 +869,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-10T04:24:54.693107+00:00"
+  "ts": "2026-08-10T10:11:18.427049+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -889,7 +905,7 @@
  },
  "I made tinnitus my friend, then it disappeared [video]": {
   "ja": "耳鳴りを味方にしたら消えた [動画]",
-  "ts": "2026-08-10T04:24:59.798687+00:00"
+  "ts": "2026-08-10T10:11:18.427024+00:00"
  },
  "I stopped trusting USB-C cable labels and started testing them": {
   "ja": "USB-Cケーブルのラベルを信頼するのをやめて、テストを始めた",
@@ -1301,7 +1317,7 @@
  },
  "New Zealand lost its music media, and what we're building to replace it": {
   "ja": "ニュージーランドが失った音楽メディア、そして我々が構築する代替物",
-  "ts": "2026-08-10T04:24:59.798687+00:00"
+  "ts": "2026-08-10T10:11:18.427028+00:00"
  },
  "New cars are getting 1.2cm longer and 0.5cm taller each year": {
   "ja": "新車は毎年1.2cm長くなり0.5cm高くなっている",
@@ -1357,7 +1373,7 @@
  },
  "OpenChamber: An Agentic Development Environment": {
   "ja": "OpenChamber: エージェント開発環境",
-  "ts": "2026-08-10T04:24:54.693094+00:00"
+  "ts": "2026-08-10T10:11:18.427022+00:00"
  },
  "Oracle bans AI-generated code from OpenJDK": {
   "ja": "OracleがOpenJDKへのAI生成コードを禁止",
@@ -1417,7 +1433,7 @@
  },
  "Picophysics: Single file physics for games on platforms like N64, PSX, DC": {
   "ja": "Picophysics: N64、PSX、DCなどのプラットフォーム向けシングルファイル物理エンジン",
-  "ts": "2026-08-10T04:24:59.798687+00:00"
+  "ts": "2026-08-10T10:11:18.427044+00:00"
  },
  "Plug-In Solar Panels Starting to Sprout in U.S. Backyards": {
   "ja": "プラグイン型太陽光パネル、米国の裏庭で広がり始める",
@@ -1586,6 +1602,10 @@
  "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field": {
   "ja": "Rubin Observatory初のLSSTカメラ公開: COSMOS領域で50万の銀河",
   "ts": "2026-08-05T22:07:29.867079+00:00"
+ },
+ "Run Android ARM64 VR APKs on Apple Vision Pro": {
+  "ja": "Apple Vision ProでAndroid ARM64 VR APKを実行",
+  "ts": "2026-08-10T10:11:21.500473+00:00"
  },
  "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s": {
   "ja": "Kimi K3 を 29 GB の RAM と毎秒 0.50 tok で実行",
@@ -1803,6 +1823,10 @@
   "ja": "Show HN: 地球の過去と未来のテクトニクス地球儀上に表示した現在の都市",
   "ts": "2026-08-09T21:24:15.218424+00:00"
  },
+ "Show HN: Voice driven murder mystery, Interview AI suspects with your voice": {
+  "ja": "Show HN: 音声駆動型殺人ミステリー、音声でAI容疑者にインタビュー",
+  "ts": "2026-08-10T10:11:21.500473+00:00"
+ },
  "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge": {
   "ja": "Show HN: UniFiの遅いPPPoEパフォーマンスをPPPoE Half-Bridgeで修正",
   "ts": "2026-08-03T12:15:46.460959+00:00"
@@ -1917,7 +1941,7 @@
  },
  "Taxi drivers rarely die of Alzheimer's": {
   "ja": "タクシー運転手がアルツハイマー病で死ぬことはめったにない",
-  "ts": "2026-08-10T04:24:54.693088+00:00"
+  "ts": "2026-08-10T10:11:18.427013+00:00"
  },
  "Taylor Farms recalls salsa and guacamole over salmonella risk": {
   "ja": "Taylor Farmsがサルモネラリスクのためサルサとワカモレをリコール",
@@ -2009,7 +2033,7 @@
  },
  "The German Mittelstand": {
   "ja": "ドイツのMittelstand",
-  "ts": "2026-08-10T04:24:59.798687+00:00"
+  "ts": "2026-08-10T10:11:18.427039+00:00"
  },
  "The Golden Age of British Ice Cream": {
   "ja": "イギリスアイスクリームの黄金期",
@@ -2133,7 +2157,7 @@
  },
  "The tragedy of the commons, AI edition": {
   "ja": "コモンズの悲劇、AI版",
-  "ts": "2026-08-10T04:24:54.693099+00:00"
+  "ts": "2026-08-10T10:11:18.427026+00:00"
  },
  "The true power of regular expressions (2012)": {
   "ja": "正規表現の真の力（2012年）",
@@ -2205,7 +2229,7 @@
  },
  "Turn satellite imagery into a paper globe you fold yourself": {
   "ja": "衛星画像を折って作る紙製地球儀",
-  "ts": "2026-08-10T04:24:59.798687+00:00"
+  "ts": "2026-08-10T10:11:18.427042+00:00"
  },
  "Turning a dumb AC unit smart (without losing my security deposit)": {
   "ja": "ダムなエアコンをスマート化（敷金を失わずに）",
@@ -2217,7 +2241,7 @@
  },
  "Tuxedo No. 2 – Cocktail recipes": {
   "ja": "Tuxedo No. 2 – カクテルレシピ",
-  "ts": "2026-08-10T04:24:59.798687+00:00"
+  "ts": "2026-08-10T10:11:18.427033+00:00"
  },
  "Twenty Years of Pandoc": {
   "ja": "Pandocの20年",
@@ -2353,7 +2377,7 @@
  },
  "What Happened to HackerOne?": {
   "ja": "HackerOneに何が起きたのか",
-  "ts": "2026-08-10T04:24:59.798687+00:00"
+  "ts": "2026-08-10T10:11:18.427019+00:00"
  },
  "What I love about Django": {
   "ja": "Djangoが好きな理由",
