@@ -251,6 +251,10 @@
   "ja": "Ars Astronomica – 稀少なヘブライ語およびラテン語の天文学テキストの英訳",
   "ts": "2026-07-28T11:11:01.190453+00:00"
  },
+ "As AI eats the web, the internet’s collective memory is disappearing": {
+  "ja": "AIがウェブを食い尽くすなか、インターネットの集合的記憶が消えていく",
+  "ts": "2026-08-11T09:54:16.672468+00:00"
+ },
  "Ask HN: In your experience, what are sound conventions for e-ink UI development?": {
   "ja": "Ask HN: e-ink UI開発における健全な慣例とは何か",
   "ts": "2026-08-11T04:14:04.643528+00:00"
@@ -445,7 +449,7 @@
  },
  "Confessions of a Long-Distance Sailor": {
   "ja": "長距離帆走者の告白",
-  "ts": "2026-08-11T04:14:09.375353+00:00"
+  "ts": "2026-08-11T09:54:12.807147+00:00"
  },
  "Convergence is not enough": {
   "ja": "収束では足りない",
@@ -653,7 +657,7 @@
  },
  "Exploiting System Management Mode with a very long interrupt": {
   "ja": "システム管理モードの悪用 – 極めて長い割り込みを利用",
-  "ts": "2026-08-11T04:14:04.643530+00:00"
+  "ts": "2026-08-11T09:54:12.807141+00:00"
  },
  "Explorative modeling: Train on the best of K guesses": {
   "ja": "探索的モデリング：K個の予測の最良部分での訓練",
@@ -666,6 +670,10 @@
  "F*: A general-purpose proof-oriented programming language": {
   "ja": "F* – 汎用証明指向プログラミング言語",
   "ts": "2026-08-02T21:48:31.720714+00:00"
+ },
+ "Faster floating point math with Rust's new API": {
+  "ja": "Rustの新APIで浮動小数点演算を高速化",
+  "ts": "2026-08-11T09:54:16.672468+00:00"
  },
  "Fastmail offers EU data region": {
   "ja": "Fastmailが欧州データリージョンを提供",
@@ -706,6 +714,10 @@
  "Framework discloses data breach via Metabase 0-day": {
   "ja": "Framework、Metabase 0-dayによるデータ流出を公表",
   "ts": "2026-08-07T09:54:33.877044+00:00"
+ },
+ "France to ban unsolicited telemarketing calls": {
+  "ja": "フランス、迷惑電話マーケティングの禁止を検討",
+  "ts": "2026-08-11T09:54:16.672468+00:00"
  },
  "From One Seed to a Thousand Leaves – Merkle's Authentication Tree": {
   "ja": "一つの種から千の葉へ - Merkleの認証木",
@@ -795,6 +807,10 @@
   "ja": "OCaml の Guarded Methods (2025)",
   "ts": "2026-08-08T09:30:29.480452+00:00"
  },
+ "H3-metal – Native MiniMax-H3 inference for Apple Silicon": {
+  "ja": "H3-metal – Apple Silicon向けネイティブMiniMax-H3推論",
+  "ts": "2026-08-11T09:54:16.672468+00:00"
+ },
  "Hackers Stalked Me by Hijacking a Smartwatch for Kids": {
   "ja": "ハッカーがキッズスマートウォッチをハイジャックして私を追跡した",
   "ts": "2026-08-07T04:50:22.396857+00:00"
@@ -842,6 +858,10 @@
  "Hop.earth – OpenStreetMap based car racing game": {
   "ja": "Hop.earth – OpenStreetMap ベースのカーレーシングゲーム",
   "ts": "2026-08-04T22:06:22.622257+00:00"
+ },
+ "How Claude marks AI-generated content": {
+  "ja": "ClaudeがAI生成コンテンツをどのようにマークするか",
+  "ts": "2026-08-11T09:54:16.672468+00:00"
  },
  "How Do I Profile eBPF Code?": {
   "ja": "eBPFコードのプロファイリング方法は？",
@@ -897,7 +917,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-11T04:14:04.643542+00:00"
+  "ts": "2026-08-11T09:54:12.807154+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -1095,6 +1115,10 @@
   "ja": "Kuna: コーディングエージェント時代のデコンパイラ開発",
   "ts": "2026-07-30T11:01:01.391695+00:00"
  },
+ "LFM2.5 2.6B model competitive with 4x larger models": {
+  "ja": "LFM2.5 2.6Bモデル、4倍大きなモデルと競争力を持つ",
+  "ts": "2026-08-11T09:54:16.672468+00:00"
+ },
  "LLMs reward expertise": {
   "ja": "LLM は専門知識に報酬を与える",
   "ts": "2026-08-04T11:17:46.859424+00:00"
@@ -1138,6 +1162,10 @@
  "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences": {
   "ja": "LearnVector – Andrew Ngのことばアンドワンラーニング体験を構築するAI企業",
   "ts": "2026-07-29T11:17:33.572901+00:00"
+ },
+ "Learning more about Claude's mathematical capabilities": {
+  "ja": "Claudeの数学的能力についてさらに学ぶ",
+  "ts": "2026-08-11T09:54:16.672468+00:00"
  },
  "Let the machines in": {
   "ja": "機械を中に入れよう",
@@ -1237,11 +1265,11 @@
  },
  "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models": {
   "ja": "Mark Zuckerberg、「閉鎖的な」AI競合他社を批判。Metaがオープンモデルへ回帰",
-  "ts": "2026-08-11T04:14:04.643517+00:00"
+  "ts": "2026-08-11T09:54:12.807124+00:00"
  },
  "Mars Bar from 1991 found – and it's 20g bigger than today's": {
   "ja": "1991年のMars Bar発見 – 現在のものより20g大きい",
-  "ts": "2026-08-10T21:34:46.290115+00:00"
+  "ts": "2026-08-11T09:54:12.807129+00:00"
  },
  "Massively Parallel Postgres Backups": {
   "ja": "大規模並列 Postgres バックアップ",
@@ -1321,7 +1349,7 @@
  },
  "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows": {
   "ja": "Muse Glimmer: 常時稼働ローカルエージェントワークフロー向けに最適化された30Bパラメータモデル",
-  "ts": "2026-08-11T04:14:04.643500+00:00"
+  "ts": "2026-08-11T09:54:12.807108+00:00"
  },
  "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"": {
   "ja": "私の個人的なAIベンチマーク：「ハプスブルク家の顎を持つカエルのSVGを生成する」",
@@ -1557,7 +1585,7 @@
  },
  "Publishing Schematics Before “Open Source” Was a Word": {
   "ja": "「オープンソース」という言葉が生まれる前に回路図を公開する",
-  "ts": "2026-08-11T04:14:09.375353+00:00"
+  "ts": "2026-08-11T09:54:12.807150+00:00"
  },
  "Pushing the limits of RISC-V emulation": {
   "ja": "RISC-Vエミュレーションの限界に挑む",
@@ -1637,7 +1665,7 @@
  },
  "Recycle – Floppydisks": {
   "ja": "Recycle – フロッピーディスク",
-  "ts": "2026-08-11T04:14:09.375353+00:00"
+  "ts": "2026-08-11T09:54:12.807152+00:00"
  },
  "Refactoring cuisine: how an Iraqi stew sailed to Singapore": {
   "ja": "料理のリファクタリング：イラクのシチューがシンガポールへ渡った話",
@@ -1702,6 +1730,10 @@
  "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300": {
   "ja": "MI355XでKimi K3を実行。B300より優れたコスト当たり性能",
   "ts": "2026-08-02T10:28:27.316266+00:00"
+ },
+ "Rust SIMD on the GPU": {
+  "ja": "GPU上のRust SIMD",
+  "ts": "2026-08-11T09:54:16.672468+00:00"
  },
  "Rust project goals: Immobile types and guaranteed destructors": {
   "ja": "Rustプロジェクトの目標：不動型と保証されたデストラクタ",
@@ -1793,7 +1825,7 @@
  },
  "Show HN: Ante, a coding agent in a single binary that runs offline": {
   "ja": "Show HN: Ante、単一バイナリで動作するオフラインコーディングエージェント",
-  "ts": "2026-08-10T21:34:46.290115+00:00"
+  "ts": "2026-08-11T09:54:12.807146+00:00"
  },
  "Show HN: Bor – Open-source policy management for Linux desktops": {
   "ja": "Show HN: Bor – Linuxデスクトップ向けオープンソースポリシー管理",
@@ -1863,9 +1895,13 @@
   "ja": "Show HN: Maple-Preview – iPhoneで毎秒120トークンで動作するternary 20B MoE",
   "ts": "2026-08-05T05:40:22.633007+00:00"
  },
+ "Show HN: Mcptoon – Token-efficient MCP CLI client": {
+  "ja": "Show HN: Mcptoon – トークン効率的なMCP CLIクライアント",
+  "ts": "2026-08-11T09:54:16.672468+00:00"
+ },
  "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots": {
   "ja": "Show HN: Needle2: スマートフォン、ウェアラブル、スマートホーム、ロボット向け14MBエージェントLLM",
-  "ts": "2026-08-11T04:14:04.643521+00:00"
+  "ts": "2026-08-11T09:54:12.807131+00:00"
  },
  "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone": {
   "ja": "Show HN: Nightcrawler – スマートフォン上で動作するローカルAIペネストレーションテストエージェント",
@@ -1901,7 +1937,7 @@
  },
  "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states": {
   "ja": "Show HN: 43252003274489856000個のルービックキューブの状態をスクロール",
-  "ts": "2026-08-11T04:14:09.375353+00:00"
+  "ts": "2026-08-11T09:54:12.807136+00:00"
  },
  "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours": {
   "ja": "Show HN: Shitty – 高速ターミナル。メモリアンセーフでお前のより高速",
@@ -2017,7 +2053,7 @@
  },
  "Stowaway – Take the window seat on any plane or satellite overhead": {
   "ja": "Stowaway – あらゆる飛行機や衛星上で窓側の座席を",
-  "ts": "2026-08-11T04:14:09.375353+00:00"
+  "ts": "2026-08-11T09:54:12.807134+00:00"
  },
  "Stylized GGX Shading": {
   "ja": "スタイル化されたGGXシェーディング",
@@ -2045,7 +2081,7 @@
  },
  "Tail-call optimization in C is relatively recent (2025)": {
   "ja": "C言語の末尾呼び出し最適化は比較的最近の機能（2025年）",
-  "ts": "2026-08-10T21:34:46.290115+00:00"
+  "ts": "2026-08-11T09:54:12.807142+00:00"
  },
  "Tailscale didn't stop the Hugging Face intrusion": {
   "ja": "Tailscale は Hugging Face への侵入を防げなかった",
@@ -2211,6 +2247,10 @@
   "ja": "英国の匿名化廃止戦争がアメリカに到来",
   "ts": "2026-08-11T04:14:09.375353+00:00"
  },
+ "The UK's war on anonymity has come to America": {
+  "ja": "英国の匿名性撲滅政策がアメリカに到来",
+  "ts": "2026-08-11T09:54:16.672468+00:00"
+ },
  "The Valley of Webhooks": {
   "ja": "Webhookの谷",
   "ts": "2026-08-06T05:41:25.823453+00:00"
@@ -2293,7 +2333,7 @@
  },
  "The “mechanical miracle” that ruined Mark Twain’s life": {
   "ja": "マーク・トウェインの人生を台無しにした「機械的奇跡」",
-  "ts": "2026-08-11T04:14:09.375353+00:00"
+  "ts": "2026-08-11T09:54:12.807144+00:00"
  },
  "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted": {
   "ja": "Theo Conjecture、35年来の数学問題を解く、誰も予測しなかった項を発見",
@@ -2334,6 +2374,10 @@
  "Tl;dv: Over 180k meetings left wide open": {
   "ja": "Tl;dv: 18万件以上のミーティングが丸見け状態",
   "ts": "2026-08-10T21:34:46.290115+00:00"
+ },
+ "To Save C, We Must Save ABI": {
+  "ja": "Cを救うため、ABIを救わねばならない",
+  "ts": "2026-08-11T09:54:16.672468+00:00"
  },
  "Touring the Consensus, Six Months In": {
   "ja": "Consensusツアー、6ヶ月経過時点",
@@ -2537,7 +2581,7 @@
  },
  "What's the best programming language for coding agents?": {
   "ja": "コーディングエージェント向けの最良のプログラミング言語は何か",
-  "ts": "2026-08-11T04:14:09.375353+00:00"
+  "ts": "2026-08-11T09:54:12.807139+00:00"
  },
  "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation": {
   "ja": "AI ベンチマークが停滞する時：ベンチマーク飽和の体系的研究",
