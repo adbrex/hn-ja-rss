@@ -83,6 +83,10 @@
   "ja": "アンダースコア記号の欠落により無実の男性が18ヶ月投獄",
   "ts": "2026-07-28T05:23:02.934777+00:00"
  },
+ "A new study of a bot running a store finds it is friendly but not very smart": {
+  "ja": "店を運営するボットに関する新研究: フレンドリーだが賢くない",
+  "ts": "2026-08-11T21:38:47.091273+00:00"
+ },
  "A physicist rigged his pet hamster’s wheel to upload to Strava": {
   "ja": "物理学者がペットのハムスターの回し車をStrava対応に改造",
   "ts": "2026-08-08T21:22:35.314726+00:00"
@@ -102,6 +106,10 @@
  "A.I. companies are recruiting electricians and carpenters by the thousands": {
   "ja": "AI企業が電気技師と大工を数千人規模で採用中",
   "ts": "2026-07-30T11:01:01.391674+00:00"
+ },
+ "AI Is Solving CTF Challenges in Minutes": {
+  "ja": "AI、CTFチャレンジを数分で解く",
+  "ts": "2026-08-11T21:38:47.091273+00:00"
  },
  "AI Mania: From Tulips to Tokens": {
   "ja": "AImania：チューリップからトークンへ",
@@ -235,6 +243,10 @@
   "ja": "App Store却下の今週の例：Dark Hours",
   "ts": "2026-08-07T21:32:30.787829+00:00"
  },
+ "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp": {
+  "ja": "Apple SiliconとmacOS VM: llama.cppでLLM推論を高速化",
+  "ts": "2026-08-11T21:38:47.091273+00:00"
+ },
  "Apple says more ex-employees may have taken confidential data to OpenAI": {
   "ja": "Apple、複数の元従業員がOpenAIに機密データを持ち出した可能性を発表",
   "ts": "2026-08-04T22:06:22.622257+00:00"
@@ -242,6 +254,10 @@
  "Archaeologists Find Ancient Glyphs in the Amazon": {
   "ja": "考古学者がアマゾンで古代の象形文字を発見",
   "ts": "2026-08-04T11:17:50.507258+00:00"
+ },
+ "Archive of Animal Photography Reveals 18,000 Species and Counting": {
+  "ja": "動物写真アーカイブが18,000種以上を公開",
+  "ts": "2026-08-11T21:38:47.091273+00:00"
  },
  "Aristotle quotes on virtue, knowledge, and happiness": {
   "ja": "徳、知識、幸福についてのアリストテレスの格言",
@@ -253,7 +269,7 @@
  },
  "As AI eats the web, the internet’s collective memory is disappearing": {
   "ja": "AIがウェブを食い尽くすなか、インターネットの集合的記憶が消えていく",
-  "ts": "2026-08-11T09:54:16.672468+00:00"
+  "ts": "2026-08-11T21:38:39.897772+00:00"
  },
  "Ask HN: In your experience, what are sound conventions for e-ink UI development?": {
   "ja": "Ask HN: e-ink UI開発における健全な慣例とは何か",
@@ -395,6 +411,10 @@
   "ja": "CP/M-386 – 386保護モード用CP/M、CP/M‑68Kから派生",
   "ts": "2026-08-03T12:15:41.058724+00:00"
  },
+ "CSS properties you should know for better text designs": {
+  "ja": "より良いテキスト設計のために知るべきCSSプロパティ",
+  "ts": "2026-08-11T21:38:47.091273+00:00"
+ },
  "Can Intel finally beat ARM on performance per Watt?": {
   "ja": "Intelは最終的にARM をPower/W で上回れるのか",
   "ts": "2026-08-09T04:13:02.787174+00:00"
@@ -442,6 +462,10 @@
  "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals": {
   "ja": "知能の商品化：良い、悪い、そして醜い循環AIディール",
   "ts": "2026-07-30T05:33:31.620490+00:00"
+ },
+ "Compression is prediction": {
+  "ja": "圧縮は予測である",
+  "ts": "2026-08-11T21:38:47.091273+00:00"
  },
  "Concurrency, interactivity, mutability, choose two": {
   "ja": "並行性、対話性、可変性、2つを選べ",
@@ -631,6 +655,10 @@
   "ja": "エレベーター",
   "ts": "2026-08-01T10:29:11.166381+00:00"
  },
+ "England set to be one of the first countries to eliminate hepatitis C": {
+  "ja": "イングランド、C型肝炎排除実現国として初めてのひとつに",
+  "ts": "2026-08-11T21:38:47.091273+00:00"
+ },
  "Europe EV Sales BEVs Jump 50% & Reach 26% Market Share": {
   "ja": "欧州EV販売でBEV50%増加、市場シェア26%に到達",
   "ts": "2026-08-02T21:48:31.720714+00:00"
@@ -809,7 +837,7 @@
  },
  "H3-metal – Native MiniMax-H3 inference for Apple Silicon": {
   "ja": "H3-metal – Apple Silicon向けネイティブMiniMax-H3推論",
-  "ts": "2026-08-11T09:54:16.672468+00:00"
+  "ts": "2026-08-11T21:38:39.897799+00:00"
  },
  "Hackers Stalked Me by Hijacking a Smartwatch for Kids": {
   "ja": "ハッカーがキッズスマートウォッチをハイジャックして私を追跡した",
@@ -917,11 +945,15 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-11T09:54:12.807154+00:00"
+  "ts": "2026-08-11T21:38:39.897807+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
   "ts": "2026-07-28T21:57:37.461952+00:00"
+ },
+ "How we used to get jobs: A newspaper classifieds story": {
+  "ja": "かつての就職活動: 新聞の求人欄の話",
+  "ts": "2026-08-11T21:38:47.091273+00:00"
  },
  "Hubble: Open-source notetaking app for you and your agents": {
   "ja": "Hubble: あなたとあなたのエージェントのためのオープンソースノートアプリ",
@@ -1047,6 +1079,10 @@
   "ja": "John C. Lillyが語るソリッドステート知能と人類の排除（1978）",
   "ts": "2026-08-09T21:24:15.218424+00:00"
  },
+ "Jolt: Clojure compiler implemented with Chez Scheme": {
+  "ja": "Jolt: Chez Schemeで実装されたClojureコンパイラ",
+  "ts": "2026-08-11T21:38:47.091273+00:00"
+ },
  "June in Servo: real world compat, media queries, SharedWorker, and more": {
   "ja": "Servo 6月：実世界互換、メディアクエリ、SharedWorker ほか",
   "ts": "2026-08-01T10:29:11.166414+00:00"
@@ -1135,6 +1171,10 @@
   "ja": "Launch HN: HyperProbe (YC S26) – 本番環境で読み取り専用デバッグを行うエージェント",
   "ts": "2026-08-06T11:14:18.091460+00:00"
  },
+ "Launch HN: Keet (YC S24) – An app to create video courses on anything": {
+  "ja": "Launch HN: Keet (YC S24) – あらゆることについてのビデオコース作成アプリ",
+  "ts": "2026-08-11T21:38:47.091273+00:00"
+ },
  "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools": {
   "ja": "Launch HN: Prized (YC S26) – エンジニア以外のスタッフがセキュアな内部ツールを構築",
   "ts": "2026-07-30T22:07:54.199767+00:00"
@@ -1183,6 +1223,10 @@
   "ja": "テキサス州Governor Abbottへの書簡 – 責任あるAIインフラストラクチャについて",
   "ts": "2026-08-11T04:14:04.643534+00:00"
  },
+ "Let’s take apart your phone": {
+  "ja": "あなたのスマートフォンを分解してみよう",
+  "ts": "2026-08-11T21:38:47.091273+00:00"
+ },
  "Lightweight Spring Boot Monitoring Without Prometheus and Grafana": {
   "ja": "PrometheusとGrafanaなしのSpring Boot軽量モニタリング",
   "ts": "2026-07-29T05:44:50.795006+00:00"
@@ -1206,6 +1250,10 @@
  "Logic for Programmers": {
   "ja": "プログラマのための論理",
   "ts": "2026-07-30T11:01:01.391687+00:00"
+ },
+ "London Underground begins scanning passengers' faces": {
+  "ja": "ロンドン地下鉄、乗客の顔スキャンを開始",
+  "ts": "2026-08-11T21:38:47.091273+00:00"
  },
  "London’s most equidistant pub": {
   "ja": "ロンドンで最も等距離にあるパブ",
@@ -1243,6 +1291,10 @@
   "ja": "ゲームの難易度カーブの作り方",
   "ts": "2026-08-09T09:32:00.990067+00:00"
  },
+ "Making holograms with a pen plotter": {
+  "ja": "ペンプロッタでホログラムを作成",
+  "ts": "2026-08-11T21:38:47.091273+00:00"
+ },
  "Making your JITted Code known: Let me count the ways": {
   "ja": "JITコンパイルされたコードを知らせる: その方法を数えてみた",
   "ts": "2026-08-09T21:24:07.777582+00:00"
@@ -1258,6 +1310,10 @@
  "Manual: •.,:;…!?·": {
   "ja": "マニュアル：•.,:;…!?·",
   "ts": "2026-08-01T21:47:42.064746+00:00"
+ },
+ "Manus will return to operating as an independent company": {
+  "ja": "Manusが独立企業として運営を再開",
+  "ts": "2026-08-11T21:38:47.091273+00:00"
  },
  "MariaDB: Promote getting to 10k GitHub stars in server log and client prompt": {
   "ja": "MariaDB：GitHub 1万スター達成をサーバーログとクライアントプロンプトで促進",
@@ -1435,6 +1491,14 @@
   "ja": "Npm-scan: npmエコシステムの最新サプライチェーンセキュリティ",
   "ts": "2026-08-09T21:24:15.218424+00:00"
  },
+ "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard": {
+  "ja": "Nvidia Nemotron 3.5 LightningとNeMo Switchyard",
+  "ts": "2026-08-11T21:38:47.091273+00:00"
+ },
+ "Nvidia's Risky Business": {
+  "ja": "Nvidiaのリスキーなビジネス",
+  "ts": "2026-08-11T21:38:47.091273+00:00"
+ },
  "Nvidia's Vera Whitepaper Has a Thread Loose": {
   "ja": "NvidiaのVera Whitepapeが糸がほつれている",
   "ts": "2026-08-05T22:07:29.867079+00:00"
@@ -1466,6 +1530,10 @@
  "OpenAI's super PAC is funding AI-generated news site attacking industry critics": {
   "ja": "OpenAIのスーパーPACが業界批評家を攻撃するAI生成ニュースサイトに資金提供",
   "ts": "2026-08-03T06:14:03.792442+00:00"
+ },
+ "OpenAI’s head of ethics leaves less than a year after joining": {
+  "ja": "OpenAIの倫理責任者、入社1年未満で退職",
+  "ts": "2026-08-11T21:38:47.091273+00:00"
  },
  "OpenChamber: An Agentic Development Environment": {
   "ja": "OpenChamber: エージェント開発環境",
@@ -1851,6 +1919,10 @@
   "ja": "Show HN: Gander、一切の権限を要求しないAndroidファイルビューア",
   "ts": "2026-07-31T11:24:36.992076+00:00"
  },
+ "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet": {
+  "ja": "Show HN: Git-knife – コミットメッセージ、作者、日付をスプレッドシートのように編集",
+  "ts": "2026-08-11T21:38:47.091273+00:00"
+ },
  "Show HN: How far do I have to go to run into 100k people?": {
   "ja": "Show HN: 10万人に出会うまでにどのくらい進む必要がある？",
   "ts": "2026-07-28T21:57:37.461952+00:00"
@@ -1901,7 +1973,7 @@
  },
  "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots": {
   "ja": "Show HN: Needle2: スマートフォン、ウェアラブル、スマートホーム、ロボット向け14MBエージェントLLM",
-  "ts": "2026-08-11T09:54:12.807131+00:00"
+  "ts": "2026-08-11T21:38:39.897795+00:00"
  },
  "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone": {
   "ja": "Show HN: Nightcrawler – スマートフォン上で動作するローカルAIペネストレーションテストエージェント",
@@ -1971,6 +2043,10 @@
   "ja": "Show HN: AIエージェントのGUIはどのような形であるべきか",
   "ts": "2026-07-31T11:24:36.992076+00:00"
  },
+ "Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS": {
+  "ja": "Show HN: Write.md – 無料でオープンソースのmacOS向けMarkdownエディタ",
+  "ts": "2026-08-11T21:38:47.091273+00:00"
+ },
  "Show HN: Wyzer Programming Language": {
   "ja": "Show HN: Wyzer プログラミング言語",
   "ts": "2026-08-08T09:30:29.480437+00:00"
@@ -1982,6 +2058,10 @@
  "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download": {
   "ja": "Show HN: Yap – macOSのオープンソースオンデバイス音声ディクテーション、モデルダウンロード不要",
   "ts": "2026-07-28T11:10:58.283735+00:00"
+ },
+ "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo": {
+  "ja": "Show HN: 2つのレンズから同時に画像を撮影して融合するiPhoneアプリ",
+  "ts": "2026-08-11T21:38:47.091273+00:00"
  },
  "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS": {
   "ja": "Show HN: textlog – 静かなテキストのみのマイクロブログプラットフォーム、オープンソース、JavaScript不要",
@@ -2258,6 +2338,10 @@
  "The bond market isn't buying what Fed Chair Warsh is selling": {
   "ja": "債券市場はFed議長Warshの言い分を信じていない",
   "ts": "2026-07-31T05:59:23.336566+00:00"
+ },
+ "The brain may be about to have its Ozempic moment": {
+  "ja": "脳はOzempicの瞬間を迎えようとしているかもしれない",
+  "ts": "2026-08-11T21:38:47.091273+00:00"
  },
  "The coolest use for the Vision Pro": {
   "ja": "Vision Proの最高の使用方法",
@@ -2558,6 +2642,10 @@
  "What Happened to HackerOne?": {
   "ja": "HackerOneに何が起きたのか",
   "ts": "2026-08-10T10:11:18.427019+00:00"
+ },
+ "What I learned by putting GitHub Copilot behind a MitM proxy": {
+  "ja": "GitHub CopilotをMitM プロキシの背後に置いて学んだこと",
+  "ts": "2026-08-11T21:38:47.091273+00:00"
  },
  "What I love about Django": {
   "ja": "Djangoが好きな理由",
