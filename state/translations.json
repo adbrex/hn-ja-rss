@@ -227,6 +227,10 @@
   "ja": "Anthropeum－この人工遺物は世界のどこに、いつ属するのか？",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "Antirez/h3.c: MiniMax H3 inference engine for Mac computers": {
+  "ja": "Antirez/h3.c: Macコンピュータ用MiniMax H3推論エンジン",
+  "ts": "2026-08-11T04:14:09.375353+00:00"
+ },
  "App Store Rejection of the Week: Dark Hours": {
   "ja": "App Store却下の今週の例：Dark Hours",
   "ts": "2026-08-07T21:32:30.787829+00:00"
@@ -249,7 +253,7 @@
  },
  "Ask HN: In your experience, what are sound conventions for e-ink UI development?": {
   "ja": "Ask HN: e-ink UI開発における健全な慣例とは何か",
-  "ts": "2026-08-10T21:34:46.290115+00:00"
+  "ts": "2026-08-11T04:14:04.643528+00:00"
  },
  "Ask HN: What are you working on? (August 2026)": {
   "ja": "Ask HN: 何に取り組んでいますか？（2026年8月）",
@@ -439,13 +443,17 @@
   "ja": "並行性、対話性、可変性、2つを選べ",
   "ts": "2026-07-30T11:01:04.677477+00:00"
  },
+ "Confessions of a Long-Distance Sailor": {
+  "ja": "長距離帆走者の告白",
+  "ts": "2026-08-11T04:14:09.375353+00:00"
+ },
  "Convergence is not enough": {
   "ja": "収束では足りない",
   "ts": "2026-08-03T12:15:46.460959+00:00"
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-08-10T10:11:18.427051+00:00"
+  "ts": "2026-08-11T04:14:04.643543+00:00"
  },
  "Cracking Windows Open: Porting RADV to Win32": {
   "ja": "WindowsをこじあくてRADVをWin32に移植する",
@@ -645,7 +653,7 @@
  },
  "Exploiting System Management Mode with a very long interrupt": {
   "ja": "システム管理モードの悪用 – 極めて長い割り込みを利用",
-  "ts": "2026-08-10T21:34:46.290115+00:00"
+  "ts": "2026-08-11T04:14:04.643530+00:00"
  },
  "Explorative modeling: Train on the best of K guesses": {
   "ja": "探索的モデリング：K個の予測の最良部分での訓練",
@@ -653,7 +661,7 @@
  },
  "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines": {
   "ja": "Claude/GPTナレッジカットオフと事前学習タイムラインの探索",
-  "ts": "2026-08-10T21:34:46.290115+00:00"
+  "ts": "2026-08-11T04:14:04.643532+00:00"
  },
  "F*: A general-purpose proof-oriented programming language": {
   "ja": "F* – 汎用証明指向プログラミング言語",
@@ -889,7 +897,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-10T21:34:38.568030+00:00"
+  "ts": "2026-08-11T04:14:04.643542+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -905,7 +913,7 @@
  },
  "Humanising LLM Outputs Is Dumb": {
   "ja": "LLM出力の「人間らしさ化」は愚かである",
-  "ts": "2026-08-10T21:34:46.290115+00:00"
+  "ts": "2026-08-11T04:14:04.643526+00:00"
  },
  "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs": {
   "ja": "4万回のゲーム実行で、AIエージェントコマンドを承認する際に人間が3件に1件の脅威を見落とし",
@@ -1117,7 +1125,7 @@
  },
  "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers": {
   "ja": "Launch HN: Stoa Markets (YC S26) – GPUとAIサーバーのマーケットプレイス",
-  "ts": "2026-08-10T21:34:46.290115+00:00"
+  "ts": "2026-08-11T04:14:04.643539+00:00"
  },
  "Launch HN: Tokenless (YC S26) – Automatic model switching to save money": {
   "ja": "Launch HN: Tokenless (YC S26) – コスト削減のための自動モデル切り替え",
@@ -1145,7 +1153,7 @@
  },
  "Letter to Governor Abbott on responsible AI infrastructure in Texas": {
   "ja": "テキサス州Governor Abbottへの書簡 – 責任あるAIインフラストラクチャについて",
-  "ts": "2026-08-10T21:34:46.290115+00:00"
+  "ts": "2026-08-11T04:14:04.643534+00:00"
  },
  "Lightweight Spring Boot Monitoring Without Prometheus and Grafana": {
   "ja": "PrometheusとGrafanaなしのSpring Boot軽量モニタリング",
@@ -1229,7 +1237,7 @@
  },
  "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models": {
   "ja": "Mark Zuckerberg、「閉鎖的な」AI競合他社を批判。Metaがオープンモデルへ回帰",
-  "ts": "2026-08-10T21:34:46.290115+00:00"
+  "ts": "2026-08-11T04:14:04.643517+00:00"
  },
  "Mars Bar from 1991 found – and it's 20g bigger than today's": {
   "ja": "1991年のMars Bar発見 – 現在のものより20g大きい",
@@ -1313,7 +1321,7 @@
  },
  "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows": {
   "ja": "Muse Glimmer: 常時稼働ローカルエージェントワークフロー向けに最適化された30Bパラメータモデル",
-  "ts": "2026-08-10T21:34:46.290115+00:00"
+  "ts": "2026-08-11T04:14:04.643500+00:00"
  },
  "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"": {
   "ja": "私の個人的なAIベンチマーク：「ハプスブルク家の顎を持つカエルのSVGを生成する」",
@@ -1465,7 +1473,7 @@
  },
  "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes": {
   "ja": "Parametron: トランジスタも真空管も使わない1950年代の日本製コンピュータ",
-  "ts": "2026-08-10T21:34:46.290115+00:00"
+  "ts": "2026-08-11T04:14:04.643524+00:00"
  },
  "Parsers don't have to be complicated": {
   "ja": "パーサーは複雑である必要がない",
@@ -1547,6 +1555,10 @@
   "ja": "「オープンソース」という言葉が生まれる前に回路図を公開する",
   "ts": "2026-08-10T21:34:46.290115+00:00"
  },
+ "Publishing Schematics Before “Open Source” Was a Word": {
+  "ja": "「オープンソース」という言葉が生まれる前に回路図を公開する",
+  "ts": "2026-08-11T04:14:09.375353+00:00"
+ },
  "Pushing the limits of RISC-V emulation": {
   "ja": "RISC-Vエミュレーションの限界に挑む",
   "ts": "2026-08-06T05:41:30.536041+00:00"
@@ -1622,6 +1634,10 @@
  "Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman": {
   "ja": "再帰フィルタ：SMA、EMA、ロウパス、そして小さなKalman",
   "ts": "2026-07-30T11:01:01.391693+00:00"
+ },
+ "Recycle – Floppydisks": {
+  "ja": "Recycle – フロッピーディスク",
+  "ts": "2026-08-11T04:14:09.375353+00:00"
  },
  "Refactoring cuisine: how an Iraqi stew sailed to Singapore": {
   "ja": "料理のリファクタリング：イラクのシチューがシンガポールへ渡った話",
@@ -1849,7 +1865,7 @@
  },
  "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots": {
   "ja": "Show HN: Needle2: スマートフォン、ウェアラブル、スマートホーム、ロボット向け14MBエージェントLLM",
-  "ts": "2026-08-10T21:34:46.290115+00:00"
+  "ts": "2026-08-11T04:14:04.643521+00:00"
  },
  "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone": {
   "ja": "Show HN: Nightcrawler – スマートフォン上で動作するローカルAIペネストレーションテストエージェント",
@@ -1882,6 +1898,10 @@
  "Show HN: SIMD Viterbi Decoder in Rust": {
   "ja": "Show HN: Rust製SIMD Viterbiデコーダー",
   "ts": "2026-08-05T05:40:22.633007+00:00"
+ },
+ "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states": {
+  "ja": "Show HN: 43252003274489856000個のルービックキューブの状態をスクロール",
+  "ts": "2026-08-11T04:14:09.375353+00:00"
  },
  "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours": {
   "ja": "Show HN: Shitty – 高速ターミナル。メモリアンセーフでお前のより高速",
@@ -1987,9 +2007,17 @@
   "ja": "Steel Bank Common Lisp バージョン 2.6.7",
   "ts": "2026-07-29T11:17:33.572894+00:00"
  },
+ "Stop Killing Games: It's time to sue Sony, join us": {
+  "ja": "ゲーム廃止を止めよう：Sonyを訴える時が来た。参加しよう",
+  "ts": "2026-08-11T04:14:09.375353+00:00"
+ },
  "Stop Killing the Internet: No Digital ID and No Age Verification": {
   "ja": "インターネットを殺すのをやめよう：デジタルIDも年齢認証もない",
   "ts": "2026-07-28T21:57:37.461952+00:00"
+ },
+ "Stowaway – Take the window seat on any plane or satellite overhead": {
+  "ja": "Stowaway – あらゆる飛行機や衛星上で窓側の座席を",
+  "ts": "2026-08-11T04:14:09.375353+00:00"
  },
  "Stylized GGX Shading": {
   "ja": "スタイル化されたGGXシェーディング",
@@ -2145,7 +2173,7 @@
  },
  "The Psychedelic Toad of the Sonoran Desert": {
   "ja": "ソノラン砂漠のサイケデリック・ヒキガエル",
-  "ts": "2026-08-10T21:34:46.290115+00:00"
+  "ts": "2026-08-11T04:14:04.643536+00:00"
  },
  "The Religion of Speed": {
   "ja": "速度の宗教",
@@ -2163,6 +2191,10 @@
   "ja": "『Hyper Light Drifter』のサウンドとミュージック [ビデオ]",
   "ts": "2026-08-09T09:32:00.990071+00:00"
  },
+ "The Story of Mac: A Just-So Story": {
+  "ja": "Macの物語：そういう訳の話",
+  "ts": "2026-08-11T04:14:09.375353+00:00"
+ },
  "The Sylvester–Gallai Theorem": {
   "ja": "Sylvester–Gallai 定理",
   "ts": "2026-08-07T04:50:22.396857+00:00"
@@ -2174,6 +2206,10 @@
  "The Tragedy of the Cognitive Commons": {
   "ja": "認知の共有地の悲劇",
   "ts": "2026-08-10T21:34:46.290115+00:00"
+ },
+ "The UK's War on Anonymity Has Come to America": {
+  "ja": "英国の匿名化廃止戦争がアメリカに到来",
+  "ts": "2026-08-11T04:14:09.375353+00:00"
  },
  "The Valley of Webhooks": {
   "ja": "Webhookの谷",
@@ -2254,6 +2290,10 @@
  "The true power of regular expressions (2012)": {
   "ja": "正規表現の真の力（2012年）",
   "ts": "2026-08-03T12:15:46.460959+00:00"
+ },
+ "The “mechanical miracle” that ruined Mark Twain’s life": {
+  "ja": "マーク・トウェインの人生を台無しにした「機械的奇跡」",
+  "ts": "2026-08-11T04:14:09.375353+00:00"
  },
  "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted": {
   "ja": "Theo Conjecture、35年来の数学問題を解く、誰も予測しなかった項を発見",
@@ -2495,6 +2535,10 @@
   "ja": "プロダクトとは何か",
   "ts": "2026-08-07T09:54:33.877044+00:00"
  },
+ "What's the best programming language for coding agents?": {
+  "ja": "コーディングエージェント向けの最良のプログラミング言語は何か",
+  "ts": "2026-08-11T04:14:09.375353+00:00"
+ },
  "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation": {
   "ja": "AI ベンチマークが停滞する時：ベンチマーク飽和の体系的研究",
   "ts": "2026-08-04T22:06:22.622257+00:00"
@@ -2578,6 +2622,10 @@
  "Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years": {
   "ja": "ルーマニアの作業員が550万年間密閉されていた洞窟を掘り破る",
   "ts": "2026-08-08T09:30:33.391680+00:00"
+ },
+ "World Train Map – 1247 train routes around the world": {
+  "ja": "World Train Map – 世界中の1247の鉄道路線",
+  "ts": "2026-08-11T04:14:09.375353+00:00"
  },
  "Xbox goes down. You can't play games you own on disc": {
   "ja": "Xboxがダウン。所有するディスクゲームがプレイできない",
