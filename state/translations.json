@@ -91,6 +91,10 @@
   "ja": "物理学者がペットのハムスターの回し車をStrava対応に改造",
   "ts": "2026-08-08T21:22:35.314726+00:00"
  },
+ "A shell exclamation mark is not for yelling. Be lazy": {
+  "ja": "シェルの感嘆符は怒鳴ることではない。手を抜け",
+  "ts": "2026-08-12T09:55:22.303677+00:00"
+ },
  "A simple clustering algorithm for lists": {
   "ja": "リストの単純なクラスタリングアルゴリズム",
   "ts": "2026-07-31T21:59:31.804562+00:00"
@@ -469,7 +473,7 @@
  },
  "Compression is prediction": {
   "ja": "圧縮は予測である",
-  "ts": "2026-08-12T04:42:38.097246+00:00"
+  "ts": "2026-08-12T09:55:19.227902+00:00"
  },
  "Concurrency, interactivity, mutability, choose two": {
   "ja": "並行性、対話性、可変性、2つを選べ",
@@ -485,7 +489,7 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-08-11T04:14:04.643543+00:00"
+  "ts": "2026-08-12T09:55:19.227934+00:00"
  },
  "Cracking Windows Open: Porting RADV to Win32": {
   "ja": "WindowsをこじあくてRADVをWin32に移植する",
@@ -510,6 +514,10 @@
  "Cursor removed cost information from the usage page and CSV export": {
   "ja": "Cursorが使用ページとCSVエクスポートからコスト情報を削除",
   "ts": "2026-08-01T21:47:42.064746+00:00"
+ },
+ "DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio": {
+  "ja": "DARPA重量物搬送チャレンジ終了、ペイロード対重量比3.84:1で優勝",
+  "ts": "2026-08-12T09:55:22.303677+00:00"
  },
  "DConf 2026 in London": {
   "ja": "DConf 2026 ロンドン開催",
@@ -631,6 +639,10 @@
   "ja": "DuckDB – ラップトップ向けのデータパワーツール、Clojure版（2023年）",
   "ts": "2026-08-05T11:14:05.015373+00:00"
  },
+ "Dutch Train Map Simulator": {
+  "ja": "オランダ列車地図シミュレータ",
+  "ts": "2026-08-12T09:55:22.303677+00:00"
+ },
  "ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison": {
   "ja": "ESP32-C6消費電力: Arduino vs. Zephyr vs. ESP-IDF 比較",
   "ts": "2026-07-30T11:01:04.677477+00:00"
@@ -665,7 +677,7 @@
  },
  "England set to be one of the first countries to eliminate hepatitis C": {
   "ja": "イングランド、C型肝炎排除実現国として初めてのひとつに",
-  "ts": "2026-08-12T04:42:38.097227+00:00"
+  "ts": "2026-08-12T09:55:19.227899+00:00"
  },
  "Europe EV Sales BEVs Jump 50% & Reach 26% Market Share": {
   "ja": "欧州EV販売でBEV50%増加、市場シェア26%に到達",
@@ -730,6 +742,10 @@
  "Fixing my tooltip accessibility mistake": {
   "ja": "ツールチップのアクセシビリティミスを修正する",
   "ts": "2026-08-09T09:32:05.584523+00:00"
+ },
+ "Flatworms, Ion Channels, and Burning Mouths": {
+  "ja": "渦虫、イオンチャネル、口の中の炎症",
+  "ts": "2026-08-12T09:55:22.303677+00:00"
  },
  "Flint: A Visualization Language for the AI Era": {
   "ja": "Flint: AI時代の可視化言語",
@@ -817,7 +833,7 @@
  },
  "Go is an ideal language for AI-assisted software engineering": {
   "ja": "GoはAI支援ソフトウェアエンジニアリングに最適な言語である",
-  "ts": "2026-08-12T04:42:43.548569+00:00"
+  "ts": "2026-08-12T09:55:19.227907+00:00"
  },
  "Golang proposal: container/: generic collection types": {
   "ja": "Golang提案：container/: ジェネリック コレクション型",
@@ -957,7 +973,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-12T04:42:38.097265+00:00"
+  "ts": "2026-08-12T09:55:19.227932+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -1093,7 +1109,7 @@
  },
  "Jolt: Clojure compiler implemented with Chez Scheme": {
   "ja": "Jolt: Chez Schemeで実装されたClojureコンパイラ",
-  "ts": "2026-08-12T04:42:38.097257+00:00"
+  "ts": "2026-08-12T09:55:19.227918+00:00"
  },
  "June in Servo: real world compat, media queries, SharedWorker, and more": {
   "ja": "Servo 6月：実世界互換、メディアクエリ、SharedWorker ほか",
@@ -1170,6 +1186,10 @@
  "LLMs reward expertise": {
   "ja": "LLM は専門知識に報酬を与える",
   "ts": "2026-08-04T11:17:46.859424+00:00"
+ },
+ "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials": {
+  "ja": "Launch HN: Discovered Materials（YC P26）– 新規材料を発見するAIエージェント",
+  "ts": "2026-08-12T09:55:22.303677+00:00"
  },
  "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research": {
   "ja": "Launch HN: EdotEnv (YC S26) – LLMに研究を教えるための定量トレーディング RL 環境",
@@ -1265,7 +1285,7 @@
  },
  "London Underground begins scanning passengers' faces": {
   "ja": "ロンドン地下鉄、乗客の顔スキャンを開始",
-  "ts": "2026-08-12T04:42:38.097253+00:00"
+  "ts": "2026-08-12T09:55:19.227909+00:00"
  },
  "London’s most equidistant pub": {
   "ja": "ロンドンで最も等距離にあるパブ",
@@ -1305,7 +1325,7 @@
  },
  "Making holograms with a pen plotter": {
   "ja": "ペンプロッタでホログラムを作成",
-  "ts": "2026-08-12T04:42:38.097260+00:00"
+  "ts": "2026-08-12T09:55:19.227920+00:00"
  },
  "Making your JITted Code known: Let me count the ways": {
   "ja": "JITコンパイルされたコードを知らせる: その方法を数えてみた",
@@ -1469,7 +1489,7 @@
  },
  "Neutrinos from Deep Inside Earth Provide a New Picture of the Mantle": {
   "ja": "地球内部からのニュートリノが地幔の新しい姿を明かす",
-  "ts": "2026-08-12T04:42:43.548569+00:00"
+  "ts": "2026-08-12T09:55:19.227930+00:00"
  },
  "New Bedford police officer accused of using Flock cameras to track ex-partner": {
   "ja": "ニューベッドフォード警察官、Flockカメラを使って元パートナーを追跡した容疑で起訴",
@@ -1513,7 +1533,7 @@
  },
  "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard": {
   "ja": "Nvidia Nemotron 3.5 LightningとNeMo Switchyard",
-  "ts": "2026-08-12T04:42:38.097255+00:00"
+  "ts": "2026-08-12T09:55:19.227913+00:00"
  },
  "Nvidia's Risky Business": {
   "ja": "Nvidiaのリスキーなビジネス",
@@ -1553,7 +1573,7 @@
  },
  "OpenAI’s head of ethics leaves less than a year after joining": {
   "ja": "OpenAIの倫理責任者、入社1年未満で退職",
-  "ts": "2026-08-12T04:42:38.097249+00:00"
+  "ts": "2026-08-12T09:55:19.227905+00:00"
  },
  "OpenChamber: An Agentic Development Environment": {
   "ja": "OpenChamber: エージェント開発環境",
@@ -1779,6 +1799,10 @@
   "ja": "次世代の重大なサイバー能力への対応",
   "ts": "2026-08-08T09:30:29.480442+00:00"
  },
+ "Retire the Abstractions": {
+  "ja": "抽象化を廃棄する",
+  "ts": "2026-08-12T09:55:22.303677+00:00"
+ },
  "Retired man plants trees on forgotten land, now it's Sao Paulo's largest park": {
   "ja": "退職した男性が忘れられた土地に木を植える、今ではサンパウロ最大の公園に",
   "ts": "2026-08-07T04:50:22.396857+00:00"
@@ -1981,7 +2005,7 @@
  },
  "Show HN: Line9 – A Mermaid rendering engine with its own layout": {
   "ja": "Show HN: Line9 – 独自のレイアウト機能を持つMermaidレンダリングエンジン",
-  "ts": "2026-08-12T04:42:43.548569+00:00"
+  "ts": "2026-08-12T09:55:19.227926+00:00"
  },
  "Show HN: Logan Basic v2.1 - An online BASIC interpreter.": {
   "ja": "Show HN: Logan Basic v2.1 - オンラインBASICインタプリタ",
@@ -2057,7 +2081,7 @@
  },
  "Show HN: Tamron Lens Utility Alternative on Linux": {
   "ja": "Show HN: Linux向けTamronレンズユーティリティ代替ツール",
-  "ts": "2026-08-12T04:42:43.548569+00:00"
+  "ts": "2026-08-12T09:55:19.227928+00:00"
  },
  "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)": {
   "ja": "Show HN: Channels SDK – 任意のエージェントを任意のチャネルに対応させる (Slack、MS Teams)",
@@ -2097,7 +2121,7 @@
  },
  "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo": {
   "ja": "Show HN: 2つのレンズから同時に画像を撮影して融合するiPhoneアプリ",
-  "ts": "2026-08-12T04:42:38.097254+00:00"
+  "ts": "2026-08-12T09:55:19.227911+00:00"
  },
  "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS": {
   "ja": "Show HN: textlog – 静かなテキストのみのマイクロブログプラットフォーム、オープンソース、JavaScript不要",
@@ -2157,7 +2181,7 @@
  },
  "Stealing Reasoning Traces from Proprietary LLM APIs": {
   "ja": "プロプライエタリなLLM APIから推論トレースを窃取する",
-  "ts": "2026-08-12T04:42:43.548569+00:00"
+  "ts": "2026-08-12T09:55:19.227883+00:00"
  },
  "Steel Bank Common Lisp version 2.6.7": {
   "ja": "Steel Bank Common Lisp バージョン 2.6.7",
@@ -2309,7 +2333,7 @@
  },
  "The Human Is the Loop": {
   "ja": "人間がループである",
-  "ts": "2026-08-12T04:42:43.548569+00:00"
+  "ts": "2026-08-12T09:55:19.227922+00:00"
  },
  "The Myth of Snow Leopard": {
   "ja": "Snow Leopardの神話",
@@ -2405,7 +2429,7 @@
  },
  "The hardest working font in Manhattan (2025)": {
   "ja": "マンハッタンで最も働くフォント（2025）",
-  "ts": "2026-08-12T04:42:43.548569+00:00"
+  "ts": "2026-08-12T09:55:19.227917+00:00"
  },
  "The iPhone Upgrade Program is being replaced by Apple Upgrade": {
   "ja": "iPhoneアップグレードプログラムがApple Upgradeに置き換わる",
@@ -2413,7 +2437,7 @@
  },
  "The lifesaving secret hidden inside a horseshoe crab's blue blood": {
   "ja": "カブトガニの青い血に隠された命を救う秘密",
-  "ts": "2026-08-12T04:42:43.548569+00:00"
+  "ts": "2026-08-12T09:55:19.227924+00:00"
  },
  "The lost civic life of movie rental stores": {
   "ja": "映画レンタル店の失われた市民的生活",
@@ -2813,7 +2837,11 @@
  },
  "WorldClaw Agentic 3D open-world generation at scale": {
   "ja": "WorldClaw Agentic 3D オープンワールド生成の大規模展開",
-  "ts": "2026-08-12T04:42:43.548569+00:00"
+  "ts": "2026-08-12T09:55:19.227915+00:00"
+ },
+ "Worms: The Future of Yesterday's Worms Today": {
+  "ja": "ワーム：昨日のワームの未来は今日",
+  "ts": "2026-08-12T09:55:22.303677+00:00"
  },
  "Xbox goes down. You can't play games you own on disc": {
   "ja": "Xboxがダウン。所有するディスクゲームがプレイできない",
