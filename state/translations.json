@@ -15,6 +15,10 @@
   "ja": "200 ミリ秒",
   "ts": "2026-08-04T11:17:46.859456+00:00"
  },
+ "2026 Eclipse Webcams": {
+  "ja": "2026年の日食ウェブカメラ",
+  "ts": "2026-08-12T21:38:21.279248+00:00"
+ },
  "2027 memory capacity is reportedly sold out": {
   "ja": "2027年メモリ容量が売り切れたと報道",
   "ts": "2026-08-08T09:30:29.480423+00:00"
@@ -62,6 +66,10 @@
  "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention": {
   "ja": "偽装された監視条約：カナダがUN犯罪防止条約に署名",
   "ts": "2026-08-01T21:47:42.064746+00:00"
+ },
+ "A Tale of Dynamic Programming (2022)": {
+  "ja": "動的計画法の物語（2022年）",
+  "ts": "2026-08-12T21:38:21.279248+00:00"
  },
  "A Trampoline": {
   "ja": "トランポリン",
@@ -130,6 +138,10 @@
  "AI fuels more than half of cybercrime in Africa as scams surge – Interpol": {
   "ja": "AIがアフリカのサイバー犯罪の半数以上を助長、詐欺急増中 – Interpol",
   "ts": "2026-08-05T11:14:05.015364+00:00"
+ },
+ "AI is removing the middle class of software engineering?": {
+  "ja": "AIがソフトウェアエンジニアの中流階級を消滅させるのか",
+  "ts": "2026-08-12T21:38:21.279248+00:00"
  },
  "AI migrated legacy COBOL programs to Java, bugs included": {
   "ja": "AIがレガシーCOBOLプログラムをJavaに移行、バグ込みで",
@@ -447,6 +459,10 @@
   "ja": "Google DeepMindの人事変更: Demis HassabisがCEOから会長へ、Jeff Deanが退職",
   "ts": "2026-08-06T11:14:18.091408+00:00"
  },
+ "Chartreuse, a case study in how scarcity and authenticity can drive desirability": {
+  "ja": "Chartreuse - 希少性と真正性がいかに欲望を生み出すかのケーススタディ",
+  "ts": "2026-08-12T21:38:21.279248+00:00"
+ },
  "ChatGPT starts blocking direct requests to copy an author's style": {
   "ja": "ChatGPTが著者のスタイルをコピーするダイレクト要求をブロックし始める",
   "ts": "2026-08-09T04:13:08.257601+00:00"
@@ -582,6 +598,10 @@
  "Deletes all instances of Microsoft's GDID and prevents minting of new ones": {
   "ja": "Microsoftの GDID のすべてのインスタンスを削除し、新しいインスタンスの生成を防止",
   "ts": "2026-08-09T21:24:15.218424+00:00"
+ },
+ "Delphi 13 Community Edition Is Now Available": {
+  "ja": "Delphi 13 Community Edition がリリース",
+  "ts": "2026-08-12T21:38:21.279248+00:00"
  },
  "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena": {
   "ja": "DRAM 読み取り干渉の解明：RowHammer と RowPress 現象",
@@ -819,6 +839,10 @@
   "ja": "GitHub ActionsとPagesで劣化した可用性",
   "ts": "2026-08-07T09:54:29.419387+00:00"
  },
+ "Glaciers on the Climate Dashboard": {
+  "ja": "気候ダッシュボード上の氷河",
+  "ts": "2026-08-12T21:38:21.279248+00:00"
+ },
  "Glue bonds to nonstick surfaces and wipes clean with ethanol": {
   "ja": "接着剤がノンスティック表面に接着し、エタノールで拭き取れる",
   "ts": "2026-07-28T05:23:02.934777+00:00"
@@ -855,6 +879,10 @@
   "ja": "GoogleがAndroidの年齢確認を年末までに世界中で拡大予定",
   "ts": "2026-07-31T05:59:18.868666+00:00"
  },
+ "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index": {
+  "ja": "Grok 4.6がArtificial Analysis Intelligence Indexで61を獲得",
+  "ts": "2026-08-12T21:38:21.279248+00:00"
+ },
  "Guarded Methods in OCaml": {
   "ja": "OCamlのガード付きメソッド",
   "ts": "2026-08-07T21:32:30.787829+00:00"
@@ -866,6 +894,10 @@
  "H3-metal – Native MiniMax-H3 inference for Apple Silicon": {
   "ja": "H3-metal – Apple Silicon向けネイティブMiniMax-H3推論",
   "ts": "2026-08-11T21:38:39.897799+00:00"
+ },
+ "HTML over WebSockets: real-time SPAs with barely any JavaScript": {
+  "ja": "HTMLのWebSockets対応：JavaScriptほぼなしでリアルタイムSPA実現",
+  "ts": "2026-08-12T21:38:21.279248+00:00"
  },
  "Hackers Stalked Me by Hijacking a Smartwatch for Kids": {
   "ja": "ハッカーがキッズスマートウォッチをハイジャックして私を追跡した",
@@ -906,6 +938,10 @@
  "Herdr is joining Y Combinator. The runtime stays open": {
   "ja": "HerdrがY Combinatorに参加。ランタイムはオープンなまま",
   "ts": "2026-08-07T09:54:29.419399+00:00"
+ },
+ "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons": {
+  "ja": "高解像度写真がMarsの多角形平原から突き出た砂冠された台地を捉える",
+  "ts": "2026-08-12T21:38:21.279248+00:00"
  },
  "Hooray for the Sockets Interface": {
   "ja": "Socketsインターフェースで万歳",
@@ -973,7 +1009,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-12T09:55:19.227932+00:00"
+  "ts": "2026-08-12T21:38:14.826238+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -1259,6 +1295,10 @@
   "ja": "あなたのスマートフォンを分解してみよう",
   "ts": "2026-08-11T21:38:47.091273+00:00"
  },
+ "License plate reader searches should require a warrant": {
+  "ja": "ナンバープレート認識検索には令状が必要",
+  "ts": "2026-08-12T21:38:21.279248+00:00"
+ },
  "Lightweight Spring Boot Monitoring Without Prometheus and Grafana": {
   "ja": "PrometheusとGrafanaなしのSpring Boot軽量モニタリング",
   "ts": "2026-07-29T05:44:50.795006+00:00"
@@ -1298,6 +1338,10 @@
  "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength": {
   "ja": "オフィスで携帯を紛失。Claudeが Bluetooth信号強度の追跡を提案",
   "ts": "2026-08-09T04:13:02.787172+00:00"
+ },
+ "Lovable raises $400M Series C": {
+  "ja": "Lovableが4億ドルのSeries Cで資金調達",
+  "ts": "2026-08-12T21:38:21.279248+00:00"
  },
  "MCP 2026-07-28 Specification: transport going stateless": {
   "ja": "MCP 2026-07-28 仕様：トランスポートがステートレスになる",
@@ -1614,6 +1658,10 @@
  "Parsers don't have to be complicated": {
   "ja": "パーサーは複雑である必要がない",
   "ts": "2026-08-07T09:54:33.877044+00:00"
+ },
+ "People who grew up with high economic connectedness earn more": {
+  "ja": "経済的接続性が高い環境で育った人々がより多く稼ぐ",
+  "ts": "2026-08-12T21:38:21.279248+00:00"
  },
  "Petri Nets as a Music Sequencer": {
   "ja": "ペトリネットを音楽シーケンサーとして使用",
@@ -2103,6 +2151,10 @@
   "ja": "Show HN: AIエージェントのGUIはどのような形であるべきか",
   "ts": "2026-07-31T11:24:36.992076+00:00"
  },
+ "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation": {
+  "ja": "Show HN: Woxi - オープンソースのMathematica / Wolfram Language実装",
+  "ts": "2026-08-12T21:38:21.279248+00:00"
+ },
  "Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS": {
   "ja": "Show HN: Write.md – 無料でオープンソースのmacOS向けMarkdownエディタ",
   "ts": "2026-08-11T21:38:47.091273+00:00"
@@ -2162,6 +2214,10 @@
  "Some thoughts about Anthropic's new cryptanalysis results": {
   "ja": "Anthropicの新暗号解析結果についての所感",
   "ts": "2026-07-30T11:01:01.391685+00:00"
+ },
+ "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot": {
+  "ja": "ClaudeBot等のAIボットになりすまして大規模な脆弱性スキャンを実行する者が出現",
+  "ts": "2026-08-12T21:38:21.279248+00:00"
  },
  "SpecForge – A Platform for Authoring Formal Specifications": {
   "ja": "SpecForge – 形式仕様を執筆するためのプラットフォーム",
@@ -2226,6 +2282,10 @@
  "Tail-call optimization in C is relatively recent (2025)": {
   "ja": "C言語の末尾呼び出し最適化は比較的最近の機能（2025年）",
   "ts": "2026-08-11T09:54:12.807142+00:00"
+ },
+ "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug": {
+  "ja": "Tailscale、16年前のSQLite WAL-Resetバグがデータベース破損の原因と判明",
+  "ts": "2026-08-12T21:38:21.279248+00:00"
  },
  "Tailscale didn't stop the Hugging Face intrusion": {
   "ja": "Tailscale は Hugging Face への侵入を防げなかった",
@@ -2314,6 +2374,10 @@
  "The Entropy of a Markov Chain": {
   "ja": "マルコフ鎖のエントロピー",
   "ts": "2026-08-06T11:14:18.091456+00:00"
+ },
+ "The Essential Question: “What should I read next?”": {
+  "ja": "本質的な問題：「次に何を読むべきか？」",
+  "ts": "2026-08-12T21:38:21.279248+00:00"
  },
  "The Fabled Flatbreads of Uzbekistan (2015)": {
   "ja": "ウズベキスタンの伝説のフラットブレッド (2015)",
@@ -2522,6 +2586,10 @@
  "Three Theses on the Literacy Crisis": {
   "ja": "識字危機に関する3つのテーゼ",
   "ts": "2026-07-28T05:23:02.934777+00:00"
+ },
+ "Tim King, AmigaDOS developer, has died": {
+  "ja": "AmigaDOS開発者Tim Kingが死去",
+  "ts": "2026-08-12T21:38:21.279248+00:00"
  },
  "Timeline of the OpenAI accidental attack against Hugging Face": {
   "ja": "OpenAiによるHugging Faceへの不意の攻撃のタイムライン",
@@ -2743,6 +2811,10 @@
   "ja": "プロダクトとは何か",
   "ts": "2026-08-07T09:54:33.877044+00:00"
  },
+ "What sort of maths are LLMs good at?": {
+  "ja": "LLMはどのような数学が得意か",
+  "ts": "2026-08-12T21:38:21.279248+00:00"
+ },
  "What's the best programming language for coding agents?": {
   "ja": "コーディングエージェント向けの最良のプログラミング言語は何か",
   "ts": "2026-08-11T09:54:12.807139+00:00"
@@ -2814,6 +2886,10 @@
  "Why some people mow a lawn better than others": {
   "ja": "なぜ芝刈りが得意な人と苦手な人がいるのか",
   "ts": "2026-08-04T22:06:22.622257+00:00"
+ },
+ "Why tiny JPEGs look different in Chrome": {
+  "ja": "小さなJPEGがChromeで異なる理由",
+  "ts": "2026-08-12T21:38:21.279248+00:00"
  },
  "Why we write our own C and C++ inference engines": {
   "ja": "独自のCとC++推論エンジンを書く理由",
@@ -2894,6 +2970,10 @@
  "qm – Multiplayer agent harness for work": {
   "ja": "qm – 仕事向けマルチプレイヤーエージェントハーネス",
   "ts": "2026-08-01T10:29:11.166401+00:00"
+ },
+ "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook": {
+  "ja": "uBlock OriginがFacebookの広告ブロック戦から撤退",
+  "ts": "2026-08-12T21:38:21.279248+00:00"
  },
  "“Code was never the hard part” is an insult to all programmers": {
   "ja": "「コードなんて簡単だ」というのはすべてのプログラマーへの侮辱である",
