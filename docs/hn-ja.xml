@@ -5,240 +5,240 @@
     <link>https://news.ycombinator.com/</link>
     <description>Hacker News のフロントページから人気順に最大30件を抽出し、タイトルを日本語訳したフィードです。1日3回更新。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 21:38:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 04:42:43 +0000</lastBuildDate>
     <ttl>240</ttl>
     <atom:link href="https://YOUR-NAME.github.io/YOUR-REPO/hn-ja.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>[843pt] AIがウェブを食い尽くすなか、インターネットの集合的記憶が消えていく</title>
-      <link>https://thewalrus.ca/google-search-is-dying/</link>
-      <guid isPermaLink="false">hn-49250836</guid>
-      <pubDate>Mon, 10 Aug 2026 22:36:30 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49250836</comments>
-      <description><![CDATA[<p>As AI eats the web, the internet’s collective memory is disappearing</p><p>843 points / 844 comments — by awnird</p><p><a href="https://news.ycombinator.com/item?id=49250836">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[501pt] Show HN: Needle2: スマートフォン、ウェアラブル、スマートホーム、ロボット向け14MBエージェントLLM</title>
-      <link>https://cactuscompute.com/needle</link>
-      <guid isPermaLink="false">hn-49246804</guid>
-      <pubDate>Mon, 10 Aug 2026 17:22:07 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49246804</comments>
-      <description><![CDATA[<p>Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots</p><p>501 points / 169 comments — by HenryNdubuaku</p><p><a href="https://news.ycombinator.com/item?id=49246804">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[450pt] イングランド、C型肝炎排除実現国として初めてのひとつに</title>
-      <link>https://www.bbc.com/news/articles/c75gk620r22o</link>
-      <guid isPermaLink="false">hn-49257377</guid>
-      <pubDate>Tue, 11 Aug 2026 12:41:59 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49257377</comments>
-      <description><![CDATA[<p>England set to be one of the first countries to eliminate hepatitis C</p><p>450 points / 327 comments — by stevekemp</p><p><a href="https://news.ycombinator.com/item?id=49257377">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[413pt] H3-metal – Apple Silicon向けネイティブMiniMax-H3推論</title>
-      <link>https://github.com/antirez/h3.c</link>
-      <guid isPermaLink="false">hn-49252179</guid>
-      <pubDate>Tue, 11 Aug 2026 01:22:09 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49252179</comments>
-      <description><![CDATA[<p>H3-metal – Native MiniMax-H3 inference for Apple Silicon</p><p>413 points / 93 comments — by swyx</p><p><a href="https://news.ycombinator.com/item?id=49252179">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[395pt] Stealing Reasoning Traces from Proprietary LLM APIs</title>
+      <title>[551pt] プロプライエタリなLLM APIから推論トレースを窃取する</title>
       <link>https://stolen-thoughts.com/</link>
       <guid isPermaLink="false">hn-49257876</guid>
       <pubDate>Tue, 11 Aug 2026 13:22:00 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49257876</comments>
-      <description><![CDATA[<p>Stealing Reasoning Traces from Proprietary LLM APIs</p><p>395 points / 159 comments — by quantumgarbage</p><p><a href="https://news.ycombinator.com/item?id=49257876">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Stealing Reasoning Traces from Proprietary LLM APIs</p><p>551 points / 234 comments — by quantumgarbage</p><p><a href="https://news.ycombinator.com/item?id=49257876">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[269pt] Apple SiliconとmacOS VM: llama.cppでLLM推論を高速化</title>
-      <link>https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</link>
-      <guid isPermaLink="false">hn-49259339</guid>
-      <pubDate>Tue, 11 Aug 2026 14:50:33 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49259339</comments>
-      <description><![CDATA[<p>Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp</p><p>269 points / 42 comments — by frabonacci</p><p><a href="https://news.ycombinator.com/item?id=49259339">HNのコメントを読む</a></p>]]></description>
+      <title>[503pt] イングランド、C型肝炎排除実現国として初めてのひとつに</title>
+      <link>https://www.bbc.com/news/articles/c75gk620r22o</link>
+      <guid isPermaLink="false">hn-49257377</guid>
+      <pubDate>Tue, 11 Aug 2026 12:41:59 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49257377</comments>
+      <description><![CDATA[<p>England set to be one of the first countries to eliminate hepatitis C</p><p>503 points / 362 comments — by stevekemp</p><p><a href="https://news.ycombinator.com/item?id=49257377">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[254pt] Nvidiaのリスキーなビジネス</title>
-      <link>https://stratechery.com/2026/nvidias-risky-business/</link>
-      <guid isPermaLink="false">hn-49255710</guid>
-      <pubDate>Tue, 11 Aug 2026 10:02:00 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49255710</comments>
-      <description><![CDATA[<p>Nvidia's Risky Business</p><p>254 points / 113 comments — by jonbaer</p><p><a href="https://news.ycombinator.com/item?id=49255710">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[195pt] Mojo 1.0</title>
-      <link>https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here</link>
-      <guid isPermaLink="false">hn-49261128</guid>
-      <pubDate>Tue, 11 Aug 2026 16:56:46 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49261128</comments>
-      <description><![CDATA[<p>Mojo 1.0</p><p>195 points / 89 comments — by dayanruben</p><p><a href="https://news.ycombinator.com/item?id=49261128">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[169pt] OpenAIの倫理責任者、入社1年未満で退職</title>
-      <link>https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0</link>
-      <guid isPermaLink="false">hn-49257160</guid>
-      <pubDate>Tue, 11 Aug 2026 12:23:07 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49257160</comments>
-      <description><![CDATA[<p>OpenAI’s head of ethics leaves less than a year after joining</p><p>169 points / 258 comments — by ilamont</p><p><a href="https://news.ycombinator.com/item?id=49257160">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[152pt] ロンドン地下鉄、乗客の顔スキャンを開始</title>
-      <link>https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/</link>
-      <guid isPermaLink="false">hn-49255496</guid>
-      <pubDate>Tue, 11 Aug 2026 09:40:02 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49255496</comments>
-      <description><![CDATA[<p>London Underground begins scanning passengers' faces</p><p>152 points / 180 comments — by BlueBerry2001</p><p><a href="https://news.ycombinator.com/item?id=49255496">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[137pt] GitHub CopilotをMitM プロキシの背後に置いて学んだこと</title>
-      <link>https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm</link>
-      <guid isPermaLink="false">hn-49256057</guid>
-      <pubDate>Tue, 11 Aug 2026 10:40:47 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49256057</comments>
-      <description><![CDATA[<p>What I learned by putting GitHub Copilot behind a MitM proxy</p><p>137 points / 18 comments — by j0selit0</p><p><a href="https://news.ycombinator.com/item?id=49256057">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[130pt] Show HN: 2つのレンズから同時に画像を撮影して融合するiPhoneアプリ</title>
-      <link>https://photosynthesis.camera</link>
-      <guid isPermaLink="false">hn-49226623</guid>
-      <pubDate>Sat, 08 Aug 2026 22:47:10 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49226623</comments>
-      <description><![CDATA[<p>Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo</p><p>130 points / 140 comments — by sajomes</p><p><a href="https://news.ycombinator.com/item?id=49226623">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[118pt] Jolt: Chez Schemeで実装されたClojureコンパイラ</title>
-      <link>https://jolt-lang.github.io</link>
-      <guid isPermaLink="false">hn-49223965</guid>
-      <pubDate>Sat, 08 Aug 2026 17:38:20 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49223965</comments>
-      <description><![CDATA[<p>Jolt: Clojure compiler implemented with Chez Scheme</p><p>118 points / 37 comments — by mark_l_watson</p><p><a href="https://news.ycombinator.com/item?id=49223965">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[111pt] Manusが独立企業として運営を再開</title>
-      <link>https://manus.im/blog/a-note-to-our-users</link>
-      <guid isPermaLink="false">hn-49258764</guid>
-      <pubDate>Tue, 11 Aug 2026 14:14:53 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49258764</comments>
-      <description><![CDATA[<p>Manus will return to operating as an independent company</p><p>111 points / 57 comments — by thm</p><p><a href="https://news.ycombinator.com/item?id=49258764">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[102pt] Show HN: Git-knife – コミットメッセージ、作者、日付をスプレッドシートのように編集</title>
-      <link>https://github.com/TheRealYT/git-knife</link>
-      <guid isPermaLink="false">hn-49259611</guid>
-      <pubDate>Tue, 11 Aug 2026 15:09:34 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49259611</comments>
-      <description><![CDATA[<p>Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet</p><p>102 points / 79 comments — by YonathanTesfaye</p><p><a href="https://news.ycombinator.com/item?id=49259611">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[98pt] Nvidia Nemotron 3.5 LightningとNeMo Switchyard</title>
-      <link>https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/</link>
-      <guid isPermaLink="false">hn-49263340</guid>
-      <pubDate>Tue, 11 Aug 2026 19:35:52 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49263340</comments>
-      <description><![CDATA[<p>Nvidia Nemotron 3.5 Lightning and NeMo Switchyard</p><p>98 points / 36 comments — by droidjj</p><p><a href="https://news.ycombinator.com/item?id=49263340">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[97pt] 圧縮は予測である</title>
+      <title>[370pt] 圧縮は予測である</title>
       <link>https://ngrok.com/blog/compression-is-prediction</link>
       <guid isPermaLink="false">hn-49263497</guid>
       <pubDate>Tue, 11 Aug 2026 19:49:44 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49263497</comments>
-      <description><![CDATA[<p>Compression is prediction</p><p>97 points / 45 comments — by nikolay</p><p><a href="https://news.ycombinator.com/item?id=49263497">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Compression is prediction</p><p>370 points / 144 comments — by nikolay</p><p><a href="https://news.ycombinator.com/item?id=49263497">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[73pt] OpenSSH 10.5/10.5p1</title>
-      <link>https://www.openssh.org/releasenotes.html#10.5</link>
-      <guid isPermaLink="false">hn-49261895</guid>
-      <pubDate>Tue, 11 Aug 2026 17:49:37 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49261895</comments>
-      <description><![CDATA[<p>OpenSSH 10.5/10.5p1</p><p>73 points / 26 comments — by voxadam</p><p><a href="https://news.ycombinator.com/item?id=49261895">HNのコメントを読む</a></p>]]></description>
+      <title>[341pt] OpenAIの倫理責任者、入社1年未満で退職</title>
+      <link>https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0</link>
+      <guid isPermaLink="false">hn-49257160</guid>
+      <pubDate>Tue, 11 Aug 2026 12:23:07 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49257160</comments>
+      <description><![CDATA[<p>OpenAI’s head of ethics leaves less than a year after joining</p><p>341 points / 362 comments — by ilamont</p><p><a href="https://news.ycombinator.com/item?id=49257160">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[68pt] かつての就職活動: 新聞の求人欄の話</title>
-      <link>https://ironicsans.ghost.io/how-we-used-to-get-jobs/</link>
-      <guid isPermaLink="false">hn-49262211</guid>
-      <pubDate>Tue, 11 Aug 2026 18:09:56 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49262211</comments>
-      <description><![CDATA[<p>How we used to get jobs: A newspaper classifieds story</p><p>68 points / 46 comments — by speckx</p><p><a href="https://news.ycombinator.com/item?id=49262211">HNのコメントを読む</a></p>]]></description>
+      <title>[333pt] Mojo 1.0</title>
+      <link>https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here</link>
+      <guid isPermaLink="false">hn-49261128</guid>
+      <pubDate>Tue, 11 Aug 2026 16:56:46 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49261128</comments>
+      <description><![CDATA[<p>Mojo 1.0</p><p>333 points / 151 comments — by dayanruben</p><p><a href="https://news.ycombinator.com/item?id=49261128">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[67pt] 脳はOzempicの瞬間を迎えようとしているかもしれない</title>
-      <link>https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment</link>
-      <guid isPermaLink="false">hn-49263658</guid>
-      <pubDate>Tue, 11 Aug 2026 20:01:27 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49263658</comments>
-      <description><![CDATA[<p>The brain may be about to have its Ozempic moment</p><p>67 points / 100 comments — by andsoitis</p><p><a href="https://news.ycombinator.com/item?id=49263658">HNのコメントを読む</a></p>]]></description>
+      <title>[314pt] Nvidiaのリスキーなビジネス</title>
+      <link>https://stratechery.com/2026/nvidias-risky-business/</link>
+      <guid isPermaLink="false">hn-49255710</guid>
+      <pubDate>Tue, 11 Aug 2026 10:02:00 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49255710</comments>
+      <description><![CDATA[<p>Nvidia's Risky Business</p><p>314 points / 150 comments — by jonbaer</p><p><a href="https://news.ycombinator.com/item?id=49255710">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[58pt] ペンプロッタでホログラムを作成</title>
-      <link>https://blog.jordan.matelsky.com/Penplotter-holography/</link>
-      <guid isPermaLink="false">hn-49262811</guid>
-      <pubDate>Tue, 11 Aug 2026 18:51:35 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49262811</comments>
-      <description><![CDATA[<p>Making holograms with a pen plotter</p><p>58 points / 6 comments — by DemiGuru</p><p><a href="https://news.ycombinator.com/item?id=49262811">HNのコメントを読む</a></p>]]></description>
+      <title>[308pt] GoはAI支援ソフトウェアエンジニアリングに最適な言語である</title>
+      <link>https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/</link>
+      <guid isPermaLink="false">hn-49261133</guid>
+      <pubDate>Tue, 11 Aug 2026 16:57:09 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49261133</comments>
+      <description><![CDATA[<p>Go is an ideal language for AI-assisted software engineering</p><p>308 points / 364 comments — by 0xedb</p><p><a href="https://news.ycombinator.com/item?id=49261133">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[52pt] Show HN: Write.md – 無料でオープンソースのmacOS向けMarkdownエディタ</title>
-      <link>https://writemd.app/</link>
-      <guid isPermaLink="false">hn-49258011</guid>
-      <pubDate>Tue, 11 Aug 2026 13:30:39 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49258011</comments>
-      <description><![CDATA[<p>Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS</p><p>52 points / 54 comments — by danielbilekq</p><p><a href="https://news.ycombinator.com/item?id=49258011">HNのコメントを読む</a></p>]]></description>
+      <title>[264pt] ロンドン地下鉄、乗客の顔スキャンを開始</title>
+      <link>https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/</link>
+      <guid isPermaLink="false">hn-49255496</guid>
+      <pubDate>Tue, 11 Aug 2026 09:40:02 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49255496</comments>
+      <description><![CDATA[<p>London Underground begins scanning passengers' faces</p><p>264 points / 269 comments — by BlueBerry2001</p><p><a href="https://news.ycombinator.com/item?id=49255496">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[40pt] 店を運営するボットに関する新研究: フレンドリーだが賢くない</title>
-      <link>https://www.nytimes.com/2026/08/04/us/ai-boss-san-francisco-andon-market.html</link>
-      <guid isPermaLink="false">hn-49174088</guid>
-      <pubDate>Tue, 04 Aug 2026 19:51:52 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49174088</comments>
-      <description><![CDATA[<p>A new study of a bot running a store finds it is friendly but not very smart</p><p>40 points / 36 comments — by jjwiseman</p><p><a href="https://news.ycombinator.com/item?id=49174088">HNのコメントを読む</a></p>]]></description>
+      <title>[234pt] Show HN: 2つのレンズから同時に画像を撮影して融合するiPhoneアプリ</title>
+      <link>https://photosynthesis.camera</link>
+      <guid isPermaLink="false">hn-49226623</guid>
+      <pubDate>Sat, 08 Aug 2026 22:47:10 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49226623</comments>
+      <description><![CDATA[<p>Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo</p><p>234 points / 233 comments — by sajomes</p><p><a href="https://news.ycombinator.com/item?id=49226623">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[36pt] より良いテキスト設計のために知るべきCSSプロパティ</title>
-      <link>https://master.dev/blog/typographic-css-tricks/</link>
-      <guid isPermaLink="false">hn-49261417</guid>
-      <pubDate>Tue, 11 Aug 2026 17:16:06 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49261417</comments>
-      <description><![CDATA[<p>CSS properties you should know for better text designs</p><p>36 points / 0 comments — by ibobev</p><p><a href="https://news.ycombinator.com/item?id=49261417">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[35pt] あなたのスマートフォンを分解してみよう</title>
-      <link>https://everythingmachine.io/phone/</link>
-      <guid isPermaLink="false">hn-49189500</guid>
-      <pubDate>Wed, 05 Aug 2026 21:49:25 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49189500</comments>
-      <description><![CDATA[<p>Let’s take apart your phone</p><p>35 points / 16 comments — by bookofjoe</p><p><a href="https://news.ycombinator.com/item?id=49189500">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[33pt] Launch HN: Keet (YC S24) – あらゆることについてのビデオコース作成アプリ</title>
-      <link>https://www.trykeet.com/</link>
-      <guid isPermaLink="false">hn-49259309</guid>
-      <pubDate>Tue, 11 Aug 2026 14:48:37 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49259309</comments>
-      <description><![CDATA[<p>Launch HN: Keet (YC S24) – An app to create video courses on anything</p><p>33 points / 37 comments — by zackashen</p><p><a href="https://news.ycombinator.com/item?id=49259309">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[31pt] Grok Bot</title>
+      <title>[201pt] Grok Bot</title>
       <link>https://x.ai/bot</link>
       <guid isPermaLink="false">hn-49261514</guid>
       <pubDate>Tue, 11 Aug 2026 17:23:09 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49261514</comments>
-      <description><![CDATA[<p>Grok Bot</p><p>31 points / 29 comments — by rvz</p><p><a href="https://news.ycombinator.com/item?id=49261514">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Grok Bot</p><p>201 points / 169 comments — by rvz</p><p><a href="https://news.ycombinator.com/item?id=49261514">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[26pt] 動物写真アーカイブが18,000種以上を公開</title>
-      <link>https://www.smithsonianmag.com/science-nature/this-amazing-archive-of-animal-photography-reveals-18000-species-and-counting-heres-how-joel-sartore-built-his-photo-ark-180989282/</link>
-      <guid isPermaLink="false">hn-49227610</guid>
-      <pubDate>Sun, 09 Aug 2026 01:41:40 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49227610</comments>
-      <description><![CDATA[<p>Archive of Animal Photography Reveals 18,000 Species and Counting</p><p>26 points / 7 comments — by pseudolus</p><p><a href="https://news.ycombinator.com/item?id=49227610">HNのコメントを読む</a></p>]]></description>
+      <title>[195pt] Nvidia Nemotron 3.5 LightningとNeMo Switchyard</title>
+      <link>https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/</link>
+      <guid isPermaLink="false">hn-49263340</guid>
+      <pubDate>Tue, 11 Aug 2026 19:35:52 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49263340</comments>
+      <description><![CDATA[<p>Nvidia Nemotron 3.5 Lightning and NeMo Switchyard</p><p>195 points / 103 comments — by droidjj</p><p><a href="https://news.ycombinator.com/item?id=49263340">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[14pt] AI、CTFチャレンジを数分で解く</title>
-      <link>https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes</link>
-      <guid isPermaLink="false">hn-49264578</guid>
-      <pubDate>Tue, 11 Aug 2026 21:13:44 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49264578</comments>
-      <description><![CDATA[<p>AI Is Solving CTF Challenges in Minutes</p><p>14 points / 4 comments — by therepanic</p><p><a href="https://news.ycombinator.com/item?id=49264578">HNのコメントを読む</a></p>]]></description>
+      <title>[166pt] Jolt: Chez Schemeで実装されたClojureコンパイラ</title>
+      <link>https://jolt-lang.github.io</link>
+      <guid isPermaLink="false">hn-49223965</guid>
+      <pubDate>Sat, 08 Aug 2026 17:38:20 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49223965</comments>
+      <description><![CDATA[<p>Jolt: Clojure compiler implemented with Chez Scheme</p><p>166 points / 60 comments — by mark_l_watson</p><p><a href="https://news.ycombinator.com/item?id=49223965">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[165pt] WorldClaw Agentic 3D オープンワールド生成の大規模展開</title>
+      <link>https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/</link>
+      <guid isPermaLink="false">hn-49265051</guid>
+      <pubDate>Tue, 11 Aug 2026 21:56:18 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49265051</comments>
+      <description><![CDATA[<p>WorldClaw Agentic 3D open-world generation at scale</p><p>165 points / 51 comments — by EwanG</p><p><a href="https://news.ycombinator.com/item?id=49265051">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[144pt] Show HN: Git-knife – コミットメッセージ、作成者、日付をスプレッドシートのように編集</title>
+      <link>https://github.com/TheRealYT/git-knife</link>
+      <guid isPermaLink="false">hn-49259611</guid>
+      <pubDate>Tue, 11 Aug 2026 15:09:34 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49259611</comments>
+      <description><![CDATA[<p>Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet</p><p>144 points / 91 comments — by YonathanTesfaye</p><p><a href="https://news.ycombinator.com/item?id=49259611">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[143pt] Manusが独立企業として運営を再開</title>
+      <link>https://manus.im/blog/a-note-to-our-users</link>
+      <guid isPermaLink="false">hn-49258764</guid>
+      <pubDate>Tue, 11 Aug 2026 14:14:53 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49258764</comments>
+      <description><![CDATA[<p>Manus will return to operating as an independent company</p><p>143 points / 70 comments — by thm</p><p><a href="https://news.ycombinator.com/item?id=49258764">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[135pt] ペンプロッタでホログラムを作成</title>
+      <link>https://blog.jordan.matelsky.com/Penplotter-holography/</link>
+      <guid isPermaLink="false">hn-49262811</guid>
+      <pubDate>Tue, 11 Aug 2026 18:51:35 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49262811</comments>
+      <description><![CDATA[<p>Making holograms with a pen plotter</p><p>135 points / 14 comments — by DemiGuru</p><p><a href="https://news.ycombinator.com/item?id=49262811">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[123pt] かつての就職活動: 新聞の求人欄の話</title>
+      <link>https://ironicsans.ghost.io/how-we-used-to-get-jobs/</link>
+      <guid isPermaLink="false">hn-49262211</guid>
+      <pubDate>Tue, 11 Aug 2026 18:09:56 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49262211</comments>
+      <description><![CDATA[<p>How we used to get jobs: A newspaper classifieds story</p><p>123 points / 97 comments — by speckx</p><p><a href="https://news.ycombinator.com/item?id=49262211">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[98pt] ニューベッドフォード警察官、Flockカメラを使って元パートナーを追跡した容疑で起訴</title>
+      <link>https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/</link>
+      <guid isPermaLink="false">hn-49266899</guid>
+      <pubDate>Wed, 12 Aug 2026 01:42:46 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49266899</comments>
+      <description><![CDATA[<p>New Bedford police officer accused of using Flock cameras to track ex-partner</p><p>98 points / 53 comments — by newsomix9xl</p><p><a href="https://news.ycombinator.com/item?id=49266899">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[94pt] より良いテキスト設計のために知るべきCSSプロパティ</title>
+      <link>https://master.dev/blog/typographic-css-tricks/</link>
+      <guid isPermaLink="false">hn-49261417</guid>
+      <pubDate>Tue, 11 Aug 2026 17:16:06 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49261417</comments>
+      <description><![CDATA[<p>CSS properties you should know for better text designs</p><p>94 points / 9 comments — by ibobev</p><p><a href="https://news.ycombinator.com/item?id=49261417">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[73pt] 「100%人間作成、AI一切なし」医学研究を提供する企業は100% AIである</title>
+      <link>https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/</link>
+      <guid isPermaLink="false">hn-49267057</guid>
+      <pubDate>Wed, 12 Aug 2026 02:05:42 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49267057</comments>
+      <description><![CDATA[<p>Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI</p><p>73 points / 15 comments — by Anon84</p><p><a href="https://news.ycombinator.com/item?id=49267057">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[62pt] マンハッタンで最も働くフォント（2025）</title>
+      <link>https://aresluna.org/the-hardest-working-font-in-manhattan/</link>
+      <guid isPermaLink="false">hn-49201953</guid>
+      <pubDate>Thu, 06 Aug 2026 20:22:29 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49201953</comments>
+      <description><![CDATA[<p>The hardest working font in Manhattan (2025)</p><p>62 points / 4 comments — by dcminter</p><p><a href="https://news.ycombinator.com/item?id=49201953">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[44pt] Show HN: Line9 – 独自のレイアウト機能を持つMermaidレンダリングエンジン</title>
+      <link>https://line9.ai/diagram</link>
+      <guid isPermaLink="false">hn-49196657</guid>
+      <pubDate>Thu, 06 Aug 2026 13:47:54 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49196657</comments>
+      <description><![CDATA[<p>Show HN: Line9 – A Mermaid rendering engine with its own layout</p><p>44 points / 10 comments — by jumpalongjim</p><p><a href="https://news.ycombinator.com/item?id=49196657">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[44pt] pg_clickhouse v0.10: サブクエリプッシュダウンとTPC-Hクエリの1000倍高速化</title>
+      <link>https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026</link>
+      <guid isPermaLink="false">hn-49265031</guid>
+      <pubDate>Tue, 11 Aug 2026 21:54:25 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49265031</comments>
+      <description><![CDATA[<p>pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries</p><p>44 points / 3 comments — by saisrirampur</p><p><a href="https://news.ycombinator.com/item?id=49265031">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[42pt] 大規模言語モデルにおける創発的な内省的認識</title>
+      <link>https://arxiv.org/abs/2601.01828</link>
+      <guid isPermaLink="false">hn-49264583</guid>
+      <pubDate>Tue, 11 Aug 2026 21:14:10 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49264583</comments>
+      <description><![CDATA[<p>Emergent Introspective Awareness in Large Language Models</p><p>42 points / 17 comments — by doener</p><p><a href="https://news.ycombinator.com/item?id=49264583">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[42pt] Show HN: Linux向けTamronレンズユーティリティ代替ツール</title>
+      <link>https://github.com/yikerman/tamron-lens-control</link>
+      <guid isPermaLink="false">hn-49210199</guid>
+      <pubDate>Fri, 07 Aug 2026 13:36:39 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49210199</comments>
+      <description><![CDATA[<p>Show HN: Tamron Lens Utility Alternative on Linux</p><p>42 points / 0 comments — by xiaoyu2006</p><p><a href="https://news.ycombinator.com/item?id=49210199">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[35pt] RSI シミュレーター</title>
+      <link>https://www.paradigm.xyz/writing/rsi-simulator</link>
+      <guid isPermaLink="false">hn-49261192</guid>
+      <pubDate>Tue, 11 Aug 2026 17:01:21 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49261192</comments>
+      <description><![CDATA[<p>RSI Simulator</p><p>35 points / 14 comments — by ckraeuter</p><p><a href="https://news.ycombinator.com/item?id=49261192">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[30pt] カブトガニの青い血に隠された命を救う秘密</title>
+      <link>https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/</link>
+      <guid isPermaLink="false">hn-49266921</guid>
+      <pubDate>Wed, 12 Aug 2026 01:45:51 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49266921</comments>
+      <description><![CDATA[<p>The lifesaving secret hidden inside a horseshoe crab's blue blood</p><p>30 points / 5 comments — by andsoitis</p><p><a href="https://news.ycombinator.com/item?id=49266921">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[25pt] 人間がループである</title>
+      <link>https://brentfitzgerald.com/posts/the-human-is-the-loop/</link>
+      <guid isPermaLink="false">hn-49267108</guid>
+      <pubDate>Wed, 12 Aug 2026 02:15:01 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49267108</comments>
+      <description><![CDATA[<p>The Human Is the Loop</p><p>25 points / 2 comments — by burnto</p><p><a href="https://news.ycombinator.com/item?id=49267108">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[21pt] 地球内部からのニュートリノが地幔の新しい姿を明かす</title>
+      <link>https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/</link>
+      <guid isPermaLink="false">hn-49257853</guid>
+      <pubDate>Tue, 11 Aug 2026 13:20:44 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49257853</comments>
+      <description><![CDATA[<p>Neutrinos from Deep Inside Earth Provide a New Picture of the Mantle</p><p>21 points / 1 comments — by rbanffy</p><p><a href="https://news.ycombinator.com/item?id=49257853">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
       <title>[13pt] 3社の買収企業を1つの統一されたウェブサイトに組織する方法</title>

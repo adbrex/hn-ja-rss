@@ -413,7 +413,7 @@
  },
  "CSS properties you should know for better text designs": {
   "ja": "より良いテキスト設計のために知るべきCSSプロパティ",
-  "ts": "2026-08-11T21:38:47.091273+00:00"
+  "ts": "2026-08-12T04:42:38.097262+00:00"
  },
  "Can Intel finally beat ARM on performance per Watt?": {
   "ja": "Intelは最終的にARM をPower/W で上回れるのか",
@@ -463,9 +463,13 @@
   "ja": "知能の商品化：良い、悪い、そして醜い循環AIディール",
   "ts": "2026-07-30T05:33:31.620490+00:00"
  },
+ "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI": {
+  "ja": "「100%人間作成、AI一切なし」医学研究を提供する企業は100% AIである",
+  "ts": "2026-08-12T04:42:43.548569+00:00"
+ },
  "Compression is prediction": {
   "ja": "圧縮は予測である",
-  "ts": "2026-08-11T21:38:47.091273+00:00"
+  "ts": "2026-08-12T04:42:38.097246+00:00"
  },
  "Concurrency, interactivity, mutability, choose two": {
   "ja": "並行性、対話性、可変性、2つを選べ",
@@ -655,9 +659,13 @@
   "ja": "エレベーター",
   "ts": "2026-08-01T10:29:11.166381+00:00"
  },
+ "Emergent Introspective Awareness in Large Language Models": {
+  "ja": "大規模言語モデルにおける創発的な内省的認識",
+  "ts": "2026-08-12T04:42:43.548569+00:00"
+ },
  "England set to be one of the first countries to eliminate hepatitis C": {
   "ja": "イングランド、C型肝炎排除実現国として初めてのひとつに",
-  "ts": "2026-08-11T21:38:47.091273+00:00"
+  "ts": "2026-08-12T04:42:38.097227+00:00"
  },
  "Europe EV Sales BEVs Jump 50% & Reach 26% Market Share": {
   "ja": "欧州EV販売でBEV50%増加、市場シェア26%に到達",
@@ -807,6 +815,10 @@
   "ja": "Go 1.27 インタラクティブツアー",
   "ts": "2026-08-02T10:28:27.316260+00:00"
  },
+ "Go is an ideal language for AI-assisted software engineering": {
+  "ja": "GoはAI支援ソフトウェアエンジニアリングに最適な言語である",
+  "ts": "2026-08-12T04:42:43.548569+00:00"
+ },
  "Golang proposal: container/: generic collection types": {
   "ja": "Golang提案：container/: ジェネリック コレクション型",
   "ts": "2026-08-01T10:29:11.166416+00:00"
@@ -945,7 +957,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-11T21:38:39.897807+00:00"
+  "ts": "2026-08-12T04:42:38.097265+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -953,7 +965,7 @@
  },
  "How we used to get jobs: A newspaper classifieds story": {
   "ja": "かつての就職活動: 新聞の求人欄の話",
-  "ts": "2026-08-11T21:38:47.091273+00:00"
+  "ts": "2026-08-12T04:42:38.097261+00:00"
  },
  "Hubble: Open-source notetaking app for you and your agents": {
   "ja": "Hubble: あなたとあなたのエージェントのためのオープンソースノートアプリ",
@@ -1081,7 +1093,7 @@
  },
  "Jolt: Clojure compiler implemented with Chez Scheme": {
   "ja": "Jolt: Chez Schemeで実装されたClojureコンパイラ",
-  "ts": "2026-08-11T21:38:47.091273+00:00"
+  "ts": "2026-08-12T04:42:38.097257+00:00"
  },
  "June in Servo: real world compat, media queries, SharedWorker, and more": {
   "ja": "Servo 6月：実世界互換、メディアクエリ、SharedWorker ほか",
@@ -1253,7 +1265,7 @@
  },
  "London Underground begins scanning passengers' faces": {
   "ja": "ロンドン地下鉄、乗客の顔スキャンを開始",
-  "ts": "2026-08-11T21:38:47.091273+00:00"
+  "ts": "2026-08-12T04:42:38.097253+00:00"
  },
  "London’s most equidistant pub": {
   "ja": "ロンドンで最も等距離にあるパブ",
@@ -1293,7 +1305,7 @@
  },
  "Making holograms with a pen plotter": {
   "ja": "ペンプロッタでホログラムを作成",
-  "ts": "2026-08-11T21:38:47.091273+00:00"
+  "ts": "2026-08-12T04:42:38.097260+00:00"
  },
  "Making your JITted Code known: Let me count the ways": {
   "ja": "JITコンパイルされたコードを知らせる: その方法を数えてみた",
@@ -1313,7 +1325,7 @@
  },
  "Manus will return to operating as an independent company": {
   "ja": "Manusが独立企業として運営を再開",
-  "ts": "2026-08-11T21:38:47.091273+00:00"
+  "ts": "2026-08-12T04:42:38.097258+00:00"
  },
  "MariaDB: Promote getting to 10k GitHub stars in server log and client prompt": {
   "ja": "MariaDB：GitHub 1万スター達成をサーバーログとクライアントプロンプトで促進",
@@ -1455,6 +1467,14 @@
   "ja": "Netflix従業員、リトリートの信頼醸成演習で個人情報を共有したため解雇",
   "ts": "2026-07-28T05:23:02.934777+00:00"
  },
+ "Neutrinos from Deep Inside Earth Provide a New Picture of the Mantle": {
+  "ja": "地球内部からのニュートリノが地幔の新しい姿を明かす",
+  "ts": "2026-08-12T04:42:43.548569+00:00"
+ },
+ "New Bedford police officer accused of using Flock cameras to track ex-partner": {
+  "ja": "ニューベッドフォード警察官、Flockカメラを使って元パートナーを追跡した容疑で起訴",
+  "ts": "2026-08-12T04:42:43.548569+00:00"
+ },
  "New HIV vaccine shows unprecedented success in preclinical study": {
   "ja": "新しいHIVワクチン、前臨床試験で前例のない成功を示す",
   "ts": "2026-07-29T05:44:46.045034+00:00"
@@ -1493,11 +1513,11 @@
  },
  "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard": {
   "ja": "Nvidia Nemotron 3.5 LightningとNeMo Switchyard",
-  "ts": "2026-08-11T21:38:47.091273+00:00"
+  "ts": "2026-08-12T04:42:38.097255+00:00"
  },
  "Nvidia's Risky Business": {
   "ja": "Nvidiaのリスキーなビジネス",
-  "ts": "2026-08-11T21:38:47.091273+00:00"
+  "ts": "2026-08-12T04:42:38.097251+00:00"
  },
  "Nvidia's Vera Whitepaper Has a Thread Loose": {
   "ja": "NvidiaのVera Whitepapeが糸がほつれている",
@@ -1533,7 +1553,7 @@
  },
  "OpenAI’s head of ethics leaves less than a year after joining": {
   "ja": "OpenAIの倫理責任者、入社1年未満で退職",
-  "ts": "2026-08-11T21:38:47.091273+00:00"
+  "ts": "2026-08-12T04:42:38.097249+00:00"
  },
  "OpenChamber: An Agentic Development Environment": {
   "ja": "OpenChamber: エージェント開発環境",
@@ -1686,6 +1706,10 @@
  "RFC 9851: TLS 1.2 is in Feature Freeze": {
   "ja": "RFC 9851: TLS 1.2がフィーチャーフリーズ状態に",
   "ts": "2026-08-03T06:14:03.792442+00:00"
+ },
+ "RSI Simulator": {
+  "ja": "RSI シミュレーター",
+  "ts": "2026-08-12T04:42:43.548569+00:00"
  },
  "RTX 2080 Ti Memory Upgrade to 22 GB": {
   "ja": "RTX 2080 Tiメモリを22GBにアップグレード",
@@ -1919,6 +1943,10 @@
   "ja": "Show HN: Gander、一切の権限を要求しないAndroidファイルビューア",
   "ts": "2026-07-31T11:24:36.992076+00:00"
  },
+ "Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet": {
+  "ja": "Show HN: Git-knife – コミットメッセージ、作成者、日付をスプレッドシートのように編集",
+  "ts": "2026-08-12T04:42:43.548569+00:00"
+ },
  "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet": {
   "ja": "Show HN: Git-knife – コミットメッセージ、作者、日付をスプレッドシートのように編集",
   "ts": "2026-08-11T21:38:47.091273+00:00"
@@ -1950,6 +1978,10 @@
  "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM": {
   "ja": "Show HN: Kakehashi – Linux ARM上でmacOSバイナリを実行する試験的ユーザースペース",
   "ts": "2026-08-03T12:15:41.058712+00:00"
+ },
+ "Show HN: Line9 – A Mermaid rendering engine with its own layout": {
+  "ja": "Show HN: Line9 – 独自のレイアウト機能を持つMermaidレンダリングエンジン",
+  "ts": "2026-08-12T04:42:43.548569+00:00"
  },
  "Show HN: Logan Basic v2.1 - An online BASIC interpreter.": {
   "ja": "Show HN: Logan Basic v2.1 - オンラインBASICインタプリタ",
@@ -2023,6 +2055,10 @@
   "ja": "Show HN: Supapool – ~400msで1つのSuabaseあたり1つのコーディングエージェント",
   "ts": "2026-07-30T22:07:54.199767+00:00"
  },
+ "Show HN: Tamron Lens Utility Alternative on Linux": {
+  "ja": "Show HN: Linux向けTamronレンズユーティリティ代替ツール",
+  "ts": "2026-08-12T04:42:43.548569+00:00"
+ },
  "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)": {
   "ja": "Show HN: Channels SDK – 任意のエージェントを任意のチャネルに対応させる (Slack、MS Teams)",
   "ts": "2026-08-07T04:50:18.700395+00:00"
@@ -2061,7 +2097,7 @@
  },
  "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo": {
   "ja": "Show HN: 2つのレンズから同時に画像を撮影して融合するiPhoneアプリ",
-  "ts": "2026-08-11T21:38:47.091273+00:00"
+  "ts": "2026-08-12T04:42:38.097254+00:00"
  },
  "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS": {
   "ja": "Show HN: textlog – 静かなテキストのみのマイクロブログプラットフォーム、オープンソース、JavaScript不要",
@@ -2118,6 +2154,10 @@
  "Stateless MCP has recaptured my interest": {
   "ja": "Stateless MCPが改めて関心を呼ぶ",
   "ts": "2026-08-05T11:14:05.015365+00:00"
+ },
+ "Stealing Reasoning Traces from Proprietary LLM APIs": {
+  "ja": "プロプライエタリなLLM APIから推論トレースを窃取する",
+  "ts": "2026-08-12T04:42:43.548569+00:00"
  },
  "Steel Bank Common Lisp version 2.6.7": {
   "ja": "Steel Bank Common Lisp バージョン 2.6.7",
@@ -2267,6 +2307,10 @@
   "ja": "イギリスアイスクリームの黄金期",
   "ts": "2026-08-05T05:40:22.633007+00:00"
  },
+ "The Human Is the Loop": {
+  "ja": "人間がループである",
+  "ts": "2026-08-12T04:42:43.548569+00:00"
+ },
  "The Myth of Snow Leopard": {
   "ja": "Snow Leopardの神話",
   "ts": "2026-08-02T21:48:31.720714+00:00"
@@ -2359,9 +2403,17 @@
   "ja": "Docusignフィッシング攻撃の増加する脅威 (2024)",
   "ts": "2026-07-29T21:54:08.013720+00:00"
  },
+ "The hardest working font in Manhattan (2025)": {
+  "ja": "マンハッタンで最も働くフォント（2025）",
+  "ts": "2026-08-12T04:42:43.548569+00:00"
+ },
  "The iPhone Upgrade Program is being replaced by Apple Upgrade": {
   "ja": "iPhoneアップグレードプログラムがApple Upgradeに置き換わる",
   "ts": "2026-07-29T11:17:33.572903+00:00"
+ },
+ "The lifesaving secret hidden inside a horseshoe crab's blue blood": {
+  "ja": "カブトガニの青い血に隠された命を救う秘密",
+  "ts": "2026-08-12T04:42:43.548569+00:00"
  },
  "The lost civic life of movie rental stores": {
   "ja": "映画レンタル店の失われた市民的生活",
@@ -2759,6 +2811,10 @@
   "ja": "World Train Map – 世界中の1247の鉄道路線",
   "ts": "2026-08-11T04:14:09.375353+00:00"
  },
+ "WorldClaw Agentic 3D open-world generation at scale": {
+  "ja": "WorldClaw Agentic 3D オープンワールド生成の大規模展開",
+  "ts": "2026-08-12T04:42:43.548569+00:00"
+ },
  "Xbox goes down. You can't play games you own on disc": {
   "ja": "Xboxがダウン。所有するディスクゲームがプレイできない",
   "ts": "2026-08-05T11:14:05.015348+00:00"
@@ -2802,6 +2858,10 @@
  "libexpat now funded by the City of Munich for up to 6 months": {
   "ja": "libexpat、ミュンヘン市から最大6ヶ月間の資金を獲得",
   "ts": "2026-08-05T11:14:05.015362+00:00"
+ },
+ "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries": {
+  "ja": "pg_clickhouse v0.10: サブクエリプッシュダウンとTPC-Hクエリの1000倍高速化",
+  "ts": "2026-08-12T04:42:43.548569+00:00"
  },
  "qm – Multiplayer agent harness for work": {
   "ja": "qm – 仕事向けマルチプレイヤーエージェントハーネス",
