@@ -119,6 +119,10 @@
   "ja": "AI企業が電気技師と大工を数千人規模で採用中",
   "ts": "2026-07-30T11:01:01.391674+00:00"
  },
+ "AI At Home Part 1: A Box Of Scraps": {
+  "ja": "AI At Home Part 1：スクラップの箱",
+  "ts": "2026-08-13T21:37:39.844032+00:00"
+ },
  "AI Is Solving CTF Challenges in Minutes": {
   "ja": "AI、CTFチャレンジを数分で解く",
   "ts": "2026-08-11T21:38:47.091273+00:00"
@@ -170,6 +174,10 @@
  "About the security content of macOS Tahoe 26.6": {
   "ja": "macOS Tahoe 26.6のセキュリティコンテンツについて",
   "ts": "2026-07-28T11:11:01.190453+00:00"
+ },
+ "Accelerating GPT-5.6 Sol Ultrafast": {
+  "ja": "GPT-5.6 Sol Ultrafast の高速化",
+  "ts": "2026-08-13T21:37:39.844032+00:00"
  },
  "Advancing the price-performance frontier with GPT‑5.6": {
   "ja": "GPT-5.6でPrice-Performanceフロンティアを前進させる",
@@ -483,6 +491,10 @@
   "ja": "中国が先端チップ製造向け深紫外線リソグラフィ装置の生産を開始",
   "ts": "2026-08-02T05:49:41.204416+00:00"
  },
+ "Choosing an AI model: one prompt, 11 models, different results": {
+  "ja": "AI モデルを選ぶ：1つのプロンプト、11のモデル、異なる結果",
+  "ts": "2026-08-13T21:37:39.844032+00:00"
+ },
  "Claude: Elevated errors across all models": {
   "ja": "Claude: 全モデルでのエラー上昇",
   "ts": "2026-07-29T21:54:08.013720+00:00"
@@ -490,6 +502,14 @@
  "Cloudflare OS: an open platform for agents, apps, and work": {
   "ja": "Cloudflare OS: エージェント、アプリ、ワークのためのオープンプラットフォーム",
   "ts": "2026-08-06T11:14:18.091426+00:00"
+ },
+ "Codex in ChatGPT desktop app for Linux is now in preview": {
+  "ja": "Linux デスクトップアプリの ChatGPT に Codex が登場、プレビュー開始",
+  "ts": "2026-08-13T21:37:39.844032+00:00"
+ },
+ "Come for ENIAC, Stay for UNIVAC and Skeduflo": {
+  "ja": "ENIAC に来て、UNIVAC と Skeduflo に留まる",
+  "ts": "2026-08-13T21:37:39.844032+00:00"
  },
  "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals": {
   "ja": "知能の商品化：良い、悪い、そして醜い循環AIディール",
@@ -517,7 +537,7 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-08-13T09:56:38.962832+00:00"
+  "ts": "2026-08-13T21:37:30.729292+00:00"
  },
  "Cracking Windows Open: Porting RADV to Win32": {
   "ja": "WindowsをこじあくてRADVをWin32に移植する",
@@ -595,6 +615,10 @@
   "ja": "DeepMindの気象予測モデルWeatherNextがサイクロン予測で革新的成果",
   "ts": "2026-08-08T21:22:35.314726+00:00"
  },
+ "DeepSeek Harness developer preview": {
+  "ja": "DeepSeek Harness 開発者プレビュー",
+  "ts": "2026-08-13T21:37:39.844032+00:00"
+ },
  "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis": {
   "ja": "DeepSeek V4 Flash 0731 インテリジェンス、パフォーマンス、価格分析",
   "ts": "2026-07-31T21:59:26.083025+00:00"
@@ -666,6 +690,10 @@
  "Don't stop early: Case-folding source code at memory speed": {
   "ja": "途中で止めるな：メモリ速度でのケースフォールディングソースコード",
   "ts": "2026-08-05T05:40:11.541290+00:00"
+ },
+ "Donkey.bas is 45 Years Old – 131 line of Glory": {
+  "ja": "Donkey.bas が 45 年古い – 131 行の栄光",
+  "ts": "2026-08-13T21:37:39.844032+00:00"
  },
  "Dubious research tied to Red Bull has shaped energy drink policy": {
   "ja": "Red Bull に関連した疑わしい研究がエナジードリンク政策を形作った",
@@ -879,6 +907,10 @@
   "ja": "GoはAI支援ソフトウェアエンジニアリングに最適な言語である",
   "ts": "2026-08-12T09:55:19.227907+00:00"
  },
+ "GoAccess – Open-source real-time log analyzer and interactive viewer": {
+  "ja": "GoAccess – オープンソースのリアルタイムログアナライザーとインタラクティブビューア",
+  "ts": "2026-08-13T21:37:39.844032+00:00"
+ },
  "Golang proposal: container/: generic collection types": {
   "ja": "Golang提案：container/: ジェネリック コレクション型",
   "ts": "2026-08-01T10:29:11.166416+00:00"
@@ -979,6 +1011,10 @@
   "ja": "ClaudeがAI生成コンテンツをどのようにマークするか",
   "ts": "2026-08-11T09:54:16.672468+00:00"
  },
+ "How Compaction Works in Pi": {
+  "ja": "Pi の圧縮がどう機能するか",
+  "ts": "2026-08-13T21:37:39.844032+00:00"
+ },
  "How Do I Profile eBPF Code?": {
   "ja": "eBPFコードのプロファイリング方法は？",
   "ts": "2026-07-28T21:57:37.461952+00:00"
@@ -990,6 +1026,10 @@
  "How Google helped destroy adoption of RSS feeds (2023)": {
   "ja": "Googleはいかにして RSSフィードの採用を破壊したか（2023年）",
   "ts": "2026-08-02T10:28:27.316240+00:00"
+ },
+ "How Gödel's Proof Works (2020)": {
+  "ja": "ゲーデルの証明の仕組み (2020)",
+  "ts": "2026-08-13T21:37:39.844032+00:00"
  },
  "How Hollywood stopped making movies in Hollywood": {
   "ja": "ハリウッドはいかにしてハリウッドでの映画製作をやめたか",
@@ -1003,9 +1043,17 @@
   "ja": "JPEG の仕組み：JPEG のロッシー圧縮方法をインタラクティブに探索",
   "ts": "2026-07-31T21:59:31.804562+00:00"
  },
+ "How Organizations Use AI: Evidence from ChatGPT [pdf]": {
+  "ja": "組織が AI をどう使用するか：ChatGPT からの証拠 [pdf]",
+  "ts": "2026-08-13T21:37:39.844032+00:00"
+ },
  "How We Pushed CDC into Postgres": {
   "ja": "CDCをPostgresに移行させた方法",
   "ts": "2026-08-10T10:11:18.427030+00:00"
+ },
+ "How art invented humanity": {
+  "ja": "芸術はいかに人類を発明したか",
+  "ts": "2026-08-13T21:37:39.844032+00:00"
  },
  "How far can you push the range of Wi-Fi connectivity in an ideal environment?": {
   "ja": "理想的な環境下でWi-Fi接続範囲はどこまで広げられるか？",
@@ -1033,7 +1081,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-13T09:56:38.962831+00:00"
+  "ts": "2026-08-13T21:37:30.729273+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -1067,6 +1115,10 @@
   "ja": "フルタイム執筆（と仮名性）から引退し、Guardian Angelを立ち上げる",
   "ts": "2026-08-05T05:40:22.633007+00:00"
  },
+ "I built a 500k-domain search engine for makers in a weekend for $10": {
+  "ja": "週末 10 ドルでメーカー向け 50 万ドメイン検索エンジンを構築した",
+  "ts": "2026-08-13T21:37:39.844032+00:00"
+ },
  "I don't recommend Tailwind CSS": {
   "ja": "Tailwind CSSをお勧めしない",
   "ts": "2026-08-02T10:28:30.211842+00:00"
@@ -1098,6 +1150,10 @@
  "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay": {
   "ja": "WebKitのIPおよびDNS漏洩、プロキシブラウザとiCloud Private Relayに影響",
   "ts": "2026-08-05T11:14:05.015371+00:00"
+ },
+ "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game": {
+  "ja": "Idol Mahjong Final Romance：ビデオゲームに偽装したスライドショー",
+  "ts": "2026-08-13T21:37:39.844032+00:00"
  },
  "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification": {
   "ja": "イリノイ州、Linuxに年齢確認責任を負わせる法律を可決",
@@ -1154,6 +1210,10 @@
  "I’m leaving OpenAI to build telepathy": {
   "ja": "OpenAIを離職してテレパシーを構築する",
   "ts": "2026-08-05T22:07:29.867079+00:00"
+ },
+ "JDK 27 G1/Parallel/Serial GC Changes": {
+  "ja": "JDK 27 G1/Parallel/Serial GC の変更",
+  "ts": "2026-08-13T21:37:39.844032+00:00"
  },
  "JEP 401: Value Objects (Preview) merged to OpenJDK master": {
   "ja": "JEP 401: Value Objects (Preview) がOpenJDK masterにマージ",
@@ -1235,6 +1295,10 @@
   "ja": "Kobuk the Destroyer – テストエンジニアリングの野生で未知の世界から",
   "ts": "2026-08-02T05:49:41.204416+00:00"
  },
+ "Kubernetes on Oxide: How customer needs shaped our integrations": {
+  "ja": "Oxide 上の Kubernetes：顧客のニーズがどう統合を形作ったか",
+  "ts": "2026-08-13T21:37:39.844032+00:00"
+ },
  "Kuna: Decompiler Development in the Age of Coding Agents": {
   "ja": "Kuna: コーディングエージェント時代のデコンパイラ開発",
   "ts": "2026-07-30T11:01:01.391695+00:00"
@@ -1246,6 +1310,10 @@
  "LLMs reward expertise": {
   "ja": "LLM は専門知識に報酬を与える",
   "ts": "2026-08-04T11:17:46.859424+00:00"
+ },
+ "Launch HN: Bullet (YC S26) – A Faster Coding Agent": {
+  "ja": "Launch HN: Bullet (YC S26) – より高速なコーディングエージェント",
+  "ts": "2026-08-13T21:37:39.844032+00:00"
  },
  "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials": {
   "ja": "Launch HN: Discovered Materials（YC P26）– 新規材料を発見するAIエージェント",
@@ -2227,6 +2295,10 @@
   "ja": "Go/WASMを使ってブラウザでTCP損失と輻輳をシミュレート",
   "ts": "2026-07-31T11:24:36.992076+00:00"
  },
+ "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes": {
+  "ja": "1 行のログが 49KB+ (ext4) / 110KB+ (btrfs) の systemd-journald ディスク書き込みになる",
+  "ts": "2026-08-13T21:37:39.844032+00:00"
+ },
  "Situational Awareness and the Impending Stock Market Volatility": {
   "ja": "状況認識と迫り来る株式市場のボラティリティ",
   "ts": "2026-08-03T12:15:46.460959+00:00"
@@ -2262,6 +2334,10 @@
  "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot": {
   "ja": "ClaudeBot等のAIボットになりすまして大規模な脆弱性スキャンを実行する者が出現",
   "ts": "2026-08-13T09:56:38.962807+00:00"
+ },
+ "Spaghettifying DRAM": {
+  "ja": "DRAM をスパゲッティ化する",
+  "ts": "2026-08-13T21:37:39.844032+00:00"
  },
  "SpecForge – A Platform for Authoring Formal Specifications": {
   "ja": "SpecForge – 形式仕様を執筆するためのプラットフォーム",
@@ -2743,6 +2819,10 @@
   "ja": "Una GPS スマートウォッチ－修理可能、USB-C充電、開発者フレンドリー",
   "ts": "2026-07-29T11:17:33.572896+00:00"
  },
+ "Understanding is the new bottleneck": {
+  "ja": "理解が新たなボトルネック",
+  "ts": "2026-08-13T21:37:39.844032+00:00"
+ },
  "Unexpected events and prosocial behavior: the Batman effect": {
   "ja": "予期しないイベントと向社会的行動: バットマン効果",
   "ts": "2026-08-09T04:13:08.257601+00:00"
@@ -2902,6 +2982,10 @@
  "Where USB Memory Sticks are Born (2013)": {
   "ja": "USBメモリスティックの製造地 (2013)",
   "ts": "2026-07-31T11:24:36.992076+00:00"
+ },
+ "Where did the old web go? We followed 657,607 links to find out": {
+  "ja": "昔のウェブはどこへ？657,607 個のリンクを辿ってみた",
+  "ts": "2026-08-13T21:37:39.844032+00:00"
  },
  "Why Are There Statues of Beavers on Top of This Oxford Street Shop?": {
   "ja": "なぜこのOxford Streetの店の上にはビーバーの像があるのか",
