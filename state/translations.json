@@ -17,7 +17,7 @@
  },
  "2026 Eclipse Webcams": {
   "ja": "2026年の日食ウェブカメラ",
-  "ts": "2026-08-12T21:38:21.279248+00:00"
+  "ts": "2026-08-13T04:46:44.930253+00:00"
  },
  "2027 memory capacity is reportedly sold out": {
   "ja": "2027年メモリ容量が売り切れたと報道",
@@ -69,7 +69,7 @@
  },
  "A Tale of Dynamic Programming (2022)": {
   "ja": "動的計画法の物語（2022年）",
-  "ts": "2026-08-12T21:38:21.279248+00:00"
+  "ts": "2026-08-13T04:46:44.930274+00:00"
  },
  "A Trampoline": {
   "ja": "トランポリン",
@@ -141,7 +141,7 @@
  },
  "AI is removing the middle class of software engineering?": {
   "ja": "AIがソフトウェアエンジニアの中流階級を消滅させるのか",
-  "ts": "2026-08-12T21:38:21.279248+00:00"
+  "ts": "2026-08-13T04:46:44.930250+00:00"
  },
  "AI migrated legacy COBOL programs to Java, bugs included": {
   "ja": "AIがレガシーCOBOLプログラムをJavaに移行、バグ込みで",
@@ -250,6 +250,10 @@
  "Anthropeum – Where in the world, and when, does this human artifact belong?": {
   "ja": "Anthropeum－この人工遺物は世界のどこに、いつ属するのか？",
   "ts": "2026-07-28T21:57:37.461952+00:00"
+ },
+ "Antiqua–Fraktur dispute": {
+  "ja": "Antiqua–Fraktur 論争",
+  "ts": "2026-08-13T04:46:48.496392+00:00"
  },
  "Antirez/h3.c: MiniMax H3 inference engine for Mac computers": {
   "ja": "Antirez/h3.c: Macコンピュータ用MiniMax H3推論エンジン",
@@ -387,6 +391,10 @@
   "ja": "Branchless Rust: 条件分岐を削除してフィルタを4倍高速化",
   "ts": "2026-08-06T11:14:18.091448+00:00"
  },
+ "Breaking the WAL": {
+  "ja": "WALを破る",
+  "ts": "2026-08-13T04:46:48.496392+00:00"
+ },
  "Britain's New World of Tobacco (2017)": {
   "ja": "英国の新しいタバコの世界（2017）",
   "ts": "2026-08-07T21:32:30.787829+00:00"
@@ -394,6 +402,10 @@
  "Bugtraq is back": {
   "ja": "Bugtraqが復活",
   "ts": "2026-08-05T11:14:05.015380+00:00"
+ },
+ "Build Wide, Ship Narrow": {
+  "ja": "広く構築し、狭く展開する",
+  "ts": "2026-08-13T04:46:48.496392+00:00"
  },
  "Building Progressively Enhanced Forms Using htmx": {
   "ja": "htmxを使用した段階的に拡張されたフォームの構築",
@@ -562,6 +574,10 @@
  "Datalog Disassembly": {
   "ja": "Datalog逆アセンブリ",
   "ts": "2026-08-09T09:32:05.584523+00:00"
+ },
+ "Debugging Information for Inlined Functions": {
+  "ja": "インライン化された関数のデバッグ情報",
+  "ts": "2026-08-13T04:46:48.496392+00:00"
  },
  "Decades-old fish sauce at abandoned factory in Canada finally being removed": {
   "ja": "カナダの放棄された工場の数十年前の魚醤がようやく撤去へ",
@@ -897,7 +913,7 @@
  },
  "HTML over WebSockets: real-time SPAs with barely any JavaScript": {
   "ja": "HTMLのWebSockets対応：JavaScriptほぼなしでリアルタイムSPA実現",
-  "ts": "2026-08-12T21:38:21.279248+00:00"
+  "ts": "2026-08-13T04:46:44.930267+00:00"
  },
  "Hackers Stalked Me by Hijacking a Smartwatch for Kids": {
   "ja": "ハッカーがキッズスマートウォッチをハイジャックして私を追跡した",
@@ -914,6 +930,10 @@
  "Handbook.md shows that long policy documents do not reliably govern agents": {
   "ja": "Handbook.mdが示す長期ポリシードキュメントのエージェント統治の信頼性不足",
   "ts": "2026-07-29T21:54:08.013720+00:00"
+ },
+ "Happy 45th Birthday to the IBM PC and Model F/XT": {
+  "ja": "IBM PC と Model F/XT の45周年おめでとう",
+  "ts": "2026-08-13T04:46:48.496392+00:00"
  },
  "Hardware backdoors in some x86 CPUs": {
   "ja": "一部のx86 CPUにハードウェアバックドア",
@@ -1225,7 +1245,7 @@
  },
  "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials": {
   "ja": "Launch HN: Discovered Materials（YC P26）– 新規材料を発見するAIエージェント",
-  "ts": "2026-08-12T09:55:22.303677+00:00"
+  "ts": "2026-08-13T04:46:44.930270+00:00"
  },
  "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research": {
   "ja": "Launch HN: EdotEnv (YC S26) – LLMに研究を教えるための定量トレーディング RL 環境",
@@ -1341,7 +1361,7 @@
  },
  "Lovable raises $400M Series C": {
   "ja": "Lovableが4億ドルのSeries Cで資金調達",
-  "ts": "2026-08-12T21:38:21.279248+00:00"
+  "ts": "2026-08-13T04:46:44.930272+00:00"
  },
  "MCP 2026-07-28 Specification: transport going stateless": {
   "ja": "MCP 2026-07-28 仕様：トランスポートがステートレスになる",
@@ -1723,6 +1743,18 @@
   "ja": "Prime Agent: 自己改善するRLMエージェント",
   "ts": "2026-08-06T11:14:18.091449+00:00"
  },
+ "Principia Mathematica is modern and insightful": {
+  "ja": "Principia Mathematicaは現代的で深い洞察に満ちている",
+  "ts": "2026-08-13T04:46:48.496392+00:00"
+ },
+ "Probabilistic Estimation for Localizing a Radioactive Source in an Urban Setting": {
+  "ja": "都市環境における放射性物質の位置特定のための確率的推定",
+  "ts": "2026-08-13T04:46:48.496392+00:00"
+ },
+ "Process as a Proxy for Motivation": {
+  "ja": "モチベーションの代理としてのプロセス",
+  "ts": "2026-08-13T04:46:48.496392+00:00"
+ },
  "Programming Languages Are Authoring Tools for Platforms": {
   "ja": "プログラミング言語はプラットフォームのためのオーサリングツール",
   "ts": "2026-07-28T11:11:01.190453+00:00"
@@ -1991,6 +2023,10 @@
   "ja": "Show HN: Ante、単一バイナリで動作するオフラインコーディングエージェント",
   "ts": "2026-08-11T09:54:12.807146+00:00"
  },
+ "Show HN: Ballet – Workflow automation that writes integrations against any API": {
+  "ja": "Show HN: Ballet – あらゆるAPIに対する統合を自動生成するワークフロー自動化",
+  "ts": "2026-08-13T04:46:48.496392+00:00"
+ },
  "Show HN: Bor – Open-source policy management for Linux desktops": {
   "ja": "Show HN: Bor – Linuxデスクトップ向けオープンソースポリシー管理",
   "ts": "2026-08-02T21:48:31.720714+00:00"
@@ -2153,7 +2189,7 @@
  },
  "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation": {
   "ja": "Show HN: Woxi - オープンソースのMathematica / Wolfram Language実装",
-  "ts": "2026-08-12T21:38:21.279248+00:00"
+  "ts": "2026-08-13T04:46:44.930260+00:00"
  },
  "Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS": {
   "ja": "Show HN: Write.md – 無料でオープンソースのmacOS向けMarkdownエディタ",
@@ -2217,7 +2253,7 @@
  },
  "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot": {
   "ja": "ClaudeBot等のAIボットになりすまして大規模な脆弱性スキャンを実行する者が出現",
-  "ts": "2026-08-12T21:38:21.279248+00:00"
+  "ts": "2026-08-13T04:46:44.930262+00:00"
  },
  "SpecForge – A Platform for Authoring Formal Specifications": {
   "ja": "SpecForge – 形式仕様を執筆するためのプラットフォーム",
@@ -2285,7 +2321,7 @@
  },
  "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug": {
   "ja": "Tailscale、16年前のSQLite WAL-Resetバグがデータベース破損の原因と判明",
-  "ts": "2026-08-12T21:38:21.279248+00:00"
+  "ts": "2026-08-13T04:46:44.930231+00:00"
  },
  "Tailscale didn't stop the Hugging Face intrusion": {
   "ja": "Tailscale は Hugging Face への侵入を防げなかった",
@@ -2314,6 +2350,10 @@
  "Thanks FedEx, This Is Why We Keep Getting Phished (2024)": {
   "ja": "ありがとう FedEx、フィッシング被害が絶えない理由 (2024)",
   "ts": "2026-08-04T22:06:22.622257+00:00"
+ },
+ "Thanks to social media, canned sardines are a scarcity on the supermarket shelf": {
+  "ja": "ソーシャルメディアのおかげで、缶詰サーディンがスーパーの棚から姿を消している",
+  "ts": "2026-08-13T04:46:48.496392+00:00"
  },
  "That time when I failed the Microsoft interview": {
   "ja": "Microsoftの面接に落ちた時の話",
@@ -2589,7 +2629,7 @@
  },
  "Tim King, AmigaDOS developer, has died": {
   "ja": "AmigaDOS開発者Tim Kingが死去",
-  "ts": "2026-08-12T21:38:21.279248+00:00"
+  "ts": "2026-08-13T04:46:44.930265+00:00"
  },
  "Timeline of the OpenAI accidental attack against Hugging Face": {
   "ja": "OpenAiによるHugging Faceへの不意の攻撃のタイムライン",
@@ -2813,7 +2853,7 @@
  },
  "What sort of maths are LLMs good at?": {
   "ja": "LLMはどのような数学が得意か",
-  "ts": "2026-08-12T21:38:21.279248+00:00"
+  "ts": "2026-08-13T04:46:44.930264+00:00"
  },
  "What's the best programming language for coding agents?": {
   "ja": "コーディングエージェント向けの最良のプログラミング言語は何か",
@@ -2863,6 +2903,10 @@
   "ja": "エストニア人が毎年夏に見知らぬ人を自分たちの裏庭に招待する理由",
   "ts": "2026-08-07T09:54:29.419413+00:00"
  },
+ "Why Target Common Lisp for Code Generation?": {
+  "ja": "コード生成に Common Lisp をターゲットにする理由",
+  "ts": "2026-08-13T04:46:48.496392+00:00"
+ },
  "Why are all the amounts values negative?": {
   "ja": "すべての金額の値がなぜマイナスなのか",
   "ts": "2026-08-08T04:07:10.574101+00:00"
@@ -2889,7 +2933,7 @@
  },
  "Why tiny JPEGs look different in Chrome": {
   "ja": "小さなJPEGがChromeで異なる理由",
-  "ts": "2026-08-12T21:38:21.279248+00:00"
+  "ts": "2026-08-13T04:46:44.930258+00:00"
  },
  "Why we write our own C and C++ inference engines": {
   "ja": "独自のCとC++推論エンジンを書く理由",
@@ -2973,7 +3017,7 @@
  },
  "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook": {
   "ja": "uBlock OriginがFacebookの広告ブロック戦から撤退",
-  "ts": "2026-08-12T21:38:21.279248+00:00"
+  "ts": "2026-08-13T04:46:44.930256+00:00"
  },
  "“Code was never the hard part” is an insult to all programmers": {
   "ja": "「コードなんて簡単だ」というのはすべてのプログラマーへの侮辱である",
