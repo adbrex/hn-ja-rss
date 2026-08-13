@@ -17,7 +17,7 @@
  },
  "2026 Eclipse Webcams": {
   "ja": "2026年の日食ウェブカメラ",
-  "ts": "2026-08-13T04:46:44.930253+00:00"
+  "ts": "2026-08-13T09:56:38.962799+00:00"
  },
  "2027 memory capacity is reportedly sold out": {
   "ja": "2027年メモリ容量が売り切れたと報道",
@@ -253,7 +253,7 @@
  },
  "Antiqua–Fraktur dispute": {
   "ja": "Antiqua–Fraktur 論争",
-  "ts": "2026-08-13T04:46:48.496392+00:00"
+  "ts": "2026-08-13T09:56:38.962827+00:00"
  },
  "Antirez/h3.c: MiniMax H3 inference engine for Mac computers": {
   "ja": "Antirez/h3.c: Macコンピュータ用MiniMax H3推論エンジン",
@@ -393,7 +393,7 @@
  },
  "Breaking the WAL": {
   "ja": "WALを破る",
-  "ts": "2026-08-13T04:46:48.496392+00:00"
+  "ts": "2026-08-13T09:56:38.962821+00:00"
  },
  "Britain's New World of Tobacco (2017)": {
   "ja": "英国の新しいタバコの世界（2017）",
@@ -405,7 +405,7 @@
  },
  "Build Wide, Ship Narrow": {
   "ja": "広く構築し、狭く展開する",
-  "ts": "2026-08-13T04:46:48.496392+00:00"
+  "ts": "2026-08-13T09:56:38.962829+00:00"
  },
  "Building Progressively Enhanced Forms Using htmx": {
   "ja": "htmxを使用した段階的に拡張されたフォームの構築",
@@ -517,7 +517,7 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-08-12T09:55:19.227934+00:00"
+  "ts": "2026-08-13T09:56:38.962832+00:00"
  },
  "Cracking Windows Open: Porting RADV to Win32": {
   "ja": "WindowsをこじあくてRADVをWin32に移植する",
@@ -815,6 +815,10 @@
   "ja": "沸騰した鉛と黒い芸術から：数学的組版の歴史（2017年）",
   "ts": "2026-08-05T05:40:22.633007+00:00"
  },
+ "From rubber boots to Copa: When MicroProse Soccer revolutionized football": {
+  "ja": "ゴム靴からCopaへ：MicroProse Soccerがサッカーに革新をもたらした時代",
+  "ts": "2026-08-13T09:56:41.752921+00:00"
+ },
  "From your doorbell to your home network": {
   "ja": "ドアベルからホームネットワークまで",
   "ts": "2026-08-08T21:22:35.314726+00:00"
@@ -913,7 +917,7 @@
  },
  "HTML over WebSockets: real-time SPAs with barely any JavaScript": {
   "ja": "HTMLのWebSockets対応：JavaScriptほぼなしでリアルタイムSPA実現",
-  "ts": "2026-08-13T04:46:44.930267+00:00"
+  "ts": "2026-08-13T09:56:38.962810+00:00"
  },
  "Hackers Stalked Me by Hijacking a Smartwatch for Kids": {
   "ja": "ハッカーがキッズスマートウォッチをハイジャックして私を追跡した",
@@ -933,7 +937,7 @@
  },
  "Happy 45th Birthday to the IBM PC and Model F/XT": {
   "ja": "IBM PC と Model F/XT の45周年おめでとう",
-  "ts": "2026-08-13T04:46:48.496392+00:00"
+  "ts": "2026-08-13T09:56:38.962825+00:00"
  },
  "Hardware backdoors in some x86 CPUs": {
   "ja": "一部のx86 CPUにハードウェアバックドア",
@@ -1029,7 +1033,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-12T21:38:14.826238+00:00"
+  "ts": "2026-08-13T09:56:38.962831+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -1245,7 +1249,7 @@
  },
  "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials": {
   "ja": "Launch HN: Discovered Materials（YC P26）– 新規材料を発見するAIエージェント",
-  "ts": "2026-08-13T04:46:44.930270+00:00"
+  "ts": "2026-08-13T09:56:38.962817+00:00"
  },
  "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research": {
   "ja": "Launch HN: EdotEnv (YC S26) – LLMに研究を教えるための定量トレーディング RL 環境",
@@ -1361,7 +1365,7 @@
  },
  "Lovable raises $400M Series C": {
   "ja": "Lovableが4億ドルのSeries Cで資金調達",
-  "ts": "2026-08-13T04:46:44.930272+00:00"
+  "ts": "2026-08-13T09:56:38.962815+00:00"
  },
  "MCP 2026-07-28 Specification: transport going stateless": {
   "ja": "MCP 2026-07-28 仕様：トランスポートがステートレスになる",
@@ -1502,6 +1506,10 @@
  "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows": {
   "ja": "Muse Glimmer: 常時稼働ローカルエージェントワークフロー向けに最適化された30Bパラメータモデル",
   "ts": "2026-08-11T09:54:12.807108+00:00"
+ },
+ "Mushroom behind 'tiny people' hallucinations identified": {
+  "ja": "「小さな人物」幻覚の原因となったキノコが特定",
+  "ts": "2026-08-13T09:56:41.752921+00:00"
  },
  "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"": {
   "ja": "私の個人的なAIベンチマーク：「ハプスブルク家の顎を持つカエルのSVGを生成する」",
@@ -1745,7 +1753,7 @@
  },
  "Principia Mathematica is modern and insightful": {
   "ja": "Principia Mathematicaは現代的で深い洞察に満ちている",
-  "ts": "2026-08-13T04:46:48.496392+00:00"
+  "ts": "2026-08-13T09:56:38.962813+00:00"
  },
  "Probabilistic Estimation for Localizing a Radioactive Source in an Urban Setting": {
   "ja": "都市環境における放射性物質の位置特定のための確率的推定",
@@ -2189,7 +2197,7 @@
  },
  "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation": {
   "ja": "Show HN: Woxi - オープンソースのMathematica / Wolfram Language実装",
-  "ts": "2026-08-13T04:46:44.930260+00:00"
+  "ts": "2026-08-13T09:56:38.962805+00:00"
  },
  "Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS": {
   "ja": "Show HN: Write.md – 無料でオープンソースのmacOS向けMarkdownエディタ",
@@ -2253,7 +2261,7 @@
  },
  "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot": {
   "ja": "ClaudeBot等のAIボットになりすまして大規模な脆弱性スキャンを実行する者が出現",
-  "ts": "2026-08-13T04:46:44.930262+00:00"
+  "ts": "2026-08-13T09:56:38.962807+00:00"
  },
  "SpecForge – A Platform for Authoring Formal Specifications": {
   "ja": "SpecForge – 形式仕様を執筆するためのプラットフォーム",
@@ -2353,7 +2361,7 @@
  },
  "Thanks to social media, canned sardines are a scarcity on the supermarket shelf": {
   "ja": "ソーシャルメディアのおかげで、缶詰サーディンがスーパーの棚から姿を消している",
-  "ts": "2026-08-13T04:46:48.496392+00:00"
+  "ts": "2026-08-13T09:56:38.962819+00:00"
  },
  "That time when I failed the Microsoft interview": {
   "ja": "Microsoftの面接に落ちた時の話",
@@ -2567,6 +2575,10 @@
   "ja": "潜伏していたアサド政権のスパイ局長に導いた電話帳",
   "ts": "2026-08-09T04:13:08.257601+00:00"
  },
+ "The punched card tabulator": {
+  "ja": "パンチカードタビュレータ",
+  "ts": "2026-08-13T09:56:41.752921+00:00"
+ },
  "The sale of Electronic Arts has been finalized": {
   "ja": "Electronic Artsの売却が完了",
   "ts": "2026-08-05T05:40:22.633007+00:00"
@@ -2629,7 +2641,7 @@
  },
  "Tim King, AmigaDOS developer, has died": {
   "ja": "AmigaDOS開発者Tim Kingが死去",
-  "ts": "2026-08-13T04:46:44.930265+00:00"
+  "ts": "2026-08-13T09:56:38.962809+00:00"
  },
  "Timeline of the OpenAI accidental attack against Hugging Face": {
   "ja": "OpenAiによるHugging Faceへの不意の攻撃のタイムライン",
@@ -2654,6 +2666,10 @@
  "Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization": {
   "ja": "miniKanrenにおけるボトムアップ列挙へ向けて：剪定とメモ化を通じて",
   "ts": "2026-08-07T01:00:14.602517+00:00"
+ },
+ "Tracking down the 16-year-old WAL-reset SQLite bug": {
+  "ja": "16年前のSQLite WALリセットバグを追跡",
+  "ts": "2026-08-13T09:56:41.752921+00:00"
  },
  "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design": {
   "ja": "Transformer Transformer: モーション条件付きロボット共設計のための統一モデル",
@@ -2905,7 +2921,7 @@
  },
  "Why Target Common Lisp for Code Generation?": {
   "ja": "コード生成に Common Lisp をターゲットにする理由",
-  "ts": "2026-08-13T04:46:48.496392+00:00"
+  "ts": "2026-08-13T09:56:38.962823+00:00"
  },
  "Why are all the amounts values negative?": {
   "ja": "すべての金額の値がなぜマイナスなのか",
@@ -2933,7 +2949,7 @@
  },
  "Why tiny JPEGs look different in Chrome": {
   "ja": "小さなJPEGがChromeで異なる理由",
-  "ts": "2026-08-13T04:46:44.930258+00:00"
+  "ts": "2026-08-13T09:56:38.962802+00:00"
  },
  "Why we write our own C and C++ inference engines": {
   "ja": "独自のCとC++推論エンジンを書く理由",
@@ -3017,7 +3033,7 @@
  },
  "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook": {
   "ja": "uBlock OriginがFacebookの広告ブロック戦から撤退",
-  "ts": "2026-08-13T04:46:44.930256+00:00"
+  "ts": "2026-08-13T09:56:38.962778+00:00"
  },
  "“Code was never the hard part” is an insult to all programmers": {
   "ja": "「コードなんて簡単だ」というのはすべてのプログラマーへの侮辱である",
