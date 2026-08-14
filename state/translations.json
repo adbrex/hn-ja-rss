@@ -177,7 +177,7 @@
  },
  "Accelerating GPT-5.6 Sol Ultrafast": {
   "ja": "GPT-5.6 Sol Ultrafast の高速化",
-  "ts": "2026-08-14T04:43:40.769064+00:00"
+  "ts": "2026-08-14T09:53:32.154437+00:00"
  },
  "Advancing the price-performance frontier with GPT‑5.6": {
   "ja": "GPT-5.6でPrice-Performanceフロンティアを前進させる",
@@ -393,7 +393,7 @@
  },
  "Blog about things you don't understand yet": {
   "ja": "まだ理解していないことについてブログを書く",
-  "ts": "2026-08-14T04:43:45.817740+00:00"
+  "ts": "2026-08-14T09:53:32.154454+00:00"
  },
  "Bonsai: Janestreet's UI Library": {
   "ja": "Bonsai: Janestreetの UI ライブラリ",
@@ -501,7 +501,7 @@
  },
  "Choose Boring Technology (2015)": {
   "ja": "つまらない技術を選ぶ (2015)",
-  "ts": "2026-08-14T04:43:45.817740+00:00"
+  "ts": "2026-08-14T09:53:32.154440+00:00"
  },
  "Choosing an AI model: one prompt, 11 models, different results": {
   "ja": "AI モデルを選ぶ：1つのプロンプト、11のモデル、異なる結果",
@@ -549,11 +549,15 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-08-13T21:37:30.729292+00:00"
+  "ts": "2026-08-14T09:53:32.154461+00:00"
  },
  "Cracking Windows Open: Porting RADV to Win32": {
   "ja": "WindowsをこじあくてRADVをWin32に移植する",
   "ts": "2026-07-29T11:17:37.025431+00:00"
+ },
+ "Credibility is the barrier to entry in silicon": {
+  "ja": "信頼性はシリコンへの参入障壁",
+  "ts": "2026-08-14T09:53:35.336861+00:00"
  },
  "Crickets as Pets": {
   "ja": "ペットとしてのコオロギ",
@@ -629,7 +633,7 @@
  },
  "DeepSeek Harness developer preview": {
   "ja": "DeepSeek Harness 開発者プレビュー",
-  "ts": "2026-08-14T04:43:40.769040+00:00"
+  "ts": "2026-08-14T09:53:32.154416+00:00"
  },
  "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis": {
   "ja": "DeepSeek V4 Flash 0731 インテリジェンス、パフォーマンス、価格分析",
@@ -705,7 +709,7 @@
  },
  "Donkey.bas is 45 Years Old – 131 line of Glory": {
   "ja": "Donkey.bas が 45 年古い – 131 行の栄光",
-  "ts": "2026-08-14T04:43:40.769070+00:00"
+  "ts": "2026-08-14T09:53:32.154445+00:00"
  },
  "Dubious research tied to Red Bull has shaped energy drink policy": {
   "ja": "Red Bull に関連した疑わしい研究がエナジードリンク政策を形作った",
@@ -734,6 +738,10 @@
  "EYG: A Programming Language for Humans": {
   "ja": "EYG: 人間のためのプログラミング言語",
   "ts": "2026-07-28T11:10:58.283738+00:00"
+ },
+ "Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun": {
+  "ja": "Eclipse: Xiaomi 17 Ultra が月と太陽を混同",
+  "ts": "2026-08-14T09:53:35.336861+00:00"
  },
  "Eight Myths on Software Engineering and GenAI": {
   "ja": "ソフトウェアエンジニアリングとGenAIに関する8つの誤解",
@@ -813,7 +821,7 @@
  },
  "Finite State Machines in Forth (1994)": {
   "ja": "Forth における有限状態機械 (1994)",
-  "ts": "2026-08-14T04:43:45.817740+00:00"
+  "ts": "2026-08-14T09:53:32.154456+00:00"
  },
  "Firefighter arson a long-standing issue – expert": {
   "ja": "消防士の放火は長年の課題 – 専門家",
@@ -874,6 +882,10 @@
  "GCC steering committee announces AI policy": {
   "ja": "GCC運営委員会がAIポリシーを発表",
   "ts": "2026-07-31T11:24:33.340228+00:00"
+ },
+ "GLM-5.3: Frontier coding with emergent cyber capabilities": {
+  "ja": "GLM-5.3: 新興サイバー能力によるフロンティアコーディング",
+  "ts": "2026-08-14T09:53:35.336861+00:00"
  },
  "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?": {
   "ja": "物理AIにおけるGPT-5.6対Claude Fable 5の性能比較",
@@ -1009,7 +1021,7 @@
  },
  "Hello, me. It's been a while": {
   "ja": "やあ、俺。久しぶり",
-  "ts": "2026-08-14T04:43:45.817740+00:00"
+  "ts": "2026-08-14T09:53:32.154448+00:00"
  },
  "Herdr is joining Y Combinator. The runtime stays open": {
   "ja": "HerdrがY Combinatorに参加。ランタイムはオープンなまま",
@@ -1033,7 +1045,7 @@
  },
  "How Compaction Works in Pi": {
   "ja": "Pi の圧縮がどう機能するか",
-  "ts": "2026-08-14T04:43:40.769076+00:00"
+  "ts": "2026-08-14T09:53:32.154452+00:00"
  },
  "How Do I Profile eBPF Code?": {
   "ja": "eBPFコードのプロファイリング方法は？",
@@ -1065,7 +1077,7 @@
  },
  "How Organizations Use AI: Evidence from ChatGPT [pdf]": {
   "ja": "組織が AI をどう使用するか：ChatGPT からの証拠 [pdf]",
-  "ts": "2026-08-14T04:43:40.769081+00:00"
+  "ts": "2026-08-14T09:53:32.154453+00:00"
  },
  "How We Pushed CDC into Postgres": {
   "ja": "CDCをPostgresに移行させた方法",
@@ -1105,7 +1117,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-14T04:43:40.769086+00:00"
+  "ts": "2026-08-14T09:53:32.154459+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -1641,7 +1653,7 @@
  },
  "NP-overrated": {
   "ja": "NP-過大評価",
-  "ts": "2026-08-14T04:43:45.817740+00:00"
+  "ts": "2026-08-14T09:53:32.154449+00:00"
  },
  "NSF pilots 4-year PhDs with industry research placements": {
   "ja": "NSF、業界研究配置を伴う4年間博士課程のパイロットプログラムを開始",
@@ -1693,7 +1705,7 @@
  },
  "Nine PBS sues Iron Mountain over blocked access to archival data": {
   "ja": "Nine PBS、Iron Mountain を相手取りアーカイブデータアクセス遮断で提訴",
-  "ts": "2026-08-14T04:43:45.817740+00:00"
+  "ts": "2026-08-14T09:53:32.154443+00:00"
  },
  "Note-Taking and Personal Knowledge Management": {
   "ja": "ノートテイングと個人的知識管理",
@@ -1765,7 +1777,7 @@
  },
  "Ordinary Abundance": {
   "ja": "普通の豊かさ",
-  "ts": "2026-08-14T04:43:45.817740+00:00"
+  "ts": "2026-08-14T09:53:32.154444+00:00"
  },
  "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386": {
   "ja": "Os8088: IBM XT、286、386向けのMac的な強力OS",
@@ -2027,6 +2039,10 @@
   "ja": "Rubin Observatory初のLSSTカメラ公開: COSMOS領域で50万の銀河",
   "ts": "2026-08-05T22:07:29.867079+00:00"
  },
+ "Ruby 4.0 Universal RCE Deserialization Gadget Chain": {
+  "ja": "Ruby 4.0 ユニバーサルRCE デシリアライゼーションガジェットチェーン",
+  "ts": "2026-08-14T09:53:35.336861+00:00"
+ },
  "Run Android ARM64 VR APKs on Apple Vision Pro": {
   "ja": "Apple Vision ProでAndroid ARM64 VR APKを実行",
   "ts": "2026-08-10T10:11:21.500473+00:00"
@@ -2147,6 +2163,10 @@
   "ja": "Show HN: Bor – Linuxデスクトップ向けオープンソースポリシー管理",
   "ts": "2026-08-02T21:48:31.720714+00:00"
  },
+ "Show HN: C# Game Engine with its own scripting language and IDE": {
+  "ja": "Show HN: 独自スクリプト言語とIDEを備えたC#ゲームエンジン",
+  "ts": "2026-08-14T09:53:35.336861+00:00"
+ },
  "Show HN: CheapFoodMap – A map of good meals under $10": {
   "ja": "Show HN: CheapFoodMap – 10ドル以下の食事マップ",
   "ts": "2026-07-30T11:01:01.391680+00:00"
@@ -2210,6 +2230,10 @@
  "Show HN: Logan Basic v2.1 - An online BASIC interpreter.": {
   "ja": "Show HN: Logan Basic v2.1 - オンラインBASICインタプリタ",
   "ts": "2026-08-02T10:28:30.211842+00:00"
+ },
+ "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri": {
+  "ja": "Show HN: Lumabri – ColibriによるP2Pスワーム上でMoeモデルを実行",
+  "ts": "2026-08-14T09:53:35.336861+00:00"
  },
  "Show HN: Make your Framework 12 sound like a creaky door": {
   "ja": "Show HN: Framework 12をきしむドアのような音にする",
@@ -2337,7 +2361,7 @@
  },
  "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes": {
   "ja": "1 行のログが 49KB+ (ext4) / 110KB+ (btrfs) の systemd-journald ディスク書き込みになる",
-  "ts": "2026-08-14T04:43:40.769072+00:00"
+  "ts": "2026-08-14T09:53:32.154447+00:00"
  },
  "Situational Awareness and the Impending Stock Market Volatility": {
   "ja": "状況認識と迫り来る株式市場のボラティリティ",
@@ -2377,7 +2401,7 @@
  },
  "Spaghettifying DRAM": {
   "ja": "DRAM をスパゲッティ化する",
-  "ts": "2026-08-14T04:43:40.769061+00:00"
+  "ts": "2026-08-14T09:53:32.154435+00:00"
  },
  "SparrowMap – Cameras that watch government vehicles": {
   "ja": "SparrowMap – 政府車両を監視するカメラ",
@@ -2569,7 +2593,7 @@
  },
  "The Legend of the Novell NE2000 [video]": {
   "ja": "Novell NE2000 の伝説 [動画]",
-  "ts": "2026-08-14T04:43:45.817740+00:00"
+  "ts": "2026-08-14T09:53:32.154457+00:00"
  },
  "The Myth of Snow Leopard": {
   "ja": "Snow Leopardの神話",
@@ -2873,7 +2897,7 @@
  },
  "Understanding is the new bottleneck": {
   "ja": "理解が新たなボトルネック",
-  "ts": "2026-08-14T04:43:40.769068+00:00"
+  "ts": "2026-08-14T09:53:32.154441+00:00"
  },
  "Unexpected events and prosocial behavior: the Batman effect": {
   "ja": "予期しないイベントと向社会的行動: バットマン効果",
@@ -3037,7 +3061,7 @@
  },
  "Where did the old web go? We followed 657,607 links to find out": {
   "ja": "昔のウェブはどこへ？657,607 個のリンクを辿ってみた",
-  "ts": "2026-08-14T04:43:40.769074+00:00"
+  "ts": "2026-08-14T09:53:32.154450+00:00"
  },
  "Why Are There Statues of Beavers on Top of This Oxford Street Shop?": {
   "ja": "なぜこのOxford Streetの店の上にはビーバーの像があるのか",
@@ -3146,6 +3170,10 @@
  "_for-sale DNS records": {
   "ja": "販売対象のDNSレコード",
   "ts": "2026-08-09T09:32:05.584523+00:00"
+ },
+ "an ambiguity in C89 which will never be fixed": {
+  "ja": "C89における決して修正されない曖昧性",
+  "ts": "2026-08-14T09:53:35.336861+00:00"
  },
  "ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014)": {
   "ja": "ao486: 486 SXのすべての機能を実装したx86互換Verilogコア（2014）",
