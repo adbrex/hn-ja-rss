@@ -121,7 +121,7 @@
  },
  "AI At Home Part 1: A Box Of Scraps": {
   "ja": "AI At Home Part 1：スクラップの箱",
-  "ts": "2026-08-13T21:37:39.844032+00:00"
+  "ts": "2026-08-14T04:43:40.769078+00:00"
  },
  "AI Is Solving CTF Challenges in Minutes": {
   "ja": "AI、CTFチャレンジを数分で解く",
@@ -177,7 +177,7 @@
  },
  "Accelerating GPT-5.6 Sol Ultrafast": {
   "ja": "GPT-5.6 Sol Ultrafast の高速化",
-  "ts": "2026-08-13T21:37:39.844032+00:00"
+  "ts": "2026-08-14T04:43:40.769064+00:00"
  },
  "Advancing the price-performance frontier with GPT‑5.6": {
   "ja": "GPT-5.6でPrice-Performanceフロンティアを前進させる",
@@ -230,6 +230,10 @@
  "An all-sky map of half a million supermassive black holes": {
   "ja": "100万個の超大質量ブラックホールの全天マップ",
   "ts": "2026-08-08T09:30:29.480444+00:00"
+ },
+ "An ambiguity in c89 which will never be fixed": {
+  "ja": "c89 の曖昧さ、決して修正されることはないだろう",
+  "ts": "2026-08-14T04:43:45.817740+00:00"
  },
  "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident": {
   "ja": "Frontier Lab Agent侵入の解剖学：2026年7月インシデントのタイムライン",
@@ -387,6 +391,10 @@
   "ja": "バイオエンジニアリングされたチューインガムはHPVおよび他の微生物と戦う方法を提供する可能性",
   "ts": "2026-08-07T09:54:29.419409+00:00"
  },
+ "Blog about things you don't understand yet": {
+  "ja": "まだ理解していないことについてブログを書く",
+  "ts": "2026-08-14T04:43:45.817740+00:00"
+ },
  "Bonsai: Janestreet's UI Library": {
   "ja": "Bonsai: Janestreetの UI ライブラリ",
   "ts": "2026-08-04T11:17:46.859450+00:00"
@@ -490,6 +498,10 @@
  "China begins producing advanced chipmaking deep-ultraviolet lithography machines": {
   "ja": "中国が先端チップ製造向け深紫外線リソグラフィ装置の生産を開始",
   "ts": "2026-08-02T05:49:41.204416+00:00"
+ },
+ "Choose Boring Technology (2015)": {
+  "ja": "つまらない技術を選ぶ (2015)",
+  "ts": "2026-08-14T04:43:45.817740+00:00"
  },
  "Choosing an AI model: one prompt, 11 models, different results": {
   "ja": "AI モデルを選ぶ：1つのプロンプト、11のモデル、異なる結果",
@@ -617,7 +629,7 @@
  },
  "DeepSeek Harness developer preview": {
   "ja": "DeepSeek Harness 開発者プレビュー",
-  "ts": "2026-08-13T21:37:39.844032+00:00"
+  "ts": "2026-08-14T04:43:40.769040+00:00"
  },
  "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis": {
   "ja": "DeepSeek V4 Flash 0731 インテリジェンス、パフォーマンス、価格分析",
@@ -693,7 +705,7 @@
  },
  "Donkey.bas is 45 Years Old – 131 line of Glory": {
   "ja": "Donkey.bas が 45 年古い – 131 行の栄光",
-  "ts": "2026-08-13T21:37:39.844032+00:00"
+  "ts": "2026-08-14T04:43:40.769070+00:00"
  },
  "Dubious research tied to Red Bull has shaped energy drink policy": {
   "ja": "Red Bull に関連した疑わしい研究がエナジードリンク政策を形作った",
@@ -798,6 +810,10 @@
  "Finding zombies in our systems: A real-world story of CPU bottlenecks": {
   "ja": "システムのゾンビを発見：CPUボトルネックの実例",
   "ts": "2026-08-09T09:32:05.584523+00:00"
+ },
+ "Finite State Machines in Forth (1994)": {
+  "ja": "Forth における有限状態機械 (1994)",
+  "ts": "2026-08-14T04:43:45.817740+00:00"
  },
  "Firefighter arson a long-standing issue – expert": {
   "ja": "消防士の放火は長年の課題 – 専門家",
@@ -991,6 +1007,10 @@
   "ja": "SSH認証情報の収集：ハニーポットネットワークからの知見",
   "ts": "2026-08-02T21:48:31.720714+00:00"
  },
+ "Hello, me. It's been a while": {
+  "ja": "やあ、俺。久しぶり",
+  "ts": "2026-08-14T04:43:45.817740+00:00"
+ },
  "Herdr is joining Y Combinator. The runtime stays open": {
   "ja": "HerdrがY Combinatorに参加。ランタイムはオープンなまま",
   "ts": "2026-08-07T09:54:29.419399+00:00"
@@ -1013,7 +1033,7 @@
  },
  "How Compaction Works in Pi": {
   "ja": "Pi の圧縮がどう機能するか",
-  "ts": "2026-08-13T21:37:39.844032+00:00"
+  "ts": "2026-08-14T04:43:40.769076+00:00"
  },
  "How Do I Profile eBPF Code?": {
   "ja": "eBPFコードのプロファイリング方法は？",
@@ -1029,7 +1049,7 @@
  },
  "How Gödel's Proof Works (2020)": {
   "ja": "ゲーデルの証明の仕組み (2020)",
-  "ts": "2026-08-13T21:37:39.844032+00:00"
+  "ts": "2026-08-14T04:43:40.769082+00:00"
  },
  "How Hollywood stopped making movies in Hollywood": {
   "ja": "ハリウッドはいかにしてハリウッドでの映画製作をやめたか",
@@ -1045,11 +1065,15 @@
  },
  "How Organizations Use AI: Evidence from ChatGPT [pdf]": {
   "ja": "組織が AI をどう使用するか：ChatGPT からの証拠 [pdf]",
-  "ts": "2026-08-13T21:37:39.844032+00:00"
+  "ts": "2026-08-14T04:43:40.769081+00:00"
  },
  "How We Pushed CDC into Postgres": {
   "ja": "CDCをPostgresに移行させた方法",
   "ts": "2026-08-10T10:11:18.427030+00:00"
+ },
+ "How a device finds encrypted DNS by itself": {
+  "ja": "デバイスが暗号化 DNS を自分で見つける方法",
+  "ts": "2026-08-14T04:43:45.817740+00:00"
  },
  "How art invented humanity": {
   "ja": "芸術はいかに人類を発明したか",
@@ -1081,7 +1105,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-13T21:37:30.729273+00:00"
+  "ts": "2026-08-14T04:43:40.769086+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -1135,6 +1159,10 @@
   "ja": "USB-Cケーブルのラベルを信頼するのをやめて、テストを始めた",
   "ts": "2026-08-07T09:54:29.419402+00:00"
  },
+ "I want extern \"fil-C\"": {
+  "ja": "extern \"fil-C\" が欲しい",
+  "ts": "2026-08-14T04:43:45.817740+00:00"
+ },
  "I'll be stepping back from leading product for X": {
   "ja": "Xの製品リーダーシップから身を引く",
   "ts": "2026-08-06T05:41:30.536041+00:00"
@@ -1153,7 +1181,7 @@
  },
  "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game": {
   "ja": "Idol Mahjong Final Romance：ビデオゲームに偽装したスライドショー",
-  "ts": "2026-08-13T21:37:39.844032+00:00"
+  "ts": "2026-08-14T04:43:40.769084+00:00"
  },
  "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification": {
   "ja": "イリノイ州、Linuxに年齢確認責任を負わせる法律を可決",
@@ -1313,7 +1341,7 @@
  },
  "Launch HN: Bullet (YC S26) – A Faster Coding Agent": {
   "ja": "Launch HN: Bullet (YC S26) – より高速なコーディングエージェント",
-  "ts": "2026-08-13T21:37:39.844032+00:00"
+  "ts": "2026-08-14T04:43:40.769079+00:00"
  },
  "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials": {
   "ja": "Launch HN: Discovered Materials（YC P26）– 新規材料を発見するAIエージェント",
@@ -1611,6 +1639,10 @@
   "ja": "NASA、48年前の Voyager 2 探査機をさらに1年間稼働させる",
   "ts": "2026-08-08T04:07:10.574101+00:00"
  },
+ "NP-overrated": {
+  "ja": "NP-過大評価",
+  "ts": "2026-08-14T04:43:45.817740+00:00"
+ },
  "NSF pilots 4-year PhDs with industry research placements": {
   "ja": "NSF、業界研究配置を伴う4年間博士課程のパイロットプログラムを開始",
   "ts": "2026-07-30T05:33:36.898851+00:00"
@@ -1658,6 +1690,10 @@
  "Nikita Bier Steps Down as Head of Product at X": {
   "ja": "Nikita BierがXのプロダクト責任者を退任",
   "ts": "2026-08-05T22:07:29.867079+00:00"
+ },
+ "Nine PBS sues Iron Mountain over blocked access to archival data": {
+  "ja": "Nine PBS、Iron Mountain を相手取りアーカイブデータアクセス遮断で提訴",
+  "ts": "2026-08-14T04:43:45.817740+00:00"
  },
  "Note-Taking and Personal Knowledge Management": {
   "ja": "ノートテイングと個人的知識管理",
@@ -1726,6 +1762,10 @@
  "Orca-Bench: How Ready Are Language Model Agents for Oncall?": {
   "ja": "Orca-Bench：言語モデルエージェントはオンコール対応の準備ができているか",
   "ts": "2026-07-31T21:59:31.804562+00:00"
+ },
+ "Ordinary Abundance": {
+  "ja": "普通の豊かさ",
+  "ts": "2026-08-14T04:43:45.817740+00:00"
  },
  "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386": {
   "ja": "Os8088: IBM XT、286、386向けのMac的な強力OS",
@@ -2297,7 +2337,7 @@
  },
  "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes": {
   "ja": "1 行のログが 49KB+ (ext4) / 110KB+ (btrfs) の systemd-journald ディスク書き込みになる",
-  "ts": "2026-08-13T21:37:39.844032+00:00"
+  "ts": "2026-08-14T04:43:40.769072+00:00"
  },
  "Situational Awareness and the Impending Stock Market Volatility": {
   "ja": "状況認識と迫り来る株式市場のボラティリティ",
@@ -2337,7 +2377,11 @@
  },
  "Spaghettifying DRAM": {
   "ja": "DRAM をスパゲッティ化する",
-  "ts": "2026-08-13T21:37:39.844032+00:00"
+  "ts": "2026-08-14T04:43:40.769061+00:00"
+ },
+ "SparrowMap – Cameras that watch government vehicles": {
+  "ja": "SparrowMap – 政府車両を監視するカメラ",
+  "ts": "2026-08-14T04:43:45.817740+00:00"
  },
  "SpecForge – A Platform for Authoring Formal Specifications": {
   "ja": "SpecForge – 形式仕様を執筆するためのプラットフォーム",
@@ -2522,6 +2566,10 @@
  "The Human Is the Loop": {
   "ja": "人間がループである",
   "ts": "2026-08-12T09:55:19.227922+00:00"
+ },
+ "The Legend of the Novell NE2000 [video]": {
+  "ja": "Novell NE2000 の伝説 [動画]",
+  "ts": "2026-08-14T04:43:45.817740+00:00"
  },
  "The Myth of Snow Leopard": {
   "ja": "Snow Leopardの神話",
@@ -2815,13 +2863,17 @@
   "ja": "米軍サイバー司令部、自殺による死亡事例の急増に直面",
   "ts": "2026-08-09T04:13:02.787169+00:00"
  },
+ "US conducted mass spying campaign against leftwing and anti-ICE protesters": {
+  "ja": "米国が左翼およびICE反対派デモ参加者への大規模監視キャンペーンを実施",
+  "ts": "2026-08-14T04:43:45.817740+00:00"
+ },
  "Una GPS smart watch – Repairable, USB-C charging, developer-friendly": {
   "ja": "Una GPS スマートウォッチ－修理可能、USB-C充電、開発者フレンドリー",
   "ts": "2026-07-29T11:17:33.572896+00:00"
  },
  "Understanding is the new bottleneck": {
   "ja": "理解が新たなボトルネック",
-  "ts": "2026-08-13T21:37:39.844032+00:00"
+  "ts": "2026-08-14T04:43:40.769068+00:00"
  },
  "Unexpected events and prosocial behavior: the Batman effect": {
   "ja": "予期しないイベントと向社会的行動: バットマン効果",
@@ -2985,7 +3037,7 @@
  },
  "Where did the old web go? We followed 657,607 links to find out": {
   "ja": "昔のウェブはどこへ？657,607 個のリンクを辿ってみた",
-  "ts": "2026-08-13T21:37:39.844032+00:00"
+  "ts": "2026-08-14T04:43:40.769074+00:00"
  },
  "Why Are There Statues of Beavers on Top of This Oxford Street Shop?": {
   "ja": "なぜこのOxford Streetの店の上にはビーバーの像があるのか",
