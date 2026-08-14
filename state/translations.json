@@ -51,6 +51,10 @@
   "ja": "カリフォルニアの帯水層が回復不能な地点を超えた可能性",
   "ts": "2026-07-31T05:59:23.336566+00:00"
  },
+ "A Contract-Grade Verifier for LLM-Generated GPU Kernels": {
+  "ja": "LLMが生成したGPUカーネル向けコントラクトグレード検証器",
+  "ts": "2026-08-14T21:18:43.954499+00:00"
+ },
  "A Dying Art: The last of the morticians": {
   "ja": "消える職業: 最後の納棺師たち",
   "ts": "2026-07-28T11:10:58.283745+00:00"
@@ -447,6 +451,10 @@
   "ja": "Zigでパッケージ化されたC/C++プロジェクト",
   "ts": "2026-07-28T11:10:58.283741+00:00"
  },
+ "CEO who fired 900 people on Zoom just before Christmas wants his job back": {
+  "ja": "クリスマス直前にZoomで900人をクビにしたCEO、職務復帰を希望",
+  "ts": "2026-08-14T21:18:43.954499+00:00"
+ },
  "CISA Alert: Water Sector PLC Targeting": {
   "ja": "CISAアラート：水道セクターPLCへの攻撃",
   "ts": "2026-08-01T21:47:42.064746+00:00"
@@ -643,6 +651,10 @@
   "ja": "単一のAMD MI300X上でDeepSeek V4 Flash を実行",
   "ts": "2026-08-04T22:06:15.573115+00:00"
  },
+ "DeepSeek peak/off-peak pricing update": {
+  "ja": "DeepSeekのピーク/オフピーク価格設定更新",
+  "ts": "2026-08-14T21:18:43.954499+00:00"
+ },
  "DeepSeek-V4-Flash Update": {
   "ja": "DeepSeek-V4-Flash アップデート",
   "ts": "2026-07-31T21:59:26.083007+00:00"
@@ -698,6 +710,10 @@
  "Don't be a meat proxy": {
   "ja": "ミートプロキシになるな",
   "ts": "2026-08-03T22:01:15.290383+00:00"
+ },
+ "Don't classify, hallucinate": {
+  "ja": "分類するな、幻覚を生成せよ",
+  "ts": "2026-08-14T21:18:43.954499+00:00"
  },
  "Don't credit the LLM": {
   "ja": "LLMを信用するな",
@@ -847,6 +863,10 @@
   "ja": "折り紙地球儀",
   "ts": "2026-08-02T21:48:31.720714+00:00"
  },
+ "Forbidden City Cabbage": {
+  "ja": "紫禁城の白菜",
+  "ts": "2026-08-14T21:18:43.954499+00:00"
+ },
  "Four Time Scales for Technology Development and Deployment": {
   "ja": "技術開発と展開の4つのタイムスケール",
   "ts": "2026-08-02T05:49:41.204416+00:00"
@@ -858,6 +878,10 @@
  "France to ban unsolicited telemarketing calls": {
   "ja": "フランス、迷惑電話マーケティングの禁止を検討",
   "ts": "2026-08-11T09:54:16.672468+00:00"
+ },
+ "France's top court blocks social media ban for under-15s": {
+  "ja": "フランス最高裁が15歳未満のソーシャルメディア禁止案を却下",
+  "ts": "2026-08-14T21:18:43.954499+00:00"
  },
  "From One Seed to a Thousand Leaves – Merkle's Authentication Tree": {
   "ja": "一つの種から千の葉へ - Merkleの認証木",
@@ -885,7 +909,7 @@
  },
  "GLM-5.3: Frontier coding with emergent cyber capabilities": {
   "ja": "GLM-5.3: 新興サイバー能力によるフロンティアコーディング",
-  "ts": "2026-08-14T09:53:35.336861+00:00"
+  "ts": "2026-08-14T21:18:37.510831+00:00"
  },
  "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?": {
   "ja": "物理AIにおけるGPT-5.6対Claude Fable 5の性能比較",
@@ -954,6 +978,10 @@
  "Google has abandoned Google News?": {
   "ja": "Googleは Google Newsを放棄したのか",
   "ts": "2026-08-01T21:47:42.064746+00:00"
+ },
+ "Google is making private AI practical with homomorphic encryption": {
+  "ja": "Googleが準同型暗号で民間向けAIを現実化",
+  "ts": "2026-08-14T21:18:43.954499+00:00"
  },
  "Google will expand age checks on Android worldwide till the end of the year": {
   "ja": "GoogleがAndroidの年齢確認を年末までに世界中で拡大予定",
@@ -1117,7 +1145,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-14T09:53:32.154459+00:00"
+  "ts": "2026-08-14T21:18:37.510856+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -1171,6 +1199,10 @@
   "ja": "USB-Cケーブルのラベルを信頼するのをやめて、テストを始めた",
   "ts": "2026-08-07T09:54:29.419402+00:00"
  },
+ "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone": {
+  "ja": "RSSフィードをe-inkニュースペーパーに変えてスマートフォンの閲覧をやめた",
+  "ts": "2026-08-14T21:18:43.954499+00:00"
+ },
  "I want extern \"fil-C\"": {
   "ja": "extern \"fil-C\" が欲しい",
   "ts": "2026-08-14T04:43:45.817740+00:00"
@@ -1211,6 +1243,10 @@
   "ja": "A*経路探索のヒューリスティック改善",
   "ts": "2026-08-09T09:32:00.990056+00:00"
  },
+ "In Australia, a home battery boom has helped cut wholesale power prices": {
+  "ja": "オーストラリアのホームバッテリーブーム、卸電力価格を引き下げ",
+  "ts": "2026-08-14T21:18:43.954499+00:00"
+ },
  "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years": {
   "ja": "妻エリーゼ・コーリーの追悼 - 36年間の素晴らしい時間に感謝",
   "ts": "2026-08-05T11:14:05.015328+00:00"
@@ -1234,6 +1270,10 @@
  "Interview with Boris Cherny [video]": {
   "ja": "Boris Chenyのインタビュー [動画]",
   "ts": "2026-07-29T05:44:46.045074+00:00"
+ },
+ "Introducing Toast 1": {
+  "ja": "Toast 1発表",
+  "ts": "2026-08-14T21:18:43.954499+00:00"
  },
  "Investigating three real-world incidents in our cybersecurity evaluations": {
   "ja": "サイバーセキュリティ評価における3つの実世界インシデントの調査",
@@ -1543,6 +1583,10 @@
   "ja": "数学者のいない数学",
   "ts": "2026-08-02T10:28:30.211842+00:00"
  },
+ "Maximizing the value of your Claude Code sessions": {
+  "ja": "Claude Codeセッションの価値を最大化する",
+  "ts": "2026-08-14T21:18:43.954499+00:00"
+ },
  "Melatonin impairs morning cognition in healthy young adults (2023)": {
   "ja": "メラトニンは健康な若年成人の朝の認知機能を低下させる（2023年）",
   "ts": "2026-08-09T09:32:05.584523+00:00"
@@ -1602,6 +1646,10 @@
  "Most tech revolutions made work worse for employees": {
   "ja": "ほとんどの技術革命は従業員の仕事を悪化させている",
   "ts": "2026-08-04T22:06:22.622257+00:00"
+ },
+ "Moving integer division to floating-point is trivial": {
+  "ja": "整数除算を浮動小数点に移すのは簡単",
+  "ts": "2026-08-14T21:18:43.954499+00:00"
  },
  "Multiple Mouse Cursors in Wayland": {
   "ja": "Waylandでの複数のマウスカーソル",
@@ -1682,6 +1730,10 @@
  "New HIV vaccine shows unprecedented success in preclinical study": {
   "ja": "新しいHIVワクチン、前臨床試験で前例のない成功を示す",
   "ts": "2026-07-29T05:44:46.045034+00:00"
+ },
+ "New Lower and Upper Bounds for the Grothendieck Constant": {
+  "ja": "Grothendieck定数の新しい上限と下限",
+  "ts": "2026-08-14T21:18:43.954499+00:00"
  },
  "New Mexico court orders Meta to pay $567m over harms to children’s mental health": {
   "ja": "ニューメキシコ州の裁判所、Metaに子どもの心身に与えた害について567百万ドルの支払いを命じる",
@@ -2067,6 +2119,10 @@
   "ja": "Rustプロジェクトの目標：不動型と保証されたデストラクタ",
   "ts": "2026-08-03T22:01:15.290425+00:00"
  },
+ "RustDesk now supports true unattended remote access on Wayland": {
+  "ja": "RustDeskがWayland上での真の無人リモートアクセスに対応",
+  "ts": "2026-08-14T21:18:43.954499+00:00"
+ },
  "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros": {
   "ja": "SPF レコード構文：メカニズム、クォリファイア、モディファイア、マクロ",
   "ts": "2026-08-03T22:01:24.604148+00:00"
@@ -2114,6 +2170,10 @@
  "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution": {
   "ja": "Kimi K3のセルフホスティング：ハードウェアコスト20%増で解決率20%向上",
   "ts": "2026-07-29T21:54:08.013720+00:00"
+ },
+ "Seven books I keep close because I love them": {
+  "ja": "大切にしている7冊の本",
+  "ts": "2026-08-14T21:18:43.954499+00:00"
  },
  "Sharing an X11 Server Across Hosts with FamilyWild": {
   "ja": "FamilyWildでX11サーバーをホスト間で共有する",
@@ -2179,6 +2239,10 @@
   "ja": "Show HN: DeepSeekをGPT-OSSに蒸留しても検閲は転送されない。試してみよ",
   "ts": "2026-07-31T11:24:33.340236+00:00"
  },
+ "Show HN: Ember – Redshift safe color palettes": {
+  "ja": "Show HN: Ember – Redshift安全カラーパレット",
+  "ts": "2026-08-14T21:18:43.954499+00:00"
+ },
  "Show HN: Fuse – statically typed functional programming language": {
   "ja": "Show HN: Fuse – 静的型付き関数型プログラミング言語",
   "ts": "2026-08-02T21:48:31.720714+00:00"
@@ -2231,6 +2295,10 @@
   "ja": "Show HN: Logan Basic v2.1 - オンラインBASICインタプリタ",
   "ts": "2026-08-02T10:28:30.211842+00:00"
  },
+ "Show HN: LuaCAD – Parametric CAD Scripted in Lua": {
+  "ja": "Show HN: LuaCAD – Luaで記述されたパラメトリックCAD",
+  "ts": "2026-08-14T21:18:43.954499+00:00"
+ },
  "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri": {
   "ja": "Show HN: Lumabri – ColibriによるP2Pスワーム上でMoeモデルを実行",
   "ts": "2026-08-14T09:53:35.336861+00:00"
@@ -2250,6 +2318,10 @@
  "Show HN: Mcptoon – Token-efficient MCP CLI client": {
   "ja": "Show HN: Mcptoon – トークン効率的なMCP CLIクライアント",
   "ts": "2026-08-11T09:54:16.672468+00:00"
+ },
+ "Show HN: Mole – Deep research agent for your terminal": {
+  "ja": "Show HN: Mole – ターミナル向けディープリサーチエージェント",
+  "ts": "2026-08-14T21:18:43.954499+00:00"
  },
  "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots": {
   "ja": "Show HN: Needle2: スマートフォン、ウェアラブル、スマートホーム、ロボット向け14MBエージェントLLM",
@@ -2643,6 +2715,10 @@
   "ja": "Sylvester–Gallai 定理",
   "ts": "2026-08-07T04:50:22.396857+00:00"
  },
+ "The TEMU-Fication of Software, Digital Goods and Services": {
+  "ja": "ソフトウェア、デジタル商品・サービスの「TEMU化」",
+  "ts": "2026-08-14T21:18:43.954499+00:00"
+ },
  "The Title Cards in Blade Runner Are Fucking Amazing": {
   "ja": "ブレードランナーのタイトルカードはマジで素晴らしい",
   "ts": "2026-08-05T22:07:29.867079+00:00"
@@ -2839,6 +2915,10 @@
   "ja": "真実は方向ではない：LLMプローブへのTarskiアタック",
   "ts": "2026-07-29T05:44:50.795006+00:00"
  },
+ "Turbo Pascal on CP/M, MSX-DOS and MS-DOS – Pascal for Small Machines": {
+  "ja": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS – 小規模マシン向けPascal",
+  "ts": "2026-08-14T21:18:43.954499+00:00"
+ },
  "Turn satellite imagery into a paper globe you fold yourself": {
   "ja": "衛星画像を折って作る紙製地球儀",
   "ts": "2026-08-10T10:11:18.427042+00:00"
@@ -2890,6 +2970,10 @@
  "US conducted mass spying campaign against leftwing and anti-ICE protesters": {
   "ja": "米国が左翼およびICE反対派デモ参加者への大規模監視キャンペーンを実施",
   "ts": "2026-08-14T04:43:45.817740+00:00"
+ },
+ "Ultraviolet Bird Photography": {
+  "ja": "紫外線鳥類写真",
+  "ts": "2026-08-14T21:18:43.954499+00:00"
  },
  "Una GPS smart watch – Repairable, USB-C charging, developer-friendly": {
   "ja": "Una GPS スマートウォッチ－修理可能、USB-C充電、開発者フレンドリー",
@@ -3011,6 +3095,10 @@
   "ja": "リベラルアーツ教育の目的とは（2024年）",
   "ts": "2026-08-01T05:48:56.409000+00:00"
  },
+ "What You Gain by Building Your Own Game Engine": {
+  "ja": "独自ゲームエンジン構築で得られるもの",
+  "ts": "2026-08-14T21:18:43.954499+00:00"
+ },
  "What happens if an entire class of workers loses faith in their careers": {
   "ja": "労働者階級全体がキャリアへの信頼を失ったら何が起こるか",
   "ts": "2026-08-08T21:22:27.821819+00:00"
@@ -3094,6 +3182,10 @@
  "Why do we think we understand the world more than we actually do?": {
   "ja": "なぜ私たちは世界を実際よりも理解していると思うのか",
   "ts": "2026-07-28T05:23:02.934777+00:00"
+ },
+ "Why does Opus 5 feel worse to work with?": {
+  "ja": "Opus 5は何故使いにくく感じるのか",
+  "ts": "2026-08-14T21:18:43.954499+00:00"
  },
  "Why is everyone trying to build a solid-state battery?": {
   "ja": "なぜ全員が全固体電池の開発を試みているのか",
