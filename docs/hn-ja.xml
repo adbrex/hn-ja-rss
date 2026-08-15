@@ -5,248 +5,248 @@
     <link>https://news.ycombinator.com/</link>
     <description>Hacker News のフロントページから人気順に最大30件を抽出し、タイトルを日本語訳したフィードです。1日3回更新。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 14 Aug 2026 21:18:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 03:32:43 +0000</lastBuildDate>
     <ttl>240</ttl>
     <atom:link href="https://YOUR-NAME.github.io/YOUR-REPO/hn-ja.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>[996pt] GLM-5.3: 新興サイバー能力によるフロンティアコーディング</title>
+      <title>[1042pt] GLM-5.3: 新興サイバー能力によるフロンティアコーディング</title>
       <link>https://z.ai/blog/glm-5.3</link>
       <guid isPermaLink="false">hn-49294997</guid>
       <pubDate>Fri, 14 Aug 2026 05:19:59 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49294997</comments>
-      <description><![CDATA[<p>GLM-5.3: Frontier coding with emergent cyber capabilities</p><p>996 points / 493 comments — by pella</p><p><a href="https://news.ycombinator.com/item?id=49294997">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>GLM-5.3: Frontier coding with emergent cyber capabilities</p><p>1042 points / 518 comments — by pella</p><p><a href="https://news.ycombinator.com/item?id=49294997">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[683pt] Qwen 3.8 27B</title>
+      <title>[952pt] Qwen 3.8 27B</title>
       <link>https://huggingface.co/Qwen/Qwen3.8-27B-FP8</link>
       <guid isPermaLink="false">hn-49299605</guid>
       <pubDate>Fri, 14 Aug 2026 15:00:00 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49299605</comments>
-      <description><![CDATA[<p>Qwen 3.8 27B</p><p>683 points / 444 comments — by erdaltoprak</p><p><a href="https://news.ycombinator.com/item?id=49299605">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Qwen 3.8 27B</p><p>952 points / 617 comments — by erdaltoprak</p><p><a href="https://news.ycombinator.com/item?id=49299605">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[662pt] Every Fucking Website (2020)</title>
-      <link>https://lxe.github.io/everywebsite/</link>
-      <guid isPermaLink="false">hn-49299222</guid>
-      <pubDate>Fri, 14 Aug 2026 14:31:08 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49299222</comments>
-      <description><![CDATA[<p>Every Fucking Website (2020)</p><p>662 points / 376 comments — by doubletwoyou</p><p><a href="https://news.ycombinator.com/item?id=49299222">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[640pt] Opus 5は何故使いにくく感じるのか</title>
+      <title>[807pt] Opus 5は何故使いにくく感じるのか</title>
       <link>https://mun-logadan.github.io/why-does-opus-5-feel-worse/</link>
       <guid isPermaLink="false">hn-49296740</guid>
       <pubDate>Fri, 14 Aug 2026 10:12:48 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49296740</comments>
-      <description><![CDATA[<p>Why does Opus 5 feel worse to work with?</p><p>640 points / 598 comments — by numeri</p><p><a href="https://news.ycombinator.com/item?id=49296740">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Why does Opus 5 feel worse to work with?</p><p>807 points / 740 comments — by numeri</p><p><a href="https://news.ycombinator.com/item?id=49296740">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[290pt] オーストラリアのホームバッテリーブーム、卸電力価格を引き下げ</title>
-      <link>https://e360.yale.edu/digest/australia-home-batteries</link>
-      <guid isPermaLink="false">hn-49298910</guid>
-      <pubDate>Fri, 14 Aug 2026 14:07:52 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49298910</comments>
-      <description><![CDATA[<p>In Australia, a home battery boom has helped cut wholesale power prices</p><p>290 points / 213 comments — by speckx</p><p><a href="https://news.ycombinator.com/item?id=49298910">HNのコメントを読む</a></p>]]></description>
+      <title>[525pt] Firefoxは今もuBlock Originをサポートする唯一の主要ブラウザ</title>
+      <link>https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html</link>
+      <guid isPermaLink="false">hn-49303202</guid>
+      <pubDate>Fri, 14 Aug 2026 19:03:20 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49303202</comments>
+      <description><![CDATA[<p>Firefox is now the last major browser that still supports uBlock Origin</p><p>525 points / 195 comments — by DemiGuru</p><p><a href="https://news.ycombinator.com/item?id=49303202">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[249pt] 大切にしている7冊の本</title>
+      <title>[312pt] 大切にしている7冊の本</title>
       <link>https://blog.plover.com/2026/08/02/</link>
       <guid isPermaLink="false">hn-49299675</guid>
       <pubDate>Fri, 14 Aug 2026 15:03:26 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49299675</comments>
-      <description><![CDATA[<p>Seven books I keep close because I love them</p><p>249 points / 107 comments — by surprisetalk</p><p><a href="https://news.ycombinator.com/item?id=49299675">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Seven books I keep close because I love them</p><p>312 points / 136 comments — by surprisetalk</p><p><a href="https://news.ycombinator.com/item?id=49299675">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[233pt] DeepSeekのピーク/オフピーク価格設定更新</title>
-      <link>https://api-docs.deepseek.com/news/news260813/</link>
-      <guid isPermaLink="false">hn-49296627</guid>
-      <pubDate>Fri, 14 Aug 2026 09:55:33 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49296627</comments>
-      <description><![CDATA[<p>DeepSeek peak/off-peak pricing update</p><p>233 points / 124 comments — by fagnerbrack</p><p><a href="https://news.ycombinator.com/item?id=49296627">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[195pt] 分類するな、幻覚を生成せよ</title>
-      <link>https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications</link>
-      <guid isPermaLink="false">hn-49249523</guid>
-      <pubDate>Mon, 10 Aug 2026 20:50:36 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49249523</comments>
-      <description><![CDATA[<p>Don't classify, hallucinate</p><p>195 points / 80 comments — by softwaredoug</p><p><a href="https://news.ycombinator.com/item?id=49249523">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[188pt] Googleが準同型暗号で民間向けAIを現実化</title>
+      <title>[301pt] Googleが準同型暗号で民間向けAIを現実化</title>
       <link>https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/</link>
       <guid isPermaLink="false">hn-49300314</guid>
       <pubDate>Fri, 14 Aug 2026 15:43:10 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49300314</comments>
-      <description><![CDATA[<p>Google is making private AI practical with homomorphic encryption</p><p>188 points / 123 comments — by u1hcw9nx</p><p><a href="https://news.ycombinator.com/item?id=49300314">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Google is making private AI practical with homomorphic encryption</p><p>301 points / 178 comments — by u1hcw9nx</p><p><a href="https://news.ycombinator.com/item?id=49300314">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[183pt] フランス最高裁が15歳未満のソーシャルメディア禁止案を却下</title>
-      <link>https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/</link>
-      <guid isPermaLink="false">hn-49300671</guid>
-      <pubDate>Fri, 14 Aug 2026 16:06:49 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49300671</comments>
-      <description><![CDATA[<p>France's top court blocks social media ban for under-15s</p><p>183 points / 129 comments — by BlueBerry2001</p><p><a href="https://news.ycombinator.com/item?id=49300671">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[161pt] RustDeskがWayland上での真の無人リモートアクセスに対応</title>
+      <title>[236pt] RustDeskがWayland上での真の無人リモートアクセスに対応</title>
       <link>https://rustdesk.com/blog/unattended-remote-access-wayland/</link>
       <guid isPermaLink="false">hn-49300759</guid>
       <pubDate>Fri, 14 Aug 2026 16:12:52 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49300759</comments>
-      <description><![CDATA[<p>RustDesk now supports true unattended remote access on Wayland</p><p>161 points / 75 comments — by rustdesk</p><p><a href="https://news.ycombinator.com/item?id=49300759">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>RustDesk now supports true unattended remote access on Wayland</p><p>236 points / 101 comments — by rustdesk</p><p><a href="https://news.ycombinator.com/item?id=49300759">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[146pt] Toast 1発表</title>
-      <link>https://www.mixedbread.com/blog/toast-1</link>
-      <guid isPermaLink="false">hn-49299746</guid>
-      <pubDate>Fri, 14 Aug 2026 15:07:57 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49299746</comments>
-      <description><![CDATA[<p>Introducing Toast 1</p><p>146 points / 47 comments — by mplappert</p><p><a href="https://news.ycombinator.com/item?id=49299746">HNのコメントを読む</a></p>]]></description>
+      <title>[235pt] Going Dark、法執行機関によるハッキングの時代</title>
+      <link>https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/</link>
+      <guid isPermaLink="false">hn-49304447</guid>
+      <pubDate>Fri, 14 Aug 2026 20:52:44 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49304447</comments>
+      <description><![CDATA[<p>Going Dark, and the era of law enforcement hacking</p><p>235 points / 127 comments — by vslira</p><p><a href="https://news.ycombinator.com/item?id=49304447">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[117pt] ソフトウェア、デジタル商品・サービスの「TEMU化」</title>
-      <link>https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/</link>
-      <guid isPermaLink="false">hn-49297637</guid>
-      <pubDate>Fri, 14 Aug 2026 12:00:51 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49297637</comments>
-      <description><![CDATA[<p>The TEMU-Fication of Software, Digital Goods and Services</p><p>117 points / 83 comments — by surprisetalk</p><p><a href="https://news.ycombinator.com/item?id=49297637">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[117pt] AI by Hand</title>
+      <title>[225pt] AI by Hand</title>
       <link>https://www.byhand.ai/</link>
       <guid isPermaLink="false">hn-49300568</guid>
       <pubDate>Fri, 14 Aug 2026 15:58:59 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49300568</comments>
-      <description><![CDATA[<p>AI by Hand</p><p>117 points / 11 comments — by sans_souse</p><p><a href="https://news.ycombinator.com/item?id=49300568">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>AI by Hand</p><p>225 points / 19 comments — by sans_souse</p><p><a href="https://news.ycombinator.com/item?id=49300568">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[104pt] RSSフィードをe-inkニュースペーパーに変えてスマートフォンの閲覧をやめた</title>
+      <title>[224pt] 分類するな、幻覚を生成せよ</title>
+      <link>https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications</link>
+      <guid isPermaLink="false">hn-49249523</guid>
+      <pubDate>Mon, 10 Aug 2026 20:50:36 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49249523</comments>
+      <description><![CDATA[<p>Don't classify, hallucinate</p><p>224 points / 93 comments — by softwaredoug</p><p><a href="https://news.ycombinator.com/item?id=49249523">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[185pt] Toast 1発表</title>
+      <link>https://www.mixedbread.com/blog/toast-1</link>
+      <guid isPermaLink="false">hn-49299746</guid>
+      <pubDate>Fri, 14 Aug 2026 15:07:57 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49299746</comments>
+      <description><![CDATA[<p>Introducing Toast 1</p><p>185 points / 59 comments — by mplappert</p><p><a href="https://news.ycombinator.com/item?id=49299746">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[158pt] RSSフィードをe-inkニュースペーパーに変えてスマートフォンの閲覧をやめた</title>
       <link>https://heyjonny.dev/posts/rss-to-eink-newspaper/</link>
       <guid isPermaLink="false">hn-49299081</guid>
       <pubDate>Fri, 14 Aug 2026 14:21:18 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49299081</comments>
-      <description><![CDATA[<p>I turned my RSS feeds into an e-ink newspaper to stop reading on my phone</p><p>104 points / 46 comments — by speckx</p><p><a href="https://news.ycombinator.com/item?id=49299081">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>I turned my RSS feeds into an e-ink newspaper to stop reading on my phone</p><p>158 points / 63 comments — by speckx</p><p><a href="https://news.ycombinator.com/item?id=49299081">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[94pt] Claude Codeセッションの価値を最大化する</title>
+      <title>[144pt] Claude Codeセッションの価値を最大化する</title>
       <link>https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</link>
       <guid isPermaLink="false">hn-49300800</guid>
       <pubDate>Fri, 14 Aug 2026 16:15:21 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49300800</comments>
-      <description><![CDATA[<p>Maximizing the value of your Claude Code sessions</p><p>94 points / 64 comments — by twapi</p><p><a href="https://news.ycombinator.com/item?id=49300800">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Maximizing the value of your Claude Code sessions</p><p>144 points / 98 comments — by twapi</p><p><a href="https://news.ycombinator.com/item?id=49300800">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[73pt] 紫外線鳥類写真</title>
+      <title>[118pt] 紫外線鳥類写真</title>
       <link>https://uvbirds.com/</link>
       <guid isPermaLink="false">hn-49211375</guid>
       <pubDate>Fri, 07 Aug 2026 14:51:09 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49211375</comments>
-      <description><![CDATA[<p>Ultraviolet Bird Photography</p><p>73 points / 12 comments — by EndXA</p><p><a href="https://news.ycombinator.com/item?id=49211375">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Ultraviolet Bird Photography</p><p>118 points / 22 comments — by EndXA</p><p><a href="https://news.ycombinator.com/item?id=49211375">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[55pt] クリスマス直前にZoomで900人をクビにしたCEO、職務復帰を希望</title>
-      <link>https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo</link>
-      <guid isPermaLink="false">hn-49303592</guid>
-      <pubDate>Fri, 14 Aug 2026 19:36:18 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49303592</comments>
-      <description><![CDATA[<p>CEO who fired 900 people on Zoom just before Christmas wants his job back</p><p>55 points / 23 comments — by pseudolus</p><p><a href="https://news.ycombinator.com/item?id=49303592">HNのコメントを読む</a></p>]]></description>
+      <title>[102pt] マグニチュード7.7の地震 – インドネシア・Ende北北西68km</title>
+      <link>https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive</link>
+      <guid isPermaLink="false">hn-49306577</guid>
+      <pubDate>Sat, 15 Aug 2026 01:14:05 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49306577</comments>
+      <description><![CDATA[<p>Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia</p><p>102 points / 18 comments — by Bender</p><p><a href="https://news.ycombinator.com/item?id=49306577">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[52pt] Show HN: LuaCAD – Luaで記述されたパラメトリックCAD</title>
+      <title>[95pt] 巨大なPRを送るのはやめてください: 怒りの声</title>
+      <link>https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va</link>
+      <guid isPermaLink="false">hn-49305558</guid>
+      <pubDate>Fri, 14 Aug 2026 22:48:15 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49305558</comments>
+      <description><![CDATA[<p>Stop sending me huge PRs; a rant</p><p>95 points / 60 comments — by trezm</p><p><a href="https://news.ycombinator.com/item?id=49305558">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[83pt] Show HN: LuaCAD – Luaで記述されたパラメトリックCAD</title>
       <link>https://luacad.ad-si.com</link>
       <guid isPermaLink="false">hn-49301215</guid>
       <pubDate>Fri, 14 Aug 2026 16:43:22 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49301215</comments>
-      <description><![CDATA[<p>Show HN: LuaCAD – Parametric CAD Scripted in Lua</p><p>52 points / 13 comments — by adius</p><p><a href="https://news.ycombinator.com/item?id=49301215">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Show HN: LuaCAD – Parametric CAD Scripted in Lua</p><p>83 points / 17 comments — by adius</p><p><a href="https://news.ycombinator.com/item?id=49301215">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[45pt] Turbo Pascal on CP/M, MSX-DOS and MS-DOS – 小規模マシン向けPascal</title>
+      <title>[78pt] Turbo Pascal on CP/M, MSX-DOS and MS-DOS</title>
       <link>http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/</link>
       <guid isPermaLink="false">hn-49269809</guid>
       <pubDate>Wed, 12 Aug 2026 09:34:38 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49269809</comments>
-      <description><![CDATA[<p>Turbo Pascal on CP/M, MSX-DOS and MS-DOS – Pascal for Small Machines</p><p>45 points / 11 comments — by rbanffy</p><p><a href="https://news.ycombinator.com/item?id=49269809">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Turbo Pascal on CP/M, MSX-DOS and MS-DOS</p><p>78 points / 24 comments — by rbanffy</p><p><a href="https://news.ycombinator.com/item?id=49269809">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[43pt] 紫禁城の白菜</title>
-      <link>https://www.cnn.com/2025/11/10/style/jadeite-cabbage-taiwan-forbidden-city-curio-hnk-intl</link>
-      <guid isPermaLink="false">hn-49269240</guid>
-      <pubDate>Wed, 12 Aug 2026 08:12:15 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49269240</comments>
-      <description><![CDATA[<p>Forbidden City Cabbage</p><p>43 points / 7 comments — by dude250711</p><p><a href="https://news.ycombinator.com/item?id=49269240">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[38pt] Anthropic Risk August 2026 [pdf]</title>
-      <link>https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf</link>
-      <guid isPermaLink="false">hn-49303540</guid>
-      <pubDate>Fri, 14 Aug 2026 19:32:15 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49303540</comments>
-      <description><![CDATA[<p>Anthropic Risk August 2026 [pdf]</p><p>38 points / 25 comments — by artninja1988</p><p><a href="https://news.ycombinator.com/item?id=49303540">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[25pt] Show HN: Mole – ターミナル向けディープリサーチエージェント</title>
-      <link>https://github.com/lajosdeme/mole</link>
-      <guid isPermaLink="false">hn-49303046</guid>
-      <pubDate>Fri, 14 Aug 2026 18:52:48 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49303046</comments>
-      <description><![CDATA[<p>Show HN: Mole – Deep research agent for your terminal</p><p>25 points / 5 comments — by lajosdeme</p><p><a href="https://news.ycombinator.com/item?id=49303046">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[25pt] Show HN: Ember – Redshift安全カラーパレット</title>
+      <title>[71pt] Show HN: Ember – Redshift安全カラーパレット</title>
       <link>https://github.com/carpdiem/ember</link>
       <guid isPermaLink="false">hn-49232870</guid>
       <pubDate>Sun, 09 Aug 2026 16:26:37 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49232870</comments>
-      <description><![CDATA[<p>Show HN: Ember – Redshift safe color palettes</p><p>25 points / 2 comments — by carpdiem</p><p><a href="https://news.ycombinator.com/item?id=49232870">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Show HN: Ember – Redshift safe color palettes</p><p>71 points / 15 comments — by carpdiem</p><p><a href="https://news.ycombinator.com/item?id=49232870">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[22pt] 整数除算を浮動小数点に移すのは簡単</title>
-      <link>http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html</link>
-      <guid isPermaLink="false">hn-49253831</guid>
-      <pubDate>Tue, 11 Aug 2026 05:48:56 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49253831</comments>
-      <description><![CDATA[<p>Moving integer division to floating-point is trivial</p><p>22 points / 10 comments — by matt_d</p><p><a href="https://news.ycombinator.com/item?id=49253831">HNのコメントを読む</a></p>]]></description>
+      <title>[68pt] Super Mario Derivations</title>
+      <link>https://fzakaria.com/2026/08/05/super-mario-derivations</link>
+      <guid isPermaLink="false">hn-49215682</guid>
+      <pubDate>Fri, 07 Aug 2026 20:16:10 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49215682</comments>
+      <description><![CDATA[<p>Super Mario Derivations</p><p>68 points / 11 comments — by domenkozar</p><p><a href="https://news.ycombinator.com/item?id=49215682">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[21pt] LLMが生成したGPUカーネル向けコントラクトグレード検証器</title>
-      <link>https://arxiv.org/abs/2608.12700</link>
-      <guid isPermaLink="false">hn-49301417</guid>
-      <pubDate>Fri, 14 Aug 2026 16:57:14 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49301417</comments>
-      <description><![CDATA[<p>A Contract-Grade Verifier for LLM-Generated GPU Kernels</p><p>21 points / 0 comments — by Jimmc414</p><p><a href="https://news.ycombinator.com/item?id=49301417">HNのコメントを読む</a></p>]]></description>
+      <title>[57pt] eigendrum</title>
+      <link>https://eigendrum.com/#p=circle</link>
+      <guid isPermaLink="false">hn-49305250</guid>
+      <pubDate>Fri, 14 Aug 2026 22:15:12 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49305250</comments>
+      <description><![CDATA[<p>eigendrum</p><p>57 points / 13 comments — by bookofjoe</p><p><a href="https://news.ycombinator.com/item?id=49305250">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[16pt] Open WireGuard Endpoints</title>
-      <link>https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html</link>
-      <guid isPermaLink="false">hn-49303237</guid>
-      <pubDate>Fri, 14 Aug 2026 19:05:46 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49303237</comments>
-      <description><![CDATA[<p>Open WireGuard Endpoints</p><p>16 points / 1 comments — by mlhpdx</p><p><a href="https://news.ycombinator.com/item?id=49303237">HNのコメントを読む</a></p>]]></description>
+      <title>[54pt] Show HN: Mole – ターミナル向けディープリサーチエージェント</title>
+      <link>https://github.com/lajosdeme/mole</link>
+      <guid isPermaLink="false">hn-49303046</guid>
+      <pubDate>Fri, 14 Aug 2026 18:52:48 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49303046</comments>
+      <description><![CDATA[<p>Show HN: Mole – Deep research agent for your terminal</p><p>54 points / 8 comments — by lajosdeme</p><p><a href="https://news.ycombinator.com/item?id=49303046">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[13pt] Grothendieck定数の新しい上限と下限</title>
+      <title>[43pt] Ploopy A+ Trackballが登場</title>
+      <link>https://blog.ploopy.co/the-aplus-is-finally-here-499</link>
+      <guid isPermaLink="false">hn-49306443</guid>
+      <pubDate>Sat, 15 Aug 2026 00:55:31 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49306443</comments>
+      <description><![CDATA[<p>The Ploopy A+ Trackball Is Here</p><p>43 points / 27 comments — by big_toast</p><p><a href="https://news.ycombinator.com/item?id=49306443">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[42pt] 大学初年級微積分学の簡潔化と再構成</title>
+      <link>https://arxiv.org/abs/1811.03459</link>
+      <guid isPermaLink="false">hn-49306196</guid>
+      <pubDate>Sat, 15 Aug 2026 00:15:23 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49306196</comments>
+      <description><![CDATA[<p>Simplifying and Refactoring Introductory Calculus</p><p>42 points / 8 comments — by E-Reverance</p><p><a href="https://news.ycombinator.com/item?id=49306196">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[41pt] Grothendieck定数の新しい上限と下限</title>
       <link>https://arxiv.org/abs/2608.11158</link>
       <guid isPermaLink="false">hn-49303652</guid>
       <pubDate>Fri, 14 Aug 2026 19:41:42 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49303652</comments>
-      <description><![CDATA[<p>New Lower and Upper Bounds for the Grothendieck Constant</p><p>13 points / 2 comments — by surprisetalk</p><p><a href="https://news.ycombinator.com/item?id=49303652">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>New Lower and Upper Bounds for the Grothendieck Constant</p><p>41 points / 8 comments — by surprisetalk</p><p><a href="https://news.ycombinator.com/item?id=49303652">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[13pt] 3社の買収企業を1つの統一されたウェブサイトに組織する方法</title>
-      <link>https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/</link>
-      <guid isPermaLink="false">hn-47999020</guid>
-      <pubDate>Sun, 03 May 2026 17:07:01 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=47999020</comments>
-      <description><![CDATA[<p>How to organize 3 acquired companies into one coherent website</p><p>13 points / 0 comments — by mooreds</p><p><a href="https://news.ycombinator.com/item?id=47999020">HNのコメントを読む</a></p>]]></description>
+      <title>[38pt] Ecco the Dolphinに隠された31年前のイースターエッグを発掘</title>
+      <link>https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin-98c</link>
+      <guid isPermaLink="false">hn-49272784</guid>
+      <pubDate>Wed, 12 Aug 2026 14:19:05 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49272784</comments>
+      <description><![CDATA[<p>Unearthing a 31 year old Easter egg in Ecco the Dolphin</p><p>38 points / 11 comments — by bbayles</p><p><a href="https://news.ycombinator.com/item?id=49272784">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[12pt] 独自ゲームエンジン構築で得られるもの</title>
-      <link>https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html</link>
-      <guid isPermaLink="false">hn-49303405</guid>
-      <pubDate>Fri, 14 Aug 2026 19:20:20 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49303405</comments>
-      <description><![CDATA[<p>What You Gain by Building Your Own Game Engine</p><p>12 points / 8 comments — by kwakwa_cat</p><p><a href="https://news.ycombinator.com/item?id=49303405">HNのコメントを読む</a></p>]]></description>
+      <title>[35pt] The Taking of Pelham 123の全外部撮影シーン</title>
+      <link>https://iafisher.com/2026/07/pelham-123</link>
+      <guid isPermaLink="false">hn-49303957</guid>
+      <pubDate>Fri, 14 Aug 2026 20:10:49 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49303957</comments>
+      <description><![CDATA[<p>Every exterior shot in The Taking of Pelham 123</p><p>35 points / 9 comments — by evakhoury</p><p><a href="https://news.ycombinator.com/item?id=49303957">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[31pt] Racket v9.3</title>
+      <link>https://blog.racket-lang.org/2026/08/racket-v9-3.html</link>
+      <guid isPermaLink="false">hn-49302562</guid>
+      <pubDate>Fri, 14 Aug 2026 18:14:48 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49302562</comments>
+      <description><![CDATA[<p>Racket v9.3</p><p>31 points / 0 comments — by privong</p><p><a href="https://news.ycombinator.com/item?id=49302562">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[25pt] NSA and IETF, Part 9</title>
+      <link>https://blog.cr.yp.to/20260814-update.html</link>
+      <guid isPermaLink="false">hn-49306432</guid>
+      <pubDate>Sat, 15 Aug 2026 00:54:01 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49306432</comments>
+      <description><![CDATA[<p>NSA and IETF, Part 9</p><p>25 points / 5 comments — by libroot</p><p><a href="https://news.ycombinator.com/item?id=49306432">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[21pt] Hi-Fiテープレコーダーがラジオを永遠に変えた</title>
+      <link>https://spectrum.ieee.org/magnetophon-laugh-track</link>
+      <guid isPermaLink="false">hn-49263186</guid>
+      <pubDate>Tue, 11 Aug 2026 19:23:33 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49263186</comments>
+      <description><![CDATA[<p>Hi-Fi Tape Recorder Changed Radio Forever</p><p>21 points / 1 comments — by Jimmc414</p><p><a href="https://news.ycombinator.com/item?id=49263186">HNのコメントを読む</a></p>]]></description>
     </item>
   </channel>
 </rss>

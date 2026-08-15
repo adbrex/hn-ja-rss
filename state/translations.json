@@ -713,7 +713,7 @@
  },
  "Don't classify, hallucinate": {
   "ja": "分類するな、幻覚を生成せよ",
-  "ts": "2026-08-14T21:18:43.954499+00:00"
+  "ts": "2026-08-15T03:32:38.563716+00:00"
  },
  "Don't credit the LLM": {
   "ja": "LLMを信用するな",
@@ -783,6 +783,10 @@
   "ja": "欧州EV販売でBEV50%増加、市場シェア26%に到達",
   "ts": "2026-08-02T21:48:31.720714+00:00"
  },
+ "Every exterior shot in The Taking of Pelham 123": {
+  "ja": "The Taking of Pelham 123の全外部撮影シーン",
+  "ts": "2026-08-15T03:32:43.158025+00:00"
+ },
  "Every fast write moves work somewhere else": {
   "ja": "高速書き込みはすべて仕事を別の場所に移動させる",
   "ts": "2026-08-09T21:24:15.218424+00:00"
@@ -842,6 +846,10 @@
  "Firefighter arson a long-standing issue – expert": {
   "ja": "消防士の放火は長年の課題 – 専門家",
   "ts": "2026-08-01T05:48:56.409000+00:00"
+ },
+ "Firefox is now the last major browser that still supports uBlock Origin": {
+  "ja": "Firefoxは今もuBlock Originをサポートする唯一の主要ブラウザ",
+  "ts": "2026-08-15T03:32:43.158025+00:00"
  },
  "Fixing my tooltip accessibility mistake": {
   "ja": "ツールチップのアクセシビリティミスを修正する",
@@ -909,7 +917,7 @@
  },
  "GLM-5.3: Frontier coding with emergent cyber capabilities": {
   "ja": "GLM-5.3: 新興サイバー能力によるフロンティアコーディング",
-  "ts": "2026-08-14T21:18:37.510831+00:00"
+  "ts": "2026-08-15T03:32:38.563671+00:00"
  },
  "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?": {
   "ja": "物理AIにおけるGPT-5.6対Claude Fable 5の性能比較",
@@ -963,6 +971,10 @@
   "ja": "GoAccess – オープンソースのリアルタイムログアナライザーとインタラクティブビューア",
   "ts": "2026-08-13T21:37:39.844032+00:00"
  },
+ "Going Dark, and the era of law enforcement hacking": {
+  "ja": "Going Dark、法執行機関によるハッキングの時代",
+  "ts": "2026-08-15T03:32:43.158025+00:00"
+ },
  "Golang proposal: container/: generic collection types": {
   "ja": "Golang提案：container/: ジェネリック コレクション型",
   "ts": "2026-08-01T10:29:11.166416+00:00"
@@ -981,7 +993,7 @@
  },
  "Google is making private AI practical with homomorphic encryption": {
   "ja": "Googleが準同型暗号で民間向けAIを現実化",
-  "ts": "2026-08-14T21:18:43.954499+00:00"
+  "ts": "2026-08-15T03:32:38.563708+00:00"
  },
  "Google will expand age checks on Android worldwide till the end of the year": {
   "ja": "GoogleがAndroidの年齢確認を年末までに世界中で拡大予定",
@@ -1054,6 +1066,10 @@
  "Herdr is joining Y Combinator. The runtime stays open": {
   "ja": "HerdrがY Combinatorに参加。ランタイムはオープンなまま",
   "ts": "2026-08-07T09:54:29.419399+00:00"
+ },
+ "Hi-Fi Tape Recorder Changed Radio Forever": {
+  "ja": "Hi-Fiテープレコーダーがラジオを永遠に変えた",
+  "ts": "2026-08-15T03:32:43.158025+00:00"
  },
  "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons": {
   "ja": "高解像度写真がMarsの多角形平原から突き出た砂冠された台地を捉える",
@@ -1201,7 +1217,7 @@
  },
  "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone": {
   "ja": "RSSフィードをe-inkニュースペーパーに変えてスマートフォンの閲覧をやめた",
-  "ts": "2026-08-14T21:18:43.954499+00:00"
+  "ts": "2026-08-15T03:32:38.563722+00:00"
  },
  "I want extern \"fil-C\"": {
   "ja": "extern \"fil-C\" が欲しい",
@@ -1273,7 +1289,7 @@
  },
  "Introducing Toast 1": {
   "ja": "Toast 1発表",
-  "ts": "2026-08-14T21:18:43.954499+00:00"
+  "ts": "2026-08-15T03:32:38.563719+00:00"
  },
  "Investigating three real-world incidents in our cybersecurity evaluations": {
   "ja": "サイバーセキュリティ評価における3つの実世界インシデントの調査",
@@ -1523,6 +1539,10 @@
   "ja": "マグニチュード7.4地震 – コロンビア、San José del Palmar南方5km",
   "ts": "2026-08-10T21:34:46.290115+00:00"
  },
+ "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia": {
+  "ja": "マグニチュード7.7の地震 – インドネシア・Ende北北西68km",
+  "ts": "2026-08-15T03:32:43.158025+00:00"
+ },
  "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD": {
   "ja": "Postgresを分析処理で300倍高速化：バッチ処理、演算子融合、SIMD",
   "ts": "2026-08-08T09:30:29.480429+00:00"
@@ -1585,7 +1605,7 @@
  },
  "Maximizing the value of your Claude Code sessions": {
   "ja": "Claude Codeセッションの価値を最大化する",
-  "ts": "2026-08-14T21:18:43.954499+00:00"
+  "ts": "2026-08-15T03:32:38.563725+00:00"
  },
  "Melatonin impairs morning cognition in healthy young adults (2023)": {
   "ja": "メラトニンは健康な若年成人の朝の認知機能を低下させる（2023年）",
@@ -1733,7 +1753,7 @@
  },
  "New Lower and Upper Bounds for the Grothendieck Constant": {
   "ja": "Grothendieck定数の新しい上限と下限",
-  "ts": "2026-08-14T21:18:43.954499+00:00"
+  "ts": "2026-08-15T03:32:38.563744+00:00"
  },
  "New Mexico court orders Meta to pay $567m over harms to children’s mental health": {
   "ja": "ニューメキシコ州の裁判所、Metaに子どもの心身に与えた害について567百万ドルの支払いを命じる",
@@ -2121,7 +2141,7 @@
  },
  "RustDesk now supports true unattended remote access on Wayland": {
   "ja": "RustDeskがWayland上での真の無人リモートアクセスに対応",
-  "ts": "2026-08-14T21:18:43.954499+00:00"
+  "ts": "2026-08-15T03:32:38.563711+00:00"
  },
  "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros": {
   "ja": "SPF レコード構文：メカニズム、クォリファイア、モディファイア、マクロ",
@@ -2173,7 +2193,7 @@
  },
  "Seven books I keep close because I love them": {
   "ja": "大切にしている7冊の本",
-  "ts": "2026-08-14T21:18:43.954499+00:00"
+  "ts": "2026-08-15T03:32:38.563704+00:00"
  },
  "Sharing an X11 Server Across Hosts with FamilyWild": {
   "ja": "FamilyWildでX11サーバーをホスト間で共有する",
@@ -2241,7 +2261,7 @@
  },
  "Show HN: Ember – Redshift safe color palettes": {
   "ja": "Show HN: Ember – Redshift安全カラーパレット",
-  "ts": "2026-08-14T21:18:43.954499+00:00"
+  "ts": "2026-08-15T03:32:38.563737+00:00"
  },
  "Show HN: Fuse – statically typed functional programming language": {
   "ja": "Show HN: Fuse – 静的型付き関数型プログラミング言語",
@@ -2297,7 +2317,7 @@
  },
  "Show HN: LuaCAD – Parametric CAD Scripted in Lua": {
   "ja": "Show HN: LuaCAD – Luaで記述されたパラメトリックCAD",
-  "ts": "2026-08-14T21:18:43.954499+00:00"
+  "ts": "2026-08-15T03:32:38.563733+00:00"
  },
  "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri": {
   "ja": "Show HN: Lumabri – ColibriによるP2Pスワーム上でMoeモデルを実行",
@@ -2321,7 +2341,7 @@
  },
  "Show HN: Mole – Deep research agent for your terminal": {
   "ja": "Show HN: Mole – ターミナル向けディープリサーチエージェント",
-  "ts": "2026-08-14T21:18:43.954499+00:00"
+  "ts": "2026-08-15T03:32:38.563740+00:00"
  },
  "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots": {
   "ja": "Show HN: Needle2: スマートフォン、ウェアラブル、スマートホーム、ロボット向け14MBエージェントLLM",
@@ -2427,6 +2447,10 @@
   "ja": "Show HN: textlog – 静かなテキストのみのマイクロブログプラットフォーム、オープンソース、JavaScript不要",
   "ts": "2026-08-08T04:07:01.818693+00:00"
  },
+ "Simplifying and Refactoring Introductory Calculus": {
+  "ja": "大学初年級微積分学の簡潔化と再構成",
+  "ts": "2026-08-15T03:32:43.158025+00:00"
+ },
  "Simulating TCP loss and congestion in browser using Go/WASM": {
   "ja": "Go/WASMを使ってブラウザでTCP損失と輻輳をシミュレート",
   "ts": "2026-07-31T11:24:36.992076+00:00"
@@ -2510,6 +2534,10 @@
  "Stop Killing the Internet: No Digital ID and No Age Verification": {
   "ja": "インターネットを殺すのをやめよう：デジタルIDも年齢認証もない",
   "ts": "2026-07-28T21:57:37.461952+00:00"
+ },
+ "Stop sending me huge PRs; a rant": {
+  "ja": "巨大なPRを送るのはやめてください: 怒りの声",
+  "ts": "2026-08-15T03:32:43.158025+00:00"
  },
  "Stowaway – Take the window seat on any plane or satellite overhead": {
   "ja": "Stowaway – あらゆる飛行機や衛星上で窓側の座席を",
@@ -2678,6 +2706,10 @@
  "The Origins of Vintage Comics Part 1": {
   "ja": "ビンテージコミックスの起源 Part 1",
   "ts": "2026-08-06T05:41:30.536041+00:00"
+ },
+ "The Ploopy A+ Trackball Is Here": {
+  "ja": "Ploopy A+ Trackballが登場",
+  "ts": "2026-08-15T03:32:43.158025+00:00"
  },
  "The Productivity Mirage": {
   "ja": "生産性の蜃気楼",
@@ -2973,7 +3005,7 @@
  },
  "Ultraviolet Bird Photography": {
   "ja": "紫外線鳥類写真",
-  "ts": "2026-08-14T21:18:43.954499+00:00"
+  "ts": "2026-08-15T03:32:38.563728+00:00"
  },
  "Una GPS smart watch – Repairable, USB-C charging, developer-friendly": {
   "ja": "Una GPS スマートウォッチ－修理可能、USB-C充電、開発者フレンドリー",
@@ -2982,6 +3014,10 @@
  "Understanding is the new bottleneck": {
   "ja": "理解が新たなボトルネック",
   "ts": "2026-08-14T09:53:32.154441+00:00"
+ },
+ "Unearthing a 31 year old Easter egg in Ecco the Dolphin": {
+  "ja": "Ecco the Dolphinに隠された31年前のイースターエッグを発掘",
+  "ts": "2026-08-15T03:32:43.158025+00:00"
  },
  "Unexpected events and prosocial behavior: the Batman effect": {
   "ja": "予期しないイベントと向社会的行動: バットマン効果",
@@ -3185,7 +3221,7 @@
  },
  "Why does Opus 5 feel worse to work with?": {
   "ja": "Opus 5は何故使いにくく感じるのか",
-  "ts": "2026-08-14T21:18:43.954499+00:00"
+  "ts": "2026-08-15T03:32:38.563698+00:00"
  },
  "Why is everyone trying to build a solid-state battery?": {
   "ja": "なぜ全員が全固体電池の開発を試みているのか",
