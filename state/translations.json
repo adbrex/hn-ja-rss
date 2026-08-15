@@ -23,6 +23,10 @@
   "ja": "2027年メモリ容量が売り切れたと報道",
   "ts": "2026-08-08T09:30:29.480423+00:00"
  },
+ "2D Gaussian Splatting for Bézier Spline Line Art Vectorization": {
+  "ja": "ベジェスプライン線画ベクトル化のための2D Gaussian Splatting",
+  "ts": "2026-08-15T21:14:07.444034+00:00"
+ },
  "2x, not 10x: coding with LLMs in 2026": {
   "ja": "2026年のLLMでのコーディング：2x、10xではなく",
   "ts": "2026-07-30T22:07:54.199767+00:00"
@@ -67,6 +71,10 @@
   "ja": "物理学者がペットのハムスターの回し車をStavaにアップロードするようにハック",
   "ts": "2026-08-08T09:30:33.391680+00:00"
  },
+ "A Spectre Is Haunting Unicode": {
+  "ja": "Unicodeを脅かす幽霊",
+  "ts": "2026-08-15T21:14:07.444034+00:00"
+ },
  "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention": {
   "ja": "偽装された監視条約：カナダがUN犯罪防止条約に署名",
   "ts": "2026-08-01T21:47:42.064746+00:00"
@@ -82,6 +90,10 @@
  "A big win for Android interoperability": {
   "ja": "Androidの相互運用性における大きな勝利",
   "ts": "2026-08-02T10:28:30.211842+00:00"
+ },
+ "A controversial Alzheimer's surgery is said to reverse symptoms": {
+  "ja": "物議を醸すアルツハイマー手術が症状を逆転させる可能性",
+  "ts": "2026-08-15T21:14:07.444034+00:00"
  },
  "A directory of people who love RSS": {
   "ja": "RSSを愛する人々のディレクトリ",
@@ -131,6 +143,10 @@
   "ja": "AI、CTFチャレンジを数分で解く",
   "ts": "2026-08-11T21:38:47.091273+00:00"
  },
+ "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them": {
+  "ja": "AIは数学者を上回る思考をしていない。記憶力で上回っているだけ",
+  "ts": "2026-08-15T21:14:07.444034+00:00"
+ },
  "AI Mania: From Tulips to Tokens": {
   "ja": "AImania：チューリップからトークンへ",
   "ts": "2026-08-02T21:48:31.720714+00:00"
@@ -150,6 +166,10 @@
  "AI fuels more than half of cybercrime in Africa as scams surge – Interpol": {
   "ja": "AIがアフリカのサイバー犯罪の半数以上を助長、詐欺急増中 – Interpol",
   "ts": "2026-08-05T11:14:05.015364+00:00"
+ },
+ "AI in drug discovery — what it is, where we stand and the path forward": {
+  "ja": "創薬におけるAI：それが何か、現在地、今後の道筋",
+  "ts": "2026-08-15T21:14:07.444034+00:00"
  },
  "AI is removing the middle class of software engineering?": {
   "ja": "AIがソフトウェアエンジニアの中流階級を消滅させるのか",
@@ -335,6 +355,10 @@
   "ja": "宇宙飛行士、6ヶ月のミッション後も続く「観察者」の感覚を報告",
   "ts": "2026-07-28T05:23:02.934777+00:00"
  },
+ "At-home test for infected ticks could improve Lyme Disease diagnosis": {
+  "ja": "自宅用感染ダニ検査でライム病診断が改善の可能性",
+  "ts": "2026-08-15T21:14:07.444034+00:00"
+ },
  "Atlassian Rovo Exfiltrates Data, Bypassing Controls": {
   "ja": "Atlassian Rovoがデータ漏洩、コントロール回避",
   "ts": "2026-08-06T11:14:18.091442+00:00"
@@ -358,6 +382,10 @@
  "Auto mode is now the default in Claude Code": {
   "ja": "Claude Codeの自動モードがデフォルトに",
   "ts": "2026-08-10T10:11:21.500473+00:00"
+ },
+ "Auto-research with codex: How I achieved a 232x Faster Kernel": {
+  "ja": "codexによる自動研究：232倍高速なカーネルを実現した方法",
+  "ts": "2026-08-15T21:14:07.444034+00:00"
  },
  "Autoregressive Language Model on the 6502 Processor": {
   "ja": "6502プロセッサ上の自己回帰言語モデル",
@@ -565,7 +593,11 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-08-14T09:53:32.154461+00:00"
+  "ts": "2026-08-15T21:14:00.376782+00:00"
+ },
+ "Could a computer scientist build a brain?": {
+  "ja": "コンピュータ科学者は脳を構築できるか",
+  "ts": "2026-08-15T21:14:07.444034+00:00"
  },
  "Cracking Windows Open: Porting RADV to Win32": {
   "ja": "WindowsをこじあくてRADVをWin32に移植する",
@@ -1169,7 +1201,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-15T09:19:16.509901+00:00"
+  "ts": "2026-08-15T21:14:00.376777+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -1269,7 +1301,7 @@
  },
  "In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace": {
   "ja": "1962年、エジプトのミサイルプログラムは主要科学者を忽然と失った",
-  "ts": "2026-08-15T09:19:20.934747+00:00"
+  "ts": "2026-08-15T21:14:00.376769+00:00"
  },
  "In Australia, a home battery boom has helped cut wholesale power prices": {
   "ja": "オーストラリアのホームバッテリーブーム、卸電力価格を引き下げ",
@@ -1643,6 +1675,10 @@
   "ja": "MetaがAI生成児童性虐待画像を含む広告を掲載",
   "ts": "2026-08-05T22:07:29.867079+00:00"
  },
+ "Meta will train its AI on Newsmax, a far-right media outlet": {
+  "ja": "MetaがNewsmax極右メディアでAIをトレーニング",
+  "ts": "2026-08-15T21:14:07.444034+00:00"
+ },
  "Microsoft Word for Windows 1.1a, Native X64 Port": {
   "ja": "Microsoft Word for Windows 1.1a、ネイティブX64ポート",
   "ts": "2026-08-09T09:32:05.584523+00:00"
@@ -1718,6 +1754,10 @@
  "Mykhailo Fedorov reveals struggle to secure Patriot missiles and Western support": {
   "ja": "ミハイロ・フェドロフが愛国者ミサイルと西側支援確保の苦闘を明かす",
   "ts": "2026-08-07T21:32:30.787829+00:00"
+ },
+ "Möbius Strips and Differential Equations": {
+  "ja": "メビウスの帯と微分方程式",
+  "ts": "2026-08-15T21:14:07.444034+00:00"
  },
  "Möbius-Strip Crosswords": {
   "ja": "メビウスの帯クロスワード",
@@ -1959,6 +1999,10 @@
   "ja": "Principia Mathematicaは現代的で深い洞察に満ちている",
   "ts": "2026-08-13T09:56:38.962813+00:00"
  },
+ "Printytron – Type it. 3D Print it": {
+  "ja": "Printytron – タイプして3D印刷する",
+  "ts": "2026-08-15T21:14:07.444034+00:00"
+ },
  "Probabilistic Estimation for Localizing a Radioactive Source in an Urban Setting": {
   "ja": "都市環境における放射性物質の位置特定のための確率的推定",
   "ts": "2026-08-13T04:46:48.496392+00:00"
@@ -2018,6 +2062,10 @@
  "RFC 9851: TLS 1.2 is in Feature Freeze": {
   "ja": "RFC 9851: TLS 1.2がフィーチャーフリーズ状態に",
   "ts": "2026-08-03T06:14:03.792442+00:00"
+ },
+ "RISC-V: They Should Have Known Better": {
+  "ja": "RISC-V：最初から知るべきだった",
+  "ts": "2026-08-15T21:14:07.444034+00:00"
  },
  "RSI Simulator": {
   "ja": "RSI シミュレーター",
@@ -2115,6 +2163,10 @@
   "ja": "RipGrep muslバイナリが大規模検索時に断続的にセグメンテーションフォルトを起こす",
   "ts": "2026-08-01T21:47:42.064746+00:00"
  },
+ "Robot Videos: Heavy Lift Cargo Drones, Grippers, More": {
+  "ja": "ロボット映像：大型輸送ドローン、グリッパーほか",
+  "ts": "2026-08-15T21:14:07.444034+00:00"
+ },
  "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N": {
   "ja": "TP-Link TL-841Nのroot化、ファームウェア解析、永続的な認証情報",
   "ts": "2026-08-03T06:13:57.452082+00:00"
@@ -2203,6 +2255,10 @@
   "ja": "Kimi K3のセルフホスティング：ハードウェアコスト20%増で解決率20%向上",
   "ts": "2026-07-29T21:54:08.013720+00:00"
  },
+ "Semaglutide linked to lower predicted dementia risk": {
+  "ja": "セマグルチドが認知症リスク低減と関連",
+  "ts": "2026-08-15T21:14:07.444034+00:00"
+ },
  "Seven books I keep close because I love them": {
   "ja": "大切にしている7冊の本",
   "ts": "2026-08-15T03:32:38.563704+00:00"
@@ -2278,6 +2334,10 @@
  "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it": {
   "ja": "Show HN: DeepSeekをGPT-OSSに蒸留しても検閲は転送されない。試してみよ",
   "ts": "2026-07-31T11:24:33.340236+00:00"
+ },
+ "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum": {
+  "ja": "Show HN: Eigendrum - 任意の形を描いてドラムの音として聞く",
+  "ts": "2026-08-15T21:14:07.444034+00:00"
  },
  "Show HN: Ember – Redshift safe color palettes": {
   "ja": "Show HN: Ember – Redshift安全カラーパレット",
@@ -2603,6 +2663,10 @@
   "ja": "サンパウロの住民、劣化地域を都市森林に変える",
   "ts": "2026-08-07T21:32:23.738662+00:00"
  },
+ "T3X/0 a Minimal Procedural Language": {
+  "ja": "T3X/0 ミニマルな手続き言語",
+  "ts": "2026-08-15T21:14:07.444034+00:00"
+ },
  "Tail-call optimization in C is relatively recent (2025)": {
   "ja": "C言語の末尾呼び出し最適化は比較的最近の機能（2025年）",
   "ts": "2026-08-11T09:54:12.807142+00:00"
@@ -2683,6 +2747,10 @@
   "ja": "コールドメール",
   "ts": "2026-07-30T11:01:01.391678+00:00"
  },
+ "The Color of White Light": {
+  "ja": "白色光の色",
+  "ts": "2026-08-15T21:14:07.444034+00:00"
+ },
  "The Computational Theory of Mind (2015)": {
   "ja": "心の計算論 (2015)",
   "ts": "2026-08-03T06:14:03.792442+00:00"
@@ -2694,6 +2762,10 @@
  "The Dunning-Kruger effect may just be a data artefact (2020)": {
   "ja": "ダニング＝クルーガー効果はただのデータアーティファクトかもしれない（2020）",
   "ts": "2026-08-03T22:01:24.604148+00:00"
+ },
+ "The Dutch Community Where People Live on Strips of Land in a Lake": {
+  "ja": "湖の土地帯に人々が暮らすオランダのコミュニティ",
+  "ts": "2026-08-15T21:14:07.444034+00:00"
  },
  "The Economic Benefit of Refactoring": {
   "ja": "リファクタリングの経済的効果",
@@ -2847,6 +2919,10 @@
   "ja": "映画レンタル店の失われた市民的生活",
   "ts": "2026-07-31T11:24:33.340235+00:00"
  },
+ "The mathematical beauty of hyperbezier curves": {
+  "ja": "hyperbezier曲線の数学的美しさ",
+  "ts": "2026-08-15T21:14:07.444034+00:00"
+ },
  "The mean means nothing: data visualization to debug a latency problem": {
   "ja": "平均値は無意味: レイテンシ問題をデバッグするためのデータ可視化",
   "ts": "2026-07-31T11:24:36.992076+00:00"
@@ -2865,7 +2941,7 @@
  },
  "The other Sean Byrne doesn't exist": {
   "ja": "もう一人のSean Byrneは存在しない",
-  "ts": "2026-08-15T09:19:20.934747+00:00"
+  "ts": "2026-08-15T21:14:00.376741+00:00"
  },
  "The phone book that led us to Assad's spy chief in hiding": {
   "ja": "潜伏していたアサド政権のスパイ局長に導いた電話帳",
@@ -2938,6 +3014,10 @@
  "Three Theses on the Literacy Crisis": {
   "ja": "識字危機に関する3つのテーゼ",
   "ts": "2026-07-28T05:23:02.934777+00:00"
+ },
+ "Thunderbird's Desktop Calendar Visual Redesign": {
+  "ja": "Thunderbirdデスクトップカレンダーのビジュアルリデザイン",
+  "ts": "2026-08-15T21:14:07.444034+00:00"
  },
  "Tim King, AmigaDOS developer, has died": {
   "ja": "AmigaDOS開発者Tim Kingが死去",
@@ -3090,6 +3170,10 @@
  "User Interfaces of the Demo Scene": {
   "ja": "デモシーンのユーザーインターフェース",
   "ts": "2026-07-30T05:33:31.620470+00:00"
+ },
+ "Using GCC's Nested Functions with Wide Pointers and No Trampolines II": {
+  "ja": "GCCのネストされた関数をワイドポインタとトランポリンなしで使う II",
+  "ts": "2026-08-15T21:14:07.444034+00:00"
  },
  "Using an open model feels surprisingly good": {
   "ja": "オープンモデルの使用は意外と良い",
@@ -3283,6 +3367,10 @@
   "ja": "なぜ芝刈りが得意な人と苦手な人がいるのか",
   "ts": "2026-08-04T22:06:22.622257+00:00"
  },
+ "Why tech bosses keep sharing their manifestos about AI": {
+  "ja": "テック経営者がAIについての宣言文を共有し続ける理由",
+  "ts": "2026-08-15T21:14:07.444034+00:00"
+ },
  "Why tiny JPEGs look different in Chrome": {
   "ja": "小さなJPEGがChromeで異なる理由",
   "ts": "2026-08-13T09:56:38.962802+00:00"
@@ -3303,6 +3391,10 @@
   "ja": "ルーマニアの作業員が550万年間密閉されていた洞窟を掘り破る",
   "ts": "2026-08-08T09:30:33.391680+00:00"
  },
+ "Working with AI Feels More Like Leadership Than Coding": {
+  "ja": "AIでの作業はコーディングというより経営判断に近い",
+  "ts": "2026-08-15T21:14:07.444034+00:00"
+ },
  "World Train Map – 1247 train routes around the world": {
   "ja": "World Train Map – 世界中の1247の鉄道路線",
   "ts": "2026-08-11T04:14:09.375353+00:00"
@@ -3318,6 +3410,10 @@
  "Xbox goes down. You can't play games you own on disc": {
   "ja": "Xboxがダウン。所有するディスクゲームがプレイできない",
   "ts": "2026-08-05T11:14:05.015348+00:00"
+ },
+ "Yadda 3.0.0: BDD in the Age of AI Agents": {
+  "ja": "Yadda 3.0.0：AIエージェント時代のBDD",
+  "ts": "2026-08-15T21:14:07.444034+00:00"
  },
  "You don't need React: creating a minimal UI library in Vanilla JavaScript": {
   "ja": "Reactは不要：Vanilla JavaScriptで最小限のUIライブラリを作る",
