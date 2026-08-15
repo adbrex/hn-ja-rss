@@ -135,6 +135,10 @@
   "ja": "AImania：チューリップからトークンへ",
   "ts": "2026-08-02T21:48:31.720714+00:00"
  },
+ "AI by Hand": {
+  "ja": "手作りAI",
+  "ts": "2026-08-15T09:19:20.934747+00:00"
+ },
  "AI doesn't generate working products, that's still your job": {
   "ja": "AIが機能する製品を生成することはない。それはあなたの仕事だ",
   "ts": "2026-08-01T10:29:15.366156+00:00"
@@ -527,6 +531,10 @@
   "ja": "Linux デスクトップアプリの ChatGPT に Codex が登場、プレビュー開始",
   "ts": "2026-08-13T21:37:39.844032+00:00"
  },
+ "Coin-sized device can hack a Boeing 737": {
+  "ja": "コイン大のデバイスでBoeing 737をハック可能",
+  "ts": "2026-08-15T09:19:20.934747+00:00"
+ },
  "Come for ENIAC, Stay for UNIVAC and Skeduflo": {
   "ja": "ENIAC に来て、UNIVAC と Skeduflo に留まる",
   "ts": "2026-08-13T21:37:39.844032+00:00"
@@ -849,7 +857,7 @@
  },
  "Firefox is now the last major browser that still supports uBlock Origin": {
   "ja": "Firefoxは今もuBlock Originをサポートする唯一の主要ブラウザ",
-  "ts": "2026-08-15T03:32:43.158025+00:00"
+  "ts": "2026-08-15T09:19:16.509872+00:00"
  },
  "Fixing my tooltip accessibility mistake": {
   "ja": "ツールチップのアクセシビリティミスを修正する",
@@ -917,7 +925,7 @@
  },
  "GLM-5.3: Frontier coding with emergent cyber capabilities": {
   "ja": "GLM-5.3: 新興サイバー能力によるフロンティアコーディング",
-  "ts": "2026-08-15T03:32:38.563671+00:00"
+  "ts": "2026-08-15T09:19:16.509856+00:00"
  },
  "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?": {
   "ja": "物理AIにおけるGPT-5.6対Claude Fable 5の性能比較",
@@ -973,7 +981,7 @@
  },
  "Going Dark, and the era of law enforcement hacking": {
   "ja": "Going Dark、法執行機関によるハッキングの時代",
-  "ts": "2026-08-15T03:32:43.158025+00:00"
+  "ts": "2026-08-15T09:19:16.509880+00:00"
  },
  "Golang proposal: container/: generic collection types": {
   "ja": "Golang提案：container/: ジェネリック コレクション型",
@@ -993,7 +1001,7 @@
  },
  "Google is making private AI practical with homomorphic encryption": {
   "ja": "Googleが準同型暗号で民間向けAIを現実化",
-  "ts": "2026-08-15T03:32:38.563708+00:00"
+  "ts": "2026-08-15T09:19:16.509877+00:00"
  },
  "Google will expand age checks on Android worldwide till the end of the year": {
   "ja": "GoogleがAndroidの年齢確認を年末までに世界中で拡大予定",
@@ -1161,7 +1169,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-14T21:18:37.510856+00:00"
+  "ts": "2026-08-15T09:19:16.509901+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -1217,7 +1225,7 @@
  },
  "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone": {
   "ja": "RSSフィードをe-inkニュースペーパーに変えてスマートフォンの閲覧をやめた",
-  "ts": "2026-08-15T03:32:38.563722+00:00"
+  "ts": "2026-08-15T09:19:16.509889+00:00"
  },
  "I want extern \"fil-C\"": {
   "ja": "extern \"fil-C\" が欲しい",
@@ -1259,6 +1267,10 @@
   "ja": "A*経路探索のヒューリスティック改善",
   "ts": "2026-08-09T09:32:00.990056+00:00"
  },
+ "In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace": {
+  "ja": "1962年、エジプトのミサイルプログラムは主要科学者を忽然と失った",
+  "ts": "2026-08-15T09:19:20.934747+00:00"
+ },
  "In Australia, a home battery boom has helped cut wholesale power prices": {
   "ja": "オーストラリアのホームバッテリーブーム、卸電力価格を引き下げ",
   "ts": "2026-08-14T21:18:43.954499+00:00"
@@ -1289,7 +1301,7 @@
  },
  "Introducing Toast 1": {
   "ja": "Toast 1発表",
-  "ts": "2026-08-15T03:32:38.563719+00:00"
+  "ts": "2026-08-15T09:19:16.509885+00:00"
  },
  "Investigating three real-world incidents in our cybersecurity evaluations": {
   "ja": "サイバーセキュリティ評価における3つの実世界インシデントの調査",
@@ -1541,7 +1553,7 @@
  },
  "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia": {
   "ja": "マグニチュード7.7の地震 – インドネシア・Ende北北西68km",
-  "ts": "2026-08-15T03:32:43.158025+00:00"
+  "ts": "2026-08-15T09:19:16.509887+00:00"
  },
  "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD": {
   "ja": "Postgresを分析処理で300倍高速化：バッチ処理、演算子融合、SIMD",
@@ -1605,7 +1617,7 @@
  },
  "Maximizing the value of your Claude Code sessions": {
   "ja": "Claude Codeセッションの価値を最大化する",
-  "ts": "2026-08-15T03:32:38.563725+00:00"
+  "ts": "2026-08-15T09:19:16.509884+00:00"
  },
  "Melatonin impairs morning cognition in healthy young adults (2023)": {
   "ja": "メラトニンは健康な若年成人の朝の認知機能を低下させる（2023年）",
@@ -2141,7 +2153,7 @@
  },
  "RustDesk now supports true unattended remote access on Wayland": {
   "ja": "RustDeskがWayland上での真の無人リモートアクセスに対応",
-  "ts": "2026-08-15T03:32:38.563711+00:00"
+  "ts": "2026-08-15T09:19:16.509882+00:00"
  },
  "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros": {
   "ja": "SPF レコード構文：メカニズム、クォリファイア、モディファイア、マクロ",
@@ -2231,6 +2243,10 @@
   "ja": "Show HN: Guile Schemeで実装したudev",
   "ts": "2026-07-31T11:24:36.992076+00:00"
  },
+ "Show HN: A website for exploring historical photographs of my city": {
+  "ja": "Show HN: 自分の街の歴史的写真を探索するウェブサイト",
+  "ts": "2026-08-15T09:19:20.934747+00:00"
+ },
  "Show HN: Ante, a coding agent in a single binary that runs offline": {
   "ja": "Show HN: Ante、単一バイナリで動作するオフラインコーディングエージェント",
   "ts": "2026-08-11T09:54:12.807146+00:00"
@@ -2254,6 +2270,10 @@
  "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators": {
   "ja": "Show HN: CostPerPrompt – ライブAI APIの価格設定と実ワークロード経費計算ツール",
   "ts": "2026-08-02T05:49:41.204416+00:00"
+ },
+ "Show HN: Deltix – AI Driven Testing": {
+  "ja": "Show HN: Deltix – AI駆動型テスティング",
+  "ts": "2026-08-15T09:19:20.934747+00:00"
  },
  "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it": {
   "ja": "Show HN: DeepSeekをGPT-OSSに蒸留しても検閲は転送されない。試してみよ",
@@ -2341,7 +2361,7 @@
  },
  "Show HN: Mole – Deep research agent for your terminal": {
   "ja": "Show HN: Mole – ターミナル向けディープリサーチエージェント",
-  "ts": "2026-08-15T03:32:38.563740+00:00"
+  "ts": "2026-08-15T09:19:16.509898+00:00"
  },
  "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots": {
   "ja": "Show HN: Needle2: スマートフォン、ウェアラブル、スマートホーム、ロボット向け14MBエージェントLLM",
@@ -2387,6 +2407,10 @@
   "ja": "Show HN: Shitty – 高速ターミナル。メモリアンセーフでお前のより高速",
   "ts": "2026-08-03T06:14:03.792442+00:00"
  },
+ "Show HN: Silent Shark – tactical map-based WWII submarine sim": {
+  "ja": "Show HN: Silent Shark – 戦術的マップベースのWWII潜水艦シミュレーター",
+  "ts": "2026-08-15T09:19:20.934747+00:00"
+ },
  "Show HN: Simple algorithm and color space to generate diverse skin tones": {
   "ja": "Show HN: 多様な肌色を生成するシンプルなアルゴリズムと色空間",
   "ts": "2026-08-05T11:14:05.015352+00:00"
@@ -2402,6 +2426,10 @@
  "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)": {
   "ja": "Show HN: Channels SDK – 任意のエージェントを任意のチャネルに対応させる (Slack、MS Teams)",
   "ts": "2026-08-07T04:50:18.700395+00:00"
+ },
+ "Show HN: ThoughtDAG – An editable context graph for LLM conversations": {
+  "ja": "Show HN: ThoughtDAG – LLM会話用の編集可能コンテキストグラフ",
+  "ts": "2026-08-15T09:19:20.934747+00:00"
  },
  "Show HN: Today's cities on a globe of Earth's tectonic past and future": {
   "ja": "Show HN: 地球の過去と未来のテクトニクス地球儀上に表示した現在の都市",
@@ -2450,6 +2478,10 @@
  "Simplifying and Refactoring Introductory Calculus": {
   "ja": "大学初年級微積分学の簡潔化と再構成",
   "ts": "2026-08-15T03:32:43.158025+00:00"
+ },
+ "Simplifying and Refactoring Introductory Calculus (2018)": {
+  "ja": "初等微積分の単純化と再構成（2018年）",
+  "ts": "2026-08-15T09:19:20.934747+00:00"
  },
  "Simulating TCP loss and congestion in browser using Go/WASM": {
   "ja": "Go/WASMを使ってブラウザでTCP損失と輻輳をシミュレート",
@@ -2554,6 +2586,10 @@
  "Sula: A Gemini protocol server written in Scryer Prolog": {
   "ja": "Sula: Scryer Prologで書かれたGeminiプロトコルサーバー",
   "ts": "2026-08-05T22:07:29.867079+00:00"
+ },
+ "Super Mario Derivations": {
+  "ja": "Super Marioの導出",
+  "ts": "2026-08-15T09:19:20.934747+00:00"
  },
  "SwiftUI After 7 Years": {
   "ja": "7年後のSwiftUI",
@@ -2709,7 +2745,7 @@
  },
  "The Ploopy A+ Trackball Is Here": {
   "ja": "Ploopy A+ Trackballが登場",
-  "ts": "2026-08-15T03:32:43.158025+00:00"
+  "ts": "2026-08-15T09:19:16.509893+00:00"
  },
  "The Productivity Mirage": {
   "ja": "生産性の蜃気楼",
@@ -2827,6 +2863,10 @@
   "ja": "この予測の元のURLは11年後（2011年）に利用できなくなる",
   "ts": "2026-08-09T09:32:05.584523+00:00"
  },
+ "The other Sean Byrne doesn't exist": {
+  "ja": "もう一人のSean Byrneは存在しない",
+  "ts": "2026-08-15T09:19:20.934747+00:00"
+ },
  "The phone book that led us to Assad's spy chief in hiding": {
   "ja": "潜伏していたアサド政権のスパイ局長に導いた電話帳",
   "ts": "2026-08-09T04:13:08.257601+00:00"
@@ -2886,6 +2926,10 @@
  "They Forgot What Happened Last Time: Hacking the Windows 365 Link [video]": {
   "ja": "They Forgot What Happened Last Time: Windows 365 Linkをハッキング [動画]",
   "ts": "2026-08-04T05:41:58.523074+00:00"
+ },
+ "This Hi-Fi Tape Recorder Changed Radio Forever": {
+  "ja": "このハイファイテープレコーダーはラジオを永遠に変えた",
+  "ts": "2026-08-15T09:19:20.934747+00:00"
  },
  "Thoroughly Understanding C++ ABI (2024)": {
   "ja": "C++ ABIを徹底的に理解する（2024）",
@@ -2947,6 +2991,10 @@
   "ja": "真実は方向ではない：LLMプローブへのTarskiアタック",
   "ts": "2026-07-29T05:44:50.795006+00:00"
  },
+ "Turbo Pascal on CP/M, MSX-DOS and MS-DOS": {
+  "ja": "CP/M、MSX-DOS、MS-DOS上のTurbo Pascal",
+  "ts": "2026-08-15T09:19:20.934747+00:00"
+ },
  "Turbo Pascal on CP/M, MSX-DOS and MS-DOS – Pascal for Small Machines": {
   "ja": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS – 小規模マシン向けPascal",
   "ts": "2026-08-14T21:18:43.954499+00:00"
@@ -3005,7 +3053,7 @@
  },
  "Ultraviolet Bird Photography": {
   "ja": "紫外線鳥類写真",
-  "ts": "2026-08-15T03:32:38.563728+00:00"
+  "ts": "2026-08-15T09:19:16.509891+00:00"
  },
  "Una GPS smart watch – Repairable, USB-C charging, developer-friendly": {
   "ja": "Una GPS スマートウォッチ－修理可能、USB-C充電、開発者フレンドリー",
@@ -3017,7 +3065,7 @@
  },
  "Unearthing a 31 year old Easter egg in Ecco the Dolphin": {
   "ja": "Ecco the Dolphinに隠された31年前のイースターエッグを発掘",
-  "ts": "2026-08-15T03:32:43.158025+00:00"
+  "ts": "2026-08-15T09:19:16.509896+00:00"
  },
  "Unexpected events and prosocial behavior: the Batman effect": {
   "ja": "予期しないイベントと向社会的行動: バットマン効果",
@@ -3221,7 +3269,7 @@
  },
  "Why does Opus 5 feel worse to work with?": {
   "ja": "Opus 5は何故使いにくく感じるのか",
-  "ts": "2026-08-15T03:32:38.563698+00:00"
+  "ts": "2026-08-15T09:19:16.509875+00:00"
  },
  "Why is everyone trying to build a solid-state battery?": {
   "ja": "なぜ全員が全固体電池の開発を試みているのか",
