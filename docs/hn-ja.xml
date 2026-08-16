@@ -5,216 +5,192 @@
     <link>https://news.ycombinator.com/</link>
     <description>Hacker News のフロントページから人気順に最大30件を抽出し、タイトルを日本語訳したフィードです。1日3回更新。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 21:14:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 03:41:37 +0000</lastBuildDate>
     <ttl>240</ttl>
     <atom:link href="https://YOUR-NAME.github.io/YOUR-REPO/hn-ja.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>[1336pt] Qwen 3.8 27B</title>
-      <link>https://huggingface.co/Qwen/Qwen3.8-27B-FP8</link>
-      <guid isPermaLink="false">hn-49299605</guid>
-      <pubDate>Fri, 14 Aug 2026 15:00:00 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49299605</comments>
-      <description><![CDATA[<p>Qwen 3.8 27B</p><p>1336 points / 761 comments — by erdaltoprak</p><p><a href="https://news.ycombinator.com/item?id=49299605">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[356pt] もう一人のSean Byrneは存在しない</title>
-      <link>https://conic.al/writing/the-other-sean-byrne-doesnt-exist/</link>
-      <guid isPermaLink="false">hn-49307592</guid>
-      <pubDate>Sat, 15 Aug 2026 04:18:44 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49307592</comments>
-      <description><![CDATA[<p>The other Sean Byrne doesn't exist</p><p>356 points / 172 comments — by rdl</p><p><a href="https://news.ycombinator.com/item?id=49307592">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[344pt] codexによる自動研究：232倍高速なカーネルを実現した方法</title>
-      <link>https://sankalp.bearblog.dev/autoresearch/</link>
-      <guid isPermaLink="false">hn-49309549</guid>
-      <pubDate>Sat, 15 Aug 2026 11:00:02 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49309549</comments>
-      <description><![CDATA[<p>Auto-research with codex: How I achieved a 232x Faster Kernel</p><p>344 points / 82 comments — by tosh</p><p><a href="https://news.ycombinator.com/item?id=49309549">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[269pt] AIは数学者を上回る思考をしていない。記憶力で上回っているだけ</title>
+      <title>[433pt] AIは人間の脳よりもはるかに大きいワーキングメモリにアクセスできる</title>
       <link>https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians</link>
       <guid isPermaLink="false">hn-49312845</guid>
       <pubDate>Sat, 15 Aug 2026 18:13:02 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49312845</comments>
-      <description><![CDATA[<p>AI Isn't Outthinking Mathematicians. It's Out-Remembering Them</p><p>269 points / 231 comments — by rzk</p><p><a href="https://news.ycombinator.com/item?id=49312845">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>AI has access to a vastly larger working memory than the human brain</p><p>433 points / 382 comments — by rzk</p><p><a href="https://news.ycombinator.com/item?id=49312845">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[254pt] セマグルチドが認知症リスク低減と関連</title>
+      <title>[369pt] セマグルチドが認知症リスク低減と関連</title>
       <link>https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432</link>
       <guid isPermaLink="false">hn-49311651</guid>
       <pubDate>Sat, 15 Aug 2026 15:58:53 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49311651</comments>
-      <description><![CDATA[<p>Semaglutide linked to lower predicted dementia risk</p><p>254 points / 179 comments — by randycupertino</p><p><a href="https://news.ycombinator.com/item?id=49311651">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Semaglutide linked to lower predicted dementia risk</p><p>369 points / 259 comments — by randycupertino</p><p><a href="https://news.ycombinator.com/item?id=49311651">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[215pt] AIでの作業はコーディングというより経営判断に近い</title>
+      <title>[280pt] AIとの協働はコーディングというより経営に近い</title>
       <link>https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/</link>
       <guid isPermaLink="false">hn-49309451</guid>
       <pubDate>Sat, 15 Aug 2026 10:39:41 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49309451</comments>
-      <description><![CDATA[<p>Working with AI Feels More Like Leadership Than Coding</p><p>215 points / 154 comments — by allenb</p><p><a href="https://news.ycombinator.com/item?id=49309451">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Working with AI feels more like leadership than coding</p><p>280 points / 177 comments — by allenb</p><p><a href="https://news.ycombinator.com/item?id=49309451">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[171pt] 自宅用感染ダニ検査でライム病診断が改善の可能性</title>
-      <link>https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/</link>
-      <guid isPermaLink="false">hn-49310682</guid>
-      <pubDate>Sat, 15 Aug 2026 14:04:49 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49310682</comments>
-      <description><![CDATA[<p>At-home test for infected ticks could improve Lyme Disease diagnosis</p><p>171 points / 58 comments — by gmays</p><p><a href="https://news.ycombinator.com/item?id=49310682">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[167pt] Show HN: Eigendrum - 任意の形を描いてドラムの音として聞く</title>
-      <link>https://baselashraf81.github.io/eigendrum/</link>
-      <guid isPermaLink="false">hn-49246366</guid>
-      <pubDate>Mon, 10 Aug 2026 16:53:31 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49246366</comments>
-      <description><![CDATA[<p>Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum</p><p>167 points / 86 comments — by BaselAshraf81</p><p><a href="https://news.ycombinator.com/item?id=49246366">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[164pt] RISC-V：最初から知るべきだった</title>
+      <title>[249pt] RISC-V：最初から知るべきだった</title>
       <link>https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV</link>
       <guid isPermaLink="false">hn-49298035</guid>
       <pubDate>Fri, 14 Aug 2026 12:50:56 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49298035</comments>
-      <description><![CDATA[<p>RISC-V: They Should Have Known Better</p><p>164 points / 269 comments — by dmitrygr</p><p><a href="https://news.ycombinator.com/item?id=49298035">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>RISC-V: They Should Have Known Better</p><p>249 points / 311 comments — by dmitrygr</p><p><a href="https://news.ycombinator.com/item?id=49298035">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[158pt] hyperbezier曲線の数学的美しさ</title>
-      <link>https://linebender.org/blog/hyperbezier/</link>
-      <guid isPermaLink="false">hn-49237183</guid>
-      <pubDate>Sun, 09 Aug 2026 23:09:04 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49237183</comments>
-      <description><![CDATA[<p>The mathematical beauty of hyperbezier curves</p><p>158 points / 25 comments — by raphlinus</p><p><a href="https://news.ycombinator.com/item?id=49237183">HNのコメントを読む</a></p>]]></description>
+      <title>[225pt] 自宅用感染ダニ検査でライム病診断が改善の可能性</title>
+      <link>https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/</link>
+      <guid isPermaLink="false">hn-49310682</guid>
+      <pubDate>Sat, 15 Aug 2026 14:04:49 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49310682</comments>
+      <description><![CDATA[<p>At-home test for infected ticks could improve Lyme Disease diagnosis</p><p>225 points / 82 comments — by gmays</p><p><a href="https://news.ycombinator.com/item?id=49310682">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[120pt] 物議を醸すアルツハイマー手術が症状を逆転させる可能性</title>
-      <link>https://www.nature.com/articles/d41586-026-02448-x</link>
-      <guid isPermaLink="false">hn-49312008</guid>
-      <pubDate>Sat, 15 Aug 2026 16:38:34 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49312008</comments>
-      <description><![CDATA[<p>A controversial Alzheimer's surgery is said to reverse symptoms</p><p>120 points / 47 comments — by jeffreyrogers</p><p><a href="https://news.ycombinator.com/item?id=49312008">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[113pt] 1962年、エジプトのミサイルプログラムは主要科学者を忽然と失った</title>
-      <link>https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/</link>
-      <guid isPermaLink="false">hn-49271382</guid>
-      <pubDate>Wed, 12 Aug 2026 12:31:16 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49271382</comments>
-      <description><![CDATA[<p>In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace</p><p>113 points / 71 comments — by bookofjoe</p><p><a href="https://news.ycombinator.com/item?id=49271382">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[112pt] Unicodeを脅かす幽霊</title>
+      <title>[191pt] Unicodeを脅かす亡霊</title>
       <link>https://www.dampfkraft.com/ghost-characters.html</link>
       <guid isPermaLink="false">hn-49310926</guid>
       <pubDate>Sat, 15 Aug 2026 14:34:04 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49310926</comments>
-      <description><![CDATA[<p>A Spectre Is Haunting Unicode</p><p>112 points / 31 comments — by sensanaty</p><p><a href="https://news.ycombinator.com/item?id=49310926">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>A spectre is haunting Unicode</p><p>191 points / 65 comments — by sensanaty</p><p><a href="https://news.ycombinator.com/item?id=49310926">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[81pt] 湖の土地帯に人々が暮らすオランダのコミュニティ</title>
-      <link>https://www.core77.com/posts/144869</link>
-      <guid isPermaLink="false">hn-49312165</guid>
-      <pubDate>Sat, 15 Aug 2026 16:53:47 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49312165</comments>
-      <description><![CDATA[<p>The Dutch Community Where People Live on Strips of Land in a Lake</p><p>81 points / 42 comments — by Bowes-Lyon</p><p><a href="https://news.ycombinator.com/item?id=49312165">HNのコメントを読む</a></p>]]></description>
+      <title>[183pt] 腹部脂肪はBMIより心臓病リスクをより良く予測する</title>
+      <link>https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi</link>
+      <guid isPermaLink="false">hn-49314403</guid>
+      <pubDate>Sat, 15 Aug 2026 21:14:34 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49314403</comments>
+      <description><![CDATA[<p>Abdominal fat predicts heart disease risk better than BMI</p><p>183 points / 127 comments — by theanonymousone</p><p><a href="https://news.ycombinator.com/item?id=49314403">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[79pt] 白色光の色</title>
-      <link>https://ludens.cl/photo/spectra/spectra.html</link>
-      <guid isPermaLink="false">hn-49260582</guid>
-      <pubDate>Tue, 11 Aug 2026 16:18:53 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49260582</comments>
-      <description><![CDATA[<p>The Color of White Light</p><p>79 points / 43 comments — by xk3</p><p><a href="https://news.ycombinator.com/item?id=49260582">HNのコメントを読む</a></p>]]></description>
+      <title>[154pt] Asus Bike Booster</title>
+      <link>https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/</link>
+      <guid isPermaLink="false">hn-49268580</guid>
+      <pubDate>Wed, 12 Aug 2026 06:33:12 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49268580</comments>
+      <description><![CDATA[<p>Asus Bike Booster</p><p>154 points / 78 comments — by wiradikusuma</p><p><a href="https://news.ycombinator.com/item?id=49268580">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[79pt] GCCのネストされた関数をワイドポインタとトランポリンなしで使う II</title>
-      <link>https://uecker.codeberg.page/2026-07-14.html</link>
-      <guid isPermaLink="false">hn-49308685</guid>
-      <pubDate>Sat, 15 Aug 2026 07:59:42 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49308685</comments>
-      <description><![CDATA[<p>Using GCC's Nested Functions with Wide Pointers and No Trampolines II</p><p>79 points / 42 comments — by uecker</p><p><a href="https://news.ycombinator.com/item?id=49308685">HNのコメントを読む</a></p>]]></description>
+      <title>[117pt] スーパーエルニーニョが成長を続け、冬前に新たな予測記録に達する</title>
+      <link>https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/</link>
+      <guid isPermaLink="false">hn-49313428</guid>
+      <pubDate>Sat, 15 Aug 2026 19:20:51 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49313428</comments>
+      <description><![CDATA[<p>Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter</p><p>117 points / 68 comments — by dgellow</p><p><a href="https://news.ycombinator.com/item?id=49313428">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[71pt] コンピュータ科学者は脳を構築できるか</title>
-      <link>https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/</link>
-      <guid isPermaLink="false">hn-49310362</guid>
-      <pubDate>Sat, 15 Aug 2026 13:26:28 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49310362</comments>
-      <description><![CDATA[<p>Could a computer scientist build a brain?</p><p>71 points / 47 comments — by ogundipeore</p><p><a href="https://news.ycombinator.com/item?id=49310362">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[57pt] メビウスの帯と微分方程式</title>
-      <link>https://hidden-phenomena.com/articles/monodromy</link>
-      <guid isPermaLink="false">hn-49242085</guid>
-      <pubDate>Mon, 10 Aug 2026 11:02:04 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49242085</comments>
-      <description><![CDATA[<p>Möbius Strips and Differential Equations</p><p>57 points / 11 comments — by mbustamanter</p><p><a href="https://news.ycombinator.com/item?id=49242085">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[48pt] Yadda 3.0.0：AIエージェント時代のBDD</title>
-      <link>http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html</link>
-      <guid isPermaLink="false">hn-49310495</guid>
-      <pubDate>Sat, 15 Aug 2026 13:43:46 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49310495</comments>
-      <description><![CDATA[<p>Yadda 3.0.0: BDD in the Age of AI Agents</p><p>48 points / 24 comments — by scresswell</p><p><a href="https://news.ycombinator.com/item?id=49310495">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[47pt] ベジェスプライン線画ベクトル化のための2D Gaussian Splatting</title>
-      <link>https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/</link>
-      <guid isPermaLink="false">hn-49306333</guid>
-      <pubDate>Sat, 15 Aug 2026 00:36:01 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49306333</comments>
-      <description><![CDATA[<p>2D Gaussian Splatting for Bézier Spline Line Art Vectorization</p><p>47 points / 4 comments — by Jimmc414</p><p><a href="https://news.ycombinator.com/item?id=49306333">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[44pt] Thunderbirdデスクトップカレンダーのビジュアルリデザイン</title>
-      <link>https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/</link>
-      <guid isPermaLink="false">hn-49312823</guid>
-      <pubDate>Sat, 15 Aug 2026 18:09:42 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49312823</comments>
-      <description><![CDATA[<p>Thunderbird's Desktop Calendar Visual Redesign</p><p>44 points / 14 comments — by birdculture</p><p><a href="https://news.ycombinator.com/item?id=49312823">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[39pt] 創薬におけるAI：それが何か、現在地、今後の道筋</title>
-      <link>https://www.nature.com/articles/s41573-026-01496-2</link>
+      <title>[108pt] AI創薬 – それは何か、どこまで来たか、そして進むべき道</title>
+      <link>https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really</link>
       <guid isPermaLink="false">hn-49313367</guid>
       <pubDate>Sat, 15 Aug 2026 19:12:53 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49313367</comments>
-      <description><![CDATA[<p>AI in drug discovery — what it is, where we stand and the path forward</p><p>39 points / 22 comments — by AnodicElegy</p><p><a href="https://news.ycombinator.com/item?id=49313367">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>AI in drug discovery – what it is, where we stand and the path forward</p><p>108 points / 56 comments — by AnodicElegy</p><p><a href="https://news.ycombinator.com/item?id=49313367">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[37pt] Printytron – タイプして3D印刷する</title>
-      <link>https://printytron.com</link>
-      <guid isPermaLink="false">hn-49310829</guid>
-      <pubDate>Sat, 15 Aug 2026 14:22:20 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49310829</comments>
-      <description><![CDATA[<p>Printytron – Type it. 3D Print it</p><p>37 points / 4 comments — by statenjason</p><p><a href="https://news.ycombinator.com/item?id=49310829">HNのコメントを読む</a></p>]]></description>
+      <title>[100pt] 新しいアイデアが生まれる心の状態を培う（2023）</title>
+      <link>https://www.henrikkarlsson.xyz/p/good-ideas</link>
+      <guid isPermaLink="false">hn-49314235</guid>
+      <pubDate>Sat, 15 Aug 2026 20:54:11 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49314235</comments>
+      <description><![CDATA[<p>Cultivating a state of mind where new ideas are born (2023)</p><p>100 points / 28 comments — by felixbraun</p><p><a href="https://news.ycombinator.com/item?id=49314235">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[33pt] T3X/0 ミニマルな手続き言語</title>
-      <link>https://t3x.org/t3x/0/index.html</link>
-      <guid isPermaLink="false">hn-49309923</guid>
-      <pubDate>Sat, 15 Aug 2026 12:06:24 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49309923</comments>
-      <description><![CDATA[<p>T3X/0 a Minimal Procedural Language</p><p>33 points / 0 comments — by AlexeyBrin</p><p><a href="https://news.ycombinator.com/item?id=49309923">HNのコメントを読む</a></p>]]></description>
+      <title>[62pt] デジタル信号処理のパイオニア、Bede Liu逝去</title>
+      <link>https://spectrum.ieee.org/digital-signal-processing</link>
+      <guid isPermaLink="false">hn-49314615</guid>
+      <pubDate>Sat, 15 Aug 2026 21:45:54 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49314615</comments>
+      <description><![CDATA[<p>Bede Liu, a digital signal processing pioneer, has died</p><p>62 points / 4 comments — by Jimmc414</p><p><a href="https://news.ycombinator.com/item?id=49314615">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[21pt] BriskDB</title>
-      <link>https://github.com/schapman1974/briskdb</link>
-      <guid isPermaLink="false">hn-49312707</guid>
-      <pubDate>Sat, 15 Aug 2026 17:56:57 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49312707</comments>
-      <description><![CDATA[<p>BriskDB</p><p>21 points / 5 comments — by schapman1974</p><p><a href="https://news.ycombinator.com/item?id=49312707">HNのコメントを読む</a></p>]]></description>
+      <title>[54pt] Tess's Android Wayland Compositor</title>
+      <link>https://github.com/wmww/tawc</link>
+      <guid isPermaLink="false">hn-49313068</guid>
+      <pubDate>Sat, 15 Aug 2026 18:34:26 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49313068</comments>
+      <description><![CDATA[<p>Tess's Android Wayland Compositor</p><p>54 points / 5 comments — by schmorptron</p><p><a href="https://news.ycombinator.com/item?id=49313068">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[13pt] MetaがNewsmax極右メディアでAIをトレーニング</title>
-      <link>https://popular.info/p/meta-will-train-its-ai-on-far-right</link>
-      <guid isPermaLink="false">hn-49313778</guid>
-      <pubDate>Sat, 15 Aug 2026 20:00:14 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49313778</comments>
-      <description><![CDATA[<p>Meta will train its AI on Newsmax, a far-right media outlet</p><p>13 points / 6 comments — by Fellw</p><p><a href="https://news.ycombinator.com/item?id=49313778">HNのコメントを読む</a></p>]]></description>
+      <title>[48pt] Zshの履歴データ損失バグを追跡する</title>
+      <link>https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/</link>
+      <guid isPermaLink="false">hn-49314579</guid>
+      <pubDate>Sat, 15 Aug 2026 21:39:09 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49314579</comments>
+      <description><![CDATA[<p>Tracking down a Zsh history data loss bug</p><p>48 points / 12 comments — by ingve</p><p><a href="https://news.ycombinator.com/item?id=49314579">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[46pt] DuckDBにおける非同期I/O：Work, Thread, Work</title>
+      <link>https://duckdb.org/2026/07/31/asynchronous-io</link>
+      <guid isPermaLink="false">hn-49243061</guid>
+      <pubDate>Mon, 10 Aug 2026 13:01:18 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49243061</comments>
+      <description><![CDATA[<p>Asynchronous I/O in DuckDB: Work, Thread, Work</p><p>46 points / 2 comments — by pdet</p><p><a href="https://news.ycombinator.com/item?id=49243061">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[42pt] インディソフトウェア開発者としての幸運な10年</title>
+      <link>https://lapcatsoftware.com/articles/2026/8/3.html</link>
+      <guid isPermaLink="false">hn-49244872</guid>
+      <pubDate>Mon, 10 Aug 2026 15:20:25 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49244872</comments>
+      <description><![CDATA[<p>A fortuitous decade as an indie software developer</p><p>42 points / 6 comments — by frizlab</p><p><a href="https://news.ycombinator.com/item?id=49244872">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[28pt] SugarTrack – 血糖値用オフラインAndroidログブック（アカウント、クラウドなし）</title>
+      <link>https://sugartrack-beta.vercel.app/</link>
+      <guid isPermaLink="false">hn-49314884</guid>
+      <pubDate>Sat, 15 Aug 2026 22:28:14 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49314884</comments>
+      <description><![CDATA[<p>SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)</p><p>28 points / 6 comments — by hunzaboy</p><p><a href="https://news.ycombinator.com/item?id=49314884">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[27pt] 画像はオーバーフロー可能</title>
+      <link>https://master.dev/blog/something-nobody-told-you-about-the-image-element-it-can-overflow/</link>
+      <guid isPermaLink="false">hn-49261421</guid>
+      <pubDate>Tue, 11 Aug 2026 17:16:38 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49261421</comments>
+      <description><![CDATA[<p>An image can overflow</p><p>27 points / 7 comments — by ibobev</p><p><a href="https://news.ycombinator.com/item?id=49261421">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[27pt] Tea5767-Radio-Tuner</title>
+      <link>https://github.com/turtushig22-blip/tea5767-radio-tuner</link>
+      <guid isPermaLink="false">hn-49315456</guid>
+      <pubDate>Sat, 15 Aug 2026 23:54:35 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49315456</comments>
+      <description><![CDATA[<p>Tea5767-Radio-Tuner</p><p>27 points / 0 comments — by turtushig22</p><p><a href="https://news.ycombinator.com/item?id=49315456">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[26pt] Show HN: Mic Drop、リアルタイムマルチプレイヤーカラオケゲーム</title>
+      <link>https://www.micdrop.gg/</link>
+      <guid isPermaLink="false">hn-49315742</guid>
+      <pubDate>Sun, 16 Aug 2026 00:46:29 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49315742</comments>
+      <description><![CDATA[<p>Show HN: Mic Drop, a real-time multiplayer karaoke game</p><p>26 points / 13 comments — by johnsillings</p><p><a href="https://news.ycombinator.com/item?id=49315742">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[26pt] ソフトウェアエンジニアリングの基礎がより重要</title>
+      <link>https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/</link>
+      <guid isPermaLink="false">hn-49314902</guid>
+      <pubDate>Sat, 15 Aug 2026 22:31:09 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49314902</comments>
+      <description><![CDATA[<p>Software Engineering fundamentals matter more</p><p>26 points / 0 comments — by ingve</p><p><a href="https://news.ycombinator.com/item?id=49314902">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[16pt] Show HN: RustとGPUIで開発エージェント用ネイティブアプリを構築した</title>
+      <link>https://waku.sh</link>
+      <guid isPermaLink="false">hn-49315709</guid>
+      <pubDate>Sun, 16 Aug 2026 00:38:44 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49315709</comments>
+      <description><![CDATA[<p>Show HN: I built a native app for coding agents with Rust and GPUI</p><p>16 points / 5 comments — by 0x142857</p><p><a href="https://news.ycombinator.com/item?id=49315709">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[16pt] Show HN: Bribes.fyi – 賄賂統計を部門別に比較</title>
+      <link>https://bribes.fyi/compare</link>
+      <guid isPermaLink="false">hn-49314765</guid>
+      <pubDate>Sat, 15 Aug 2026 22:11:16 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49314765</comments>
+      <description><![CDATA[<p>Show HN: Bribes.fyi – Compare bribes statistics department wise</p><p>16 points / 2 comments — by neverenderr</p><p><a href="https://news.ycombinator.com/item?id=49314765">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
       <title>[13pt] 3社の買収企業を1つの統一されたウェブサイトに組織する方法</title>
@@ -225,14 +201,6 @@
       <description><![CDATA[<p>How to organize 3 acquired companies into one coherent website</p><p>13 points / 0 comments — by mooreds</p><p><a href="https://news.ycombinator.com/item?id=47999020">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[12pt] テック経営者がAIについての宣言文を共有し続ける理由</title>
-      <link>https://www.bbc.com/news/articles/cz97ljy91zxo</link>
-      <guid isPermaLink="false">hn-49313519</guid>
-      <pubDate>Sat, 15 Aug 2026 19:30:32 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49313519</comments>
-      <description><![CDATA[<p>Why tech bosses keep sharing their manifestos about AI</p><p>12 points / 27 comments — by tcp_handshaker</p><p><a href="https://news.ycombinator.com/item?id=49313519">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
       <title>[12pt] 現実のConwayのGame of Life</title>
       <link>https://lcamtuf.coredump.cx/blog/conway/</link>
       <guid isPermaLink="false">hn-47439821</guid>
@@ -241,12 +209,44 @@
       <description><![CDATA[<p>Conway's Game of Life, in real life</p><p>12 points / 1 comments — by ahlCVA</p><p><a href="https://news.ycombinator.com/item?id=47439821">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[9pt] ロボット映像：大型輸送ドローン、グリッパーほか</title>
-      <link>https://spectrum.ieee.org/video-friday-heavy-lift-drone</link>
-      <guid isPermaLink="false">hn-49241551</guid>
-      <pubDate>Mon, 10 Aug 2026 09:52:19 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49241551</comments>
-      <description><![CDATA[<p>Robot Videos: Heavy Lift Cargo Drones, Grippers, More</p><p>9 points / 2 comments — by rbanffy</p><p><a href="https://news.ycombinator.com/item?id=49241551">HNのコメントを読む</a></p>]]></description>
+      <title>[9pt] Show HN: 2012年の自己署名証明書ジェネレータをGoで書き直した – cert-depot.com</title>
+      <link>https://news.ycombinator.com/item?id=47613622</link>
+      <guid isPermaLink="false">hn-47613622</guid>
+      <pubDate>Thu, 02 Apr 2026 12:36:10 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=47613622</comments>
+      <description><![CDATA[<p>Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com</p><p>9 points / 1 comments — by dimastopel</p><p><a href="https://news.ycombinator.com/item?id=47613622">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[9pt] JITコンパイルされたコードを知らせる: その方法を数えてみた</title>
+      <link>https://wakelift.de/2026/03/09/making-your-jitted-code-known-let-me-count-the-ways/</link>
+      <guid isPermaLink="false">hn-47320921</guid>
+      <pubDate>Tue, 10 Mar 2026 09:31:19 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=47320921</comments>
+      <description><![CDATA[<p>Making your JITted Code known: Let me count the ways</p><p>9 points / 1 comments — by lizmat</p><p><a href="https://news.ycombinator.com/item?id=47320921">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[9pt] Npm-scan: npmエコシステムの最新サプライチェーンセキュリティ</title>
+      <link>https://github.com/lateos-ai/npm-scan</link>
+      <guid isPermaLink="false">hn-48351958</guid>
+      <pubDate>Mon, 01 Jun 2026 02:19:07 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=48351958</comments>
+      <description><![CDATA[<p>Npm-scan: Modern supply chain security for the npm ecosystem</p><p>9 points / 0 comments — by lateos-ai</p><p><a href="https://news.ycombinator.com/item?id=48351958">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[9pt] 連動する火山が対話するとき、研究者たちが耳を傾ける</title>
+      <link>https://www.quantamagazine.org/when-coupled-volcanoes-talk-these-researchers-listen-20260327/</link>
+      <guid isPermaLink="false">hn-47544114</guid>
+      <pubDate>Fri, 27 Mar 2026 15:40:23 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=47544114</comments>
+      <description><![CDATA[<p>When Coupled Volcanoes Talk, These Researchers Listen</p><p>9 points / 0 comments — by ibobev</p><p><a href="https://news.ycombinator.com/item?id=47544114">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[8pt] AI支援による25万行レガシー気象シミュレーションコードのGPUポーティング</title>
+      <link>https://arxiv.org/abs/2608.13122</link>
+      <guid isPermaLink="false">hn-49314967</guid>
+      <pubDate>Sat, 15 Aug 2026 22:41:51 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49314967</comments>
+      <description><![CDATA[<p>AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code</p><p>8 points / 2 comments — by Jimmc414</p><p><a href="https://news.ycombinator.com/item?id=49314967">HNのコメントを読む</a></p>]]></description>
     </item>
   </channel>
 </rss>

@@ -103,6 +103,10 @@
   "ja": "ドメインがDNSで販売中の表示が可能に",
   "ts": "2026-08-08T21:22:35.314726+00:00"
  },
+ "A fortuitous decade as an indie software developer": {
+  "ja": "インディソフトウェア開発者としての幸運な10年",
+  "ts": "2026-08-16T03:41:37.773610+00:00"
+ },
  "A missing underscore sent innocent man to prison for 18 months": {
   "ja": "アンダースコア記号の欠落により無実の男性が18ヶ月投獄",
   "ts": "2026-07-28T05:23:02.934777+00:00"
@@ -122,6 +126,10 @@
  "A simple clustering algorithm for lists": {
   "ja": "リストの単純なクラスタリングアルゴリズム",
   "ts": "2026-07-31T21:59:31.804562+00:00"
+ },
+ "A spectre is haunting Unicode": {
+  "ja": "Unicodeを脅かす亡霊",
+  "ts": "2026-08-16T03:41:37.773610+00:00"
  },
  "A tiny holdout building in the middle of Macy’s is back in view": {
   "ja": "Macysの真ん中に建つ小さな固執した建物が再び見える",
@@ -167,6 +175,14 @@
   "ja": "AIがアフリカのサイバー犯罪の半数以上を助長、詐欺急増中 – Interpol",
   "ts": "2026-08-05T11:14:05.015364+00:00"
  },
+ "AI has access to a vastly larger working memory than the human brain": {
+  "ja": "AIは人間の脳よりもはるかに大きいワーキングメモリにアクセスできる",
+  "ts": "2026-08-16T03:41:37.773610+00:00"
+ },
+ "AI in drug discovery – what it is, where we stand and the path forward": {
+  "ja": "AI創薬 – それは何か、どこまで来たか、そして進むべき道",
+  "ts": "2026-08-16T03:41:37.773610+00:00"
+ },
  "AI in drug discovery — what it is, where we stand and the path forward": {
   "ja": "創薬におけるAI：それが何か、現在地、今後の道筋",
   "ts": "2026-08-15T21:14:07.444034+00:00"
@@ -187,6 +203,10 @@
   "ja": "AIの有力スタートアップがほぼ研究発表をしていない",
   "ts": "2026-07-30T11:01:01.391668+00:00"
  },
+ "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code": {
+  "ja": "AI支援による25万行レガシー気象シミュレーションコードのGPUポーティング",
+  "ts": "2026-08-16T03:41:37.773610+00:00"
+ },
  "AMD acquires Taalas to boost inference performance by etching models in silicon": {
   "ja": "AMDがTaaalasを買収、モデルをシリコンに刻み込むことで推論性能を向上",
   "ts": "2026-08-08T09:30:29.480394+00:00"
@@ -198,6 +218,10 @@
  "ATProto for Distributed Systems Engineers": {
   "ja": "分散システムエンジニア向けATProto",
   "ts": "2026-08-10T10:11:18.427035+00:00"
+ },
+ "Abdominal fat predicts heart disease risk better than BMI": {
+  "ja": "腹部脂肪はBMIより心臓病リスクをより良く予測する",
+  "ts": "2026-08-16T03:41:37.773610+00:00"
  },
  "About the security content of macOS Tahoe 26.6": {
   "ja": "macOS Tahoe 26.6のセキュリティコンテンツについて",
@@ -262,6 +286,10 @@
  "An ambiguity in c89 which will never be fixed": {
   "ja": "c89 の曖昧さ、決して修正されることはないだろう",
   "ts": "2026-08-14T04:43:45.817740+00:00"
+ },
+ "An image can overflow": {
+  "ja": "画像はオーバーフロー可能",
+  "ts": "2026-08-16T03:41:37.773610+00:00"
  },
  "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident": {
   "ja": "Frontier Lab Agent侵入の解剖学：2026年7月インシデントのタイムライン",
@@ -355,9 +383,13 @@
   "ja": "宇宙飛行士、6ヶ月のミッション後も続く「観察者」の感覚を報告",
   "ts": "2026-07-28T05:23:02.934777+00:00"
  },
+ "Asynchronous I/O in DuckDB: Work, Thread, Work": {
+  "ja": "DuckDBにおける非同期I/O：Work, Thread, Work",
+  "ts": "2026-08-16T03:41:37.773610+00:00"
+ },
  "At-home test for infected ticks could improve Lyme Disease diagnosis": {
   "ja": "自宅用感染ダニ検査でライム病診断が改善の可能性",
-  "ts": "2026-08-15T21:14:07.444034+00:00"
+  "ts": "2026-08-16T03:41:31.350938+00:00"
  },
  "Atlassian Rovo Exfiltrates Data, Bypassing Controls": {
   "ja": "Atlassian Rovoがデータ漏洩、コントロール回避",
@@ -414,6 +446,10 @@
  "Beckett the Prophet": {
   "ja": "預言者としてのベケット",
   "ts": "2026-08-02T10:28:27.316285+00:00"
+ },
+ "Bede Liu, a digital signal processing pioneer, has died": {
+  "ja": "デジタル信号処理のパイオニア、Bede Liu逝去",
+  "ts": "2026-08-16T03:41:37.773610+00:00"
  },
  "Benchmarking Opus 5 on SlopCodeBench": {
   "ja": "SlopCodeBenchでOpus 5をベンチマーク",
@@ -593,7 +629,7 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-08-15T21:14:00.376782+00:00"
+  "ts": "2026-08-16T03:41:31.350946+00:00"
  },
  "Could a computer scientist build a brain?": {
   "ja": "コンピュータ科学者は脳を構築できるか",
@@ -618,6 +654,10 @@
  "Cro – elegant reactive services in Raku": {
   "ja": "Cro – Rakuの優雅なリアクティブサービス",
   "ts": "2026-08-03T06:14:03.792442+00:00"
+ },
+ "Cultivating a state of mind where new ideas are born (2023)": {
+  "ja": "新しいアイデアが生まれる心の状態を培う（2023）",
+  "ts": "2026-08-16T03:41:37.773610+00:00"
  },
  "Curlese, Five Years Later": {
   "ja": "Curlese、5年後",
@@ -1201,7 +1241,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-15T21:14:00.376777+00:00"
+  "ts": "2026-08-16T03:41:31.350944+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -1609,7 +1649,7 @@
  },
  "Making your JITted Code known: Let me count the ways": {
   "ja": "JITコンパイルされたコードを知らせる: その方法を数えてみた",
-  "ts": "2026-08-09T21:24:07.777582+00:00"
+  "ts": "2026-08-16T03:41:31.350949+00:00"
  },
  "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)": {
   "ja": "Man and the Computer by John G. Kemeny（BASIC共同開発者による1972年の著作）",
@@ -1841,7 +1881,7 @@
  },
  "Npm-scan: Modern supply chain security for the npm ecosystem": {
   "ja": "Npm-scan: npmエコシステムの最新サプライチェーンセキュリティ",
-  "ts": "2026-08-09T21:24:15.218424+00:00"
+  "ts": "2026-08-16T03:41:31.350951+00:00"
  },
  "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard": {
   "ja": "Nvidia Nemotron 3.5 LightningとNeMo Switchyard",
@@ -2065,7 +2105,7 @@
  },
  "RISC-V: They Should Have Known Better": {
   "ja": "RISC-V：最初から知るべきだった",
-  "ts": "2026-08-15T21:14:07.444034+00:00"
+  "ts": "2026-08-16T03:41:31.350935+00:00"
  },
  "RSI Simulator": {
   "ja": "RSI シミュレーター",
@@ -2257,7 +2297,7 @@
  },
  "Semaglutide linked to lower predicted dementia risk": {
   "ja": "セマグルチドが認知症リスク低減と関連",
-  "ts": "2026-08-15T21:14:07.444034+00:00"
+  "ts": "2026-08-16T03:41:31.350924+00:00"
  },
  "Seven books I keep close because I love them": {
   "ja": "大切にしている7冊の本",
@@ -2315,6 +2355,10 @@
   "ja": "Show HN: Bor – Linuxデスクトップ向けオープンソースポリシー管理",
   "ts": "2026-08-02T21:48:31.720714+00:00"
  },
+ "Show HN: Bribes.fyi – Compare bribes statistics department wise": {
+  "ja": "Show HN: Bribes.fyi – 賄賂統計を部門別に比較",
+  "ts": "2026-08-16T03:41:37.773610+00:00"
+ },
  "Show HN: C# Game Engine with its own scripting language and IDE": {
   "ja": "Show HN: 独自スクリプト言語とIDEを備えたC#ゲームエンジン",
   "ts": "2026-08-14T09:53:35.336861+00:00"
@@ -2363,9 +2407,13 @@
   "ja": "Show HN: 10万人に出会うまでにどのくらい進む必要がある？",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "Show HN: I built a native app for coding agents with Rust and GPUI": {
+  "ja": "Show HN: RustとGPUIで開発エージェント用ネイティブアプリを構築した",
+  "ts": "2026-08-16T03:41:37.773610+00:00"
+ },
  "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com": {
   "ja": "Show HN: 2012年の自己署名証明書ジェネレータをGoで書き直した – cert-depot.com",
-  "ts": "2026-08-09T21:24:07.777580+00:00"
+  "ts": "2026-08-16T03:41:31.350948+00:00"
  },
  "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript": {
   "ja": "Show HN: HNのリンクを開くたびに2つのタブを開くのに疲れたので、ユーザースクリプトを作った",
@@ -2418,6 +2466,10 @@
  "Show HN: Mcptoon – Token-efficient MCP CLI client": {
   "ja": "Show HN: Mcptoon – トークン効率的なMCP CLIクライアント",
   "ts": "2026-08-11T09:54:16.672468+00:00"
+ },
+ "Show HN: Mic Drop, a real-time multiplayer karaoke game": {
+  "ja": "Show HN: Mic Drop、リアルタイムマルチプレイヤーカラオケゲーム",
+  "ts": "2026-08-16T03:41:37.773610+00:00"
  },
  "Show HN: Mole – Deep research agent for your terminal": {
   "ja": "Show HN: Mole – ターミナル向けディープリサーチエージェント",
@@ -2563,6 +2615,10 @@
   "ja": "植物でCO₂を削減したいなら",
   "ts": "2026-07-30T22:07:54.199767+00:00"
  },
+ "Software Engineering fundamentals matter more": {
+  "ja": "ソフトウェアエンジニアリングの基礎がより重要",
+  "ts": "2026-08-16T03:41:37.773610+00:00"
+ },
  "Solid Queue 1.6.0 now supports fiber workers": {
   "ja": "Solid Queue 1.6.0がファイバーワーカーに対応",
   "ts": "2026-08-01T21:47:35.631097+00:00"
@@ -2643,9 +2699,17 @@
   "ja": "Substackのライター諸君、ウェブサイトが必要だ",
   "ts": "2026-07-29T11:17:33.572867+00:00"
  },
+ "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)": {
+  "ja": "SugarTrack – 血糖値用オフラインAndroidログブック（アカウント、クラウドなし）",
+  "ts": "2026-08-16T03:41:37.773610+00:00"
+ },
  "Sula: A Gemini protocol server written in Scryer Prolog": {
   "ja": "Sula: Scryer Prologで書かれたGeminiプロトコルサーバー",
   "ts": "2026-08-05T22:07:29.867079+00:00"
+ },
+ "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter": {
+  "ja": "スーパーエルニーニョが成長を続け、冬前に新たな予測記録に達する",
+  "ts": "2026-08-16T03:41:37.773610+00:00"
  },
  "Super Mario Derivations": {
   "ja": "Super Marioの導出",
@@ -3047,6 +3111,10 @@
   "ja": "miniKanrenにおけるボトムアップ列挙へ向けて：剪定とメモ化を通じて",
   "ts": "2026-08-07T01:00:14.602517+00:00"
  },
+ "Tracking down a Zsh history data loss bug": {
+  "ja": "Zshの履歴データ損失バグを追跡する",
+  "ts": "2026-08-16T03:41:37.773610+00:00"
+ },
  "Tracking down the 16-year-old WAL-reset SQLite bug": {
   "ja": "16年前のSQLite WALリセットバグを追跡",
   "ts": "2026-08-13T09:56:41.752921+00:00"
@@ -3295,6 +3363,10 @@
   "ja": "コンパイラがUTF-8について見解が異なる場合",
   "ts": "2026-08-10T04:24:54.693104+00:00"
  },
+ "When Coupled Volcanoes Talk, These Researchers Listen": {
+  "ja": "連動する火山が対話するとき、研究者たちが耳を傾ける",
+  "ts": "2026-08-16T03:41:37.773610+00:00"
+ },
  "When Feature Flags Do and Don't Make Sense": {
   "ja": "フィーチャーフラグが有意である場合と有意でない場合",
   "ts": "2026-08-09T04:13:08.257601+00:00"
@@ -3394,6 +3466,10 @@
  "Working with AI Feels More Like Leadership Than Coding": {
   "ja": "AIでの作業はコーディングというより経営判断に近い",
   "ts": "2026-08-15T21:14:07.444034+00:00"
+ },
+ "Working with AI feels more like leadership than coding": {
+  "ja": "AIとの協働はコーディングというより経営に近い",
+  "ts": "2026-08-16T03:41:37.773610+00:00"
  },
  "World Train Map – 1247 train routes around the world": {
   "ja": "World Train Map – 世界中の1247の鉄道路線",
