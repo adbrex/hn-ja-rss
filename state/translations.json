@@ -51,6 +51,10 @@
   "ja": "$500のRL微調整9Bオープンモデルがカタログレビューでフロンティアモデルをベンチマーク",
   "ts": "2026-07-28T11:10:58.283721+00:00"
  },
+ "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"": {
+  "ja": "第3世界の組み込みエンジニアが「RISC-V They Should Have Known Better」に応答",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
+ },
  "A California aquifer may have crossed the point of no return": {
   "ja": "カリフォルニアの帯水層が回復不能な地点を超えた可能性",
   "ts": "2026-07-31T05:59:23.336566+00:00"
@@ -71,6 +75,10 @@
   "ja": "物理学者がペットのハムスターの回し車をStavaにアップロードするようにハック",
   "ts": "2026-08-08T09:30:33.391680+00:00"
  },
+ "A SAT Attack on Tarski's High School Algebra Problem": {
+  "ja": "Tarskiの高校代数問題へのSAT攻撃",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
+ },
  "A Spectre Is Haunting Unicode": {
   "ja": "Unicodeを脅かす幽霊",
   "ts": "2026-08-15T21:14:07.444034+00:00"
@@ -86,6 +94,10 @@
  "A Trampoline": {
   "ja": "トランポリン",
   "ts": "2026-07-30T05:33:31.620488+00:00"
+ },
+ "A True Telnet BBS on a Casio Calculator": {
+  "ja": "カシオ電卓上の真のTelnet BBS",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
  },
  "A big win for Android interoperability": {
   "ja": "Androidの相互運用性における大きな勝利",
@@ -327,6 +339,10 @@
   "ja": "Antirez/h3.c: Macコンピュータ用MiniMax H3推論エンジン",
   "ts": "2026-08-11T04:14:09.375353+00:00"
  },
+ "Anton Chekhov played at love most of his life": {
+  "ja": "アントン・チェーホフは人生の大半を愛に遊びで接した",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
+ },
  "App Store Rejection of the Week: Dark Hours": {
   "ja": "App Store却下の今週の例：Dark Hours",
   "ts": "2026-08-07T21:32:30.787829+00:00"
@@ -342,6 +358,10 @@
  "Archaeologists Find Ancient Glyphs in the Amazon": {
   "ja": "考古学者がアマゾンで古代の象形文字を発見",
   "ts": "2026-08-04T11:17:50.507258+00:00"
+ },
+ "Archie G. Norcross' Maine Forest Fire Maps (1918–22)": {
+  "ja": "Archie G. Norcrossのメイン州森林火災地図（1918～22年）",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
  },
  "Archive of Animal Photography Reveals 18,000 Species and Counting": {
   "ja": "動物写真アーカイブが18,000種以上を公開",
@@ -450,6 +470,10 @@
  "Bede Liu, a digital signal processing pioneer, has died": {
   "ja": "デジタル信号処理のパイオニア、Bede Liu逝去",
   "ts": "2026-08-16T03:41:37.773610+00:00"
+ },
+ "Before Rightmove, there was the Cosmorama": {
+  "ja": "Rightmoveの前にあったCosmorama",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
  },
  "Benchmarking Opus 5 on SlopCodeBench": {
   "ja": "SlopCodeBenchでOpus 5をベンチマーク",
@@ -571,6 +595,10 @@
   "ja": "ChatGPTが著者のスタイルをコピーするダイレクト要求をブロックし始める",
   "ts": "2026-08-09T04:13:08.257601+00:00"
  },
+ "Chestnut – eGPU dock with open-source firmware": {
+  "ja": "Chestnut – オープンソースファームウェア搭載eGPUドック",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
+ },
  "China begins producing advanced chipmaking deep-ultraviolet lithography machines": {
   "ja": "中国が先端チップ製造向け深紫外線リソグラフィ装置の生産を開始",
   "ts": "2026-08-02T05:49:41.204416+00:00"
@@ -582,6 +610,10 @@
  "Choosing an AI model: one prompt, 11 models, different results": {
   "ja": "AI モデルを選ぶ：1つのプロンプト、11のモデル、異なる結果",
   "ts": "2026-08-13T21:37:39.844032+00:00"
+ },
+ "Clamiga: Common Lisp for the Amiga": {
+  "ja": "Clamiga: AmigaのCommon Lisp",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
  },
  "Claude: Elevated errors across all models": {
   "ja": "Claude: 全モデルでのエラー上昇",
@@ -931,6 +963,10 @@
   "ja": "消防士の放火は長年の課題 – 専門家",
   "ts": "2026-08-01T05:48:56.409000+00:00"
  },
+ "Firefox for iOS now has a native adblocker": {
+  "ja": "Firefox for iOSにネイティブ広告ブロッカーが搭載",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
+ },
  "Firefox is now the last major browser that still supports uBlock Origin": {
   "ja": "Firefoxは今もuBlock Originをサポートする唯一の主要ブラウザ",
   "ts": "2026-08-15T09:19:16.509872+00:00"
@@ -1002,6 +1038,10 @@
  "GLM-5.3: Frontier coding with emergent cyber capabilities": {
   "ja": "GLM-5.3: 新興サイバー能力によるフロンティアコーディング",
   "ts": "2026-08-15T09:19:16.509856+00:00"
+ },
+ "GPS and the Lost Art of Getting Lost": {
+  "ja": "GPSと失われた道迷いの技術",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
  },
  "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?": {
   "ja": "物理AIにおけるGPT-5.6対Claude Fable 5の性能比較",
@@ -1249,7 +1289,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-16T09:20:43.766179+00:00"
+  "ts": "2026-08-16T21:13:08.215207+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -1326,6 +1366,10 @@
  "ICE Collected Nearly 1M People's DNA Last Year–Including Young Children": {
   "ja": "ICEが昨年およそ100万人のDNAを収集—幼い子どもを含む",
   "ts": "2026-08-03T12:15:46.460959+00:00"
+ },
+ "ICE Shot a Journalist and Threw Him in Detention. He's Approaching 300 Days": {
+  "ja": "ICEがジャーナリストに発砲し身柄拘束。収容期間が300日近づく",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
  },
  "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay": {
   "ja": "WebKitのIPおよびDNS漏洩、プロキシブラウザとiCloud Private Relayに影響",
@@ -1627,6 +1671,10 @@
   "ja": "Lovableが4億ドルのSeries Cで資金調達",
   "ts": "2026-08-13T09:56:38.962815+00:00"
  },
+ "Low-Tech Ceramic Water Filter": {
+  "ja": "低技術セラミック浄水フィルター",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
+ },
  "MCP 2026-07-28 Specification: transport going stateless": {
   "ja": "MCP 2026-07-28 仕様：トランスポートがステートレスになる",
   "ts": "2026-07-28T21:57:37.461952+00:00"
@@ -1695,6 +1743,10 @@
   "ja": "大規模並列 Postgres バックアップ",
   "ts": "2026-08-04T05:41:54.406885+00:00"
  },
+ "MathCode, Mathematical Coding Agent": {
+  "ja": "MathCode、Mathematical Coding Agent",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
+ },
  "Mathematics Without Mathematicians": {
   "ja": "数学者のいない数学",
   "ts": "2026-08-02T10:28:30.211842+00:00"
@@ -1750,6 +1802,10 @@
  "MkLinux and the pimped-out Apple Workgroup Server 9150": {
   "ja": "MkLinuxとカスタマイズされたApple Workgroup Server 9150",
   "ts": "2026-08-02T10:28:27.316279+00:00"
+ },
+ "Models Are Getting Dumber on Purpose": {
+  "ja": "モデルが意図的にバカになっている",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
  },
  "Monitors for Work": {
   "ja": "仕事用モニタ",
@@ -1822,6 +1878,10 @@
  "NASA to keep its 48-year-old Voyager 2 probe running for yet another year": {
   "ja": "NASA、48年前の Voyager 2 探査機をさらに1年間稼働させる",
   "ts": "2026-08-08T04:07:10.574101+00:00"
+ },
+ "NIH is ending a key grant for budding clinical researchers": {
+  "ja": "NIHが新進臨床研究者向けの重要助成金を終了",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
  },
  "NP-overrated": {
   "ja": "NP-過大評価",
@@ -2023,6 +2083,10 @@
   "ja": "Picophysics: N64、PSX、DCなどのプラットフォーム向けシングルファイル物理エンジン",
   "ts": "2026-08-10T10:11:18.427044+00:00"
  },
+ "Plastic mechanical computer from 1963: The Digi-Comp 1 [video]": {
+  "ja": "1963年のプラスチック機械式計算機: Digi-Comp 1 [ビデオ]",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
+ },
  "Plug-In Solar Panels Starting to Sprout in U.S. Backyards": {
   "ja": "プラグイン型太陽光パネル、米国の裏庭で広がり始める",
   "ts": "2026-08-09T21:24:15.218424+00:00"
@@ -2078,6 +2142,10 @@
  "Programming Languages Are Authoring Tools for Platforms": {
   "ja": "プログラミング言語はプラットフォームのためのオーサリングツール",
   "ts": "2026-07-28T11:11:01.190453+00:00"
+ },
+ "Protobuf has LSP support. You're welcome": {
+  "ja": "ProtobufがLSPサポート対応。どういたしまして",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
  },
  "Psychological Warfare in Reverse Engineering": {
   "ja": "リバースエンジニアリングにおける心理戦",
@@ -2195,6 +2263,10 @@
   "ja": "Kobo Libra H2O バッテリーの交換",
   "ts": "2026-08-04T11:17:46.859473+00:00"
  },
+ "Research papers using \"kidney disappointment\" instead of \"kidney failure\"": {
+  "ja": "「腎不全」の代わりに「腎臓の失望」を使う研究論文",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
+ },
  "Residential Proxies Are a National Security Threat": {
   "ja": "住宅用プロキシは国家安全保障脅威である",
   "ts": "2026-07-28T05:23:02.934777+00:00"
@@ -2270,6 +2342,10 @@
  "RustDesk now supports true unattended remote access on Wayland": {
   "ja": "RustDeskがWayland上での真の無人リモートアクセスに対応",
   "ts": "2026-08-15T09:19:16.509882+00:00"
+ },
+ "SIMD in the 90s: Programming Intel's Pentium MMX": {
+  "ja": "90年代のSIMD: Intelの Pentium MMXプログラミング",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
  },
  "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros": {
   "ja": "SPF レコード構文：メカニズム、クォリファイア、モディファイア、マクロ",
@@ -2683,6 +2759,10 @@
   "ja": "鉄硫黄クラスタ上のSQD/QSCI量子化学ベンチマークのSpin監査",
   "ts": "2026-08-07T09:54:33.877044+00:00"
  },
+ "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core": {
+  "ja": "St Lucie Nuclear Reactor Unit 1が手動停止、3本の制御棒がコアに落下",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
+ },
  "Stacked PRs are now live on GitHub": {
   "ja": "Stacked PRs がGitHubで利用可能に",
   "ts": "2026-07-31T11:24:33.340222+00:00"
@@ -2715,6 +2795,10 @@
   "ja": "Stowaway – あらゆる飛行機や衛星上で窓側の座席を",
   "ts": "2026-08-11T09:54:12.807134+00:00"
  },
+ "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter": {
+  "ja": "StripeがAI企業OpenRouterを70億ドル以上で買収",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
+ },
  "Stylized GGX Shading": {
   "ja": "スタイル化されたGGXシェーディング",
   "ts": "2026-08-09T21:24:07.777556+00:00"
@@ -2738,6 +2822,10 @@
  "Super Mario Derivations": {
   "ja": "Super Marioの導出",
   "ts": "2026-08-15T09:19:20.934747+00:00"
+ },
+ "Superconducting monolayer cuprate with a single CuO2 plane": {
+  "ja": "単層CuO2平面を持つ超伝導単層銅酸化物",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
  },
  "SwiftUI After 7 Years": {
   "ja": "7年後のSwiftUI",
@@ -2779,6 +2867,10 @@
   "ja": "10年でプログラミングを独習する（1998年）",
   "ts": "2026-07-29T11:17:33.572906+00:00"
  },
+ "Tell HN: Cloudflare silently injects its analytics when you switch nameservers": {
+  "ja": "Tell HN: Cloudflareがネームサーバー切り替え時に静かに分析ツールを注入",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
+ },
  "Ten Ways NAS Is Getting Enshitified": {
   "ja": "NASの悪化が進む10の方法",
   "ts": "2026-08-01T10:29:15.366156+00:00"
@@ -2802,6 +2894,10 @@
  "The AI Aesthetic": {
   "ja": "AI美学",
   "ts": "2026-07-31T11:24:33.340226+00:00"
+ },
+ "The AI Credit Resale Economy": {
+  "ja": "AI クレジット転売エコノミー",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
  },
  "The AI trade now runs on borrowed money, and the lenders are repricing it": {
   "ja": "AI産業は借金で運営されており、貸し手はそれの価格を変更している",
@@ -2830,6 +2926,10 @@
  "The Burau representation of the braid group is faithful for n = 4": {
   "ja": "n=4のときのブレイド群のBurau表現は忠実である",
   "ts": "2026-08-01T21:47:35.631101+00:00"
+ },
+ "The Case Against Formal Verification, 50 Years Later": {
+  "ja": "形式検証に対する論拠、50年後",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
  },
  "The Cold Email": {
   "ja": "コールドメール",
@@ -2979,6 +3079,10 @@
   "ja": "Vision Proの最高の使用方法",
   "ts": "2026-07-30T11:01:01.391665+00:00"
  },
+ "The deep history behind the Road to Nowhere inside the Great Smoky Mountains": {
+  "ja": "グレート・スモーキー・マウンテンズ内のNowhere Roadの奥深い歴史",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
+ },
  "The development pipeline is a production system": {
   "ja": "開発パイプラインは本番システムである",
   "ts": "2026-08-01T10:29:11.166422+00:00"
@@ -3066,6 +3170,10 @@
  "The true power of regular expressions (2012)": {
   "ja": "正規表現の真の力（2012年）",
   "ts": "2026-08-03T12:15:46.460959+00:00"
+ },
+ "The weekend is 100 years old": {
+  "ja": "週末は100年前の発明",
+  "ts": "2026-08-16T21:13:15.261662+00:00"
  },
  "The “mechanical miracle” that ruined Mark Twain’s life": {
   "ja": "マーク・トウェインの人生を台無しにした「機械的奇跡」",
