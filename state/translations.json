@@ -105,7 +105,7 @@
  },
  "A fortuitous decade as an indie software developer": {
   "ja": "インディソフトウェア開発者としての幸運な10年",
-  "ts": "2026-08-16T03:41:37.773610+00:00"
+  "ts": "2026-08-16T09:20:43.766167+00:00"
  },
  "A missing underscore sent innocent man to prison for 18 months": {
   "ja": "アンダースコア記号の欠落により無実の男性が18ヶ月投獄",
@@ -129,7 +129,7 @@
  },
  "A spectre is haunting Unicode": {
   "ja": "Unicodeを脅かす亡霊",
-  "ts": "2026-08-16T03:41:37.773610+00:00"
+  "ts": "2026-08-16T09:20:43.766157+00:00"
  },
  "A tiny holdout building in the middle of Macy’s is back in view": {
   "ja": "Macysの真ん中に建つ小さな固執した建物が再び見える",
@@ -177,11 +177,11 @@
  },
  "AI has access to a vastly larger working memory than the human brain": {
   "ja": "AIは人間の脳よりもはるかに大きいワーキングメモリにアクセスできる",
-  "ts": "2026-08-16T03:41:37.773610+00:00"
+  "ts": "2026-08-16T09:20:43.766128+00:00"
  },
  "AI in drug discovery – what it is, where we stand and the path forward": {
   "ja": "AI創薬 – それは何か、どこまで来たか、そして進むべき道",
-  "ts": "2026-08-16T03:41:37.773610+00:00"
+  "ts": "2026-08-16T09:20:43.766163+00:00"
  },
  "AI in drug discovery — what it is, where we stand and the path forward": {
   "ja": "創薬におけるAI：それが何か、現在地、今後の道筋",
@@ -205,7 +205,7 @@
  },
  "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code": {
   "ja": "AI支援による25万行レガシー気象シミュレーションコードのGPUポーティング",
-  "ts": "2026-08-16T03:41:37.773610+00:00"
+  "ts": "2026-08-16T09:20:43.766177+00:00"
  },
  "AMD acquires Taalas to boost inference performance by etching models in silicon": {
   "ja": "AMDがTaaalasを買収、モデルをシリコンに刻み込むことで推論性能を向上",
@@ -221,7 +221,7 @@
  },
  "Abdominal fat predicts heart disease risk better than BMI": {
   "ja": "腹部脂肪はBMIより心臓病リスクをより良く予測する",
-  "ts": "2026-08-16T03:41:37.773610+00:00"
+  "ts": "2026-08-16T09:20:43.766153+00:00"
  },
  "About the security content of macOS Tahoe 26.6": {
   "ja": "macOS Tahoe 26.6のセキュリティコンテンツについて",
@@ -289,7 +289,7 @@
  },
  "An image can overflow": {
   "ja": "画像はオーバーフロー可能",
-  "ts": "2026-08-16T03:41:37.773610+00:00"
+  "ts": "2026-08-16T09:20:43.766175+00:00"
  },
  "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident": {
   "ja": "Frontier Lab Agent侵入の解剖学：2026年7月インシデントのタイムライン",
@@ -385,11 +385,11 @@
  },
  "Asynchronous I/O in DuckDB: Work, Thread, Work": {
   "ja": "DuckDBにおける非同期I/O：Work, Thread, Work",
-  "ts": "2026-08-16T03:41:37.773610+00:00"
+  "ts": "2026-08-16T09:20:43.766161+00:00"
  },
  "At-home test for infected ticks could improve Lyme Disease diagnosis": {
   "ja": "自宅用感染ダニ検査でライム病診断が改善の可能性",
-  "ts": "2026-08-16T03:41:31.350938+00:00"
+  "ts": "2026-08-16T09:20:43.766151+00:00"
  },
  "Atlassian Rovo Exfiltrates Data, Bypassing Controls": {
   "ja": "Atlassian Rovoがデータ漏洩、コントロール回避",
@@ -629,7 +629,7 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-08-16T03:41:31.350946+00:00"
+  "ts": "2026-08-16T09:20:43.766181+00:00"
  },
  "Could a computer scientist build a brain?": {
   "ja": "コンピュータ科学者は脳を構築できるか",
@@ -657,7 +657,7 @@
  },
  "Cultivating a state of mind where new ideas are born (2023)": {
   "ja": "新しいアイデアが生まれる心の状態を培う（2023）",
-  "ts": "2026-08-16T03:41:37.773610+00:00"
+  "ts": "2026-08-16T09:20:43.766159+00:00"
  },
  "Curlese, Five Years Later": {
   "ja": "Curlese、5年後",
@@ -903,6 +903,10 @@
   "ja": "F* – 汎用証明指向プログラミング言語",
   "ts": "2026-08-02T21:48:31.720714+00:00"
  },
+ "Falstad Math and Physics Simulations": {
+  "ja": "Falstad数学・物理シミュレーション",
+  "ts": "2026-08-16T09:20:47.350042+00:00"
+ },
  "Faster floating point math with Rust's new API": {
   "ja": "Rustの新APIで浮動小数点演算を高速化",
   "ts": "2026-08-11T09:54:16.672468+00:00"
@@ -1091,6 +1095,10 @@
   "ja": "OCaml の Guarded Methods (2025)",
   "ts": "2026-08-08T09:30:29.480452+00:00"
  },
+ "Guiding Ships with Moire Patterns": {
+  "ja": "モアレパターンで船舶を導く",
+  "ts": "2026-08-16T09:20:47.350042+00:00"
+ },
  "H3-metal – Native MiniMax-H3 inference for Apple Silicon": {
   "ja": "H3-metal – Apple Silicon向けネイティブMiniMax-H3推論",
   "ts": "2026-08-11T21:38:39.897799+00:00"
@@ -1241,7 +1249,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-16T03:41:31.350944+00:00"
+  "ts": "2026-08-16T09:20:43.766179+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -1278,6 +1286,10 @@
  "I built a 500k-domain search engine for makers in a weekend for $10": {
   "ja": "週末 10 ドルでメーカー向け 50 万ドメイン検索エンジンを構築した",
   "ts": "2026-08-13T21:37:39.844032+00:00"
+ },
+ "I built a browser-native SysEx librarian for 80s/90s synthesizers": {
+  "ja": "80年代/90年代シンセサイザー向けブラウザネイティブSysExライブラリアンを構築した",
+  "ts": "2026-08-16T09:20:47.350042+00:00"
  },
  "I don't recommend Tailwind CSS": {
   "ja": "Tailwind CSSをお勧めしない",
@@ -1883,6 +1895,10 @@
   "ja": "Npm-scan: npmエコシステムの最新サプライチェーンセキュリティ",
   "ts": "2026-08-16T03:41:31.350951+00:00"
  },
+ "Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite": {
+  "ja": "ブラウザ内のNumba: JupyterLiteで新しい科学Python スタックを解放する",
+  "ts": "2026-08-16T09:20:47.350042+00:00"
+ },
  "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard": {
   "ja": "Nvidia Nemotron 3.5 LightningとNeMo Switchyard",
   "ts": "2026-08-12T09:55:19.227913+00:00"
@@ -1971,6 +1987,10 @@
   "ja": "パーサーは複雑である必要がない",
   "ts": "2026-08-07T09:54:33.877044+00:00"
  },
+ "Patterns and problems in emerging multi-agent systems": {
+  "ja": "マルチエージェントシステムの新興パターンと課題",
+  "ts": "2026-08-16T09:20:47.350042+00:00"
+ },
  "People who grew up with high economic connectedness earn more": {
   "ja": "経済的接続性が高い環境で育った人々がより多く稼ぐ",
   "ts": "2026-08-12T21:38:21.279248+00:00"
@@ -2051,6 +2071,10 @@
   "ja": "モチベーションの代理としてのプロセス",
   "ts": "2026-08-13T04:46:48.496392+00:00"
  },
+ "Program with Paint Brushes, Not Pencils": {
+  "ja": "鉛筆ではなく絵の具ブラシでプログラミング",
+  "ts": "2026-08-16T09:20:47.350042+00:00"
+ },
  "Programming Languages Are Authoring Tools for Platforms": {
   "ja": "プログラミング言語はプラットフォームのためのオーサリングツール",
   "ts": "2026-07-28T11:11:01.190453+00:00"
@@ -2105,7 +2129,7 @@
  },
  "RISC-V: They Should Have Known Better": {
   "ja": "RISC-V：最初から知るべきだった",
-  "ts": "2026-08-16T03:41:31.350935+00:00"
+  "ts": "2026-08-16T09:20:43.766149+00:00"
  },
  "RSI Simulator": {
   "ja": "RSI シミュレーター",
@@ -2297,7 +2321,7 @@
  },
  "Semaglutide linked to lower predicted dementia risk": {
   "ja": "セマグルチドが認知症リスク低減と関連",
-  "ts": "2026-08-16T03:41:31.350924+00:00"
+  "ts": "2026-08-16T09:20:43.766145+00:00"
  },
  "Seven books I keep close because I love them": {
   "ja": "大切にしている7冊の本",
@@ -2469,7 +2493,7 @@
  },
  "Show HN: Mic Drop, a real-time multiplayer karaoke game": {
   "ja": "Show HN: Mic Drop、リアルタイムマルチプレイヤーカラオケゲーム",
-  "ts": "2026-08-16T03:41:37.773610+00:00"
+  "ts": "2026-08-16T09:20:43.766171+00:00"
  },
  "Show HN: Mole – Deep research agent for your terminal": {
   "ja": "Show HN: Mole – ターミナル向けディープリサーチエージェント",
@@ -2617,7 +2641,7 @@
  },
  "Software Engineering fundamentals matter more": {
   "ja": "ソフトウェアエンジニアリングの基礎がより重要",
-  "ts": "2026-08-16T03:41:37.773610+00:00"
+  "ts": "2026-08-16T09:20:43.766165+00:00"
  },
  "Solid Queue 1.6.0 now supports fiber workers": {
   "ja": "Solid Queue 1.6.0がファイバーワーカーに対応",
@@ -2701,7 +2725,7 @@
  },
  "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)": {
   "ja": "SugarTrack – 血糖値用オフラインAndroidログブック（アカウント、クラウドなし）",
-  "ts": "2026-08-16T03:41:37.773610+00:00"
+  "ts": "2026-08-16T09:20:43.766173+00:00"
  },
  "Sula: A Gemini protocol server written in Scryer Prolog": {
   "ja": "Sula: Scryer Prologで書かれたGeminiプロトコルサーバー",
@@ -2709,7 +2733,7 @@
  },
  "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter": {
   "ja": "スーパーエルニーニョが成長を続け、冬前に新たな予測記録に達する",
-  "ts": "2026-08-16T03:41:37.773610+00:00"
+  "ts": "2026-08-16T09:20:43.766155+00:00"
  },
  "Super Mario Derivations": {
   "ja": "Super Marioの導出",
@@ -3113,7 +3137,7 @@
  },
  "Tracking down a Zsh history data loss bug": {
   "ja": "Zshの履歴データ損失バグを追跡する",
-  "ts": "2026-08-16T03:41:37.773610+00:00"
+  "ts": "2026-08-16T09:20:43.766169+00:00"
  },
  "Tracking down the 16-year-old WAL-reset SQLite bug": {
   "ja": "16年前のSQLite WALリセットバグを追跡",
@@ -3343,6 +3367,10 @@
   "ja": "2次元に仕事を投じたらどうなるか",
   "ts": "2026-08-05T22:07:29.867079+00:00"
  },
+ "What happens when an LLM never sees material beyond fifth grade?": {
+  "ja": "LLMが5年生レベル以上の教材を見たことがない場合に起こること",
+  "ts": "2026-08-16T09:20:47.350042+00:00"
+ },
  "What is a product?": {
   "ja": "プロダクトとは何か",
   "ts": "2026-08-07T09:54:33.877044+00:00"
@@ -3502,6 +3530,10 @@
  "ZX Spectrum System Tour: Text Mode": {
   "ja": "ZX SpectrumシステムツアーTextモード",
   "ts": "2026-08-04T05:41:58.523074+00:00"
+ },
+ "Zapping Rocks Unlocks Stimulated Geologic Hydrogen": {
+  "ja": "岩石への通電が刺激地質水素を解放",
+  "ts": "2026-08-16T09:20:47.350042+00:00"
  },
  "Zero-Mem: Zero-Token Memory Operations for LLM Agents": {
   "ja": "Zero-Mem: LLM Agentsのゼロトークンメモリ操作",
