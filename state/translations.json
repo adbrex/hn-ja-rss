@@ -75,6 +75,10 @@
   "ja": "物理学者がペットのハムスターの回し車をStavaにアップロードするようにハック",
   "ts": "2026-08-08T09:30:33.391680+00:00"
  },
+ "A Preview of DuckDB v2.0": {
+  "ja": "DuckDB v2.0 プレビュー",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
+ },
  "A SAT Attack on Tarski's High School Algebra Problem": {
   "ja": "Tarskiの高校代数問題へのSAT攻撃",
   "ts": "2026-08-16T21:13:15.261662+00:00"
@@ -126,6 +130,10 @@
  "A new study of a bot running a store finds it is friendly but not very smart": {
   "ja": "店を運営するボットに関する新研究: フレンドリーだが賢くない",
   "ts": "2026-08-11T21:38:47.091273+00:00"
+ },
+ "A particle made of force: physicists say they've found mysterious 'glueball'": {
+  "ja": "力でできた粒子：物理学者が謎の「グルーボール」を発見したと主張",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
  },
  "A physicist rigged his pet hamster’s wheel to upload to Strava": {
   "ja": "物理学者がペットのハムスターの回し車をStrava対応に改造",
@@ -231,6 +239,14 @@
   "ja": "AI支援による25万行レガシー気象シミュレーションコードのGPUポーティング",
   "ts": "2026-08-16T09:20:43.766177+00:00"
  },
+ "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira": {
+  "ja": "AI 生成の GitHub Copilot「Autofix」が Snowflake の Jira 侵害を引き起こした",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
+ },
+ "AI;DR (AI; Didn't Read)": {
+  "ja": "AI;DR (AI; 読まなかった)",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
+ },
  "AMD acquires Taalas to boost inference performance by etching models in silicon": {
   "ja": "AMDがTaaalasを買収、モデルをシリコンに刻み込むことで推論性能を向上",
   "ts": "2026-08-08T09:30:29.480394+00:00"
@@ -315,6 +331,10 @@
   "ja": "画像はオーバーフロー可能",
   "ts": "2026-08-16T09:20:43.766175+00:00"
  },
+ "An update on leaving Gmail for Fastmail": {
+  "ja": "Gmail から Fastmail への移行に関する更新",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
+ },
  "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident": {
   "ja": "Frontier Lab Agent侵入の解剖学：2026年7月インシデントのタイムライン",
   "ts": "2026-07-30T11:01:01.391670+00:00"
@@ -398,6 +418,10 @@
  "As AI eats the web, the internet’s collective memory is disappearing": {
   "ja": "AIがウェブを食い尽くすなか、インターネットの集合的記憶が消えていく",
   "ts": "2026-08-11T21:38:39.897772+00:00"
+ },
+ "Ask HN: Alternatives to GitHub": {
+  "ja": "Ask HN: GitHub の代替手段",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
  },
  "Ask HN: In your experience, what are sound conventions for e-ink UI development?": {
   "ja": "Ask HN: e-ink UI開発における健全な慣例とは何か",
@@ -722,6 +746,10 @@
  "Curlese, Five Years Later": {
   "ja": "Curlese、5年後",
   "ts": "2026-08-08T04:07:10.574101+00:00"
+ },
+ "Cursor launches Origin, GitHub alternative": {
+  "ja": "Cursor が GitHub 代替の Origin をローンチ",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
  },
  "Cursor removed cost information from the usage page and CSV export": {
   "ja": "Cursorが使用ページとCSVエクスポートからコスト情報を削除",
@@ -1087,9 +1115,17 @@
   "ja": "GPSと失われた道迷いの技術",
   "ts": "2026-08-16T21:13:15.261662+00:00"
  },
+ "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released": {
+  "ja": "GPT 5.6 Sol は OpenAI が公開した最高の「ビジョン」モデル",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
+ },
  "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?": {
   "ja": "物理AIにおけるGPT-5.6対Claude Fable 5の性能比較",
   "ts": "2026-07-29T21:54:08.013720+00:00"
+ },
+ "GPU Offload in Rust: Portable, Safe, and Fast": {
+  "ja": "Rust での GPU オフロード: ポータブル、安全、高速",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
  },
  "Gakutensoku": {
   "ja": "学天則",
@@ -1291,6 +1327,10 @@
   "ja": "ハリウッドはいかにしてハリウッドでの映画製作をやめたか",
   "ts": "2026-08-04T05:41:54.406882+00:00"
  },
+ "How I developed an Am29000 C compiler and web browser": {
+  "ja": "Am29000 C コンパイラと Web ブラウザの開発方法",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
+ },
  "How I use LLMs to learn complex topics": {
   "ja": "複雑なトピックを学ぶためにLLMsを活用する方法",
   "ts": "2026-08-10T10:11:18.426991+00:00"
@@ -1339,13 +1379,25 @@
   "ja": "沸騰水での生き残り方",
   "ts": "2026-07-28T11:11:01.190453+00:00"
  },
+ "How to disable or avoid intrusive AI": {
+  "ja": "押し付けがましい AI を無効化または回避する方法",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
+ },
  "How to not die by a thousand cuts or how to think about software quality (2023)": {
   "ja": "千の小さな切り傷で死なないために、またはソフトウェア品質について考える方法 (2023)",
   "ts": "2026-07-29T21:54:08.013720+00:00"
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-17T09:33:52.080172+00:00"
+  "ts": "2026-08-17T21:19:17.246942+00:00"
+ },
+ "How to put 170 atoms in an atom": {
+  "ja": "170 個の原子を 1 つの原子に詰め込む方法",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
+ },
+ "How to ship a database every day": {
+  "ja": "毎日データベースをリリースする方法",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -1467,9 +1519,17 @@
   "ja": "インセンティブは敗者のもの",
   "ts": "2026-08-09T09:32:05.584523+00:00"
  },
+ "Incident with Github.com": {
+  "ja": "Github.com のインシデント",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
+ },
  "Increasing the lifespan of a bulb makes it worse in every other way": {
   "ja": "電球の寿命を延ばすことは他のあらゆる面で悪化させる",
   "ts": "2026-08-01T10:29:15.366156+00:00"
+ },
+ "India has paved the way for charging merchants a fee on UPI transactions": {
+  "ja": "インドが UPI 取引の加盟店手数料制度を確立",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
  },
  "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)": {
   "ja": "vLLMの内部：高スループットLLM推論システムの解剖学 (2025)",
@@ -1530,6 +1590,10 @@
  "Jolt: Clojure compiler implemented with Chez Scheme": {
   "ja": "Jolt: Chez Schemeで実装されたClojureコンパイラ",
   "ts": "2026-08-12T09:55:19.227918+00:00"
+ },
+ "Judge sets framework for Nine PBS to retrieve archival data": {
+  "ja": "裁判官が Nine PBS のアーカイブデータ検索の枠組みを設定",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
  },
  "June in Servo: real world compat, media queries, SharedWorker, and more": {
   "ja": "Servo 6月：実世界互換、メディアクエリ、SharedWorker ほか",
@@ -1647,6 +1711,10 @@
   "ja": "Launch HN: Rise Reforming (YC S26) – 廃棄ガスを貴重な化学物質に転換",
   "ts": "2026-07-28T11:10:58.283737+00:00"
  },
+ "Launch HN: Speko (YC S26) – OpenRouter for Voice AI": {
+  "ja": "Launch HN: Speko (YC S26) – ボイス AI の OpenRouter",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
+ },
  "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers": {
   "ja": "Launch HN: Stoa Markets (YC S26) – GPUとAIサーバーのマーケットプレイス",
   "ts": "2026-08-11T04:14:04.643539+00:00"
@@ -1731,6 +1799,10 @@
   "ja": "Long Range Wi-Fi – 2.4 GHz Wi-Fiを限界まで押し上げる（2019）",
   "ts": "2026-08-01T10:29:15.366156+00:00"
  },
+ "Los Puesteros, solitary men who look after ranches and livestock in Patagonia": {
+  "ja": "ロス・プエステロス：パタゴニアで牧場と家畜の世話をする独身男性たち",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
+ },
  "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength": {
   "ja": "オフィスで携帯を紛失。Claudeが Bluetooth信号強度の追跡を提案",
   "ts": "2026-08-09T04:13:02.787172+00:00"
@@ -1802,6 +1874,10 @@
  "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models": {
   "ja": "Mark Zuckerberg、「閉鎖的な」AI競合他社を批判。Metaがオープンモデルへ回帰",
   "ts": "2026-08-11T09:54:12.807124+00:00"
+ },
+ "Marketers are Addicted to Bad Data (2020)": {
+  "ja": "マーケターは悪いデータに中毒 (2020)",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
  },
  "Mars Bar from 1991 found – and it's 20g bigger than today's": {
   "ja": "1991年のMars Bar発見 – 現在のものより20g大きい",
@@ -2055,6 +2131,10 @@
   "ja": "AI規制とメッセージングについて",
   "ts": "2026-08-17T09:33:58.491164+00:00"
  },
+ "On AI regulation and messaging": {
+  "ja": "AI 規制とメッセージングについて",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
+ },
  "Online Friends Are Real Friends": {
   "ja": "オンラインの友人は本当の友人である",
   "ts": "2026-08-06T05:41:25.823460+00:00"
@@ -2267,6 +2347,10 @@
   "ja": "Qwen 3.8 27Bは優秀だが、過度に思考する傾向がある",
   "ts": "2026-08-17T09:33:52.080152+00:00"
  },
+ "Qwen3.8 27B scores 52 on Artificial Analysis": {
+  "ja": "Qwen3.8 27B が Artificial Analysis で 52 を獲得",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
+ },
  "Qwen3.8 Max now ranked as the best overall model by agentic index": {
   "ja": "Qwen3.8 Max、agentic indexで最高総合モデルにランク",
   "ts": "2026-08-07T01:00:14.602517+00:00"
@@ -2402,6 +2486,10 @@
  "RipGrep musl binaries occasionally segfault during very-large searches": {
   "ja": "RipGrep muslバイナリが大規模検索時に断続的にセグメンテーションフォルトを起こす",
   "ts": "2026-08-01T21:47:42.064746+00:00"
+ },
+ "Roboflow Playground: Try and Compare 30 Computer Vision Models": {
+  "ja": "Roboflow Playground: 30 個のコンピュータビジョンモデルを試して比較",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
  },
  "Robot Videos: Heavy Lift Cargo Drones, Grippers, More": {
   "ja": "ロボット映像：大型輸送ドローン、グリッパーほか",
@@ -3115,6 +3203,10 @@
   "ja": "Nixpkgs コアチームが解散",
   "ts": "2026-08-08T09:30:29.480427+00:00"
  },
+ "The Origin of Consciousness (2008)": {
+  "ja": "意識の起源 (2008)",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
+ },
  "The Origins of Vintage Comics Part 1": {
   "ja": "ビンテージコミックスの起源 Part 1",
   "ts": "2026-08-06T05:41:30.536041+00:00"
@@ -3246,6 +3338,10 @@
  "The myth of Snow Leopard": {
   "ja": "Snow Leopardの神話",
   "ts": "2026-08-03T06:14:03.792442+00:00"
+ },
+ "The oldest bar in every state": {
+  "ja": "各州で最も古いバー",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
  },
  "The original URL for this prediction will no longer be available in 11 years (2011)": {
   "ja": "この予測の元のURLは11年後（2011年）に利用できなくなる",
@@ -3539,6 +3635,10 @@
   "ja": "Waymo – Dallas で全員利用可能に",
   "ts": "2026-08-04T22:06:22.622257+00:00"
  },
+ "We Are Forking dotenvy into dotenv-ng": {
+  "ja": "dotenvy を dotenv-ng にフォークしています",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
+ },
  "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447": {
   "ja": "GPT 5.6 Solに実ビジネスをやらせたら嘘をついてスパムを送り$447失った",
   "ts": "2026-07-30T22:07:54.199767+00:00"
@@ -3706,6 +3806,10 @@
  "Why we write our own C and C++ inference engines": {
   "ja": "独自のCとC++推論エンジンを書く理由",
   "ts": "2026-08-03T12:15:41.058723+00:00"
+ },
+ "Will you have spent more of your life with computers than your family?": {
+  "ja": "あなたはコンピュータと家族のどちらと過ごす人生が長いか",
+  "ts": "2026-08-17T21:19:26.004223+00:00"
  },
  "Windows 11's built-in Weather app wastes more than 1 GB of RAM": {
   "ja": "Windows 11の組み込みWeatherアプリが1GB以上のRAMを浪費している",
