@@ -147,6 +147,10 @@
   "ja": "Unicodeを脅かす亡霊",
   "ts": "2026-08-16T09:20:43.766157+00:00"
  },
+ "A third world engineer responds to “RISC-V: They should have known better”": {
+  "ja": "第三世界のエンジニアが「RISC-V：彼らはもっとよく知っているべきだった」に応答",
+  "ts": "2026-08-17T09:33:58.491164+00:00"
+ },
  "A tiny holdout building in the middle of Macy’s is back in view": {
   "ja": "Macysの真ん中に建つ小さな固執した建物が再び見える",
   "ts": "2026-08-01T10:29:15.366156+00:00"
@@ -161,7 +165,7 @@
  },
  "AGI-64 Brings Sierra Adventures to the Commodore 64": {
   "ja": "AGI-64がSierra AdventuresをCommodore 64に移植",
-  "ts": "2026-08-17T03:43:41.349701+00:00"
+  "ts": "2026-08-17T09:33:52.080166+00:00"
  },
  "AI At Home Part 1: A Box Of Scraps": {
   "ja": "AI At Home Part 1：スクラップの箱",
@@ -339,6 +343,10 @@
   "ja": "Anthropeum－この人工遺物は世界のどこに、いつ属するのか？",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing": {
+  "ja": "AnthropicのClaudeにおける「ウォーターマーク」テキスト改ざんは執筆の歪曲である",
+  "ts": "2026-08-17T09:33:58.491164+00:00"
+ },
  "Antiqua–Fraktur dispute": {
   "ja": "Antiqua–Fraktur 論争",
   "ts": "2026-08-13T09:56:38.962827+00:00"
@@ -362,6 +370,10 @@
  "Apple says more ex-employees may have taken confidential data to OpenAI": {
   "ja": "Apple、複数の元従業員がOpenAIに機密データを持ち出した可能性を発表",
   "ts": "2026-08-04T22:06:22.622257+00:00"
+ },
+ "Applying a photosynthetic process to treat “dry eye”": {
+  "ja": "光合成プロセスをドライアイ治療に応用する",
+  "ts": "2026-08-17T09:33:58.491164+00:00"
  },
  "Archaeologists Find Ancient Glyphs in the Amazon": {
   "ja": "考古学者がアマゾンで古代の象形文字を発見",
@@ -486,6 +498,10 @@
  "Benchmarking Opus 5 on SlopCodeBench": {
   "ja": "SlopCodeBenchでOpus 5をベンチマーク",
   "ts": "2026-07-28T11:10:58.283713+00:00"
+ },
+ "Beware the Permanent Periphery": {
+  "ja": "永遠の周辺部に注意せよ",
+  "ts": "2026-08-17T09:33:58.491164+00:00"
  },
  "Beyond Greece and Rome": {
   "ja": "ギリシャとローマを超えて",
@@ -629,7 +645,7 @@
  },
  "Claude: System Prompts": {
   "ja": "Claude: システムプロンプト",
-  "ts": "2026-08-17T03:43:41.349701+00:00"
+  "ts": "2026-08-17T09:33:52.080132+00:00"
  },
  "Cloudflare OS: an open platform for agents, apps, and work": {
   "ja": "Cloudflare OS: エージェント、アプリ、ワークのためのオープンプラットフォーム",
@@ -735,6 +751,10 @@
   "ja": "友人と敵と踊る: boidsの群れ知能",
   "ts": "2026-08-17T03:43:41.349701+00:00"
  },
+ "Dancing with friends and enemies: boids' swarm intelligence (2012)": {
+  "ja": "友人と敵と踊る: boidsの群れの知能(2012)",
+  "ts": "2026-08-17T09:33:58.491164+00:00"
+ },
  "Danish high schoolers will have to verbally defend written assignments": {
   "ja": "デンマークの高校生は論述課題を口頭で弁論する必要がある",
   "ts": "2026-08-09T04:13:08.257601+00:00"
@@ -806,6 +826,10 @@
  "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating": {
   "ja": "デンマークがAI不正行為対策で学生に論文の口頭弁論を義務化",
   "ts": "2026-08-08T21:22:35.314726+00:00"
+ },
+ "Design 3D-printable parts by talking": {
+  "ja": "音声で3Dプリント可能な部品を設計する",
+  "ts": "2026-08-17T09:33:58.491164+00:00"
  },
  "Developers are attached to tools because tools encode trust": {
   "ja": "開発者がツールに執着するのはツールが信頼をエンコードするから",
@@ -1051,6 +1075,10 @@
   "ja": "GCC運営委員会がAIポリシーを発表",
   "ts": "2026-07-31T11:24:33.340228+00:00"
  },
+ "GIMP Development Update": {
+  "ja": "GIMP開発アップデート",
+  "ts": "2026-08-17T09:33:58.491164+00:00"
+ },
  "GLM-5.3: Frontier coding with emergent cyber capabilities": {
   "ja": "GLM-5.3: 新興サイバー能力によるフロンティアコーディング",
   "ts": "2026-08-15T09:19:16.509856+00:00"
@@ -1062,6 +1090,10 @@
  "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?": {
   "ja": "物理AIにおけるGPT-5.6対Claude Fable 5の性能比較",
   "ts": "2026-07-29T21:54:08.013720+00:00"
+ },
+ "Gakutensoku": {
+  "ja": "学天則",
+  "ts": "2026-08-17T09:33:58.491164+00:00"
  },
  "Games at the press of a button: The Rip-O-Bot (1989)": {
   "ja": "ボタンを押すだけでゲーム: Rip-O-Bot（1989）",
@@ -1162,6 +1194,10 @@
  "HTML over WebSockets: real-time SPAs with barely any JavaScript": {
   "ja": "HTMLのWebSockets対応：JavaScriptほぼなしでリアルタイムSPA実現",
   "ts": "2026-08-13T09:56:38.962810+00:00"
+ },
+ "HackEurope 2026: A short rant on AI and hackathons": {
+  "ja": "HackEurope 2026: AIとハッカソンについての短い不満",
+  "ts": "2026-08-17T09:33:58.491164+00:00"
  },
  "Hackers Stalked Me by Hijacking a Smartwatch for Kids": {
   "ja": "ハッカーがキッズスマートウォッチをハイジャックして私を追跡した",
@@ -1279,6 +1315,10 @@
   "ja": "芸術はいかに人類を発明したか",
   "ts": "2026-08-13T21:37:39.844032+00:00"
  },
+ "How do I permanently disable random Google Photos popup to backup photos? (2024)": {
+  "ja": "Google Photosのランダムなポップアップをバックアップを無効にしたまま永久に無効化するには？(2024)",
+  "ts": "2026-08-17T09:33:58.491164+00:00"
+ },
  "How far can you push the range of Wi-Fi connectivity in an ideal environment?": {
   "ja": "理想的な環境下でWi-Fi接続範囲はどこまで広げられるか？",
   "ts": "2026-08-01T05:48:56.409000+00:00"
@@ -1305,7 +1345,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-17T03:43:27.830845+00:00"
+  "ts": "2026-08-17T09:33:52.080172+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -1442,6 +1482,10 @@
  "Interview with Amit Patel, Creator of \"Solar Realms Elite\"": {
   "ja": "\"Solar Realms Elite\"の創作者Amit Patelへのインタビュー",
   "ts": "2026-08-17T03:43:41.349701+00:00"
+ },
+ "Interview with Amit Patel, Creator of “Solar Realms Elite” (2013)": {
+  "ja": "Solar Realms Elite創作者Amit Patelへのインタビュー(2013)",
+  "ts": "2026-08-17T09:33:58.491164+00:00"
  },
  "Interview with Boris Cherny [video]": {
   "ja": "Boris Chenyのインタビュー [動画]",
@@ -1651,6 +1695,10 @@
   "ja": "PrometheusとGrafanaなしのSpring Boot軽量モニタリング",
   "ts": "2026-07-29T05:44:50.795006+00:00"
  },
+ "Linear algebra done right": {
+  "ja": "線形代数――正しいやり方",
+  "ts": "2026-08-17T09:33:58.491164+00:00"
+ },
  "Linux desktop market share has hit over 10% in North America": {
   "ja": "Linuxデスクトップのシェアが北米で10%を超えた",
   "ts": "2026-08-02T05:49:41.204416+00:00"
@@ -1693,7 +1741,7 @@
  },
  "Low-Tech Ceramic Water Filter": {
   "ja": "低技術セラミック浄水フィルター",
-  "ts": "2026-08-17T03:43:27.830825+00:00"
+  "ts": "2026-08-17T09:33:52.080159+00:00"
  },
  "MCP 2026-07-28 Specification: transport going stateless": {
   "ja": "MCP 2026-07-28 仕様：トランスポートがステートレスになる",
@@ -1765,7 +1813,7 @@
  },
  "MathCode, Mathematical Coding Agent": {
   "ja": "MathCode、Mathematical Coding Agent",
-  "ts": "2026-08-17T03:43:27.830834+00:00"
+  "ts": "2026-08-17T09:33:52.080165+00:00"
  },
  "Mathematics Without Mathematicians": {
   "ja": "数学者のいない数学",
@@ -2003,6 +2051,10 @@
   "ja": "Octane – Reactのプログラミングモデルをコンパイル",
   "ts": "2026-08-03T12:15:46.460959+00:00"
  },
+ "On A.I. regulation and messaging": {
+  "ja": "AI規制とメッセージングについて",
+  "ts": "2026-08-17T09:33:58.491164+00:00"
+ },
  "Online Friends Are Real Friends": {
   "ja": "オンラインの友人は本当の友人である",
   "ts": "2026-08-06T05:41:25.823460+00:00"
@@ -2167,6 +2219,14 @@
   "ja": "プログラミング言語はプラットフォームのためのオーサリングツール",
   "ts": "2026-07-28T11:11:01.190453+00:00"
  },
+ "Prolly: A content-addressed ordered map built on prolly trees": {
+  "ja": "Prolly: Prolly treesで構築されたコンテンツアドレス指定順序付きマップ",
+  "ts": "2026-08-17T09:33:58.491164+00:00"
+ },
+ "Protobuf has LSP support": {
+  "ja": "ProtobufがLSPサポートを実装",
+  "ts": "2026-08-17T09:33:58.491164+00:00"
+ },
  "Protobuf has LSP support. You're welcome": {
   "ja": "ProtobufがLSPサポート対応。どういたしまして",
   "ts": "2026-08-17T03:43:27.830823+00:00"
@@ -2205,7 +2265,7 @@
  },
  "Qwen 3.8 27B is excellent, but it defaults to overthinking things": {
   "ja": "Qwen 3.8 27Bは優秀だが、過度に思考する傾向がある",
-  "ts": "2026-08-17T03:43:41.349701+00:00"
+  "ts": "2026-08-17T09:33:52.080152+00:00"
  },
  "Qwen3.8 Max now ranked as the best overall model by agentic index": {
   "ja": "Qwen3.8 Max、agentic indexで最高総合モデルにランク",
@@ -2279,6 +2339,10 @@
   "ja": "Recycle – フロッピーディスク",
   "ts": "2026-08-11T09:54:12.807152+00:00"
  },
+ "Red queen hypothesis – A new way forward for self-improving AI": {
+  "ja": "赤の女王仮説――自己改善型AIの新しい道",
+  "ts": "2026-08-17T09:33:58.491164+00:00"
+ },
  "Red queen hypothesis – a new way forward for self-improving AI": {
   "ja": "Red Queen仮説 – 自己改善AIの新たな道",
   "ts": "2026-08-17T03:43:41.349701+00:00"
@@ -2309,7 +2373,7 @@
  },
  "Reticulum – Decentralized Mesh Network": {
   "ja": "Reticulum – 分散型メッシュネットワーク",
-  "ts": "2026-08-17T03:43:41.349701+00:00"
+  "ts": "2026-08-17T09:33:52.080161+00:00"
  },
  "Retire the Abstractions": {
   "ja": "抽象化を廃棄する",
@@ -2329,7 +2393,7 @@
  },
  "Rhombus 1.1 is now available": {
   "ja": "Rhombus 1.1が利用可能に",
-  "ts": "2026-08-17T03:43:41.349701+00:00"
+  "ts": "2026-08-17T09:33:52.080168+00:00"
  },
  "Rio-vt and librio: Rio's terminal engine, now embeddable": {
   "ja": "Rio-vtとlibrio：Rioのターミナルエンジン、組み込み可能に",
@@ -2385,7 +2449,7 @@
  },
  "SIMD in the 90s: Programming Intel's Pentium MMX": {
   "ja": "90年代のSIMD: Intelの Pentium MMXプログラミング",
-  "ts": "2026-08-17T03:43:27.830832+00:00"
+  "ts": "2026-08-17T09:33:52.080163+00:00"
  },
  "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros": {
   "ja": "SPF レコード構文：メカニズム、クォリファイア、モディファイア、マクロ",
@@ -2687,6 +2751,10 @@
   "ja": "Show HN: 地球の過去と未来のテクトニクス地球儀上に表示した現在の都市",
   "ts": "2026-08-09T21:24:15.218424+00:00"
  },
+ "Show HN: Vocal Slice – Cut audio by selecting text, fully on-device": {
+  "ja": "Show HN: Vocal Slice――テキスト選択でオーディオをカット、完全なオンデバイス処理",
+  "ts": "2026-08-17T09:33:58.491164+00:00"
+ },
  "Show HN: Voice driven murder mystery, Interview AI suspects with your voice": {
   "ja": "Show HN: 音声駆動型殺人ミステリー、音声でAI容疑者にインタビュー",
   "ts": "2026-08-10T10:11:21.500473+00:00"
@@ -2839,6 +2907,10 @@
   "ja": "StripeがAI企業OpenRouterを70億ドル以上で買収",
   "ts": "2026-08-17T03:43:27.830820+00:00"
  },
+ "Stripe will reportedly acquire OpenRouter for $7B+": {
+  "ja": "StripeがOpenRouterを70億ドル以上で買収するとの報道",
+  "ts": "2026-08-17T09:33:58.491164+00:00"
+ },
  "Stylized GGX Shading": {
   "ja": "スタイル化されたGGXシェーディング",
   "ts": "2026-08-09T21:24:07.777556+00:00"
@@ -2909,7 +2981,7 @@
  },
  "Tell HN: Cloudflare silently injects its analytics when you switch nameservers": {
   "ja": "Tell HN: Cloudflareがネームサーバー切り替え時に静かに分析ツールを注入",
-  "ts": "2026-08-17T03:43:27.830809+00:00"
+  "ts": "2026-08-17T09:33:52.080149+00:00"
  },
  "Ten Ways NAS Is Getting Enshitified": {
   "ja": "NASの悪化が進む10の方法",
@@ -2937,7 +3009,7 @@
  },
  "The AI Credit Resale Economy": {
   "ja": "AI クレジット転売エコノミー",
-  "ts": "2026-08-17T03:43:27.830816+00:00"
+  "ts": "2026-08-17T09:33:52.080155+00:00"
  },
  "The AI trade now runs on borrowed money, and the lenders are repricing it": {
   "ja": "AI産業は借金で運営されており、貸し手はそれの価格を変更している",
@@ -3033,7 +3105,7 @@
  },
  "The Life and Death of Direct File [pdf]": {
   "ja": "Direct Fileの興衰 [pdf]",
-  "ts": "2026-08-17T03:43:41.349701+00:00"
+  "ts": "2026-08-17T09:33:52.080157+00:00"
  },
  "The Myth of Snow Leopard": {
   "ja": "Snow Leopardの神話",
