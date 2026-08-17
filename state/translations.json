@@ -53,7 +53,7 @@
  },
  "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"": {
   "ja": "第3世界の組み込みエンジニアが「RISC-V They Should Have Known Better」に応答",
-  "ts": "2026-08-16T21:13:15.261662+00:00"
+  "ts": "2026-08-17T03:43:27.830806+00:00"
  },
  "A California aquifer may have crossed the point of no return": {
   "ja": "カリフォルニアの帯水層が回復不能な地点を超えた可能性",
@@ -97,7 +97,7 @@
  },
  "A True Telnet BBS on a Casio Calculator": {
   "ja": "カシオ電卓上の真のTelnet BBS",
-  "ts": "2026-08-16T21:13:15.261662+00:00"
+  "ts": "2026-08-17T03:43:27.830830+00:00"
  },
  "A big win for Android interoperability": {
   "ja": "Androidの相互運用性における大きな勝利",
@@ -131,6 +131,10 @@
   "ja": "物理学者がペットのハムスターの回し車をStrava対応に改造",
   "ts": "2026-08-08T21:22:35.314726+00:00"
  },
+ "A quick look at zero-knowledge proofs": {
+  "ja": "ゼロ知識証明の概要",
+  "ts": "2026-08-17T03:43:41.349701+00:00"
+ },
  "A shell exclamation mark is not for yelling. Be lazy": {
   "ja": "シェルの感嘆符は怒鳴ることではない。手を抜け",
   "ts": "2026-08-12T09:55:22.303677+00:00"
@@ -154,6 +158,10 @@
  "A.I. companies are recruiting electricians and carpenters by the thousands": {
   "ja": "AI企業が電気技師と大工を数千人規模で採用中",
   "ts": "2026-07-30T11:01:01.391674+00:00"
+ },
+ "AGI-64 Brings Sierra Adventures to the Commodore 64": {
+  "ja": "AGI-64がSierra AdventuresをCommodore 64に移植",
+  "ts": "2026-08-17T03:43:41.349701+00:00"
  },
  "AI At Home Part 1: A Box Of Scraps": {
   "ja": "AI At Home Part 1：スクラップの箱",
@@ -341,7 +349,7 @@
  },
  "Anton Chekhov played at love most of his life": {
   "ja": "アントン・チェーホフは人生の大半を愛に遊びで接した",
-  "ts": "2026-08-16T21:13:15.261662+00:00"
+  "ts": "2026-08-17T03:43:27.830836+00:00"
  },
  "App Store Rejection of the Week: Dark Hours": {
   "ja": "App Store却下の今週の例：Dark Hours",
@@ -405,7 +413,7 @@
  },
  "Asynchronous I/O in DuckDB: Work, Thread, Work": {
   "ja": "DuckDBにおける非同期I/O：Work, Thread, Work",
-  "ts": "2026-08-16T09:20:43.766161+00:00"
+  "ts": "2026-08-17T03:43:27.830814+00:00"
  },
  "At-home test for infected ticks could improve Lyme Disease diagnosis": {
   "ja": "自宅用感染ダニ検査でライム病診断が改善の可能性",
@@ -473,7 +481,7 @@
  },
  "Before Rightmove, there was the Cosmorama": {
   "ja": "Rightmoveの前にあったCosmorama",
-  "ts": "2026-08-16T21:13:15.261662+00:00"
+  "ts": "2026-08-17T03:43:27.830841+00:00"
  },
  "Benchmarking Opus 5 on SlopCodeBench": {
   "ja": "SlopCodeBenchでOpus 5をベンチマーク",
@@ -613,11 +621,15 @@
  },
  "Clamiga: Common Lisp for the Amiga": {
   "ja": "Clamiga: AmigaのCommon Lisp",
-  "ts": "2026-08-16T21:13:15.261662+00:00"
+  "ts": "2026-08-17T03:43:27.830828+00:00"
  },
  "Claude: Elevated errors across all models": {
   "ja": "Claude: 全モデルでのエラー上昇",
   "ts": "2026-07-29T21:54:08.013720+00:00"
+ },
+ "Claude: System Prompts": {
+  "ja": "Claude: システムプロンプト",
+  "ts": "2026-08-17T03:43:41.349701+00:00"
  },
  "Cloudflare OS: an open platform for agents, apps, and work": {
   "ja": "Cloudflare OS: エージェント、アプリ、ワークのためのオープンプラットフォーム",
@@ -661,7 +673,7 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-08-16T09:20:43.766181+00:00"
+  "ts": "2026-08-17T03:43:27.830847+00:00"
  },
  "Could a computer scientist build a brain?": {
   "ja": "コンピュータ科学者は脳を構築できるか",
@@ -718,6 +730,10 @@
  "DMARC has been public since 2012 but most company domains still don't enforce it": {
   "ja": "DMARCは2012年から公開されているが、ほとんどの企業ドメインはまだこれを強制していない",
   "ts": "2026-07-28T21:57:37.461952+00:00"
+ },
+ "Dancing with friends and enemies: boids' swarm intelligence": {
+  "ja": "友人と敵と踊る: boidsの群れ知能",
+  "ts": "2026-08-17T03:43:41.349701+00:00"
  },
  "Danish high schoolers will have to verbally defend written assignments": {
   "ja": "デンマークの高校生は論述課題を口頭で弁論する必要がある",
@@ -965,7 +981,7 @@
  },
  "Firefox for iOS now has a native adblocker": {
   "ja": "Firefox for iOSにネイティブ広告ブロッカーが搭載",
-  "ts": "2026-08-16T21:13:15.261662+00:00"
+  "ts": "2026-08-17T03:43:27.830788+00:00"
  },
  "Firefox is now the last major browser that still supports uBlock Origin": {
   "ja": "Firefoxは今もuBlock Originをサポートする唯一の主要ブラウザ",
@@ -1289,7 +1305,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-16T21:13:08.215207+00:00"
+  "ts": "2026-08-17T03:43:27.830845+00:00"
  },
  "How to survive boiling water": {
   "ja": "沸騰したお湯で生き残る方法",
@@ -1422,6 +1438,10 @@
  "Instrumenting my espresso machine with OpenTelemetry": {
   "ja": "OpenTelemetryでエスプレッソマシンを計測する",
   "ts": "2026-08-02T10:28:30.211842+00:00"
+ },
+ "Interview with Amit Patel, Creator of \"Solar Realms Elite\"": {
+  "ja": "\"Solar Realms Elite\"の創作者Amit Patelへのインタビュー",
+  "ts": "2026-08-17T03:43:41.349701+00:00"
  },
  "Interview with Boris Cherny [video]": {
   "ja": "Boris Chenyのインタビュー [動画]",
@@ -1673,7 +1693,7 @@
  },
  "Low-Tech Ceramic Water Filter": {
   "ja": "低技術セラミック浄水フィルター",
-  "ts": "2026-08-16T21:13:15.261662+00:00"
+  "ts": "2026-08-17T03:43:27.830825+00:00"
  },
  "MCP 2026-07-28 Specification: transport going stateless": {
   "ja": "MCP 2026-07-28 仕様：トランスポートがステートレスになる",
@@ -1745,7 +1765,7 @@
  },
  "MathCode, Mathematical Coding Agent": {
   "ja": "MathCode、Mathematical Coding Agent",
-  "ts": "2026-08-16T21:13:15.261662+00:00"
+  "ts": "2026-08-17T03:43:27.830834+00:00"
  },
  "Mathematics Without Mathematicians": {
   "ja": "数学者のいない数学",
@@ -1805,7 +1825,7 @@
  },
  "Models Are Getting Dumber on Purpose": {
   "ja": "モデルが意図的にバカになっている",
-  "ts": "2026-08-16T21:13:15.261662+00:00"
+  "ts": "2026-08-17T03:43:27.830811+00:00"
  },
  "Monitors for Work": {
   "ja": "仕事用モニタ",
@@ -1963,6 +1983,10 @@
   "ja": "Nvidia Nemotron 3.5 LightningとNeMo Switchyard",
   "ts": "2026-08-12T09:55:19.227913+00:00"
  },
+ "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee": {
+  "ja": "Nvidia、OpenAIインフラ融資保証額を大幅削減",
+  "ts": "2026-08-17T03:43:41.349701+00:00"
+ },
  "Nvidia's Risky Business": {
   "ja": "Nvidiaのリスキーなビジネス",
   "ts": "2026-08-12T04:42:38.097251+00:00"
@@ -2085,7 +2109,7 @@
  },
  "Plastic mechanical computer from 1963: The Digi-Comp 1 [video]": {
   "ja": "1963年のプラスチック機械式計算機: Digi-Comp 1 [ビデオ]",
-  "ts": "2026-08-16T21:13:15.261662+00:00"
+  "ts": "2026-08-17T03:43:27.830838+00:00"
  },
  "Plug-In Solar Panels Starting to Sprout in U.S. Backyards": {
   "ja": "プラグイン型太陽光パネル、米国の裏庭で広がり始める",
@@ -2145,7 +2169,7 @@
  },
  "Protobuf has LSP support. You're welcome": {
   "ja": "ProtobufがLSPサポート対応。どういたしまして",
-  "ts": "2026-08-16T21:13:15.261662+00:00"
+  "ts": "2026-08-17T03:43:27.830823+00:00"
  },
  "Psychological Warfare in Reverse Engineering": {
   "ja": "リバースエンジニアリングにおける心理戦",
@@ -2178,6 +2202,10 @@
  "Quantego: A Family of Lego Models of IBM Quantum Computers": {
   "ja": "Quantego: IBM Quantum Computersのレゴモデルファミリー",
   "ts": "2026-08-06T11:14:18.091462+00:00"
+ },
+ "Qwen 3.8 27B is excellent, but it defaults to overthinking things": {
+  "ja": "Qwen 3.8 27Bは優秀だが、過度に思考する傾向がある",
+  "ts": "2026-08-17T03:43:41.349701+00:00"
  },
  "Qwen3.8 Max now ranked as the best overall model by agentic index": {
   "ja": "Qwen3.8 Max、agentic indexで最高総合モデルにランク",
@@ -2251,6 +2279,10 @@
   "ja": "Recycle – フロッピーディスク",
   "ts": "2026-08-11T09:54:12.807152+00:00"
  },
+ "Red queen hypothesis – a new way forward for self-improving AI": {
+  "ja": "Red Queen仮説 – 自己改善AIの新たな道",
+  "ts": "2026-08-17T03:43:41.349701+00:00"
+ },
  "Refactoring cuisine: how an Iraqi stew sailed to Singapore": {
   "ja": "料理のリファクタリング：イラクのシチューがシンガポールへ渡った話",
   "ts": "2026-07-30T05:33:36.898851+00:00"
@@ -2275,6 +2307,10 @@
   "ja": "次世代の重大なサイバー能力への対応",
   "ts": "2026-08-08T09:30:29.480442+00:00"
  },
+ "Reticulum – Decentralized Mesh Network": {
+  "ja": "Reticulum – 分散型メッシュネットワーク",
+  "ts": "2026-08-17T03:43:41.349701+00:00"
+ },
  "Retire the Abstractions": {
   "ja": "抽象化を廃棄する",
   "ts": "2026-08-12T09:55:22.303677+00:00"
@@ -2290,6 +2326,10 @@
  "Reviving a four year old reMarkable 2": {
   "ja": "4年前のreMarkable 2を復活させる",
   "ts": "2026-08-10T04:24:54.693092+00:00"
+ },
+ "Rhombus 1.1 is now available": {
+  "ja": "Rhombus 1.1が利用可能に",
+  "ts": "2026-08-17T03:43:41.349701+00:00"
  },
  "Rio-vt and librio: Rio's terminal engine, now embeddable": {
   "ja": "Rio-vtとlibrio：Rioのターミナルエンジン、組み込み可能に",
@@ -2345,7 +2385,7 @@
  },
  "SIMD in the 90s: Programming Intel's Pentium MMX": {
   "ja": "90年代のSIMD: Intelの Pentium MMXプログラミング",
-  "ts": "2026-08-16T21:13:15.261662+00:00"
+  "ts": "2026-08-17T03:43:27.830832+00:00"
  },
  "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros": {
   "ja": "SPF レコード構文：メカニズム、クォリファイア、モディファイア、マクロ",
@@ -2797,7 +2837,7 @@
  },
  "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter": {
   "ja": "StripeがAI企業OpenRouterを70億ドル以上で買収",
-  "ts": "2026-08-16T21:13:15.261662+00:00"
+  "ts": "2026-08-17T03:43:27.830820+00:00"
  },
  "Stylized GGX Shading": {
   "ja": "スタイル化されたGGXシェーディング",
@@ -2869,7 +2909,7 @@
  },
  "Tell HN: Cloudflare silently injects its analytics when you switch nameservers": {
   "ja": "Tell HN: Cloudflareがネームサーバー切り替え時に静かに分析ツールを注入",
-  "ts": "2026-08-16T21:13:15.261662+00:00"
+  "ts": "2026-08-17T03:43:27.830809+00:00"
  },
  "Ten Ways NAS Is Getting Enshitified": {
   "ja": "NASの悪化が進む10の方法",
@@ -2897,7 +2937,7 @@
  },
  "The AI Credit Resale Economy": {
   "ja": "AI クレジット転売エコノミー",
-  "ts": "2026-08-16T21:13:15.261662+00:00"
+  "ts": "2026-08-17T03:43:27.830816+00:00"
  },
  "The AI trade now runs on borrowed money, and the lenders are repricing it": {
   "ja": "AI産業は借金で運営されており、貸し手はそれの価格を変更している",
@@ -2990,6 +3030,10 @@
  "The Legend of the Novell NE2000 [video]": {
   "ja": "Novell NE2000 の伝説 [動画]",
   "ts": "2026-08-14T09:53:32.154457+00:00"
+ },
+ "The Life and Death of Direct File [pdf]": {
+  "ja": "Direct Fileの興衰 [pdf]",
+  "ts": "2026-08-17T03:43:41.349701+00:00"
  },
  "The Myth of Snow Leopard": {
   "ja": "Snow Leopardの神話",
@@ -3086,6 +3130,10 @@
  "The development pipeline is a production system": {
   "ja": "開発パイプラインは本番システムである",
   "ts": "2026-08-01T10:29:11.166422+00:00"
+ },
+ "The federal keyword lists that canceled billions in research funding": {
+  "ja": "数十億ドルの研究資金をキャンセルした連邦キーワードリスト",
+  "ts": "2026-08-17T03:43:41.349701+00:00"
  },
  "The first watch featuring computer functions": {
   "ja": "コンピュータ機能を備えた最初の腕時計",
