@@ -5,224 +5,240 @@
     <link>https://news.ycombinator.com/</link>
     <description>Hacker News のフロントページから人気順に最大30件を抽出し、タイトルを日本語訳したフィードです。1日3回更新。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 03:38:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 09:25:10 +0000</lastBuildDate>
     <ttl>240</ttl>
     <atom:link href="https://YOUR-NAME.github.io/YOUR-REPO/hn-ja.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>[665pt] AI;DR (AI; 読まなかった)</title>
+      <title>[867pt] AI;DR (AI; 読まなかった)</title>
       <link>https://www.rickmanelius.com/p/aidr-ai-didnt-read</link>
       <guid isPermaLink="false">hn-49336573</guid>
       <pubDate>Mon, 17 Aug 2026 19:47:15 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49336573</comments>
-      <description><![CDATA[<p>AI;DR (AI; Didn't Read)</p><p>665 points / 409 comments — by mooreds</p><p><a href="https://news.ycombinator.com/item?id=49336573">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>AI;DR (AI; Didn't Read)</p><p>867 points / 532 comments — by mooreds</p><p><a href="https://news.ycombinator.com/item?id=49336573">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[565pt] DuckDB v2.0 プレビュー</title>
+      <title>[632pt] DuckDB v2.0 プレビュー</title>
       <link>https://duckdb.org/2026/08/17/duckdb-20-highlights</link>
       <guid isPermaLink="false">hn-49330781</guid>
       <pubDate>Mon, 17 Aug 2026 13:46:27 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49330781</comments>
-      <description><![CDATA[<p>A Preview of DuckDB v2.0</p><p>565 points / 101 comments — by ibotty</p><p><a href="https://news.ycombinator.com/item?id=49330781">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>A Preview of DuckDB v2.0</p><p>632 points / 112 comments — by ibotty</p><p><a href="https://news.ycombinator.com/item?id=49330781">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[516pt] Ask HN: GitHub の代替手段</title>
-      <link>https://news.ycombinator.com/item?id=49331033</link>
-      <guid isPermaLink="false">hn-49331033</guid>
-      <pubDate>Mon, 17 Aug 2026 13:59:17 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49331033</comments>
-      <description><![CDATA[<p>Ask HN: Alternatives to GitHub</p><p>516 points / 333 comments — by dhruv3006</p><p><a href="https://news.ycombinator.com/item?id=49331033">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[345pt] Olo (Color)</title>
-      <link>https://en.wikipedia.org/wiki/Olo_(color)</link>
-      <guid isPermaLink="false">hn-49270194</guid>
-      <pubDate>Wed, 12 Aug 2026 10:26:14 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49270194</comments>
-      <description><![CDATA[<p>Olo (Color)</p><p>345 points / 67 comments — by inigyou</p><p><a href="https://news.ycombinator.com/item?id=49270194">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[325pt] AI 生成の GitHub Copilot「Autofix」が Snowflake の Jira 侵害を引き起こした</title>
-      <link>https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug</link>
-      <guid isPermaLink="false">hn-49331423</guid>
-      <pubDate>Mon, 17 Aug 2026 14:18:38 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49331423</comments>
-      <description><![CDATA[<p>AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira</p><p>325 points / 127 comments — by galnagli</p><p><a href="https://news.ycombinator.com/item?id=49331423">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[311pt] GPT 5.6 Sol は OpenAI が公開した最高の「ビジョン」モデル</title>
-      <link>https://blog.roboflow.com/openai-gpt-5-6/</link>
-      <guid isPermaLink="false">hn-49329575</guid>
-      <pubDate>Mon, 17 Aug 2026 12:09:42 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49329575</comments>
-      <description><![CDATA[<p>GPT 5.6 Sol is the best "vision" model OpenAI ever released</p><p>311 points / 156 comments — by plurby</p><p><a href="https://news.ycombinator.com/item?id=49329575">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[284pt] Blueskayロゴがスクリーンショットにどう描かれるか</title>
+      <title>[487pt] Blueskayロゴがスクリーンショットにどう描かれるか</title>
       <link>https://timmarinin.net/2026/bluesky-screenshots/</link>
       <guid isPermaLink="false">hn-49338459</guid>
       <pubDate>Mon, 17 Aug 2026 22:20:40 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49338459</comments>
-      <description><![CDATA[<p>How Bluesky draws its logo on screenshots</p><p>284 points / 209 comments — by gavide</p><p><a href="https://news.ycombinator.com/item?id=49338459">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>How Bluesky draws its logo on screenshots</p><p>487 points / 341 comments — by gavide</p><p><a href="https://news.ycombinator.com/item?id=49338459">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[262pt] 押し付けがましい AI を無効化または回避する方法</title>
-      <link>https://www.librarian.net/notoai/</link>
-      <guid isPermaLink="false">hn-49331220</guid>
-      <pubDate>Mon, 17 Aug 2026 14:07:56 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49331220</comments>
-      <description><![CDATA[<p>How to disable or avoid intrusive AI</p><p>262 points / 162 comments — by ColinWright</p><p><a href="https://news.ycombinator.com/item?id=49331220">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[201pt] GPT-5.6 Sol価格50%引き下げ</title>
-      <link>https://openrouter.ai/openai/gpt-5.6-sol</link>
-      <guid isPermaLink="false">hn-49337602</guid>
-      <pubDate>Mon, 17 Aug 2026 21:03:18 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49337602</comments>
-      <description><![CDATA[<p>GPT-5.6 Sol Pricing Cut by 50%</p><p>201 points / 117 comments — by Topfi</p><p><a href="https://news.ycombinator.com/item?id=49337602">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[190pt] Quake Shareware、少し詰め込み過ぎたCD-ROM</title>
-      <link>https://fabiensanglard.net/quake_shareware_cd/index.html</link>
-      <guid isPermaLink="false">hn-49338328</guid>
-      <pubDate>Mon, 17 Aug 2026 22:06:14 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49338328</comments>
-      <description><![CDATA[<p>Quake Shareware, a CD-ROM just a little too full</p><p>190 points / 81 comments — by shdon</p><p><a href="https://news.ycombinator.com/item?id=49338328">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[186pt] Sun Clock</title>
-      <link>https://sunclock.net/</link>
-      <guid isPermaLink="false">hn-49333824</guid>
-      <pubDate>Mon, 17 Aug 2026 16:37:54 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49333824</comments>
-      <description><![CDATA[<p>Sun Clock</p><p>186 points / 57 comments — by Gecko4072</p><p><a href="https://news.ycombinator.com/item?id=49333824">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[177pt] イスラエル、AIチャットボットを騙す目的で偽シンクタンクを設立</title>
+      <title>[476pt] イスラエル、AIチャットボットを騙す目的で偽シンクタンクを設立</title>
       <link>https://responsiblestatecraft.org/israel-influence-chatgpt/</link>
       <guid isPermaLink="false">hn-49337392</guid>
       <pubDate>Mon, 17 Aug 2026 20:46:10 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49337392</comments>
-      <description><![CDATA[<p>Israel creates fake think tank in likely attempt to dupe AI chatbots</p><p>177 points / 67 comments — by DeepLogin</p><p><a href="https://news.ycombinator.com/item?id=49337392">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Israel creates fake think tank in likely attempt to dupe AI chatbots</p><p>476 points / 307 comments — by DeepLogin</p><p><a href="https://news.ycombinator.com/item?id=49337392">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[169pt] Rust での GPU オフロード: ポータブル、安全、高速</title>
-      <link>https://arxiv.org/abs/2608.13759</link>
-      <guid isPermaLink="false">hn-49334991</guid>
-      <pubDate>Mon, 17 Aug 2026 17:54:59 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49334991</comments>
-      <description><![CDATA[<p>GPU Offload in Rust: Portable, Safe, and Fast</p><p>169 points / 36 comments — by linggen</p><p><a href="https://news.ycombinator.com/item?id=49334991">HNのコメントを読む</a></p>]]></description>
+      <title>[432pt] Olo (Color)</title>
+      <link>https://en.wikipedia.org/wiki/Olo_(color)</link>
+      <guid isPermaLink="false">hn-49270194</guid>
+      <pubDate>Wed, 12 Aug 2026 10:26:14 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49270194</comments>
+      <description><![CDATA[<p>Olo (Color)</p><p>432 points / 81 comments — by inigyou</p><p><a href="https://news.ycombinator.com/item?id=49270194">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[143pt] 裁判官が Nine PBS のアーカイブデータ検索の枠組みを設定</title>
-      <link>https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/</link>
-      <guid isPermaLink="false">hn-49333344</guid>
-      <pubDate>Mon, 17 Aug 2026 16:11:37 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49333344</comments>
-      <description><![CDATA[<p>Judge sets framework for Nine PBS to retrieve archival data</p><p>143 points / 58 comments — by qingcharles</p><p><a href="https://news.ycombinator.com/item?id=49333344">HNのコメントを読む</a></p>]]></description>
+      <title>[420pt] GPT-5.6 Sol価格50%引き下げ</title>
+      <link>https://openrouter.ai/openai/gpt-5.6-sol</link>
+      <guid isPermaLink="false">hn-49337602</guid>
+      <pubDate>Mon, 17 Aug 2026 21:03:18 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49337602</comments>
+      <description><![CDATA[<p>GPT-5.6 Sol Pricing Cut by 50%</p><p>420 points / 253 comments — by Topfi</p><p><a href="https://news.ycombinator.com/item?id=49337602">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[136pt] Gmail から Fastmail への移行に関する更新</title>
+      <title>[369pt] AI 生成の GitHub Copilot「Autofix」が Snowflake の Jira 侵害を引き起こした</title>
+      <link>https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug</link>
+      <guid isPermaLink="false">hn-49331423</guid>
+      <pubDate>Mon, 17 Aug 2026 14:18:38 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49331423</comments>
+      <description><![CDATA[<p>AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira</p><p>369 points / 142 comments — by galnagli</p><p><a href="https://news.ycombinator.com/item?id=49331423">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[338pt] GPT 5.6 Sol は OpenAI が公開した最高の「ビジョン」モデル</title>
+      <link>https://blog.roboflow.com/openai-gpt-5-6/</link>
+      <guid isPermaLink="false">hn-49329575</guid>
+      <pubDate>Mon, 17 Aug 2026 12:09:42 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49329575</comments>
+      <description><![CDATA[<p>GPT 5.6 Sol is the best "vision" model OpenAI ever released</p><p>338 points / 163 comments — by plurby</p><p><a href="https://news.ycombinator.com/item?id=49329575">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[336pt] Quake Shareware、少し詰め込み過ぎたCD-ROM</title>
+      <link>https://fabiensanglard.net/quake_shareware_cd/index.html</link>
+      <guid isPermaLink="false">hn-49338328</guid>
+      <pubDate>Mon, 17 Aug 2026 22:06:14 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49338328</comments>
+      <description><![CDATA[<p>Quake Shareware, a CD-ROM just a little too full</p><p>336 points / 140 comments — by shdon</p><p><a href="https://news.ycombinator.com/item?id=49338328">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[297pt] 押し付けがましい AI を無効化または回避する方法</title>
+      <link>https://www.librarian.net/notoai/</link>
+      <guid isPermaLink="false">hn-49331220</guid>
+      <pubDate>Mon, 17 Aug 2026 14:07:56 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49331220</comments>
+      <description><![CDATA[<p>How to disable or avoid intrusive AI</p><p>297 points / 176 comments — by ColinWright</p><p><a href="https://news.ycombinator.com/item?id=49331220">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[226pt] Sun Clock</title>
+      <link>https://sunclock.net/</link>
+      <guid isPermaLink="false">hn-49333824</guid>
+      <pubDate>Mon, 17 Aug 2026 16:37:54 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49333824</comments>
+      <description><![CDATA[<p>Sun Clock</p><p>226 points / 74 comments — by Gecko4072</p><p><a href="https://news.ycombinator.com/item?id=49333824">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[225pt] Gmail から Fastmail への移行に関する更新</title>
       <link>https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/</link>
       <guid isPermaLink="false">hn-49334409</guid>
       <pubDate>Mon, 17 Aug 2026 17:15:20 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49334409</comments>
-      <description><![CDATA[<p>An update on leaving Gmail for Fastmail</p><p>136 points / 103 comments — by neogodless</p><p><a href="https://news.ycombinator.com/item?id=49334409">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>An update on leaving Gmail for Fastmail</p><p>225 points / 139 comments — by neogodless</p><p><a href="https://news.ycombinator.com/item?id=49334409">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[115pt] ロス・プエステロス：パタゴニアで牧場と家畜の世話をする独身男性たち</title>
-      <link>https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world</link>
-      <guid isPermaLink="false">hn-49335600</guid>
-      <pubDate>Mon, 17 Aug 2026 18:34:09 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49335600</comments>
-      <description><![CDATA[<p>Los Puesteros, solitary men who look after ranches and livestock in Patagonia</p><p>115 points / 43 comments — by bookofjoe</p><p><a href="https://news.ycombinator.com/item?id=49335600">HNのコメントを読む</a></p>]]></description>
+      <title>[211pt] Rust での GPU オフロード: ポータブル、安全、高速</title>
+      <link>https://arxiv.org/abs/2608.13759</link>
+      <guid isPermaLink="false">hn-49334991</guid>
+      <pubDate>Mon, 17 Aug 2026 17:54:59 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49334991</comments>
+      <description><![CDATA[<p>GPU Offload in Rust: Portable, Safe, and Fast</p><p>211 points / 43 comments — by linggen</p><p><a href="https://news.ycombinator.com/item?id=49334991">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[106pt] 力でできた粒子：物理学者が謎の「グルーボール」を発見したと主張</title>
-      <link>https://www.nature.com/articles/d41586-026-02498-1</link>
-      <guid isPermaLink="false">hn-49272891</guid>
-      <pubDate>Wed, 12 Aug 2026 14:26:41 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49272891</comments>
-      <description><![CDATA[<p>A particle made of force: physicists say they've found mysterious 'glueball'</p><p>106 points / 21 comments — by Brajeshwar</p><p><a href="https://news.ycombinator.com/item?id=49272891">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[104pt] インドが UPI 取引の加盟店手数料制度を確立</title>
-      <link>https://www.bbc.com/news/articles/c8xnwqe00v1o</link>
-      <guid isPermaLink="false">hn-49336304</guid>
-      <pubDate>Mon, 17 Aug 2026 19:25:11 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49336304</comments>
-      <description><![CDATA[<p>India has paved the way for charging merchants a fee on UPI transactions</p><p>104 points / 110 comments — by monkey_monkey</p><p><a href="https://news.ycombinator.com/item?id=49336304">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[94pt] Launch HN: Speko (YC S26) – ボイス AI の OpenRouter</title>
-      <link>https://speko.ai/</link>
-      <guid isPermaLink="false">hn-49332751</guid>
-      <pubDate>Mon, 17 Aug 2026 15:36:18 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49332751</comments>
-      <description><![CDATA[<p>Launch HN: Speko (YC S26) – OpenRouter for Voice AI</p><p>94 points / 53 comments — by abdik</p><p><a href="https://news.ycombinator.com/item?id=49332751">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[94pt] Fairphone 6とPostmarketOS、メインカメラ動作</title>
+      <title>[190pt] Fairphone 6とPostmarketOS、メインカメラ動作</title>
       <link>https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera</link>
       <guid isPermaLink="false">hn-49338285</guid>
       <pubDate>Mon, 17 Aug 2026 22:01:17 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49338285</comments>
-      <description><![CDATA[<p>Fairphone 6 and PostmarketOS working main camera</p><p>94 points / 25 comments — by pizzaiolo</p><p><a href="https://news.ycombinator.com/item?id=49338285">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Fairphone 6 and PostmarketOS working main camera</p><p>190 points / 43 comments — by pizzaiolo</p><p><a href="https://news.ycombinator.com/item?id=49338285">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[42pt] LLMのテール遅延に対するシンプルな修正</title>
-      <link>https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/</link>
-      <guid isPermaLink="false">hn-49295179</guid>
-      <pubDate>Fri, 14 Aug 2026 05:58:16 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49295179</comments>
-      <description><![CDATA[<p>A simple fix for LLM tail latency</p><p>42 points / 16 comments — by oskrim</p><p><a href="https://news.ycombinator.com/item?id=49295179">HNのコメントを読む</a></p>]]></description>
+      <title>[165pt] 裁判官が Nine PBS のアーカイブデータ検索の枠組みを設定</title>
+      <link>https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/</link>
+      <guid isPermaLink="false">hn-49333344</guid>
+      <pubDate>Mon, 17 Aug 2026 16:11:37 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49333344</comments>
+      <description><![CDATA[<p>Judge sets framework for Nine PBS to retrieve archival data</p><p>165 points / 62 comments — by qingcharles</p><p><a href="https://news.ycombinator.com/item?id=49333344">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[42pt] GitHubの障害がCursorの新Gitプラットフォーム Originに影響</title>
-      <link>https://status.cursor.com/incidents/l9h9vrd726jv</link>
-      <guid isPermaLink="false">hn-49336919</guid>
-      <pubDate>Mon, 17 Aug 2026 20:13:27 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49336919</comments>
-      <description><![CDATA[<p>GitHub degradation affects Cursor Origin, its new Git platform</p><p>42 points / 15 comments — by KGC3D</p><p><a href="https://news.ycombinator.com/item?id=49336919">HNのコメントを読む</a></p>]]></description>
+      <title>[146pt] インドが UPI 取引の加盟店手数料制度を確立</title>
+      <link>https://www.bbc.com/news/articles/c8xnwqe00v1o</link>
+      <guid isPermaLink="false">hn-49336304</guid>
+      <pubDate>Mon, 17 Aug 2026 19:25:11 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49336304</comments>
+      <description><![CDATA[<p>India has paved the way for charging merchants a fee on UPI transactions</p><p>146 points / 176 comments — by monkey_monkey</p><p><a href="https://news.ycombinator.com/item?id=49336304">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[39pt] allocaのような関数がスタックからメモリをどのように確保するか</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617</link>
-      <guid isPermaLink="false">hn-49337630</guid>
-      <pubDate>Mon, 17 Aug 2026 21:06:10 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49337630</comments>
-      <description><![CDATA[<p>How do functions like alloca allocate memory from the stack?</p><p>39 points / 13 comments — by ingve</p><p><a href="https://news.ycombinator.com/item?id=49337630">HNのコメントを読む</a></p>]]></description>
+      <title>[145pt] ロス・プエステロス：パタゴニアで牧場と家畜の世話をする独身男性たち</title>
+      <link>https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world</link>
+      <guid isPermaLink="false">hn-49335600</guid>
+      <pubDate>Mon, 17 Aug 2026 18:34:09 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49335600</comments>
+      <description><![CDATA[<p>Los Puesteros, solitary men who look after ranches and livestock in Patagonia</p><p>145 points / 50 comments — by bookofjoe</p><p><a href="https://news.ycombinator.com/item?id=49335600">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[35pt] Repair Cafe - 壊れた物を修理する</title>
+      <title>[137pt] 力でできた粒子：物理学者が謎の「グルーボール」を発見したと主張</title>
+      <link>https://www.nature.com/articles/d41586-026-02498-1</link>
+      <guid isPermaLink="false">hn-49272891</guid>
+      <pubDate>Wed, 12 Aug 2026 14:26:41 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49272891</comments>
+      <description><![CDATA[<p>A particle made of force: physicists say they've found mysterious 'glueball'</p><p>137 points / 43 comments — by Brajeshwar</p><p><a href="https://news.ycombinator.com/item?id=49272891">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[104pt] Launch HN: Speko (YC S26) – ボイス AI の OpenRouter</title>
+      <link>https://speko.ai/</link>
+      <guid isPermaLink="false">hn-49332751</guid>
+      <pubDate>Mon, 17 Aug 2026 15:36:18 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49332751</comments>
+      <description><![CDATA[<p>Launch HN: Speko (YC S26) – OpenRouter for Voice AI</p><p>104 points / 58 comments — by abdik</p><p><a href="https://news.ycombinator.com/item?id=49332751">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[103pt] Repair Cafe - 壊れた物を修理する</title>
       <link>https://www.repaircafe.org/</link>
       <guid isPermaLink="false">hn-49339097</guid>
       <pubDate>Mon, 17 Aug 2026 23:28:28 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49339097</comments>
-      <description><![CDATA[<p>Repair Cafe – Fix Your Broken Items</p><p>35 points / 9 comments — by rglover</p><p><a href="https://news.ycombinator.com/item?id=49339097">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Repair Cafe – Fix Your Broken Items</p><p>103 points / 16 comments — by rglover</p><p><a href="https://news.ycombinator.com/item?id=49339097">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[32pt] MS-DOS 2.0への道</title>
+      <title>[92pt] The Benchmarkpocalypse</title>
+      <link>https://danluu.com/benchpocalypse/</link>
+      <guid isPermaLink="false">hn-49340299</guid>
+      <pubDate>Tue, 18 Aug 2026 02:11:02 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49340299</comments>
+      <description><![CDATA[<p>The Benchmarkpocalypse</p><p>92 points / 22 comments — by cyndunlop</p><p><a href="https://news.ycombinator.com/item?id=49340299">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[70pt] MS-DOS 2.0への道</title>
       <link>https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2</link>
       <guid isPermaLink="false">hn-49269966</guid>
       <pubDate>Wed, 12 Aug 2026 09:57:56 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49269966</comments>
-      <description><![CDATA[<p>The Road to MS-DOS 2.0</p><p>32 points / 7 comments — by whobre</p><p><a href="https://news.ycombinator.com/item?id=49269966">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>The Road to MS-DOS 2.0</p><p>70 points / 25 comments — by whobre</p><p><a href="https://news.ycombinator.com/item?id=49269966">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
-      <title>[21pt] scScript for Linux</title>
-      <link>https://scapplications.com/</link>
-      <guid isPermaLink="false">hn-49338428</guid>
-      <pubDate>Mon, 17 Aug 2026 22:18:05 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49338428</comments>
-      <description><![CDATA[<p>scScript for Linux</p><p>21 points / 7 comments — by OptionOfT</p><p><a href="https://news.ycombinator.com/item?id=49338428">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[18pt] 投石機による最初の確認された死亡、粉砕された骨格</title>
+      <title>[66pt] 投石機による最初の確認された死亡、粉砕された骨格</title>
       <link>https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet</link>
       <guid isPermaLink="false">hn-49285139</guid>
       <pubDate>Thu, 13 Aug 2026 12:47:43 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=49285139</comments>
-      <description><![CDATA[<p>Shattered skeleton is first confirmed death from trebuchet</p><p>18 points / 6 comments — by hermitcrab</p><p><a href="https://news.ycombinator.com/item?id=49285139">HNのコメントを読む</a></p>]]></description>
+      <description><![CDATA[<p>Shattered skeleton is first confirmed death from trebuchet</p><p>66 points / 46 comments — by hermitcrab</p><p><a href="https://news.ycombinator.com/item?id=49285139">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[55pt] allocaのような関数がスタックからメモリをどのように確保するか</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617</link>
+      <guid isPermaLink="false">hn-49337630</guid>
+      <pubDate>Mon, 17 Aug 2026 21:06:10 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49337630</comments>
+      <description><![CDATA[<p>How do functions like alloca allocate memory from the stack?</p><p>55 points / 35 comments — by ingve</p><p><a href="https://news.ycombinator.com/item?id=49337630">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[45pt] Linux 7.3、vRAM不足時のパフォーマンス向上</title>
+      <link>https://pixelcluster.dev/VRAM-Overcommit/</link>
+      <guid isPermaLink="false">hn-49342719</guid>
+      <pubDate>Tue, 18 Aug 2026 07:51:50 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49342719</comments>
+      <description><![CDATA[<p>Linux 7.3 improves performance when running out of vRAM</p><p>45 points / 2 comments — by flaburgan</p><p><a href="https://news.ycombinator.com/item?id=49342719">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[18pt] データベースプログラミングの再考</title>
+      <link>https://acadia.engineering/blog/rethinking-database-programming</link>
+      <guid isPermaLink="false">hn-49342530</guid>
+      <pubDate>Tue, 18 Aug 2026 07:28:27 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49342530</comments>
+      <description><![CDATA[<p>Rethinking Database Programming</p><p>18 points / 3 comments — by honungsburk</p><p><a href="https://news.ycombinator.com/item?id=49342530">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[18pt] 運動強度が臓器間コミュニケーションを調整し、以下と関連</title>
+      <link>https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue</link>
+      <guid isPermaLink="false">hn-49341411</guid>
+      <pubDate>Tue, 18 Aug 2026 04:51:33 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49341411</comments>
+      <description><![CDATA[<p>Exercise intensity modulates interorgan communication and is associated with</p><p>18 points / 1 comments — by newsomix9xl</p><p><a href="https://news.ycombinator.com/item?id=49341411">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[16pt] 共有インフラとしてのClimbing Guide</title>
+      <link>https://irz.fr/en/articles/openclimbing-open-guide-en/</link>
+      <guid isPermaLink="false">hn-49318607</guid>
+      <pubDate>Sun, 16 Aug 2026 10:10:56 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49318607</comments>
+      <description><![CDATA[<p>Climbing Guide as a Shared Infrastructure</p><p>16 points / 5 comments — by zbycz</p><p><a href="https://news.ycombinator.com/item?id=49318607">HNのコメントを読む</a></p>]]></description>
+    </item>
+    <item>
+      <title>[15pt] IBM Simon (1994): オリジナルスマートフォン、その広告で説明 [動画]</title>
+      <link>https://www.youtube.com/watch?v=xoTFywZpPcc</link>
+      <guid isPermaLink="false">hn-49313360</guid>
+      <pubDate>Sat, 15 Aug 2026 19:11:47 +0000</pubDate>
+      <comments>https://news.ycombinator.com/item?id=49313360</comments>
+      <description><![CDATA[<p>IBM Simon (1994): the original smartphone, explained in its own ad [video]</p><p>15 points / 0 comments — by kls0e</p><p><a href="https://news.ycombinator.com/item?id=49313360">HNのコメントを読む</a></p>]]></description>
     </item>
     <item>
       <title>[13pt] 3社の買収企業を1つの統一されたウェブサイトに組織する方法</title>
@@ -231,22 +247,6 @@
       <pubDate>Sun, 03 May 2026 17:07:01 +0000</pubDate>
       <comments>https://news.ycombinator.com/item?id=47999020</comments>
       <description><![CDATA[<p>How to organize 3 acquired companies into one coherent website</p><p>13 points / 0 comments — by mooreds</p><p><a href="https://news.ycombinator.com/item?id=47999020">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[12pt] 現実のConwayのGame of Life</title>
-      <link>https://lcamtuf.coredump.cx/blog/conway/</link>
-      <guid isPermaLink="false">hn-47439821</guid>
-      <pubDate>Thu, 19 Mar 2026 14:11:56 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=47439821</comments>
-      <description><![CDATA[<p>Conway's Game of Life, in real life</p><p>12 points / 1 comments — by ahlCVA</p><p><a href="https://news.ycombinator.com/item?id=47439821">HNのコメントを読む</a></p>]]></description>
-    </item>
-    <item>
-      <title>[9pt] Sendovの予想の証明の要約</title>
-      <link>https://terrytao.wordpress.com/2026/08/12/a-digestion-of-the-proof-of-sendovs-conjecture/</link>
-      <guid isPermaLink="false">hn-49294913</guid>
-      <pubDate>Fri, 14 Aug 2026 05:03:41 +0000</pubDate>
-      <comments>https://news.ycombinator.com/item?id=49294913</comments>
-      <description><![CDATA[<p>A digestion of the proof of Sendov's conjecture</p><p>9 points / 1 comments — by surprisetalk</p><p><a href="https://news.ycombinator.com/item?id=49294913">HNのコメントを読む</a></p>]]></description>
     </item>
   </channel>
 </rss>
