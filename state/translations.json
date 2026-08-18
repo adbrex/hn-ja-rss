@@ -11,6 +11,10 @@
   "ja": "「この女性を潰せ」：eBay嫌がらせキャンペーンが5600万ドルの合意金に至った経緯",
   "ts": "2026-08-02T21:48:31.720714+00:00"
  },
+ "2,500-year-old sculpture discovered at UNESCO site in Turkey": {
+  "ja": "トルコのUNESCOサイトで2500年前の彫刻が発見される",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
+ },
  "200 Milliseconds": {
   "ja": "200 ミリ秒",
   "ts": "2026-08-04T11:17:46.859456+00:00"
@@ -431,6 +435,10 @@
   "ja": "Ask HN: GitHub の代替手段",
   "ts": "2026-08-18T03:38:27.379128+00:00"
  },
+ "Ask HN: GitHub employees what's going on? Why?": {
+  "ja": "Ask HN: GitHub従業員へ、何が起きているのか？なぜ？",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
+ },
  "Ask HN: In your experience, what are sound conventions for e-ink UI development?": {
   "ja": "Ask HN: e-ink UI開発における健全な慣例とは何か",
   "ts": "2026-08-11T04:14:04.643528+00:00"
@@ -503,6 +511,10 @@
   "ja": "BYOCは単なる「クラウドへのデプロイ」ではない",
   "ts": "2026-08-08T21:22:35.314726+00:00"
  },
+ "Babies born under sugar rationing grew into adults with lower cancer risk": {
+  "ja": "砂糖配給下で生まれた赤ん坊は成人後のがん発症リスクが低い",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
+ },
  "Back to the Future of Handwriting Recognition (2016)": {
   "ja": "手書き認識の未来へ向かって（2016年）",
   "ts": "2026-08-10T21:34:46.290115+00:00"
@@ -530,6 +542,10 @@
  "Benchmarking Opus 5 on SlopCodeBench": {
   "ja": "SlopCodeBenchでOpus 5をベンチマーク",
   "ts": "2026-07-28T11:10:58.283713+00:00"
+ },
+ "Beware Management Consultants": {
+  "ja": "経営コンサルティング会社に注意せよ",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
  },
  "Beware the Permanent Periphery": {
   "ja": "永遠の周辺部に注意せよ",
@@ -614,6 +630,10 @@
  "CSS properties you should know for better text designs": {
   "ja": "より良いテキスト設計のために知るべきCSSプロパティ",
   "ts": "2026-08-12T04:42:38.097262+00:00"
+ },
+ "California's new tire efficiency rules could save drivers $1B a year": {
+  "ja": "カリフォルニアの新しいタイヤ効率規則は運転者に年間10億ドルの節約をもたらす可能性",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
  },
  "Can Intel finally beat ARM on performance per Watt?": {
   "ja": "Intelは最終的にARM をPower/W で上回れるのか",
@@ -761,7 +781,7 @@
  },
  "Cursor launches Origin, GitHub alternative": {
   "ja": "Cursor が GitHub 代替の Origin をローンチ",
-  "ts": "2026-08-17T21:19:26.004223+00:00"
+  "ts": "2026-08-18T21:16:54.593841+00:00"
  },
  "Cursor removed cost information from the usage page and CSV export": {
   "ja": "Cursorが使用ページとCSVエクスポートからコスト情報を削除",
@@ -798,6 +818,10 @@
  "Danish high schoolers will have to verbally defend written assignments": {
   "ja": "デンマークの高校生は論述課題を口頭で弁論する必要がある",
   "ts": "2026-08-09T04:13:08.257601+00:00"
+ },
+ "Data centers raise nearby temperatures by up to 4 degrees in Phoenix": {
+  "ja": "データセンターがPhoenixの周辺気温を最大4度上昇させている",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
  },
  "Databricks drove down AI coding spend 70%": {
   "ja": "DatabricksがAIコーディングコストを70%削減",
@@ -991,6 +1015,10 @@
   "ja": "あなたのすべての行動は記録されている",
   "ts": "2026-08-10T10:11:18.427009+00:00"
  },
+ "Evolve: An incremental game about evolving a civilization": {
+  "ja": "Evolve: 文明の進化についてのインクリメンタルゲーム",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
+ },
  "Exact, parallel 2D Delaunay triangulation for int32 coordinates": {
   "ja": "int32座標に対する正確で並列な2D Delaunay三角分割",
   "ts": "2026-08-06T05:41:30.536041+00:00"
@@ -1022,6 +1050,10 @@
  "Fairphone 6 and PostmarketOS working main camera": {
   "ja": "Fairphone 6とPostmarketOS、メインカメラ動作",
   "ts": "2026-08-18T09:25:08.540845+00:00"
+ },
+ "Fairphone is now officially available in the United States": {
+  "ja": "Fairphoneが米国で正式に利用可能に",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
  },
  "Falstad Math and Physics Simulations": {
   "ja": "Falstad数学・物理シミュレーション",
@@ -1058,6 +1090,10 @@
  "Firefox is now the last major browser that still supports uBlock Origin": {
   "ja": "Firefoxは今もuBlock Originをサポートする唯一の主要ブラウザ",
   "ts": "2026-08-15T09:19:16.509872+00:00"
+ },
+ "Fixing a bricked Framework laptop": {
+  "ja": "壊れたFrameworkノートパソコンの修復",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
  },
  "Fixing my tooltip accessibility mistake": {
   "ja": "ツールチップのアクセシビリティミスを修正する",
@@ -1227,6 +1263,10 @@
   "ja": "Googleは Google Newsを放棄したのか",
   "ts": "2026-08-01T21:47:42.064746+00:00"
  },
+ "Google has acquired the data of failed US airline Spirit": {
+  "ja": "Googleが経営破綻したUS航空会社Spiritのデータを買収",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
+ },
  "Google is making private AI practical with homomorphic encryption": {
   "ja": "Googleが準同型暗号で民間向けAIを現実化",
   "ts": "2026-08-15T09:19:16.509877+00:00"
@@ -1395,6 +1435,10 @@
   "ja": "allocaのような関数がスタックからメモリをどのように確保するか",
   "ts": "2026-08-18T09:25:08.540862+00:00"
  },
+ "How does IKEA come up with names for its products?": {
+  "ja": "IKEAはどのように製品名を考案しているのか",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
+ },
  "How far can you push the range of Wi-Fi connectivity in an ideal environment?": {
   "ja": "理想的な環境下でWi-Fi接続範囲はどこまで広げられるか？",
   "ts": "2026-08-01T05:48:56.409000+00:00"
@@ -1425,7 +1469,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-18T09:25:08.540865+00:00"
+  "ts": "2026-08-18T21:16:54.593853+00:00"
  },
  "How to put 170 atoms in an atom": {
   "ja": "170 個の原子を 1 つの原子に詰め込む方法",
@@ -1767,6 +1811,10 @@
   "ja": "Launch HN: Tokenless (YC S26) – コスト削減のための自動モデル切り替え",
   "ts": "2026-07-30T11:01:01.391689+00:00"
  },
+ "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI": {
+  "ja": "Launch HN: machine0 (YC S26) – CLIから利用可能な永続CPU/GPU VM",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
+ },
  "Learn how chips are made with this Rollercoaster Tycoon-inspired animation": {
   "ja": "Rollercoaster Tycoonインスパイアのアニメーションでチップの製造を学ぶ",
   "ts": "2026-08-07T09:54:29.419404+00:00"
@@ -1813,7 +1861,7 @@
  },
  "Linux 7.3 improves performance when running out of vRAM": {
   "ja": "Linux 7.3、vRAM不足時のパフォーマンス向上",
-  "ts": "2026-08-18T09:25:10.917479+00:00"
+  "ts": "2026-08-18T21:16:54.593825+00:00"
  },
  "Linux desktop market share has hit over 10% in North America": {
   "ja": "Linuxデスクトップのシェアが北米で10%を超えた",
@@ -1955,6 +2003,10 @@
   "ja": "Memo-1: Minitélをターミナルに使って1からビルドした6502コンピュータ",
   "ts": "2026-07-31T11:24:33.340240+00:00"
  },
+ "Memory prices climb 500% in 12 months": {
+  "ja": "メモリ価格が12ヶ月で500%上昇",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
+ },
  "Meshdiff – visually compare two STL versions in the browser, client-side": {
   "ja": "Meshdiff – ブラウザで2つのSTLバージョンを視覚的に比較、クライアント側処理",
   "ts": "2026-08-02T21:48:31.720714+00:00"
@@ -2051,6 +2103,10 @@
   "ja": "今、私のサーバーは電話である",
   "ts": "2026-08-09T09:32:00.990054+00:00"
  },
+ "Mycorrhizal Infrastructure Map": {
+  "ja": "菌根インフラストラクチャマップ",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
+ },
  "Mykhailo Fedorov reveals struggle to secure Patriot missiles and Western support": {
   "ja": "ミハイロ・フェドロフが愛国者ミサイルと西側支援確保の苦闘を明かす",
   "ts": "2026-08-07T21:32:30.787829+00:00"
@@ -2134,6 +2190,10 @@
  "Nine PBS sues Iron Mountain over blocked access to archival data": {
   "ja": "Nine PBS、Iron Mountain を相手取りアーカイブデータアクセス遮断で提訴",
   "ts": "2026-08-14T09:53:32.154443+00:00"
+ },
+ "Norway Should Buy OpenAI": {
+  "ja": "ノルウェーはOpenAIを買収すべき",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
  },
  "Note-Taking and Personal Knowledge Management": {
   "ja": "ノートテイングと個人的知識管理",
@@ -2238,6 +2298,10 @@
  "PISIGuard: Protect your personal and sensitive info when you chat with AI": {
   "ja": "PISIGuard: AIとのチャットで個人情報と機密情報を保護",
   "ts": "2026-08-03T12:15:46.460959+00:00"
+ },
+ "Pacing model development in an era of cyber-critical capabilities": {
+  "ja": "サイバー重要な機能の時代におけるモデル開発のペース調整",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
  },
  "Painting with Gaussians": {
   "ja": "ガウス関数で描く",
@@ -2379,6 +2443,10 @@
   "ja": "RISC-Vエミュレーションの限界に挑む",
   "ts": "2026-08-06T05:41:30.536041+00:00"
  },
+ "Python Polars Cheatsheet (based on our O'Reilly book)": {
+  "ja": "Python Polars チートシート（O'Reillyの書籍を基に）",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
+ },
  "Python string literals are kinda funny": {
   "ja": "Pythonの文字列リテラルはちょっと面白い",
   "ts": "2026-08-08T21:22:35.314726+00:00"
@@ -2513,7 +2581,7 @@
  },
  "Rethinking Database Programming": {
   "ja": "データベースプログラミングの再考",
-  "ts": "2026-08-18T09:25:10.917479+00:00"
+  "ts": "2026-08-18T21:16:54.593846+00:00"
  },
  "Reticulum – Decentralized Mesh Network": {
   "ja": "Reticulum – 分散型メッシュネットワーク",
@@ -2847,6 +2915,10 @@
   "ja": "Show HN: M-series Macの2GBメモリでGemma 4 26Bを動かすオープンソースエンジン",
   "ts": "2026-07-30T11:01:01.391647+00:00"
  },
+ "Show HN: Openleetcode – local LeetCode runner where tests live in the repo": {
+  "ja": "Show HN: Openleetcode – テストがリポジトリに存在するローカルLeetCodeランナー",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
+ },
  "Show HN: Optimize and serve models with Fable quality at half the cost": {
   "ja": "Show HN: Fable品質のモデルを半分のコストで最適化して提供",
   "ts": "2026-07-30T22:07:54.199767+00:00"
@@ -2943,6 +3015,10 @@
   "ja": "Show HN: 2つのレンズから同時に画像を撮影して融合するiPhoneアプリ",
   "ts": "2026-08-12T09:55:19.227911+00:00"
  },
+ "Show HN: macOS data protection keychain for Electron apps": {
+  "ja": "Show HN: Electronアプリ向けmacOSデータ保護キーチェーン",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
+ },
  "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS": {
   "ja": "Show HN: textlog – 静かなテキストのみのマイクロブログプラットフォーム、オープンソース、JavaScript不要",
   "ts": "2026-08-08T04:07:01.818693+00:00"
@@ -3018,6 +3094,10 @@
  "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters": {
   "ja": "鉄硫黄クラスタ上のSQD/QSCI量子化学ベンチマークのSpin監査",
   "ts": "2026-08-07T09:54:33.877044+00:00"
+ },
+ "Splitting a Git Commit": {
+  "ja": "Gitコミットの分割",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
  },
  "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core": {
   "ja": "St Lucie Nuclear Reactor Unit 1が手動停止、3本の制御棒がコアに落下",
@@ -3131,6 +3211,10 @@
   "ja": "10年でプログラミングを独習する（1998年）",
   "ts": "2026-07-29T11:17:33.572906+00:00"
  },
+ "Teaching my kid to code with a modern MUD": {
+  "ja": "モダンMUDで子どもにコーディングを教える",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
+ },
  "Tell HN: Cloudflare silently injects its analytics when you switch nameservers": {
   "ja": "Tell HN: Cloudflareがネームサーバー切り替え時に静かに分析ツールを注入",
   "ts": "2026-08-17T09:33:52.080149+00:00"
@@ -3174,6 +3258,10 @@
  "The Alpha 21264 CPU: NT's Greatest RISC (1998)": {
   "ja": "Alpha 21264 CPU: NTの最高のRISC (1998)",
   "ts": "2026-08-10T04:24:59.798687+00:00"
+ },
+ "The Amazon tax": {
+  "ja": "Amazonの税",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
  },
  "The American Grilled Cheese Sandwich Essay (2024)": {
   "ja": "アメリカンチーズサンドウィッチ論(2024)",
@@ -3563,6 +3651,10 @@
   "ja": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS – 小規模マシン向けPascal",
   "ts": "2026-08-14T21:18:43.954499+00:00"
  },
+ "Turbovec – Google's TurboQuant for vector search in Rust": {
+  "ja": "Turbovec – Rustでのベクトル検索のためのGoogleのTurboQuant",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
+ },
  "Turn satellite imagery into a paper globe you fold yourself": {
   "ja": "衛星画像を折って作る紙製地球儀",
   "ts": "2026-08-10T10:11:18.427042+00:00"
@@ -3639,6 +3731,10 @@
   "ja": "予期しない出来事と向社会的行動：Batmanエフェクト（2025年）",
   "ts": "2026-08-09T09:32:05.584523+00:00"
  },
+ "Universal health coverage could save $1T and 114k lives a year: study": {
+  "ja": "ユニバーサルヘルスカバレッジは年間1兆ドルと11万4000人の命を救える可能性：調査",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
+ },
  "Unraveling the mysteries of habit formation": {
   "ja": "習慣形成の謎を解き明かす",
   "ts": "2026-08-02T10:28:27.316270+00:00"
@@ -3662,6 +3758,10 @@
  "Using an open model feels surprisingly good": {
   "ja": "オープンモデルの使用は意外と良い",
   "ts": "2026-07-28T11:10:58.283716+00:00"
+ },
+ "Using the railway network as a flatbed scanner": {
+  "ja": "鉄道網をフラットベッドスキャナーとして利用する",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
  },
  "Using the railway network as a flatbed scanner [video]": {
   "ja": "鉄道網をフラットベッドスキャナとして使用 [動画]",
@@ -3718,6 +3818,10 @@
  "We finally learned to center a div, then browsers added sidebars": {
   "ja": "div要素のセンタリング方法をようやく習得したら、ブラウザがサイドバーを追加した",
   "ts": "2026-08-05T11:14:05.015369+00:00"
+ },
+ "We've flown a radiation-blocking vest to the Moon and back, and it worked": {
+  "ja": "放射線遮蔽ベストを月へ飛ばして帰還させた、そして機能した",
+  "ts": "2026-08-18T21:17:03.075553+00:00"
  },
  "Web Security is Too Hard": {
   "ja": "Web セキュリティは難しすぎる",
