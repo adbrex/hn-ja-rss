@@ -143,6 +143,10 @@
   "ja": "インディソフトウェア開発者としての幸運な10年",
   "ts": "2026-08-16T09:20:43.766167+00:00"
  },
+ "A joke domain purchase turned in geopolitical warfare": {
+  "ja": "冗談で購入したドメインが地政学的紛争に発展",
+  "ts": "2026-08-19T21:18:55.135327+00:00"
+ },
  "A missing underscore sent innocent man to prison for 18 months": {
   "ja": "アンダースコア記号の欠落により無実の男性が18ヶ月投獄",
   "ts": "2026-07-28T05:23:02.934777+00:00"
@@ -310,6 +314,10 @@
  "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English": {
   "ja": "ASD-STE100簡易技術英語のドキュメント強制Agent Skill",
   "ts": "2026-07-31T05:59:18.868669+00:00"
+ },
+ "Air Theremin – a browser theremin you play by waving at your webcam": {
+  "ja": "Air Theremin – Webカメラに手を振って演奏するブラウザテルミン",
+  "ts": "2026-08-19T21:18:55.135327+00:00"
  },
  "AirLLM 70B inference with single 4GB GPU": {
   "ja": "AirLLM 70B を単一 4GB GPU で推論",
@@ -781,7 +789,7 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-08-18T03:38:27.379158+00:00"
+  "ts": "2026-08-19T21:18:48.837598+00:00"
  },
  "Could a computer scientist build a brain?": {
   "ja": "コンピュータ科学者は脳を構築できるか",
@@ -838,6 +846,10 @@
  "DDoS against Norwegian government IT infrastructure – status": {
   "ja": "ノルウェー政府 IT インフラへの DDoS 攻撃 - ステータス",
   "ts": "2026-08-03T22:01:24.604148+00:00"
+ },
+ "DFlash 2: Keep Drafting Parallel": {
+  "ja": "DFlash 2: 並列ドラフティングを継続",
+  "ts": "2026-08-19T21:18:55.135327+00:00"
  },
  "DMARC has been public since 2012 but most company domains still don't enforce it": {
   "ja": "DMARCは2012年から公開されているが、ほとんどの企業ドメインはまだこれを強制していない",
@@ -1079,6 +1091,10 @@
   "ja": "Claude/GPTナレッジカットオフと事前学習タイムラインの探索",
   "ts": "2026-08-11T04:14:04.643532+00:00"
  },
+ "Extensible Software in the age of LLMs": {
+  "ja": "LLM時代の拡張可能なソフトウェア",
+  "ts": "2026-08-19T21:18:55.135327+00:00"
+ },
  "F*: A general-purpose proof-oriented programming language": {
   "ja": "F* – 汎用証明指向プログラミング言語",
   "ts": "2026-08-02T21:48:31.720714+00:00"
@@ -1179,6 +1195,10 @@
   "ja": "一つの種から千の葉へ - Merkleの認証木",
   "ts": "2026-08-08T09:30:33.391680+00:00"
  },
+ "From Quantum Relative Entropy to the Semiclassical Einstein Equations": {
+  "ja": "量子相対エントロピーから準古典Einstein方程式へ",
+  "ts": "2026-08-19T21:18:55.135327+00:00"
+ },
  "From boiling lead and black art: The history of mathematical typography (2017)": {
   "ja": "沸騰した鉛と黒い芸術から：数学的組版の歴史（2017年）",
   "ts": "2026-08-05T05:40:22.633007+00:00"
@@ -1247,6 +1267,10 @@
   "ja": "Gentoo bugzilla、AIボットスクレイパー過負荷で閉鎖",
   "ts": "2026-08-08T21:22:35.314726+00:00"
  },
+ "Geolocating a random island using geometry and CUDA programming": {
+  "ja": "幾何学とCUDAプログラミングで無作為な島を地理的に特定",
+  "ts": "2026-08-19T21:18:55.135327+00:00"
+ },
  "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio": {
   "ja": "Mac Studio で 25 Gbps の Thunderbolt Ethernet を実現",
   "ts": "2026-08-01T10:29:11.166410+00:00"
@@ -1310,6 +1334,10 @@
  "Google is making private AI practical with homomorphic encryption": {
   "ja": "Googleが準同型暗号で民間向けAIを現実化",
   "ts": "2026-08-15T09:19:16.509877+00:00"
+ },
+ "Google replaced Git tags for certain source code with obtaining via Google Drive": {
+  "ja": "Googleが特定ソースコードのGitタグをGoogle Driveでの取得に置き換え",
+  "ts": "2026-08-19T21:18:55.135327+00:00"
  },
  "Google will expand age checks on Android worldwide till the end of the year": {
   "ja": "GoogleがAndroidの年齢確認を年末までに世界中で拡大予定",
@@ -1451,6 +1479,10 @@
   "ja": "JPEG の仕組み：JPEG のロッシー圧縮方法をインタラクティブに探索",
   "ts": "2026-07-31T21:59:31.804562+00:00"
  },
+ "How Kubernetes Probes Work": {
+  "ja": "Kubernetes Probesの仕組み",
+  "ts": "2026-08-19T21:18:55.135327+00:00"
+ },
  "How Organizations Use AI: Evidence from ChatGPT [pdf]": {
   "ja": "組織が AI をどう使用するか：ChatGPT からの証拠 [pdf]",
   "ts": "2026-08-14T09:53:32.154453+00:00"
@@ -1513,7 +1545,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-19T03:40:25.143464+00:00"
+  "ts": "2026-08-19T21:18:48.837595+00:00"
  },
  "How to put 170 atoms in an atom": {
   "ja": "170 個の原子を 1 つの原子に詰め込む方法",
@@ -1679,6 +1711,10 @@
   "ja": "Boris Chenyのインタビュー [動画]",
   "ts": "2026-07-29T05:44:46.045074+00:00"
  },
+ "Introducing MicroLighter": {
+  "ja": "MicroLighterの紹介",
+  "ts": "2026-08-19T21:18:55.135327+00:00"
+ },
  "Introducing Toast 1": {
   "ja": "Toast 1発表",
   "ts": "2026-08-15T09:19:16.509885+00:00"
@@ -1830,6 +1866,10 @@
  "Launch HN: Keet (YC S24) – An app to create video courses on anything": {
   "ja": "Launch HN: Keet (YC S24) – あらゆることについてのビデオコース作成アプリ",
   "ts": "2026-08-11T21:38:47.091273+00:00"
+ },
+ "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams": {
+  "ja": "Launch HN: OneCLI (YC S26) – チーム向けOSSサンドボックスエージェントハーネス",
+  "ts": "2026-08-19T21:18:55.135327+00:00"
  },
  "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools": {
   "ja": "Launch HN: Prized (YC S26) – エンジニア以外のスタッフがセキュアな内部ツールを構築",
@@ -2039,6 +2079,10 @@
   "ja": "数学者のいない数学",
   "ts": "2026-08-02T10:28:30.211842+00:00"
  },
+ "Mathematics in the age of AI": {
+  "ja": "AI時代の数学",
+  "ts": "2026-08-19T21:18:55.135327+00:00"
+ },
  "Maximizing the value of your Claude Code sessions": {
   "ja": "Claude Codeセッションの価値を最大化する",
   "ts": "2026-08-15T09:19:16.509884+00:00"
@@ -2079,6 +2123,10 @@
   "ja": "Metaの大型裁判がたばこ業界との類似性を浮き彫りに",
   "ts": "2026-08-19T09:26:08.295087+00:00"
  },
+ "Microgpt in pure C hits 10M tps on Apple m5": {
+  "ja": "純粋CのMicrogptがApple m5で10M tpsを達成",
+  "ts": "2026-08-19T21:18:55.135327+00:00"
+ },
  "Microsoft Word for Windows 1.1a, Native X64 Port": {
   "ja": "Microsoft Word for Windows 1.1a、ネイティブX64ポート",
   "ts": "2026-08-09T09:32:05.584523+00:00"
@@ -2102,6 +2150,10 @@
  "Models Are Getting Dumber on Purpose": {
   "ja": "モデルが意図的にバカになっている",
   "ts": "2026-08-17T03:43:27.830811+00:00"
+ },
+ "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma": {
+  "ja": "Moderna、メラノーマのmRNA新抗原療法で初の第3相試験の陽性結果を報告",
+  "ts": "2026-08-19T21:18:55.135327+00:00"
  },
  "Monitors for Work": {
   "ja": "仕事用モニタ",
@@ -2327,6 +2379,10 @@
   "ja": "OpenChamber: エージェント開発環境",
   "ts": "2026-08-10T10:11:18.427022+00:00"
  },
+ "OpenRouter is joining Stripe": {
+  "ja": "OpenRouterがStripeに参加",
+  "ts": "2026-08-19T21:18:55.135327+00:00"
+ },
  "Oracle bans AI-generated code from OpenJDK": {
   "ja": "OracleがOpenJDKへのAI生成コードを禁止",
   "ts": "2026-08-08T09:30:29.480421+00:00"
@@ -2338,6 +2394,10 @@
  "Ordinary Abundance": {
   "ja": "普通の豊かさ",
   "ts": "2026-08-14T09:53:32.154444+00:00"
+ },
+ "Ornith-1.5: From Self-Scaffolding to Self-Improvement": {
+  "ja": "Ornith-1.5: 自己スキャフォルディングから自己改善へ",
+  "ts": "2026-08-19T21:18:55.135327+00:00"
  },
  "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386": {
   "ja": "Os8088: IBM XT、286、386向けのMac的な強力OS",
@@ -2357,7 +2417,7 @@
  },
  "Pacing model development in an era of cyber-critical capabilities": {
   "ja": "サイバー重要な機能の時代におけるモデル開発のペース調整",
-  "ts": "2026-08-18T21:17:03.075553+00:00"
+  "ts": "2026-08-19T21:18:48.837577+00:00"
  },
  "Painting with Gaussians": {
   "ja": "ガウス関数で描く",
@@ -2434,6 +2494,10 @@
  "Postmortem for Kernel Soundness Bug #14576": {
   "ja": "カーネル健全性バグ #14576 のポストモーテム",
   "ts": "2026-08-02T10:28:27.316264+00:00"
+ },
+ "Pressed Penny Machine Map": {
+  "ja": "プレストペニーマシンマップ",
+  "ts": "2026-08-19T21:18:55.135327+00:00"
  },
  "Prevent cognitive debt by manually retyping LLM-generated code": {
   "ja": "LLMが生成したコードを手動で再入力して認知的債務を防ぐ",
@@ -2619,6 +2683,10 @@
   "ja": "レジスタ剥奪：強制レジスタ不足下でのスピルとランタイム",
   "ts": "2026-08-01T21:47:42.064746+00:00"
  },
+ "Remote workers report the highest well-being in study of 7,700 employees": {
+  "ja": "リモートワーカーが7,700人従業員の調査で最高の幸福度を報告",
+  "ts": "2026-08-19T21:18:55.135327+00:00"
+ },
  "Repair Cafe – Fix Your Broken Items": {
   "ja": "Repair Cafe - 壊れた物を修理する",
   "ts": "2026-08-18T09:25:08.540856+00:00"
@@ -2694,6 +2762,10 @@
  "Ruby 4.0 Universal RCE Deserialization Gadget Chain": {
   "ja": "Ruby 4.0 ユニバーサルRCE デシリアライゼーションガジェットチェーン",
   "ts": "2026-08-14T09:53:35.336861+00:00"
+ },
+ "Rules of Good Social Skills (2025)": {
+  "ja": "良い社会スキルのルール（2025年）",
+  "ts": "2026-08-19T21:18:55.135327+00:00"
  },
  "Run Android ARM64 VR APKs on Apple Vision Pro": {
   "ja": "Apple Vision ProでAndroid ARM64 VR APKを実行",
@@ -3575,6 +3647,10 @@
   "ja": "カブトガニの青い血に隠された命を救う秘密",
   "ts": "2026-08-12T09:55:19.227924+00:00"
  },
+ "The little-known winstart.bat batch file": {
+  "ja": "あまり知られていないwinstart.batバッチファイル",
+  "ts": "2026-08-19T21:18:55.135327+00:00"
+ },
  "The lost civic life of movie rental stores": {
   "ja": "映画レンタル店の失われた市民的生活",
   "ts": "2026-07-31T11:24:33.340235+00:00"
@@ -3838,6 +3914,10 @@
  "Universal health coverage could save $1T and 114k lives a year: study": {
   "ja": "ユニバーサルヘルスカバレッジは年間1兆ドルと11万4000人の命を救える可能性：調査",
   "ts": "2026-08-19T03:40:25.143439+00:00"
+ },
+ "Unlocking a locked/deactivated e-waste Cricut Maker": {
+  "ja": "ロックされた電子廃棄物Cricut Makerのロック解除",
+  "ts": "2026-08-19T21:18:55.135327+00:00"
  },
  "Unraveling the mysteries of habit formation": {
   "ja": "習慣形成の謎を解き明かす",
@@ -4127,6 +4207,10 @@
   "ja": "ワーム：昨日のワームの未来は今日",
   "ts": "2026-08-12T09:55:22.303677+00:00"
  },
+ "XWayland 26.1-rc1 Released Two Years After the Last Release": {
+  "ja": "XWayland 26.1-rc1が前回のリリースから2年後にリリース",
+  "ts": "2026-08-19T21:18:55.135327+00:00"
+ },
  "Xbox goes down. You can't play games you own on disc": {
   "ja": "Xboxがダウン。所有するディスクゲームがプレイできない",
   "ts": "2026-08-05T11:14:05.015348+00:00"
@@ -4174,6 +4258,10 @@
  "ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014)": {
   "ja": "ao486: 486 SXのすべての機能を実装したx86互換Verilogコア（2014）",
   "ts": "2026-08-08T21:22:27.821847+00:00"
+ },
+ "fx :Tiny, open, native coding agent.": {
+  "ja": "fx：シンプルでオープンなネイティブコーディングエージェント",
+  "ts": "2026-08-19T21:18:55.135327+00:00"
  },
  "k-Coloring is Faster than Computing the Chromatic Number": {
   "ja": "k-彩色はChromatic Numberの計算より高速",
