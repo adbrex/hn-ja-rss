@@ -55,6 +55,14 @@
   "ja": "$500のRL微調整9Bオープンモデルがカタログレビューでフロンティアモデルをベンチマーク",
   "ts": "2026-07-28T11:10:58.283721+00:00"
  },
+ "A 25-year-old video patent just expired, ending a legal headache for Linux": {
+  "ja": "25年前のビデオ特許が失効、Linuxの法的負担が解消",
+  "ts": "2026-08-19T03:40:31.009022+00:00"
+ },
+ "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome": {
+  "ja": "macOSデスクトップ上の3Dショウジョウバエ、実在のFlyWireコネクトームで実現",
+  "ts": "2026-08-19T03:40:31.009022+00:00"
+ },
  "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"": {
   "ja": "第3世界の組み込みエンジニアが「RISC-V They Should Have Known Better」に応答",
   "ts": "2026-08-17T03:43:27.830806+00:00"
@@ -239,6 +247,10 @@
   "ja": "AIがレガシーCOBOLプログラムをJavaに移行、バグ込みで",
   "ts": "2026-08-03T06:14:03.792442+00:00"
  },
+ "AI usage patterns in software teams": {
+  "ja": "ソフトウェアチームにおけるAI利用パターン",
+  "ts": "2026-08-19T03:40:31.009022+00:00"
+ },
  "AI's debt binge can't last, hidden borrowing reaches $1.65T": {
   "ja": "AI の借金地獄は続かない、隠れた借入が 1.65 兆ドルに達する",
   "ts": "2026-08-03T22:01:24.604148+00:00"
@@ -359,6 +371,10 @@
   "ja": "古代ローマ版Googleマップ: ビーチまでどのくらいかかるか",
   "ts": "2026-07-29T11:17:37.025431+00:00"
  },
+ "And then the men with guns tell you to do it anyway": {
+  "ja": "そして銃を持った男たちがそれでもやるよう強要する",
+  "ts": "2026-08-19T03:40:31.009022+00:00"
+ },
  "Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]": {
   "ja": "Andrew Wilesによるフェルマーの最終定理の証明 (1995) [動画]",
   "ts": "2026-08-10T10:11:18.427037+00:00"
@@ -398,6 +414,10 @@
  "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp": {
   "ja": "Apple SiliconとmacOS VM: llama.cppでLLM推論を高速化",
   "ts": "2026-08-11T21:38:47.091273+00:00"
+ },
+ "Apple announces changes for apps in the European Union": {
+  "ja": "Appleが欧州連合のアプリに関する変更を発表",
+  "ts": "2026-08-19T03:40:31.009022+00:00"
  },
  "Apple says more ex-employees may have taken confidential data to OpenAI": {
   "ja": "Apple、複数の元従業員がOpenAIに機密データを持ち出した可能性を発表",
@@ -539,13 +559,17 @@
   "ja": "Rightmoveの前にあったCosmorama",
   "ts": "2026-08-17T03:43:27.830841+00:00"
  },
+ "Being ambitious and being a dad": {
+  "ja": "野心的であることと父親であること",
+  "ts": "2026-08-19T03:40:31.009022+00:00"
+ },
  "Benchmarking Opus 5 on SlopCodeBench": {
   "ja": "SlopCodeBenchでOpus 5をベンチマーク",
   "ts": "2026-07-28T11:10:58.283713+00:00"
  },
  "Beware Management Consultants": {
   "ja": "経営コンサルティング会社に注意せよ",
-  "ts": "2026-08-18T21:17:03.075553+00:00"
+  "ts": "2026-08-19T03:40:25.143446+00:00"
  },
  "Beware the Permanent Periphery": {
   "ja": "永遠の周辺部に注意せよ",
@@ -781,7 +805,7 @@
  },
  "Cursor launches Origin, GitHub alternative": {
   "ja": "Cursor が GitHub 代替の Origin をローンチ",
-  "ts": "2026-08-18T21:16:54.593841+00:00"
+  "ts": "2026-08-19T03:40:25.143444+00:00"
  },
  "Cursor removed cost information from the usage page and CSV export": {
   "ja": "Cursorが使用ページとCSVエクスポートからコスト情報を削除",
@@ -1093,7 +1117,7 @@
  },
  "Fixing a bricked Framework laptop": {
   "ja": "壊れたFrameworkノートパソコンの修復",
-  "ts": "2026-08-18T21:17:03.075553+00:00"
+  "ts": "2026-08-19T03:40:25.143450+00:00"
  },
  "Fixing my tooltip accessibility mistake": {
   "ja": "ツールチップのアクセシビリティミスを修正する",
@@ -1423,6 +1447,10 @@
   "ja": "デバイスが暗号化 DNS を自分で見つける方法",
   "ts": "2026-08-14T04:43:45.817740+00:00"
  },
+ "How a giant battery is transforming a town centre in Cannington, Ontario": {
+  "ja": "巨大バッテリーがカナダ・オンタリオ州Canningtonの町の中心を変貌させている",
+  "ts": "2026-08-19T03:40:31.009022+00:00"
+ },
  "How art invented humanity": {
   "ja": "芸術はいかに人類を発明したか",
   "ts": "2026-08-13T21:37:39.844032+00:00"
@@ -1437,7 +1465,7 @@
  },
  "How does IKEA come up with names for its products?": {
   "ja": "IKEAはどのように製品名を考案しているのか",
-  "ts": "2026-08-18T21:17:03.075553+00:00"
+  "ts": "2026-08-19T03:40:25.143452+00:00"
  },
  "How far can you push the range of Wi-Fi connectivity in an ideal environment?": {
   "ja": "理想的な環境下でWi-Fi接続範囲はどこまで広げられるか？",
@@ -1469,7 +1497,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-18T21:16:54.593853+00:00"
+  "ts": "2026-08-19T03:40:25.143464+00:00"
  },
  "How to put 170 atoms in an atom": {
   "ja": "170 個の原子を 1 つの原子に詰め込む方法",
@@ -1813,7 +1841,7 @@
  },
  "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI": {
   "ja": "Launch HN: machine0 (YC S26) – CLIから利用可能な永続CPU/GPU VM",
-  "ts": "2026-08-18T21:17:03.075553+00:00"
+  "ts": "2026-08-19T03:40:25.143458+00:00"
  },
  "Learn how chips are made with this Rollercoaster Tycoon-inspired animation": {
   "ja": "Rollercoaster Tycoonインスパイアのアニメーションでチップの製造を学ぶ",
@@ -2005,7 +2033,7 @@
  },
  "Memory prices climb 500% in 12 months": {
   "ja": "メモリ価格が12ヶ月で500%上昇",
-  "ts": "2026-08-18T21:17:03.075553+00:00"
+  "ts": "2026-08-19T03:40:25.143442+00:00"
  },
  "Meshdiff – visually compare two STL versions in the browser, client-side": {
   "ja": "Meshdiff – ブラウザで2つのSTLバージョンを視覚的に比較、クライアント側処理",
@@ -2026,6 +2054,10 @@
  "Meta will train its AI on Newsmax, a far-right media outlet": {
   "ja": "MetaがNewsmax極右メディアでAIをトレーニング",
   "ts": "2026-08-15T21:14:07.444034+00:00"
+ },
+ "Meta's blockbuster trial draws parallels to big tobacco": {
+  "ja": "Metaの大型裁判がたばこ業界との類似性を浮き彫りに",
+  "ts": "2026-08-19T03:40:31.009022+00:00"
  },
  "Microsoft Word for Windows 1.1a, Native X64 Port": {
   "ja": "Microsoft Word for Windows 1.1a、ネイティブX64ポート",
@@ -2182,6 +2214,10 @@
  "New cars are getting 1.2cm longer and 0.5cm taller each year": {
   "ja": "新車は毎年1.2cm長くなり0.5cm高くなっている",
   "ts": "2026-08-04T22:06:22.622257+00:00"
+ },
+ "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]": {
+  "ja": "新しい論文：米国の労働者の37%が2021～2024年の実質賃金の低下を経験 [pdf]",
+  "ts": "2026-08-19T03:40:31.009022+00:00"
  },
  "Nikita Bier Steps Down as Head of Product at X": {
   "ja": "Nikita BierがXのプロダクト責任者を退任",
@@ -2699,6 +2735,10 @@
   "ja": "科学者が太陽の表面でKelvin-Helmholtz不安定性を発見",
   "ts": "2026-08-07T09:54:29.419397+00:00"
  },
+ "Scientists stunned by children's lung recovery in ultra low emission zone": {
+  "ja": "科学者が驚愕：超低排出ゾーンでの子どもたちの肺回復",
+  "ts": "2026-08-19T03:40:31.009022+00:00"
+ },
  "Securing Services with Rootless Containers": {
   "ja": "ルートレスコンテナを使用したサービス保護",
   "ts": "2026-07-28T11:10:58.283730+00:00"
@@ -2850,6 +2890,10 @@
  "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built": {
   "ja": "Show HN: 15歳のエンジニア志望です。自作したサイクロイド歯車です",
   "ts": "2026-08-02T10:28:27.316262+00:00"
+ },
+ "Show HN: Interactive, animated architecture of any HuggingFace models": {
+  "ja": "Show HN: HuggingFaceの任意のモデルのアーキテクチャをインタラクティブにアニメーション表示",
+  "ts": "2026-08-19T03:40:31.009022+00:00"
  },
  "Show HN: Isopolis – Isometric pixel map of SF": {
   "ja": "Show HN: Isopolis – SFのアイソメトリックピクセルマップ",
@@ -3059,6 +3103,10 @@
   "ja": "Solid Queue 1.6.0がファイバーワーカーに対応",
   "ts": "2026-08-01T21:47:35.631097+00:00"
  },
+ "Solo – a .so loader for static Linux binaries": {
+  "ja": "Solo – 静的Linuxバイナリ用の.soローダー",
+  "ts": "2026-08-19T03:40:31.009022+00:00"
+ },
  "Solving poker in custom WebGPU kernels": {
   "ja": "カスタムWebGPUカーネルでポーカーを解く",
   "ts": "2026-07-30T22:07:54.199767+00:00"
@@ -3235,9 +3283,17 @@
   "ja": "ソーシャルメディアのおかげで、缶詰サーディンがスーパーの棚から姿を消している",
   "ts": "2026-08-13T09:56:38.962819+00:00"
  },
+ "That Disgraceful, Disreputable, (Wonderful) Form of Punctuation: The Parenthesis": {
+  "ja": "不名誉で、低俗で、（素晴らしい）句読法：括弧",
+  "ts": "2026-08-19T03:40:31.009022+00:00"
+ },
  "That time when I failed the Microsoft interview": {
   "ja": "Microsoftの面接に落ちた時の話",
   "ts": "2026-08-04T11:17:50.507258+00:00"
+ },
+ "The 90-year history of the binoculars bolted to scenic overlooks": {
+  "ja": "景観展望台に設置された双眼鏡の90年の歴史",
+  "ts": "2026-08-19T03:40:31.009022+00:00"
  },
  "The AI Aesthetic": {
   "ja": "AI美学",
@@ -3261,7 +3317,7 @@
  },
  "The Amazon tax": {
   "ja": "Amazonの税",
-  "ts": "2026-08-18T21:17:03.075553+00:00"
+  "ts": "2026-08-19T03:40:25.143423+00:00"
  },
  "The American Grilled Cheese Sandwich Essay (2024)": {
   "ja": "アメリカンチーズサンドウィッチ論(2024)",
@@ -3595,6 +3651,10 @@
   "ja": "OpenAiによるHugging Faceへの不意の攻撃のタイムライン",
   "ts": "2026-08-09T04:13:02.787152+00:00"
  },
+ "Tiny satellite will use the dark side of the Moon as a shield": {
+  "ja": "小型衛星が月の裏側を盾として利用",
+  "ts": "2026-08-19T03:40:31.009022+00:00"
+ },
  "TinySol, a tiny solitaire game for DOS": {
   "ja": "TinySol、DOS用のちっぽけなソリティアゲーム",
   "ts": "2026-08-09T04:13:02.787184+00:00"
@@ -3653,7 +3713,7 @@
  },
  "Turbovec – Google's TurboQuant for vector search in Rust": {
   "ja": "Turbovec – Rustでのベクトル検索のためのGoogleのTurboQuant",
-  "ts": "2026-08-18T21:17:03.075553+00:00"
+  "ts": "2026-08-19T03:40:25.143455+00:00"
  },
  "Turn satellite imagery into a paper globe you fold yourself": {
   "ja": "衛星画像を折って作る紙製地球儀",
@@ -3733,7 +3793,7 @@
  },
  "Universal health coverage could save $1T and 114k lives a year: study": {
   "ja": "ユニバーサルヘルスカバレッジは年間1兆ドルと11万4000人の命を救える可能性：調査",
-  "ts": "2026-08-18T21:17:03.075553+00:00"
+  "ts": "2026-08-19T03:40:25.143439+00:00"
  },
  "Unraveling the mysteries of habit formation": {
   "ja": "習慣形成の謎を解き明かす",
@@ -3761,7 +3821,7 @@
  },
  "Using the railway network as a flatbed scanner": {
   "ja": "鉄道網をフラットベッドスキャナーとして利用する",
-  "ts": "2026-08-18T21:17:03.075553+00:00"
+  "ts": "2026-08-19T03:40:25.143448+00:00"
  },
  "Using the railway network as a flatbed scanner [video]": {
   "ja": "鉄道網をフラットベッドスキャナとして使用 [動画]",
