@@ -141,7 +141,7 @@
  },
  "A faster way to calculate the day of the week": {
   "ja": "曜日を計算する高速な方法",
-  "ts": "2026-08-20T03:40:14.248326+00:00"
+  "ts": "2026-08-20T09:26:16.350152+00:00"
  },
  "A fortuitous decade as an indie software developer": {
   "ja": "インディソフトウェア開発者としての幸運な10年",
@@ -149,7 +149,7 @@
  },
  "A joke domain purchase turned in geopolitical warfare": {
   "ja": "冗談で購入したドメインが地政学的紛争に発展",
-  "ts": "2026-08-20T03:40:10.115303+00:00"
+  "ts": "2026-08-20T09:26:16.350113+00:00"
  },
  "A missing underscore sent innocent man to prison for 18 months": {
   "ja": "アンダースコア記号の欠落により無実の男性が18ヶ月投獄",
@@ -321,7 +321,7 @@
  },
  "Air Theremin – A browser theremin you play by waving at your webcam": {
   "ja": "Air Theremin – ウェブカメラに向かって手を振って演奏するブラウザテルミン",
-  "ts": "2026-08-20T03:40:14.248326+00:00"
+  "ts": "2026-08-20T09:26:16.350140+00:00"
  },
  "Air Theremin – a browser theremin you play by waving at your webcam": {
   "ja": "Air Theremin – Webカメラに手を振って演奏するブラウザテルミン",
@@ -979,6 +979,10 @@
   "ja": "ドキュメント経由のAIワーム、Copilot for Wordを通じた自己伝播が可能",
   "ts": "2026-07-29T21:54:08.013720+00:00"
  },
+ "Don't Paste the AI, please": {
+  "ja": "AIを貼り付けないでください",
+  "ts": "2026-08-20T09:26:19.833101+00:00"
+ },
  "Don't be a meat proxy": {
   "ja": "ミートプロキシになるな",
   "ts": "2026-08-03T22:01:15.290383+00:00"
@@ -1101,7 +1105,7 @@
  },
  "Extensible Software in the age of LLMs": {
   "ja": "LLM時代の拡張可能なソフトウェア",
-  "ts": "2026-08-20T03:40:10.115341+00:00"
+  "ts": "2026-08-20T09:26:16.350150+00:00"
  },
  "F*: A general-purpose proof-oriented programming language": {
   "ja": "F* – 汎用証明指向プログラミング言語",
@@ -1133,7 +1137,7 @@
  },
  "Feature Request: Support AGENTS.md": {
   "ja": "Feature Request: AGENTS.mdサポートの実装",
-  "ts": "2026-08-20T03:40:14.248326+00:00"
+  "ts": "2026-08-20T09:26:16.350144+00:00"
  },
  "Finding zombies in our systems: A real-world story of CPU bottlenecks": {
   "ja": "システムのゾンビを発見：CPUボトルネックの実例",
@@ -1281,7 +1285,7 @@
  },
  "Geolocating a random island using geometry and CUDA programming": {
   "ja": "幾何学とCUDAプログラミングで無作為な島を地理的に特定",
-  "ts": "2026-08-20T03:40:10.115327+00:00"
+  "ts": "2026-08-20T09:26:16.350135+00:00"
  },
  "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio": {
   "ja": "Mac Studio で 25 Gbps の Thunderbolt Ethernet を実現",
@@ -1342,6 +1346,10 @@
  "Google has acquired the data of failed US airline Spirit": {
   "ja": "Googleが経営破綻したUS航空会社Spiritのデータを買収",
   "ts": "2026-08-18T21:17:03.075553+00:00"
+ },
+ "Google has stopped pushing Git tags for some Android source code": {
+  "ja": "Googleが一部のAndroidソースコードのGitタグ配信を停止",
+  "ts": "2026-08-20T09:26:19.833101+00:00"
  },
  "Google is making private AI practical with homomorphic encryption": {
   "ja": "Googleが準同型暗号で民間向けAIを現実化",
@@ -1561,7 +1569,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-20T03:40:10.115351+00:00"
+  "ts": "2026-08-20T09:26:16.350162+00:00"
  },
  "How to put 170 atoms in an atom": {
   "ja": "170 個の原子を 1 つの原子に詰め込む方法",
@@ -1885,7 +1893,7 @@
  },
  "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams": {
   "ja": "Launch HN: OneCLI (YC S26) – チーム向けOSSサンドボックスエージェントハーネス",
-  "ts": "2026-08-19T21:18:55.135327+00:00"
+  "ts": "2026-08-20T09:26:16.350159+00:00"
  },
  "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools": {
   "ja": "Launch HN: Prized (YC S26) – エンジニア以外のスタッフがセキュアな内部ツールを構築",
@@ -2057,7 +2065,7 @@
  },
  "Manabu Kosaka's Handmade Paper Sculptures": {
   "ja": "小坂学の手作り紙彫刻",
-  "ts": "2026-08-20T03:40:14.248326+00:00"
+  "ts": "2026-08-20T09:26:16.350153+00:00"
  },
  "Managing AI Coding Costs at Scale": {
   "ja": "AI コーディングコストを大規模で管理する",
@@ -2101,7 +2109,7 @@
  },
  "Mathematics in the age of AI": {
   "ja": "AI時代の数学",
-  "ts": "2026-08-20T03:40:10.115340+00:00"
+  "ts": "2026-08-20T09:26:16.350148+00:00"
  },
  "Maximizing the value of your Claude Code sessions": {
   "ja": "Claude Codeセッションの価値を最大化する",
@@ -2401,7 +2409,7 @@
  },
  "OpenRouter is joining Stripe": {
   "ja": "OpenRouterがStripeに参加",
-  "ts": "2026-08-20T03:40:10.115320+00:00"
+  "ts": "2026-08-20T09:26:16.350131+00:00"
  },
  "Oracle bans AI-generated code from OpenJDK": {
   "ja": "OracleがOpenJDKへのAI生成コードを禁止",
@@ -2421,7 +2429,7 @@
  },
  "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a": {
   "ja": "Os8088.com: IBM XT OSにブラウザが搭載、Z80コアのCP/M 2.2とMS Word 1.1a",
-  "ts": "2026-08-20T03:40:14.248326+00:00"
+  "ts": "2026-08-20T09:26:16.350157+00:00"
  },
  "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386": {
   "ja": "Os8088: IBM XT、286、386向けのMac的な強力OS",
@@ -2495,6 +2503,10 @@
   "ja": "Picophysics: N64、PSX、DCなどのプラットフォーム向けシングルファイル物理エンジン",
   "ts": "2026-08-10T10:11:18.427044+00:00"
  },
+ "Pixel 11 Pro Fold feels like the end of an era": {
+  "ja": "Pixel 11 Pro Foldは一つの時代の終わりのようだ",
+  "ts": "2026-08-20T09:26:19.833101+00:00"
+ },
  "Plastic mechanical computer from 1963: The Digi-Comp 1 [video]": {
   "ja": "1963年のプラスチック機械式計算機: Digi-Comp 1 [ビデオ]",
   "ts": "2026-08-17T03:43:27.830838+00:00"
@@ -2517,7 +2529,7 @@
  },
  "PostgreSQL for Everything": {
   "ja": "Everything向けPostgreSQL",
-  "ts": "2026-08-20T03:40:14.248326+00:00"
+  "ts": "2026-08-20T09:26:16.350138+00:00"
  },
  "Postmortem for Kernel Soundness Bug #14576": {
   "ja": "カーネル健全性バグ #14576 のポストモーテム",
@@ -2758,6 +2770,10 @@
  "Reviving a four year old reMarkable 2": {
   "ja": "4年前のreMarkable 2を復活させる",
   "ts": "2026-08-10T04:24:54.693092+00:00"
+ },
+ "Rewriting in Rust": {
+  "ja": "Rustへの書き換え",
+  "ts": "2026-08-20T09:26:19.833101+00:00"
  },
  "Rhombus 1.1 is now available": {
   "ja": "Rhombus 1.1が利用可能に",
@@ -3677,7 +3693,7 @@
  },
  "The little-known winstart.bat batch file": {
   "ja": "あまり知られていないwinstart.batバッチファイル",
-  "ts": "2026-08-20T03:40:10.115344+00:00"
+  "ts": "2026-08-20T09:26:16.350155+00:00"
  },
  "The lost civic life of movie rental stores": {
   "ja": "映画レンタル店の失われた市民的生活",
@@ -3949,7 +3965,7 @@
  },
  "Unlocking a locked/deactivated e-waste Cricut Maker": {
   "ja": "ロックされた電子廃棄物Cricut Makerのロック解除",
-  "ts": "2026-08-20T03:40:10.115336+00:00"
+  "ts": "2026-08-20T09:26:16.350146+00:00"
  },
  "Unraveling the mysteries of habit formation": {
   "ja": "習慣形成の謎を解き明かす",
@@ -4099,6 +4115,10 @@
   "ja": "LLMはどのような数学が得意か",
   "ts": "2026-08-13T04:46:44.930264+00:00"
  },
+ "What's missing to have reproducible builds on PyPI": {
+  "ja": "PyPIで再現可能なビルドを実現するために必要なもの",
+  "ts": "2026-08-20T09:26:19.833101+00:00"
+ },
  "What's the best programming language for coding agents?": {
   "ja": "コーディングエージェント向けの最良のプログラミング言語は何か",
   "ts": "2026-08-11T09:54:12.807139+00:00"
@@ -4159,6 +4179,10 @@
   "ja": "エストニア人が毎年夏に見知らぬ人を自分たちの裏庭に招待する理由",
   "ts": "2026-08-07T09:54:29.419413+00:00"
  },
+ "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?": {
+  "ja": "Microsoft Entertainment PackがTetrisを搭載していることを発表するステッカーがあった理由",
+  "ts": "2026-08-20T09:26:19.833101+00:00"
+ },
  "Why Target Common Lisp for Code Generation?": {
   "ja": "コード生成に Common Lisp をターゲットにする理由",
   "ts": "2026-08-13T09:56:38.962823+00:00"
@@ -4218,6 +4242,10 @@
  "Windows XP 2002 for the Itanium: Unbridled rage": {
   "ja": "Windows XP 2002 for Itanium: 抑制されない怒り",
   "ts": "2026-08-04T11:17:46.859471+00:00"
+ },
+ "Windows brings out the Rorschach test in everyone": {
+  "ja": "Windowsが誰にでもロールシャッハテストをもたらす",
+  "ts": "2026-08-20T09:26:19.833101+00:00"
  },
  "Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years": {
   "ja": "ルーマニアの作業員が550万年間密閉されていた洞窟を掘り破る",
@@ -4297,7 +4325,7 @@
  },
  "fx :Tiny, open, native coding agent.": {
   "ja": "fx：シンプルでオープンなネイティブコーディングエージェント",
-  "ts": "2026-08-20T03:40:10.115332+00:00"
+  "ts": "2026-08-20T09:26:16.350142+00:00"
  },
  "k-Coloring is Faster than Computing the Chromatic Number": {
   "ja": "k-彩色はChromatic Numberの計算より高速",
