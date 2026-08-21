@@ -227,6 +227,10 @@
   "ja": "手作りAI",
   "ts": "2026-08-15T09:19:20.934747+00:00"
  },
+ "AI companies destroy physical books – let's scan rare books before it's too late": {
+  "ja": "AI企業による物理書の破棄 - 稀少書籍をスキャンしておこう",
+  "ts": "2026-08-21T03:44:03.912448+00:00"
+ },
  "AI doesn't generate working products, that's still your job": {
   "ja": "AIが機能する製品を生成することはない。それはあなたの仕事だ",
   "ts": "2026-08-01T10:29:15.366156+00:00"
@@ -297,7 +301,7 @@
  },
  "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence": {
   "ja": "Aaron Swartz はスクレイピングで起訴されたが、Meta は影響を受けない",
-  "ts": "2026-08-20T21:21:15.978096+00:00"
+  "ts": "2026-08-21T03:44:00.212820+00:00"
  },
  "Abdominal fat predicts heart disease risk better than BMI": {
   "ja": "腹部脂肪はBMIより心臓病リスクをより良く予測する",
@@ -341,7 +345,7 @@
  },
  "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint": {
   "ja": "AliExpress が Bluetooth マルチポイントを破壊するサイレント WebAudio フィンガープリンティングを実行",
-  "ts": "2026-08-20T21:21:15.978096+00:00"
+  "ts": "2026-08-21T03:44:00.212842+00:00"
  },
  "Almost no skill required to cook a steak": {
   "ja": "ステーキを調理するのにほぼスキルは不要",
@@ -425,7 +429,7 @@
  },
  "Anti-AI fonts are useless and harmful": {
   "ja": "Anti-AI フォントは無駄で有害である",
-  "ts": "2026-08-20T21:21:15.978096+00:00"
+  "ts": "2026-08-21T03:44:00.212870+00:00"
  },
  "Antiqua–Fraktur dispute": {
   "ja": "Antiqua–Fraktur 論争",
@@ -478,6 +482,10 @@
  "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts": {
   "ja": "Ars Astronomica – 稀少なヘブライ語およびラテン語の天文学テキストの英訳",
   "ts": "2026-07-28T11:11:01.190453+00:00"
+ },
+ "Artificial Intelligence Policy": {
+  "ja": "人工知能政策",
+  "ts": "2026-08-21T03:44:03.912448+00:00"
  },
  "As AI eats the web, the internet’s collective memory is disappearing": {
   "ja": "AIがウェブを食い尽くすなか、インターネットの集合的記憶が消えていく",
@@ -677,7 +685,7 @@
  },
  "CIA funding helped keep NeXT afloat in the 80s": {
   "ja": "CIA の資金援助が 1980 年代の NeXT を支え続けた",
-  "ts": "2026-08-20T21:21:15.978096+00:00"
+  "ts": "2026-08-21T03:44:00.212853+00:00"
  },
  "CISA Alert: Water Sector PLC Targeting": {
   "ja": "CISAアラート：水道セクターPLCへの攻撃",
@@ -809,7 +817,7 @@
  },
  "Consumer Rights Wiki": {
   "ja": "消費者権利 Wiki",
-  "ts": "2026-08-20T21:21:15.978096+00:00"
+  "ts": "2026-08-21T03:44:00.212859+00:00"
  },
  "Convergence is not enough": {
   "ja": "収束では足りない",
@@ -818,6 +826,10 @@
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
   "ts": "2026-08-19T21:18:48.837598+00:00"
+ },
+ "Copyright does not protect AI-generated content in EU": {
+  "ja": "EUではAI生成コンテンツは著作権保護の対象外",
+  "ts": "2026-08-21T03:44:03.912448+00:00"
  },
  "Could a computer scientist build a brain?": {
   "ja": "コンピュータ科学者は脳を構築できるか",
@@ -971,6 +983,10 @@
   "ja": "音声で3Dプリント可能な部品を設計する",
   "ts": "2026-08-17T09:33:58.491164+00:00"
  },
+ "Detecting scraper bots through scroll behaviour": {
+  "ja": "スクロール動作によるスクレイパーボット検出",
+  "ts": "2026-08-21T03:44:03.912448+00:00"
+ },
  "Developers are attached to tools because tools encode trust": {
   "ja": "開発者がツールに執着するのはツールが信頼をエンコードするから",
   "ts": "2026-08-03T12:15:41.058714+00:00"
@@ -981,7 +997,7 @@
  },
  "DiffusionGemma Technical Report": {
   "ja": "DiffusionGemma テクニカルレポート",
-  "ts": "2026-08-20T21:21:15.978096+00:00"
+  "ts": "2026-08-21T03:44:00.212867+00:00"
  },
  "Discovering Cryptographic Weaknesses with Claude": {
   "ja": "Claudeで暗号学的な脆弱性を発見する",
@@ -1325,7 +1341,7 @@
  },
  "Git at any scale": {
   "ja": "あらゆる規模での Git",
-  "ts": "2026-08-20T21:21:15.978096+00:00"
+  "ts": "2026-08-21T03:44:00.212857+00:00"
  },
  "GitHub Actions and Pages are experiencing degraded availability": {
   "ja": "GitHub ActionsとPagesで劣化した可用性",
@@ -1425,7 +1441,7 @@
  },
  "HTML Can Do That": {
   "ja": "HTML にできること",
-  "ts": "2026-08-20T21:21:15.978096+00:00"
+  "ts": "2026-08-21T03:44:00.212845+00:00"
  },
  "HTML over WebSockets: real-time SPAs with barely any JavaScript": {
   "ja": "HTMLのWebSockets対応：JavaScriptほぼなしでリアルタイムSPA実現",
@@ -1609,7 +1625,7 @@
  },
  "How to compromise your system with a job interview": {
   "ja": "就職面接であなたのシステムを侵害する方法",
-  "ts": "2026-08-20T21:21:15.978096+00:00"
+  "ts": "2026-08-21T03:44:00.212869+00:00"
  },
  "How to disable or avoid intrusive AI": {
   "ja": "押し付けがましい AI を無効化または回避する方法",
@@ -1621,7 +1637,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-20T21:21:06.579347+00:00"
+  "ts": "2026-08-21T03:44:00.212878+00:00"
  },
  "How to put 170 atoms in an atom": {
   "ja": "170 個の原子を 1 つの原子に詰め込む方法",
@@ -1681,7 +1697,7 @@
  },
  "I like 'em thick: an apology to my English teachers": {
   "ja": "厚みのあるもの、ぼくは好きだ：英語の先生への謝罪",
-  "ts": "2026-08-20T21:21:15.978096+00:00"
+  "ts": "2026-08-21T03:44:00.212847+00:00"
  },
  "I made tinnitus my friend, then it disappeared [video]": {
   "ja": "耳鳴りを味方にしたら消えた [動画]",
@@ -1689,7 +1705,7 @@
  },
  "I should have loved biology (2020)": {
   "ja": "生物学を愛すべきだった（2020）",
-  "ts": "2026-08-20T21:21:15.978096+00:00"
+  "ts": "2026-08-21T03:44:00.212863+00:00"
  },
  "I stopped trusting USB-C cable labels and started testing them": {
   "ja": "USB-Cケーブルのラベルを信頼するのをやめて、テストを始めた",
@@ -2095,6 +2111,10 @@
   "ja": "マグニチュード7.7の地震 – インドネシア・Ende北北西68km",
   "ts": "2026-08-15T09:19:16.509887+00:00"
  },
+ "Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K": {
+  "ja": "4.2 Kでの6テスラクラス高温超伝導双極磁石の製作",
+  "ts": "2026-08-21T03:44:03.912448+00:00"
+ },
  "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD": {
   "ja": "Postgresを分析処理で300倍高速化：バッチ処理、演算子融合、SIMD",
   "ts": "2026-08-08T09:30:29.480429+00:00"
@@ -2121,7 +2141,7 @@
  },
  "Malicious Rust crate Arrayref runs a build-time payload": {
   "ja": "悪意のある Rust クレート Arrayref がビルド時ペイロードを実行",
-  "ts": "2026-08-20T21:21:15.978096+00:00"
+  "ts": "2026-08-21T03:44:00.212851+00:00"
  },
  "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)": {
   "ja": "Man and the Computer by John G. Kemeny（BASIC共同開発者による1972年の著作）",
@@ -2249,7 +2269,7 @@
  },
  "Mojo is now open source": {
   "ja": "Mojo がオープンソース化",
-  "ts": "2026-08-20T21:21:15.978096+00:00"
+  "ts": "2026-08-21T03:44:00.212855+00:00"
  },
  "Monitors for Work": {
   "ja": "仕事用モニタ",
@@ -3089,7 +3109,7 @@
  },
  "Show HN: Huzzah – a novel approach to coding with AI": {
   "ja": "Show HN: Huzzah – AI でコーディングする新しいアプローチ",
-  "ts": "2026-08-20T21:21:15.978096+00:00"
+  "ts": "2026-08-21T03:44:00.212860+00:00"
  },
  "Show HN: I built a native app for coding agents with Rust and GPUI": {
   "ja": "Show HN: RustとGPUIで開発エージェント用ネイティブアプリを構築した",
@@ -3101,7 +3121,7 @@
  },
  "Show HN: I trained a 125M model to autocomplete piano on-device": {
   "ja": "Show HN: ピアノの自動補完を行う 125M モデルをオンデバイスで訓練した",
-  "ts": "2026-08-20T21:21:15.978096+00:00"
+  "ts": "2026-08-21T03:44:00.212849+00:00"
  },
  "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript": {
   "ja": "Show HN: HNのリンクを開くたびに2つのタブを開くのに疲れたので、ユーザースクリプトを作った",
@@ -3357,7 +3377,7 @@
  },
  "SpacetimeDB: A Short Technical Review": {
   "ja": "SpacetimeDB: 短いテクニカルレビュー",
-  "ts": "2026-08-20T21:21:15.978096+00:00"
+  "ts": "2026-08-21T03:44:00.212874+00:00"
  },
  "Spaghettifying DRAM": {
   "ja": "DRAM をスパゲッティ化する",
@@ -3370,6 +3390,14 @@
  "SpecForge – A Platform for Authoring Formal Specifications": {
   "ja": "SpecForge – 形式仕様を執筆するためのプラットフォーム",
   "ts": "2026-07-29T11:17:37.025431+00:00"
+ },
+ "Speeding Up (Small) Ruby Hashes": {
+  "ja": "小規模Rubyハッシュの高速化",
+  "ts": "2026-08-21T03:44:03.912448+00:00"
+ },
+ "Speeding Up the Plush Garbage Collector": {
+  "ja": "Plushガベージコレクタの高速化",
+  "ts": "2026-08-21T03:44:03.912448+00:00"
  },
  "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters": {
   "ja": "鉄硫黄クラスタ上のSQD/QSCI量子化学ベンチマークのSpin監査",
@@ -3398,6 +3426,10 @@
  "Steel Bank Common Lisp version 2.6.7": {
   "ja": "Steel Bank Common Lisp バージョン 2.6.7",
   "ts": "2026-07-29T11:17:33.572894+00:00"
+ },
+ "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces": {
+  "ja": "中間トークンを推論/思考トレースとして擬人化することをやめよう",
+  "ts": "2026-08-21T03:44:03.912448+00:00"
  },
  "Stop Killing Games: It's time to sue Sony, join us": {
   "ja": "ゲーム廃止を止めよう：Sonyを訴える時が来た。参加しよう",
@@ -3566,6 +3598,10 @@
  "The Art of 64-bit Assembly": {
   "ja": "64ビットアセンブリの芸術",
   "ts": "2026-08-02T05:49:34.469566+00:00"
+ },
+ "The August 17 outage": {
+  "ja": "8月17日の障害",
+  "ts": "2026-08-21T03:44:03.912448+00:00"
  },
  "The August 17 outage, and the work ahead": {
   "ja": "8 月 17 日の障害と今後の取り組み",
@@ -3883,6 +3919,10 @@
   "ja": "やがて雨は静かに降りて来るだろう（1950年）[pdf]",
   "ts": "2026-08-05T11:14:05.015358+00:00"
  },
+ "There's no such thing as a small software team anymore": {
+  "ja": "小さなソフトウェアチームはもう存在しない",
+  "ts": "2026-08-21T03:44:03.912448+00:00"
+ },
  "They Forgot What Happened Last Time: Hacking the Windows 365 Link [video]": {
   "ja": "They Forgot What Happened Last Time: Windows 365 Linkをハッキング [動画]",
   "ts": "2026-08-04T05:41:58.523074+00:00"
@@ -4113,7 +4153,7 @@
  },
  "Vomit: Clean up Claude 5's token output with a separate LLM": {
   "ja": "Vomit: 別の LLM で Claude 5 のトークン出力をクリーンアップ",
-  "ts": "2026-08-20T21:21:15.978096+00:00"
+  "ts": "2026-08-21T03:44:00.212864+00:00"
  },
  "Voyager 1 FDS Computer Emulator": {
   "ja": "Voyager 1 FDSコンピュータエミュレータ",
@@ -4301,7 +4341,7 @@
  },
  "Why aren't smart people happier? (2022)": {
   "ja": "なぜ頭の良い人はより幸せではないのか？（2022）",
-  "ts": "2026-08-20T21:21:15.978096+00:00"
+  "ts": "2026-08-21T03:44:00.212872+00:00"
  },
  "Why did we wait so long for the bicycle? (2019)": {
   "ja": "なぜ自転車の登場までそんなに待たなければならなかったのか？(2019)",
