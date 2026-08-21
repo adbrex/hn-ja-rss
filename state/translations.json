@@ -345,7 +345,7 @@
  },
  "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint": {
   "ja": "AliExpress が Bluetooth マルチポイントを破壊するサイレント WebAudio フィンガープリンティングを実行",
-  "ts": "2026-08-21T03:44:00.212842+00:00"
+  "ts": "2026-08-21T09:29:13.809665+00:00"
  },
  "Almost no skill required to cook a steak": {
   "ja": "ステーキを調理するのにほぼスキルは不要",
@@ -429,7 +429,7 @@
  },
  "Anti-AI fonts are useless and harmful": {
   "ja": "Anti-AI フォントは無駄で有害である",
-  "ts": "2026-08-21T03:44:00.212870+00:00"
+  "ts": "2026-08-21T09:29:13.809700+00:00"
  },
  "Antiqua–Fraktur dispute": {
   "ja": "Antiqua–Fraktur 論争",
@@ -685,7 +685,7 @@
  },
  "CIA funding helped keep NeXT afloat in the 80s": {
   "ja": "CIA の資金援助が 1980 年代の NeXT を支え続けた",
-  "ts": "2026-08-21T03:44:00.212853+00:00"
+  "ts": "2026-08-21T09:29:13.809690+00:00"
  },
  "CISA Alert: Water Sector PLC Targeting": {
   "ja": "CISAアラート：水道セクターPLCへの攻撃",
@@ -787,6 +787,10 @@
   "ja": "Linux デスクトップアプリの ChatGPT に Codex が登場、プレビュー開始",
   "ts": "2026-08-13T21:37:39.844032+00:00"
  },
+ "Codex on AWS bedrock bug causing 10x charges": {
+  "ja": "AWS Bedrock上のCodexのバグが10倍の課金を引き起こす",
+  "ts": "2026-08-21T09:29:18.269900+00:00"
+ },
  "Coin-sized device can hack a Boeing 737": {
   "ja": "コイン大のデバイスでBoeing 737をハック可能",
   "ts": "2026-08-15T09:19:20.934747+00:00"
@@ -825,7 +829,7 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-08-19T21:18:48.837598+00:00"
+  "ts": "2026-08-21T09:29:13.809710+00:00"
  },
  "Copyright does not protect AI-generated content in EU": {
   "ja": "EUではAI生成コンテンツは著作権保護の対象外",
@@ -1086,6 +1090,10 @@
  "Elevators": {
   "ja": "エレベーター",
   "ts": "2026-08-01T10:29:11.166381+00:00"
+ },
+ "Emacs 31.1 will release on 8/24": {
+  "ja": "Emacs 31.1は8/24にリリース予定",
+  "ts": "2026-08-21T09:29:18.269900+00:00"
  },
  "Emergent Introspective Awareness in Large Language Models": {
   "ja": "大規模言語モデルにおける創発的な内省的認識",
@@ -1441,7 +1449,7 @@
  },
  "HTML Can Do That": {
   "ja": "HTML にできること",
-  "ts": "2026-08-21T03:44:00.212845+00:00"
+  "ts": "2026-08-21T09:29:13.809681+00:00"
  },
  "HTML over WebSockets: real-time SPAs with barely any JavaScript": {
   "ja": "HTMLのWebSockets対応：JavaScriptほぼなしでリアルタイムSPA実現",
@@ -1637,7 +1645,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-21T03:44:00.212878+00:00"
+  "ts": "2026-08-21T09:29:13.809708+00:00"
  },
  "How to put 170 atoms in an atom": {
   "ja": "170 個の原子を 1 つの原子に詰め込む方法",
@@ -1697,7 +1705,7 @@
  },
  "I like 'em thick: an apology to my English teachers": {
   "ja": "厚みのあるもの、ぼくは好きだ：英語の先生への謝罪",
-  "ts": "2026-08-21T03:44:00.212847+00:00"
+  "ts": "2026-08-21T09:29:13.809684+00:00"
  },
  "I made tinnitus my friend, then it disappeared [video]": {
   "ja": "耳鳴りを味方にしたら消えた [動画]",
@@ -1705,7 +1713,7 @@
  },
  "I should have loved biology (2020)": {
   "ja": "生物学を愛すべきだった（2020）",
-  "ts": "2026-08-21T03:44:00.212863+00:00"
+  "ts": "2026-08-21T09:29:13.809694+00:00"
  },
  "I stopped trusting USB-C cable labels and started testing them": {
   "ja": "USB-Cケーブルのラベルを信頼するのをやめて、テストを始めた",
@@ -1846,6 +1854,10 @@
  "JEP 401: Value Objects (Preview) merged to OpenJDK master": {
   "ja": "JEP 401: Value Objects (Preview) がOpenJDK masterにマージ",
   "ts": "2026-07-31T11:24:36.992076+00:00"
+ },
+ "Japan tried to build an operating system for the world, the US intervened": {
+  "ja": "日本が世界のためのオペレーティングシステムを構築しようとしたが、米国が介入した",
+  "ts": "2026-08-21T09:29:18.269900+00:00"
  },
  "Japanese court overturns Red RAW video patent": {
   "ja": "日本の裁判所がRed RAWビデオ特許を覆す",
@@ -1995,6 +2007,10 @@
   "ja": "Launch HN: Tokenless (YC S26) – コスト削減のための自動モデル切り替え",
   "ts": "2026-07-30T11:01:01.391689+00:00"
  },
+ "Launch HN: Vendo (YC S26) – Let users build features on top of your product": {
+  "ja": "Launch HN: Vendo（YC S26）– ユーザーが製品の上に機能を構築できるようにする",
+  "ts": "2026-08-21T09:29:18.269900+00:00"
+ },
  "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI": {
   "ja": "Launch HN: machine0 (YC S26) – CLIから利用可能な永続CPU/GPU VM",
   "ts": "2026-08-19T03:40:25.143458+00:00"
@@ -2113,7 +2129,7 @@
  },
  "Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K": {
   "ja": "4.2 Kでの6テスラクラス高温超伝導双極磁石の製作",
-  "ts": "2026-08-21T03:44:03.912448+00:00"
+  "ts": "2026-08-21T09:29:13.809705+00:00"
  },
  "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD": {
   "ja": "Postgresを分析処理で300倍高速化：バッチ処理、演算子融合、SIMD",
@@ -2141,7 +2157,7 @@
  },
  "Malicious Rust crate Arrayref runs a build-time payload": {
   "ja": "悪意のある Rust クレート Arrayref がビルド時ペイロードを実行",
-  "ts": "2026-08-21T03:44:00.212851+00:00"
+  "ts": "2026-08-21T09:29:13.809688+00:00"
  },
  "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)": {
   "ja": "Man and the Computer by John G. Kemeny（BASIC共同開発者による1972年の著作）",
@@ -2238,6 +2254,10 @@
  "Microgpt in pure C hits 10M tps on Apple m5": {
   "ja": "純粋CのMicrogptがApple m5で10M tpsを達成",
   "ts": "2026-08-19T21:18:55.135327+00:00"
+ },
+ "Micron announces $10B research hub in Boise": {
+  "ja": "Micronがボイズに100億ドルの研究拠点を発表",
+  "ts": "2026-08-21T09:29:18.269900+00:00"
  },
  "Microsoft Word for Windows 1.1a, Native X64 Port": {
   "ja": "Microsoft Word for Windows 1.1a、ネイティブX64ポート",
@@ -2979,6 +2999,10 @@
   "ja": "Pioneer Rekordboxのセキュリティ脆弱性",
   "ts": "2026-08-10T21:34:46.290115+00:00"
  },
+ "Seed: Minimal, self-modifying agent harness": {
+  "ja": "Seed: ミニマルな自己修正エージェントハーネス",
+  "ts": "2026-08-21T09:29:18.269900+00:00"
+ },
  "Self-contained highly-portable Python distributions": {
   "ja": "自己完結型で高い可搬性のPythonディストリビューション",
   "ts": "2026-07-28T11:10:58.283723+00:00"
@@ -3109,7 +3133,7 @@
  },
  "Show HN: Huzzah – a novel approach to coding with AI": {
   "ja": "Show HN: Huzzah – AI でコーディングする新しいアプローチ",
-  "ts": "2026-08-21T03:44:00.212860+00:00"
+  "ts": "2026-08-21T09:29:13.809692+00:00"
  },
  "Show HN: I built a native app for coding agents with Rust and GPUI": {
   "ja": "Show HN: RustとGPUIで開発エージェント用ネイティブアプリを構築した",
@@ -3393,7 +3417,7 @@
  },
  "Speeding Up (Small) Ruby Hashes": {
   "ja": "小規模Rubyハッシュの高速化",
-  "ts": "2026-08-21T03:44:03.912448+00:00"
+  "ts": "2026-08-21T09:29:13.809703+00:00"
  },
  "Speeding Up the Plush Garbage Collector": {
   "ja": "Plushガベージコレクタの高速化",
@@ -3430,6 +3454,10 @@
  "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces": {
   "ja": "中間トークンを推論/思考トレースとして擬人化することをやめよう",
   "ts": "2026-08-21T03:44:03.912448+00:00"
+ },
+ "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025)": {
+  "ja": "中間トークンを推論/思考の痕跡として擬人化することをやめよう（2025）",
+  "ts": "2026-08-21T09:29:18.269900+00:00"
  },
  "Stop Killing Games: It's time to sue Sony, join us": {
   "ja": "ゲーム廃止を止めよう：Sonyを訴える時が来た。参加しよう",
@@ -3601,7 +3629,7 @@
  },
  "The August 17 outage": {
   "ja": "8月17日の障害",
-  "ts": "2026-08-21T03:44:03.912448+00:00"
+  "ts": "2026-08-21T09:29:13.809687+00:00"
  },
  "The August 17 outage, and the work ahead": {
   "ja": "8 月 17 日の障害と今後の取り組み",
@@ -3683,6 +3711,10 @@
   "ja": "Direct Fileの興衰 [pdf]",
   "ts": "2026-08-17T09:33:52.080157+00:00"
  },
+ "The Lost Treasure of Sid Meier's Pirates": {
+  "ja": "Sid Meier's Piratesの失われた宝",
+  "ts": "2026-08-21T09:29:18.269900+00:00"
+ },
  "The Mojo language (by Modular, now Qualcomm) is now open-source": {
   "ja": "Mojo言語 (Modular、現Qualcomm開発) がオープンソース化",
   "ts": "2026-08-19T09:26:14.417796+00:00"
@@ -3722,6 +3754,10 @@
  "The Religion of Speed": {
   "ja": "速度の宗教",
   "ts": "2026-07-31T11:24:33.340233+00:00"
+ },
+ "The Religious Experience of Philip K. Dick by R. Crumb (1986)": {
+  "ja": "Philip K. DickのReligious Experience（R. Crumb著、1986年）",
+  "ts": "2026-08-21T09:29:18.269900+00:00"
  },
  "The Road to MS-DOS 2.0": {
   "ja": "MS-DOS 2.0への道",
@@ -3786,6 +3822,10 @@
  "The brain may be about to have its Ozempic moment": {
   "ja": "脳はOzempicの瞬間を迎えようとしているかもしれない",
   "ts": "2026-08-11T21:38:47.091273+00:00"
+ },
+ "The case against a C alternative (2022)": {
+  "ja": "C言語代替案への異議（2022）",
+  "ts": "2026-08-21T09:29:18.269900+00:00"
  },
  "The coolest use for the Vision Pro": {
   "ja": "Vision Proの最高の使用方法",
@@ -4143,6 +4183,10 @@
   "ja": "車両モーションキュー",
   "ts": "2026-07-28T11:10:58.283725+00:00"
  },
+ "Version Control for Everything": {
+  "ja": "すべてのためのバージョン管理",
+  "ts": "2026-08-21T09:29:18.269900+00:00"
+ },
  "Video2NAND – Abusing video codecs for great computational power": {
   "ja": "Video2NAND – 動画コーデックを悪用した高い計算能力",
   "ts": "2026-08-05T11:14:05.015376+00:00"
@@ -4153,7 +4197,7 @@
  },
  "Vomit: Clean up Claude 5's token output with a separate LLM": {
   "ja": "Vomit: 別の LLM で Claude 5 のトークン出力をクリーンアップ",
-  "ts": "2026-08-21T03:44:00.212864+00:00"
+  "ts": "2026-08-21T09:29:13.809696+00:00"
  },
  "Voyager 1 FDS Computer Emulator": {
   "ja": "Voyager 1 FDSコンピュータエミュレータ",
@@ -4190,6 +4234,10 @@
  "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447": {
   "ja": "GPT 5.6 Solに実ビジネスをやらせたら嘘をついてスパムを送り$447失った",
   "ts": "2026-07-30T22:07:54.199767+00:00"
+ },
+ "We Rebuilt the Linux MicroVM Stack on Apple Silicon": {
+  "ja": "Apple SiliconでLinux MicroVMスタックを再構築した",
+  "ts": "2026-08-21T09:29:18.269900+00:00"
  },
  "We accidentally built an LLVM compiler for Jax": {
   "ja": "Jax向けのLLVMコンパイラを偶然開発した",
@@ -4341,7 +4389,7 @@
  },
  "Why aren't smart people happier? (2022)": {
   "ja": "なぜ頭の良い人はより幸せではないのか？（2022）",
-  "ts": "2026-08-21T03:44:00.212872+00:00"
+  "ts": "2026-08-21T09:29:13.809698+00:00"
  },
  "Why did we wait so long for the bicycle? (2019)": {
   "ja": "なぜ自転車の登場までそんなに待たなければならなかったのか？(2019)",
