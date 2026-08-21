@@ -151,6 +151,10 @@
   "ja": "冗談で購入したドメインが地政学的紛争に発展",
   "ts": "2026-08-20T09:26:16.350113+00:00"
  },
+ "A look under our trunk: what's in our compute": {
+  "ja": "トランクの中を見てみよう：私たちのコンピュートの内容",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
+ },
  "A missing underscore sent innocent man to prison for 18 months": {
   "ja": "アンダースコア記号の欠落により無実の男性が18ヶ月投獄",
   "ts": "2026-07-28T05:23:02.934777+00:00"
@@ -222,6 +226,10 @@
  "AI Mania: From Tulips to Tokens": {
   "ja": "AImania：チューリップからトークンへ",
   "ts": "2026-08-02T21:48:31.720714+00:00"
+ },
+ "AI boosted homework scores, then exam scores dropped: study": {
+  "ja": "AI支援は宿題の成績を上げたが、試験成績は低下：研究",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
  },
  "AI by Hand": {
   "ja": "手作りAI",
@@ -643,6 +651,10 @@
   "ja": "WALを破る",
   "ts": "2026-08-13T09:56:38.962821+00:00"
  },
+ "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders": {
+  "ja": "Claude Mythos 5のサイバーセキュリティ機能をより多くのディフェンダーへ提供",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
+ },
  "Britain's New World of Tobacco (2017)": {
   "ja": "英国の新しいタバコの世界（2017）",
   "ts": "2026-08-07T21:32:30.787829+00:00"
@@ -662,6 +674,10 @@
  "Building a local positioning system to track runners using Ultra-Wideband": {
   "ja": "Ultra-Wideband を使用してランナーを追跡するローカル測位システムの構築",
   "ts": "2026-08-09T09:32:00.990069+00:00"
+ },
+ "Building an (almost) fully self-hosted, sandboxed, agentic software factory": {
+  "ja": "ほぼ完全にセルフホスト、サンドボックス化された自動化ソフトウェアファクトリの構築",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
  },
  "Building an Advanced Agentic Harness": {
   "ja": "高度なエージェント環境の構築",
@@ -759,6 +775,10 @@
   "ja": "AI モデルを選ぶ：1つのプロンプト、11のモデル、異なる結果",
   "ts": "2026-08-13T21:37:39.844032+00:00"
  },
+ "Church of the TigerBeetle: A Look at Tech Evangelism": {
+  "ja": "Church of the TigerBeetle：テック伝道主義の考察",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
+ },
  "Clamiga: Common Lisp for the Amiga": {
   "ja": "Clamiga: AmigaのCommon Lisp",
   "ts": "2026-08-17T03:43:27.830828+00:00"
@@ -774,6 +794,10 @@
  "Claude: System Prompts": {
   "ja": "Claude: システムプロンプト",
   "ts": "2026-08-17T09:33:52.080132+00:00"
+ },
+ "Claudette: Make Claude stop talking like a BuzzFeed article": {
+  "ja": "Claudette：ClaudeがBuzzFeedの記事のようにしゃべるのをやめさせる",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
  },
  "Climbing Guide as a Shared Infrastructure": {
   "ja": "共有インフラとしてのClimbing Guide",
@@ -930,6 +954,10 @@
  "Decades-old fish sauce at abandoned factory in Canada finally being removed": {
   "ja": "カナダの放棄された工場の数十年前の魚醤がようやく撤去へ",
   "ts": "2026-08-04T05:41:58.523074+00:00"
+ },
+ "Decayfmt – a file format that corrupts itself a little every time you open it": {
+  "ja": "Decayfmt – 開くたびに少しずつ破損するファイル形式",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
  },
  "Decimen Optical Transfer: fountain-coded QR file transfer": {
   "ja": "Decimen Optical Transfer: fountain-codedなQRファイル転送",
@@ -1190,6 +1218,10 @@
  "Feature Request: Support AGENTS.md": {
   "ja": "Feature Request: AGENTS.mdサポートの実装",
   "ts": "2026-08-20T09:26:16.350144+00:00"
+ },
+ "Felony charges for citizen deleting phone data at US Border": {
+  "ja": "米国国境で電話データを削除した市民に重罪の起訴",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
  },
  "Finding zombies in our systems: A real-world story of CPU bottlenecks": {
   "ja": "システムのゾンビを発見：CPUボトルネックの実例",
@@ -1659,6 +1691,10 @@
   "ja": "沸騰したお湯で生き残る方法",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "How we made a text-to-speech model respond in sub-50 ms": {
+  "ja": "テキスト音声合成モデルを50ms以下の応答時間で実現する方法",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
+ },
  "How we used to get jobs: A newspaper classifieds story": {
   "ja": "かつての就職活動: 新聞の求人欄の話",
   "ts": "2026-08-12T04:42:38.097261+00:00"
@@ -1682,6 +1718,10 @@
  "Hunter-gatherers introduced fish to a mountain lake 7000 years ago": {
   "ja": "狩猟採集民が7000年前に山岳湖に魚を導入",
   "ts": "2026-07-29T21:54:08.013720+00:00"
+ },
+ "I accidentally logged hundreds of thousands of phone calls to military bases": {
+  "ja": "誤って数十万件の軍事基地への電話通話をログに記録してしまった",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
  },
  "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel": {
   "ja": "フルタイム執筆（と仮名性）から引退し、Guardian Angelを立ち上げる",
@@ -1711,6 +1751,10 @@
   "ja": "耳鳴りを味方にしたら消えた [動画]",
   "ts": "2026-08-10T10:11:18.427024+00:00"
  },
+ "I ran Photoshop on a £0.60 computer chip": {
+  "ja": "£0.60のコンピュータチップでPhotoshopを実行した",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
+ },
  "I should have loved biology (2020)": {
   "ja": "生物学を愛すべきだった（2020）",
   "ts": "2026-08-21T09:29:13.809694+00:00"
@@ -1730,6 +1774,10 @@
  "I'll be stepping back from leading product for X": {
   "ja": "Xの製品リーダーシップから身を引く",
   "ts": "2026-08-06T05:41:30.536041+00:00"
+ },
+ "I'm becoming AI-blind": {
+  "ja": "AI盲目になりつつある",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
  },
  "I'm switching my phone from Android to Linux": {
   "ja": "スマートフォンをAndroidからLinuxに乗り換える",
@@ -1883,6 +1931,10 @@
   "ja": "ゲームがディスクにあるからといって、将来的に動作するとは限らない",
   "ts": "2026-08-01T21:47:42.064746+00:00"
  },
+ "Kagi added a setting for removing paywalled links from search results": {
+  "ja": "Kagiが検索結果からペイウォール付きリンクを削除する設定を追加",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
+ },
  "Kaisel – Routes as Values. Dart 3 Native Router for Flutter": {
   "ja": "Kaisel – ルーズ・アズ・バリューズ。Dart 3ネイティブルータ・フォー・Flutter",
   "ts": "2026-08-01T21:47:42.064746+00:00"
@@ -1935,9 +1987,17 @@
   "ja": "Kitesurf：V8 isolatesで動作するエージェント優先ブラウザ",
   "ts": "2026-08-08T09:30:29.480440+00:00"
  },
+ "Kobo can run apps now": {
+  "ja": "Koboでアプリが実行できるようになった",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
+ },
  "Kobuk the Destroyer – Tales from the Wild, Unseen World of Test Engineering": {
   "ja": "Kobuk the Destroyer – テストエンジニアリングの野生で未知の世界から",
   "ts": "2026-08-02T05:49:41.204416+00:00"
+ },
+ "Kodak's \"pre-invented\" lunar orbiter camera; or, the fate of SAMOS readout": {
+  "ja": "Kodakの「事前に発明された」月周回軌道カメラ；またはSAMOSリードアウトの運命",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
  },
  "Kubernetes on Oxide: How customer needs shaped our integrations": {
   "ja": "Oxide 上の Kubernetes：顧客のニーズがどう統合を形作ったか",
@@ -2415,6 +2475,10 @@
   "ja": "ニューオーリンズ、Carbyneの AI搭載緊急通報トリアージソフトウェアをテスト中",
   "ts": "2026-08-07T09:54:33.877044+00:00"
  },
+ "New Worlds: We are living in the future of J.G. Ballard or William Gibson": {
+  "ja": "New Worlds：J.G.バラードまたはウィリアム・ギブスンの未来に生きている",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
+ },
  "New Zealand lost its music media, and what we're building to replace it": {
   "ja": "ニュージーランドが失った音楽メディア、そして我々が構築する代替物",
   "ts": "2026-08-10T10:11:18.427028+00:00"
@@ -2739,6 +2803,14 @@
   "ja": "Quantego: IBM Quantum Computersのレゴモデルファミリー",
   "ts": "2026-08-06T11:14:18.091462+00:00"
  },
+ "Quantifying the honey bee dance floor": {
+  "ja": "ミツバチのダンスフロアを定量化する",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
+ },
+ "Quick impressions: A week of using Codex more than Claude": {
+  "ja": "所感：ClaudeよりもCodexをよく使った1週間",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
+ },
  "Qwen 3.8 27B is excellent, but it defaults to overthinking things": {
   "ja": "Qwen 3.8 27Bは優秀だが、過度に思考する傾向がある",
   "ts": "2026-08-17T09:33:52.080152+00:00"
@@ -2987,6 +3059,10 @@
   "ja": "科学者が太陽の表面でKelvin-Helmholtz不安定性を発見",
   "ts": "2026-08-07T09:54:29.419397+00:00"
  },
+ "Scientists release biggest 2D map of the universe": {
+  "ja": "科学者が宇宙の最大規模の2Dマップを公開",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
+ },
  "Scientists stunned by children's lung recovery in ultra low emission zone": {
   "ja": "科学者が驚愕：超低排出ゾーンでの子どもたちの肺回復",
   "ts": "2026-08-19T09:26:08.295086+00:00"
@@ -3062,6 +3138,10 @@
  "Show HN: A website for exploring historical photographs of my city": {
   "ja": "Show HN: 自分の街の歴史的写真を探索するウェブサイト",
   "ts": "2026-08-15T09:19:20.934747+00:00"
+ },
+ "Show HN: AgentSight – eBPF observability for AI agents, no code changes": {
+  "ja": "Show HN: AgentSight – AIエージェント向けeBPF可観測性、コード変更なし",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
  },
  "Show HN: Ante, a coding agent in a single binary that runs offline": {
   "ja": "Show HN: Ante、単一バイナリで動作するオフラインコーディングエージェント",
@@ -3258,6 +3338,10 @@
  "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours": {
   "ja": "Show HN: Shitty – 高速ターミナル。メモリアンセーフでお前のより高速",
   "ts": "2026-08-03T06:14:03.792442+00:00"
+ },
+ "Show HN: Shoehorn – Quantize any model down to run on your machine": {
+  "ja": "Show HN: Shoehorn – 任意のモデルを量子化してマシンで実行",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
  },
  "Show HN: Silent Shark – tactical map-based WWII submarine sim": {
   "ja": "Show HN: Silent Shark – 戦術的マップベースのWWII潜水艦シミュレーター",
@@ -3827,6 +3911,10 @@
   "ja": "C言語代替案への異議（2022）",
   "ts": "2026-08-21T09:29:18.269900+00:00"
  },
+ "The coolest anti-surveillance tools at Defcon [video]": {
+  "ja": "Defconで最もクールな監視対策ツール [動画]",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
+ },
  "The coolest use for the Vision Pro": {
   "ja": "Vision Proの最高の使用方法",
   "ts": "2026-07-30T11:01:01.391665+00:00"
@@ -3906,6 +3994,10 @@
  "The punched card tabulator": {
   "ja": "パンチカードタビュレータ",
   "ts": "2026-08-13T09:56:41.752921+00:00"
+ },
+ "The road to ACID transactions in Cassandra 6": {
+  "ja": "Cassandra 6におけるACIDトランザクションへの道",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
  },
  "The sale of Electronic Arts has been finalized": {
   "ja": "Electronic Artsの売却が完了",
@@ -4047,6 +4139,10 @@
   "ja": "真実は方向ではない：LLMプローブへのTarskiアタック",
   "ts": "2026-07-29T05:44:50.795006+00:00"
  },
+ "Tumble Forth – from assembly to OS with C compiler": {
+  "ja": "Tumble Forth – アセンブリからCコンパイラでOSへ",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
+ },
  "Turbo Pascal on CP/M, MSX-DOS and MS-DOS": {
   "ja": "CP/M、MSX-DOS、MS-DOS上のTurbo Pascal",
   "ts": "2026-08-15T09:19:20.934747+00:00"
@@ -4166,6 +4262,10 @@
  "Using GCC's Nested Functions with Wide Pointers and No Trampolines II": {
   "ja": "GCCのネストされた関数をワイドポインタとトランポリンなしで使う II",
   "ts": "2026-08-15T21:14:07.444034+00:00"
+ },
+ "Using an old Android phone as a music player": {
+  "ja": "古いAndroidスマートフォンを音楽プレーヤーとして使用する",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
  },
  "Using an open model feels surprisingly good": {
   "ja": "オープンモデルの使用は意外と良い",
@@ -4298,6 +4398,10 @@
  "What happens if you put work into the second dimension?": {
   "ja": "2次元に仕事を投じたらどうなるか",
   "ts": "2026-08-05T22:07:29.867079+00:00"
+ },
+ "What happens when a GPU reads memory": {
+  "ja": "GPUがメモリを読み取るときに何が起こるか",
+  "ts": "2026-08-21T21:16:55.018603+00:00"
  },
  "What happens when an LLM never sees material beyond fifth grade?": {
   "ja": "LLMが5年生レベル以上の教材を見たことがない場合に起こること",
