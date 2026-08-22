@@ -153,7 +153,7 @@
  },
  "A look under our trunk: what's in our compute": {
   "ja": "トランクの中を見てみよう：私たちのコンピュートの内容",
-  "ts": "2026-08-21T21:16:55.018603+00:00"
+  "ts": "2026-08-22T03:36:06.497701+00:00"
  },
  "A missing underscore sent innocent man to prison for 18 months": {
   "ja": "アンダースコア記号の欠落により無実の男性が18ヶ月投獄",
@@ -229,7 +229,7 @@
  },
  "AI boosted homework scores, then exam scores dropped: study": {
   "ja": "AI支援は宿題の成績を上げたが、試験成績は低下：研究",
-  "ts": "2026-08-21T21:16:55.018603+00:00"
+  "ts": "2026-08-22T03:36:06.497690+00:00"
  },
  "AI by Hand": {
   "ja": "手作りAI",
@@ -567,6 +567,10 @@
   "ja": "codexによる自動研究：232倍高速なカーネルを実現した方法",
   "ts": "2026-08-15T21:14:07.444034+00:00"
  },
+ "Autolith: A programming agent with a live runtime": {
+  "ja": "Autolith: ライブランタイムを備えたプログラミングエージェント",
+  "ts": "2026-08-22T03:36:12.496312+00:00"
+ },
  "Autoregressive Language Model on the 6502 Processor": {
   "ja": "6502プロセッサ上の自己回帰言語モデル",
   "ts": "2026-08-03T12:15:41.058720+00:00"
@@ -797,7 +801,7 @@
  },
  "Claudette: Make Claude stop talking like a BuzzFeed article": {
   "ja": "Claudette：ClaudeがBuzzFeedの記事のようにしゃべるのをやめさせる",
-  "ts": "2026-08-21T21:16:55.018603+00:00"
+  "ts": "2026-08-22T03:36:06.497692+00:00"
  },
  "Climbing Guide as a Shared Infrastructure": {
   "ja": "共有インフラとしてのClimbing Guide",
@@ -853,7 +857,7 @@
  },
  "Conway's Game of Life, in real life": {
   "ja": "現実のConwayのGame of Life",
-  "ts": "2026-08-21T09:29:13.809710+00:00"
+  "ts": "2026-08-22T03:36:06.497708+00:00"
  },
  "Copyright does not protect AI-generated content in EU": {
   "ja": "EUではAI生成コンテンツは著作権保護の対象外",
@@ -1103,6 +1107,10 @@
   "ja": "EYG: 人間のためのプログラミング言語",
   "ts": "2026-07-28T11:10:58.283738+00:00"
  },
+ "Early-life stress leaves a 'scar' inside brain cells in mice": {
+  "ja": "早期ストレスはマウスの脳細胞内に「傷跡」を残す",
+  "ts": "2026-08-22T03:36:12.496312+00:00"
+ },
  "Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun": {
   "ja": "Eclipse: Xiaomi 17 Ultra が月と太陽を混同",
   "ts": "2026-08-14T09:53:35.336861+00:00"
@@ -1150,6 +1158,10 @@
  "Everyone is building LLM routers, we deprecated ours": {
   "ja": "みんな LLM ルーターを構築している、我々は廃止した",
   "ts": "2026-07-31T21:59:31.804562+00:00"
+ },
+ "Everyone says assembly is untyped—everyone is wrong": {
+  "ja": "みんなアセンブリは型なしと言う―それは間違っている",
+  "ts": "2026-08-22T03:36:12.496312+00:00"
  },
  "Everything you do is being recorded": {
   "ja": "あなたのすべての行動は記録されている",
@@ -1221,7 +1233,7 @@
  },
  "Felony charges for citizen deleting phone data at US Border": {
   "ja": "米国国境で電話データを削除した市民に重罪の起訴",
-  "ts": "2026-08-21T21:16:55.018603+00:00"
+  "ts": "2026-08-22T03:36:06.497680+00:00"
  },
  "Finding zombies in our systems: A real-world story of CPU bottlenecks": {
   "ja": "システムのゾンビを発見：CPUボトルネックの実例",
@@ -1393,7 +1405,7 @@
  },
  "GitHub, autoscaling, and the component substitution fallacy": {
   "ja": "GitHub、オートスケーリング、およびコンポーネント置換フォールシー",
-  "ts": "2026-08-20T21:21:15.978096+00:00"
+  "ts": "2026-08-22T03:36:06.497704+00:00"
  },
  "Glaciers on the Climate Dashboard": {
   "ja": "気候ダッシュボード上の氷河",
@@ -1478,6 +1490,10 @@
  "H3-metal – Native MiniMax-H3 inference for Apple Silicon": {
   "ja": "H3-metal – Apple Silicon向けネイティブMiniMax-H3推論",
   "ts": "2026-08-11T21:38:39.897799+00:00"
+ },
+ "HN: The Good Parts (2016)": {
+  "ja": "HN: The Good Parts（2016）",
+  "ts": "2026-08-22T03:36:12.496312+00:00"
  },
  "HTML Can Do That": {
   "ja": "HTML にできること",
@@ -1677,7 +1693,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-21T09:29:13.809708+00:00"
+  "ts": "2026-08-22T03:36:06.497707+00:00"
  },
  "How to put 170 atoms in an atom": {
   "ja": "170 個の原子を 1 つの原子に詰め込む方法",
@@ -1693,7 +1709,7 @@
  },
  "How we made a text-to-speech model respond in sub-50 ms": {
   "ja": "テキスト音声合成モデルを50ms以下の応答時間で実現する方法",
-  "ts": "2026-08-21T21:16:55.018603+00:00"
+  "ts": "2026-08-22T03:36:06.497699+00:00"
  },
  "How we used to get jobs: A newspaper classifieds story": {
   "ja": "かつての就職活動: 新聞の求人欄の話",
@@ -1721,7 +1737,7 @@
  },
  "I accidentally logged hundreds of thousands of phone calls to military bases": {
   "ja": "誤って数十万件の軍事基地への電話通話をログに記録してしまった",
-  "ts": "2026-08-21T21:16:55.018603+00:00"
+  "ts": "2026-08-22T03:36:06.497684+00:00"
  },
  "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel": {
   "ja": "フルタイム執筆（と仮名性）から引退し、Guardian Angelを立ち上げる",
@@ -1753,7 +1769,7 @@
  },
  "I ran Photoshop on a £0.60 computer chip": {
   "ja": "£0.60のコンピュータチップでPhotoshopを実行した",
-  "ts": "2026-08-21T21:16:55.018603+00:00"
+  "ts": "2026-08-22T03:36:06.497697+00:00"
  },
  "I should have loved biology (2020)": {
   "ja": "生物学を愛すべきだった（2020）",
@@ -1777,7 +1793,7 @@
  },
  "I'm becoming AI-blind": {
   "ja": "AI盲目になりつつある",
-  "ts": "2026-08-21T21:16:55.018603+00:00"
+  "ts": "2026-08-22T03:36:06.497688+00:00"
  },
  "I'm switching my phone from Android to Linux": {
   "ja": "スマートフォンをAndroidからLinuxに乗り換える",
@@ -1846,6 +1862,10 @@
  "India has paved the way for charging merchants a fee on UPI transactions": {
   "ja": "インドが UPI 取引の加盟店手数料制度を確立",
   "ts": "2026-08-18T09:25:08.540849+00:00"
+ },
+ "Initial focus for our partnership with Motorola is a regular non-folding device": {
+  "ja": "Motorolaとのパートナーシップの初期フォーカスは通常の非折りたたみデバイス",
+  "ts": "2026-08-22T03:36:12.496312+00:00"
  },
  "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)": {
   "ja": "vLLMの内部：高スループットLLM推論システムの解剖学 (2025)",
@@ -1933,7 +1953,7 @@
  },
  "Kagi added a setting for removing paywalled links from search results": {
   "ja": "Kagiが検索結果からペイウォール付きリンクを削除する設定を追加",
-  "ts": "2026-08-21T21:16:55.018603+00:00"
+  "ts": "2026-08-22T03:36:06.497663+00:00"
  },
  "Kaisel – Routes as Values. Dart 3 Native Router for Flutter": {
   "ja": "Kaisel – ルーズ・アズ・バリューズ。Dart 3ネイティブルータ・フォー・Flutter",
@@ -1989,7 +2009,7 @@
  },
  "Kobo can run apps now": {
   "ja": "Koboでアプリが実行できるようになった",
-  "ts": "2026-08-21T21:16:55.018603+00:00"
+  "ts": "2026-08-22T03:36:06.497686+00:00"
  },
  "Kobuk the Destroyer – Tales from the Wild, Unseen World of Test Engineering": {
   "ja": "Kobuk the Destroyer – テストエンジニアリングの野生で未知の世界から",
@@ -2477,7 +2497,7 @@
  },
  "New Worlds: We are living in the future of J.G. Ballard or William Gibson": {
   "ja": "New Worlds：J.G.バラードまたはウィリアム・ギブスンの未来に生きている",
-  "ts": "2026-08-21T21:16:55.018603+00:00"
+  "ts": "2026-08-22T03:36:06.497694+00:00"
  },
  "New Zealand lost its music media, and what we're building to replace it": {
   "ja": "ニュージーランドが失った音楽メディア、そして我々が構築する代替物",
@@ -2538,6 +2558,10 @@
  "Nyctography: A substituton cypher by Lewis Carroll": {
   "ja": "Nyctography：ルイス・キャロルの置換暗号",
   "ts": "2026-08-02T10:28:27.316273+00:00"
+ },
+ "OTel isn't going well (and I made a spreadsheet about it)": {
+  "ja": "OTelが上手くいっていない（スプレッドシート作った）",
+  "ts": "2026-08-22T03:36:12.496312+00:00"
  },
  "Octane – React's programming model, compiled": {
   "ja": "Octane – Reactのプログラミングモデルをコンパイル",
@@ -2615,6 +2639,10 @@
   "ja": "Oxide Computer が 4億4,500万ドル調達 (SEC Form D)",
   "ts": "2026-08-04T22:06:22.622257+00:00"
  },
+ "Ozone: The fault is not in our trees, but in ourselves": {
+  "ja": "Ozone: 過ちは木にあらず、われらにあり",
+  "ts": "2026-08-22T03:36:12.496312+00:00"
+ },
  "PISIGuard: Protect your personal and sensitive info when you chat with AI": {
   "ja": "PISIGuard: AIとのチャットで個人情報と機密情報を保護",
   "ts": "2026-08-03T12:15:46.460959+00:00"
@@ -2642,6 +2670,10 @@
  "Patterns and problems in emerging multi-agent systems": {
   "ja": "マルチエージェントシステムの新興パターンと課題",
   "ts": "2026-08-16T09:20:47.350042+00:00"
+ },
+ "People of ACM – Russ Cox": {
+  "ja": "ACMの人々 – Russ Cox",
+  "ts": "2026-08-22T03:36:12.496312+00:00"
  },
  "People who grew up with high economic connectedness earn more": {
   "ja": "経済的接続性が高い環境で育った人々がより多く稼ぐ",
@@ -3011,6 +3043,10 @@
   "ja": "MI355XでKimi K3を実行。B300より優れたコスト当たり性能",
   "ts": "2026-08-02T10:28:27.316266+00:00"
  },
+ "Rust Glancer: Rust LSP using 100x less RAM": {
+  "ja": "Rust Glancer: RAMを100分の1削減したRust LSP",
+  "ts": "2026-08-22T03:36:12.496312+00:00"
+ },
  "Rust SIMD on the GPU": {
   "ja": "GPU上のRust SIMD",
   "ts": "2026-08-11T09:54:16.672468+00:00"
@@ -3061,7 +3097,7 @@
  },
  "Scientists release biggest 2D map of the universe": {
   "ja": "科学者が宇宙の最大規模の2Dマップを公開",
-  "ts": "2026-08-21T21:16:55.018603+00:00"
+  "ts": "2026-08-22T03:36:06.497695+00:00"
  },
  "Scientists stunned by children's lung recovery in ultra low emission zone": {
   "ja": "科学者が驚愕：超低排出ゾーンでの子どもたちの肺回復",
@@ -3315,6 +3351,10 @@
   "ja": "Show HN: Fable品質のモデルを半分のコストで最適化して提供",
   "ts": "2026-07-30T22:07:54.199767+00:00"
  },
+ "Show HN: OzBrain, a shared brain for knowledge between agents and your team": {
+  "ja": "Show HN: OzBrain、エージェントとチーム間の知識共有脳",
+  "ts": "2026-08-22T03:36:12.496312+00:00"
+ },
  "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2": {
   "ja": "Show HN: Pokémon EmeraldがRaspberry Pi Pico 2に移植",
   "ts": "2026-08-07T01:00:14.602517+00:00"
@@ -3322,6 +3362,10 @@
  "Show HN: Product analytics (and evals) for agent sessions on your MCP": {
   "ja": "Show HN: あなたの MCP 上のエージェントセッション向けプロダクト分析（およびevals）",
   "ts": "2026-08-03T22:01:24.604148+00:00"
+ },
+ "Show HN: Rex, a parallel functional language for scientific workflows": {
+  "ja": "Show HN: Rex、科学ワークフロー向けの並列関数型言語",
+  "ts": "2026-08-22T03:36:12.496312+00:00"
  },
  "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone": {
   "ja": "Show HN: 80B Qwenを4.3GBのRAMでMacで実行、35BをiPhoneで実行",
@@ -4051,6 +4095,10 @@
   "ja": "やがて雨は静かに降りて来るだろう（1950年）[pdf]",
   "ts": "2026-08-05T11:14:05.015358+00:00"
  },
+ "There's no reason for software to be slow anymore": {
+  "ja": "ソフトウェアが遅い理由はもはや存在しない",
+  "ts": "2026-08-22T03:36:12.496312+00:00"
+ },
  "There's no such thing as a small software team anymore": {
   "ja": "小さなソフトウェアチームはもう存在しない",
   "ts": "2026-08-21T03:44:03.912448+00:00"
@@ -4070,6 +4118,10 @@
  "Three Theses on the Literacy Crisis": {
   "ja": "識字危機に関する3つのテーゼ",
   "ts": "2026-07-28T05:23:02.934777+00:00"
+ },
+ "Three important steps in my maturation process": {
+  "ja": "私の成熟過程における3つの重要なステップ",
+  "ts": "2026-08-22T03:36:12.496312+00:00"
  },
  "Thunderbird's Desktop Calendar Visual Redesign": {
   "ja": "Thunderbirdデスクトップカレンダーのビジュアルリデザイン",
@@ -4142,6 +4194,10 @@
  "Tumble Forth – from assembly to OS with C compiler": {
   "ja": "Tumble Forth – アセンブリからCコンパイラでOSへ",
   "ts": "2026-08-21T21:16:55.018603+00:00"
+ },
+ "Tumble Forth – from assembly to OS with C compiler (2023)": {
+  "ja": "Tumble Forth – アセンブリからOSへ、Cコンパイラで（2023）",
+  "ts": "2026-08-22T03:36:12.496312+00:00"
  },
  "Turbo Pascal on CP/M, MSX-DOS and MS-DOS": {
   "ja": "CP/M、MSX-DOS、MS-DOS上のTurbo Pascal",
