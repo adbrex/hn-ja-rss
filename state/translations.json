@@ -83,6 +83,10 @@
   "ja": "消える職業: 最後の納棺師たち",
   "ts": "2026-07-28T11:10:58.283745+00:00"
  },
+ "A Friendly Introduction to Racket": {
+  "ja": "Racket への親切な入門",
+  "ts": "2026-08-22T21:14:43.190124+00:00"
+ },
  "A GTK4 SSH-askpass in Zig": {
   "ja": "Zig で書かれた GTK4 SSH-askpass",
   "ts": "2026-07-31T21:59:31.804562+00:00"
@@ -311,6 +315,10 @@
   "ja": "分散システムエンジニア向けATProto",
   "ts": "2026-08-10T10:11:18.427035+00:00"
  },
+ "ATProto spaces: A new extension to ATProto that enables non-public data": {
+  "ja": "ATProto spaces: 非公開データを可能にする ATProto の新しい拡張",
+  "ts": "2026-08-22T21:14:43.190124+00:00"
+ },
  "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence": {
   "ja": "Aaron Swartz はスクレイピングで起訴されたが、Meta は影響を受けない",
   "ts": "2026-08-21T03:44:00.212820+00:00"
@@ -434,6 +442,10 @@
  "Anthropeum – Where in the world, and when, does this human artifact belong?": {
   "ja": "Anthropeum－この人工遺物は世界のどこに、いつ属するのか？",
   "ts": "2026-07-28T21:57:37.461952+00:00"
+ },
+ "Anthropic appears to be A/B testing reduced effort levels in Claude Code": {
+  "ja": "Anthropic が Claude Code の努力レベル削減を A/B テスト中か",
+  "ts": "2026-08-22T21:14:43.190124+00:00"
  },
  "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing": {
   "ja": "AnthropicのClaudeにおける「ウォーターマーク」テキスト改ざんは執筆の歪曲である",
@@ -619,6 +631,10 @@
   "ja": "野心的であることと父親であること",
   "ts": "2026-08-19T09:26:08.295074+00:00"
  },
+ "Belgian car salesman becomes prince after DNA test proves royal parentage": {
+  "ja": "ベルギーの自動車営業が DNA 検査で王族の血統が判明し王子に",
+  "ts": "2026-08-22T21:14:43.190124+00:00"
+ },
  "Benchmarking Opus 5 on SlopCodeBench": {
   "ja": "SlopCodeBenchでOpus 5をベンチマーク",
   "ts": "2026-07-28T11:10:58.283713+00:00"
@@ -741,7 +757,7 @@
  },
  "Canada will match US tariffs 'dollar for dollar' as trade talks break down": {
   "ja": "カナダが米国の関税に「ドル・フォー・ドル」で対抗、貿易交渉が決裂",
-  "ts": "2026-08-22T09:20:09.304553+00:00"
+  "ts": "2026-08-22T21:14:34.836061+00:00"
  },
  "Captain Bible Reverse Engineering": {
   "ja": "Captain Bible リバースエンジニアリング",
@@ -1139,6 +1155,10 @@
   "ja": "エレベーター",
   "ts": "2026-08-01T10:29:11.166381+00:00"
  },
+ "ElevenLabs, TwelveLabs, ThirteenLabs": {
+  "ja": "ElevenLabs、TwelveLabs、ThirteenLabs",
+  "ts": "2026-08-22T21:14:43.190124+00:00"
+ },
  "Emacs 31.1 will release on 8/24": {
   "ja": "Emacs 31.1は8/24にリリース予定",
   "ts": "2026-08-21T09:29:18.269900+00:00"
@@ -1495,6 +1515,10 @@
   "ja": "OCaml の Guarded Methods (2025)",
   "ts": "2026-08-08T09:30:29.480452+00:00"
  },
+ "Guess which of these LLM outputs is watermarked": {
+  "ja": "これらの LLM 出力のどれに透かしが入っているか当ててみよう",
+  "ts": "2026-08-22T21:14:43.190124+00:00"
+ },
  "Guiding Ships with Moire Patterns": {
   "ja": "モアレパターンで船舶を導く",
   "ts": "2026-08-16T09:20:47.350042+00:00"
@@ -1579,6 +1603,10 @@
   "ja": "高解像度写真がMarsの多角形平原から突き出た砂冠された台地を捉える",
   "ts": "2026-08-12T21:38:21.279248+00:00"
  },
+ "Hister – A private, full content search index that you control": {
+  "ja": "Hister – あなたが管理する私的でフルコンテンツ検索インデックス",
+  "ts": "2026-08-22T21:14:43.190124+00:00"
+ },
  "Hooray for the Sockets Interface": {
   "ja": "Socketsインターフェースで万歳",
   "ts": "2026-07-29T11:17:33.572914+00:00"
@@ -1643,6 +1671,10 @@
   "ja": "CDCをPostgresに移行させた方法",
   "ts": "2026-08-10T10:11:18.427030+00:00"
  },
+ "How a Texas student blew the whistle on a rogue AI hacking attempt": {
+  "ja": "テキサスの学生が不正な AI ハッキング試行の告発者に",
+  "ts": "2026-08-22T21:14:43.190124+00:00"
+ },
  "How a device finds encrypted DNS by itself": {
   "ja": "デバイスが暗号化 DNS を自分で見つける方法",
   "ts": "2026-08-14T04:43:45.817740+00:00"
@@ -1705,7 +1737,7 @@
  },
  "How to organize 3 acquired companies into one coherent website": {
   "ja": "3社の買収企業を1つの統一されたウェブサイトに組織する方法",
-  "ts": "2026-08-22T03:36:06.497707+00:00"
+  "ts": "2026-08-22T21:14:34.836083+00:00"
  },
  "How to put 170 atoms in an atom": {
   "ja": "170 個の原子を 1 つの原子に詰め込む方法",
@@ -2018,6 +2050,10 @@
  "Kitesurf: Agent-first browser that runs in V8 isolates": {
   "ja": "Kitesurf：V8 isolatesで動作するエージェント優先ブラウザ",
   "ts": "2026-08-08T09:30:29.480440+00:00"
+ },
+ "Knowing When to Stop: The Art of Making a Loop Converge": {
+  "ja": "停止時期を知る: ループを収束させる技術",
+  "ts": "2026-08-22T21:14:43.190124+00:00"
  },
  "Kobo can run apps now": {
   "ja": "Koboでアプリが実行できるようになった",
@@ -2359,6 +2395,10 @@
   "ja": "ComfyUI での MiniMax H3 Day-0 サポート：オープンウェイト、ネイティブオーディオ、2K ビデオ",
   "ts": "2026-08-04T11:17:46.859454+00:00"
  },
+ "MiniageOS: \"Dumbphone\" Version of LineageOS": {
+  "ja": "MiniageOS: LineageOS の「ダムフォン」バージョン",
+  "ts": "2026-08-22T21:14:43.190124+00:00"
+ },
  "Mistral Patent for “Code implemented tool calls”": {
   "ja": "Mistral「コード実装ツール呼び出し」特許",
   "ts": "2026-08-10T21:34:46.290115+00:00"
@@ -2407,6 +2447,10 @@
   "ja": "Waylandでの複数のマウスカーソル",
   "ts": "2026-07-29T05:44:50.795006+00:00"
  },
+ "Munder Difflin – Agent harness to run an office of your clones": {
+  "ja": "Munder Difflin – あなたのクローンのオフィスを運営するエージェントハーネス",
+  "ts": "2026-08-22T21:14:43.190124+00:00"
+ },
  "Muse Code and Muse Spark 1.2": {
   "ja": "Muse CodeとMuse Spark 1.2",
   "ts": "2026-08-06T11:14:18.091440+00:00"
@@ -2442,6 +2486,10 @@
  "Mykhailo Fedorov reveals struggle to secure Patriot missiles and Western support": {
   "ja": "ミハイロ・フェドロフが愛国者ミサイルと西側支援確保の苦闘を明かす",
   "ts": "2026-08-07T21:32:30.787829+00:00"
+ },
+ "Mythic's analog compute-in-memory architecture": {
+  "ja": "Mythic のアナログ compute-in-memory アーキテクチャ",
+  "ts": "2026-08-22T21:14:43.190124+00:00"
  },
  "Möbius Strips and Differential Equations": {
   "ja": "メビウスの帯と微分方程式",
@@ -2479,6 +2527,10 @@
   "ja": "ナッシュビル、動物園近くのデータセンターを阻止するため収用権を行使",
   "ts": "2026-08-06T11:14:18.091444+00:00"
  },
+ "NetBSD and My Life (2005)": {
+  "ja": "NetBSD と私の人生（2005）",
+  "ts": "2026-08-22T21:14:43.190124+00:00"
+ },
  "Netflix employee fired for sharing personal details in retreat trust exercise": {
   "ja": "Netflix従業員、リトリートの信頼醸成演習で個人情報を共有したため解雇",
   "ts": "2026-07-28T05:23:02.934777+00:00"
@@ -2498,6 +2550,10 @@
  "New Lower and Upper Bounds for the Grothendieck Constant": {
   "ja": "Grothendieck定数の新しい上限と下限",
   "ts": "2026-08-15T03:32:38.563744+00:00"
+ },
+ "New MCP Roadmap": {
+  "ja": "新しい MCP ロードマップ",
+  "ts": "2026-08-22T21:14:43.190124+00:00"
  },
  "New Mexico court orders Meta to pay $567m over harms to children’s mental health": {
   "ja": "ニューメキシコ州の裁判所、Metaに子どもの心身に与えた害について567百万ドルの支払いを命じる",
@@ -2590,6 +2646,10 @@
  "On AI regulation and messaging": {
   "ja": "AI 規制とメッセージングについて",
   "ts": "2026-08-17T21:19:26.004223+00:00"
+ },
+ "One night in Uzbekistan: Why was this one data point so influential?": {
+  "ja": "ウズベキスタンでの一夜: このデータポイントはなぜそんなに影響力があったのか",
+  "ts": "2026-08-22T21:14:43.190124+00:00"
  },
  "Online Friends Are Real Friends": {
   "ja": "オンラインの友人は本当の友人である",
@@ -2794,6 +2854,10 @@
  "Program with Paint Brushes, Not Pencils": {
   "ja": "鉛筆ではなく絵の具ブラシでプログラミング",
   "ts": "2026-08-16T09:20:47.350042+00:00"
+ },
+ "ProgramBench Vetted: Reverse Engineering from a Runnable Binary": {
+  "ja": "ProgramBench Vetted: 実行可能なバイナリからのリバースエンジニアリング",
+  "ts": "2026-08-22T21:14:43.190124+00:00"
  },
  "Programming Languages Are Authoring Tools for Platforms": {
   "ja": "プログラミング言語はプラットフォームのためのオーサリングツール",
@@ -3065,7 +3129,7 @@
  },
  "Rust Glancer: Rust LSP using 100x less RAM": {
   "ja": "Rust Glancer: RAMを100分の1削減したRust LSP",
-  "ts": "2026-08-22T09:20:06.430135+00:00"
+  "ts": "2026-08-22T21:14:34.836043+00:00"
  },
  "Rust SIMD on the GPU": {
   "ja": "GPU上のRust SIMD",
@@ -3327,6 +3391,10 @@
   "ja": "Show HN: Framework 12をきしむドアのような音にする",
   "ts": "2026-08-03T06:13:57.452085+00:00"
  },
+ "Show HN: Make your logo extra bright on HDR screens": {
+  "ja": "Show HN: HDR スクリーン上でロゴを特に明るくする",
+  "ts": "2026-08-22T21:14:43.190124+00:00"
+ },
  "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone": {
   "ja": "Show HN: Maple-Preview – iPhone上でTernary 20B MoEを120 tok/sで実行",
   "ts": "2026-08-05T11:14:07.867001+00:00"
@@ -3482,6 +3550,10 @@
  "Show HN: macOS data protection keychain for Electron apps": {
   "ja": "Show HN: Electronアプリ向けmacOSデータ保護キーチェーン",
   "ts": "2026-08-18T21:17:03.075553+00:00"
+ },
+ "Show HN: terminal-code – VS Code inside the terminal": {
+  "ja": "Show HN: terminal-code – ターミナル内の VS Code",
+  "ts": "2026-08-22T21:14:43.190124+00:00"
  },
  "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS": {
   "ja": "Show HN: textlog – 静かなテキストのみのマイクロブログプラットフォーム、オープンソース、JavaScript不要",
@@ -3810,6 +3882,10 @@
  "The Computational Theory of Mind (2015)": {
   "ja": "心の計算論 (2015)",
   "ts": "2026-08-03T06:14:03.792442+00:00"
+ },
+ "The Creation of Abulafia": {
+  "ja": "Abulafia の創造",
+  "ts": "2026-08-22T21:14:43.190124+00:00"
  },
  "The Difference Between a Button and a Link": {
   "ja": "ボタンとリンクの違い",
@@ -4595,6 +4671,10 @@
   "ja": "なぜ全部がカーネルの中にあるのか",
   "ts": "2026-08-05T11:14:07.867001+00:00"
  },
+ "Why it might be time to rethink the human family tree": {
+  "ja": "人間の家系図を再考すべき時かもしれない",
+  "ts": "2026-08-22T21:14:43.190124+00:00"
+ },
  "Why some people mow a lawn better than others": {
   "ja": "なぜ芝刈りが得意な人と苦手な人がいるのか",
   "ts": "2026-08-04T22:06:22.622257+00:00"
@@ -4614,6 +4694,10 @@
  "Why we write our own C and C++ inference engines": {
   "ja": "独自のCとC++推論エンジンを書く理由",
   "ts": "2026-08-03T12:15:41.058723+00:00"
+ },
+ "Why your local LLM feels dumber than it is": {
+  "ja": "ローカル LLM が本来より馬鹿に感じる理由",
+  "ts": "2026-08-22T21:14:43.190124+00:00"
  },
  "Will you have spent more of your life with computers than your family?": {
   "ja": "あなたはコンピュータと家族のどちらと過ごす人生が長いか",
@@ -4671,6 +4755,10 @@
   "ja": "Reactは不要：Vanilla JavaScriptで最小限のUIライブラリを作る",
   "ts": "2026-08-04T11:17:50.507258+00:00"
  },
+ "Z80 – The 1970s Microprocessor Still Alive (2021)": {
+  "ja": "Z80 – 1970 年代のマイクロプロセッサがまだ生きている（2021）",
+  "ts": "2026-08-22T21:14:43.190124+00:00"
+ },
  "ZX Spectrum System Tour: Sound": {
   "ja": "ZX Spectrum システムツアー：サウンド",
   "ts": "2026-08-03T22:01:24.604148+00:00"
@@ -4714,6 +4802,10 @@
  "fx :Tiny, open, native coding agent.": {
   "ja": "fx：シンプルでオープンなネイティブコーディングエージェント",
   "ts": "2026-08-20T09:26:16.350142+00:00"
+ },
+ "hdiutil is deprecated in macOS 27 Golden Gate": {
+  "ja": "hdiutil は macOS 27 Golden Gate で非推奨に",
+  "ts": "2026-08-22T21:14:43.190124+00:00"
  },
  "k-Coloring is Faster than Computing the Chromatic Number": {
   "ja": "k-彩色はChromatic Numberの計算より高速",
