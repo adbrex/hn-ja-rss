@@ -153,7 +153,7 @@
  },
  "A look under our trunk: what's in our compute": {
   "ja": "トランクの中を見てみよう：私たちのコンピュートの内容",
-  "ts": "2026-08-22T03:36:06.497701+00:00"
+  "ts": "2026-08-22T09:20:06.430152+00:00"
  },
  "A missing underscore sent innocent man to prison for 18 months": {
   "ja": "アンダースコア記号の欠落により無実の男性が18ヶ月投獄",
@@ -174,6 +174,10 @@
  "A quick look at zero-knowledge proofs": {
   "ja": "ゼロ知識証明の概要",
   "ts": "2026-08-17T03:43:41.349701+00:00"
+ },
+ "A revisit of remote Spectre attacks on Cloudflare Workers": {
+  "ja": "Cloudflare Workers上のリモートSpectre攻撃の再検討",
+  "ts": "2026-08-22T09:20:09.304553+00:00"
  },
  "A shell exclamation mark is not for yelling. Be lazy": {
   "ja": "シェルの感嘆符は怒鳴ることではない。手を抜け",
@@ -229,7 +233,7 @@
  },
  "AI boosted homework scores, then exam scores dropped: study": {
   "ja": "AI支援は宿題の成績を上げたが、試験成績は低下：研究",
-  "ts": "2026-08-22T03:36:06.497690+00:00"
+  "ts": "2026-08-22T09:20:06.430127+00:00"
  },
  "AI by Hand": {
   "ja": "手作りAI",
@@ -569,7 +573,7 @@
  },
  "Autolith: A programming agent with a live runtime": {
   "ja": "Autolith: ライブランタイムを備えたプログラミングエージェント",
-  "ts": "2026-08-22T03:36:12.496312+00:00"
+  "ts": "2026-08-22T09:20:06.430162+00:00"
  },
  "Autoregressive Language Model on the 6502 Processor": {
   "ja": "6502プロセッサ上の自己回帰言語モデル",
@@ -735,6 +739,10 @@
   "ja": "ASICをリバースエンジニアリングできるか",
   "ts": "2026-08-07T04:50:18.700400+00:00"
  },
+ "Canada will match US tariffs 'dollar for dollar' as trade talks break down": {
+  "ja": "カナダが米国の関税に「ドル・フォー・ドル」で対抗、貿易交渉が決裂",
+  "ts": "2026-08-22T09:20:09.304553+00:00"
+ },
  "Captain Bible Reverse Engineering": {
   "ja": "Captain Bible リバースエンジニアリング",
   "ts": "2026-08-08T04:07:10.574101+00:00"
@@ -801,7 +809,7 @@
  },
  "Claudette: Make Claude stop talking like a BuzzFeed article": {
   "ja": "Claudette：ClaudeがBuzzFeedの記事のようにしゃべるのをやめさせる",
-  "ts": "2026-08-22T03:36:06.497692+00:00"
+  "ts": "2026-08-22T09:20:06.430129+00:00"
  },
  "Climbing Guide as a Shared Infrastructure": {
   "ja": "共有インフラとしてのClimbing Guide",
@@ -1091,6 +1099,10 @@
   "ja": "オランダ列車地図シミュレータ",
   "ts": "2026-08-12T09:55:22.303677+00:00"
  },
+ "ESP32 Firmware Development with Docker Sandboxes": {
+  "ja": "Dockerサンドボックスを使ったESP32ファームウェア開発",
+  "ts": "2026-08-22T09:20:09.304553+00:00"
+ },
  "ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison": {
   "ja": "ESP32-C6消費電力: Arduino vs. Zephyr vs. ESP-IDF 比較",
   "ts": "2026-07-30T11:01:04.677477+00:00"
@@ -1109,7 +1121,7 @@
  },
  "Early-life stress leaves a 'scar' inside brain cells in mice": {
   "ja": "早期ストレスはマウスの脳細胞内に「傷跡」を残す",
-  "ts": "2026-08-22T03:36:12.496312+00:00"
+  "ts": "2026-08-22T09:20:06.430156+00:00"
  },
  "Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun": {
   "ja": "Eclipse: Xiaomi 17 Ultra が月と太陽を混同",
@@ -1161,7 +1173,7 @@
  },
  "Everyone says assembly is untyped—everyone is wrong": {
   "ja": "みんなアセンブリは型なしと言う―それは間違っている",
-  "ts": "2026-08-22T03:36:12.496312+00:00"
+  "ts": "2026-08-22T09:20:06.430160+00:00"
  },
  "Everything you do is being recorded": {
   "ja": "あなたのすべての行動は記録されている",
@@ -1233,7 +1245,7 @@
  },
  "Felony charges for citizen deleting phone data at US Border": {
   "ja": "米国国境で電話データを削除した市民に重罪の起訴",
-  "ts": "2026-08-22T03:36:06.497680+00:00"
+  "ts": "2026-08-22T09:20:06.430116+00:00"
  },
  "Finding zombies in our systems: A real-world story of CPU bottlenecks": {
   "ja": "システムのゾンビを発見：CPUボトルネックの実例",
@@ -1493,7 +1505,7 @@
  },
  "HN: The Good Parts (2016)": {
   "ja": "HN: The Good Parts（2016）",
-  "ts": "2026-08-22T03:36:12.496312+00:00"
+  "ts": "2026-08-22T09:20:06.430164+00:00"
  },
  "HTML Can Do That": {
   "ja": "HTML にできること",
@@ -1709,7 +1721,7 @@
  },
  "How we made a text-to-speech model respond in sub-50 ms": {
   "ja": "テキスト音声合成モデルを50ms以下の応答時間で実現する方法",
-  "ts": "2026-08-22T03:36:06.497699+00:00"
+  "ts": "2026-08-22T09:20:06.430136+00:00"
  },
  "How we used to get jobs: A newspaper classifieds story": {
   "ja": "かつての就職活動: 新聞の求人欄の話",
@@ -1737,7 +1749,7 @@
  },
  "I accidentally logged hundreds of thousands of phone calls to military bases": {
   "ja": "誤って数十万件の軍事基地への電話通話をログに記録してしまった",
-  "ts": "2026-08-22T03:36:06.497684+00:00"
+  "ts": "2026-08-22T09:20:06.430122+00:00"
  },
  "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel": {
   "ja": "フルタイム執筆（と仮名性）から引退し、Guardian Angelを立ち上げる",
@@ -1793,7 +1805,7 @@
  },
  "I'm becoming AI-blind": {
   "ja": "AI盲目になりつつある",
-  "ts": "2026-08-22T03:36:06.497688+00:00"
+  "ts": "2026-08-22T09:20:06.430126+00:00"
  },
  "I'm switching my phone from Android to Linux": {
   "ja": "スマートフォンをAndroidからLinuxに乗り換える",
@@ -1865,7 +1877,7 @@
  },
  "Initial focus for our partnership with Motorola is a regular non-folding device": {
   "ja": "Motorolaとのパートナーシップの初期フォーカスは通常の非折りたたみデバイス",
-  "ts": "2026-08-22T03:36:12.496312+00:00"
+  "ts": "2026-08-22T09:20:06.430154+00:00"
  },
  "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)": {
   "ja": "vLLMの内部：高スループットLLM推論システムの解剖学 (2025)",
@@ -1953,7 +1965,7 @@
  },
  "Kagi added a setting for removing paywalled links from search results": {
   "ja": "Kagiが検索結果からペイウォール付きリンクを削除する設定を追加",
-  "ts": "2026-08-22T03:36:06.497663+00:00"
+  "ts": "2026-08-22T09:20:06.430092+00:00"
  },
  "Kaisel – Routes as Values. Dart 3 Native Router for Flutter": {
   "ja": "Kaisel – ルーズ・アズ・バリューズ。Dart 3ネイティブルータ・フォー・Flutter",
@@ -2009,7 +2021,7 @@
  },
  "Kobo can run apps now": {
   "ja": "Koboでアプリが実行できるようになった",
-  "ts": "2026-08-22T03:36:06.497686+00:00"
+  "ts": "2026-08-22T09:20:06.430120+00:00"
  },
  "Kobuk the Destroyer – Tales from the Wild, Unseen World of Test Engineering": {
   "ja": "Kobuk the Destroyer – テストエンジニアリングの野生で未知の世界から",
@@ -2497,7 +2509,7 @@
  },
  "New Worlds: We are living in the future of J.G. Ballard or William Gibson": {
   "ja": "New Worlds：J.G.バラードまたはウィリアム・ギブスンの未来に生きている",
-  "ts": "2026-08-22T03:36:06.497694+00:00"
+  "ts": "2026-08-22T09:20:06.430130+00:00"
  },
  "New Zealand lost its music media, and what we're building to replace it": {
   "ja": "ニュージーランドが失った音楽メディア、そして我々が構築する代替物",
@@ -2563,6 +2575,10 @@
   "ja": "OTelが上手くいっていない（スプレッドシート作った）",
   "ts": "2026-08-22T03:36:12.496312+00:00"
  },
+ "OTel isn’t going well": {
+  "ja": "OTelは上手くいっていない",
+  "ts": "2026-08-22T09:20:09.304553+00:00"
+ },
  "Octane – React's programming model, compiled": {
   "ja": "Octane – Reactのプログラミングモデルをコンパイル",
   "ts": "2026-08-03T12:15:46.460959+00:00"
@@ -2606,6 +2622,10 @@
  "OpenRouter is joining Stripe": {
   "ja": "OpenRouterがStripeに参加",
   "ts": "2026-08-20T09:26:16.350131+00:00"
+ },
+ "Optimizing meshoptimizer to process billions of triangles in minutes (2025)": {
+  "ja": "meshoptimizerの最適化：数十億個のトライアングルを数分で処理する(2025)",
+  "ts": "2026-08-22T09:20:09.304553+00:00"
  },
  "Oracle bans AI-generated code from OpenJDK": {
   "ja": "OracleがOpenJDKへのAI生成コードを禁止",
@@ -2673,7 +2693,7 @@
  },
  "People of ACM – Russ Cox": {
   "ja": "ACMの人々 – Russ Cox",
-  "ts": "2026-08-22T03:36:12.496312+00:00"
+  "ts": "2026-08-22T09:20:06.430149+00:00"
  },
  "People who grew up with high economic connectedness earn more": {
   "ja": "経済的接続性が高い環境で育った人々がより多く稼ぐ",
@@ -3045,7 +3065,7 @@
  },
  "Rust Glancer: Rust LSP using 100x less RAM": {
   "ja": "Rust Glancer: RAMを100分の1削減したRust LSP",
-  "ts": "2026-08-22T03:36:12.496312+00:00"
+  "ts": "2026-08-22T09:20:06.430135+00:00"
  },
  "Rust SIMD on the GPU": {
   "ja": "GPU上のRust SIMD",
@@ -3097,7 +3117,7 @@
  },
  "Scientists release biggest 2D map of the universe": {
   "ja": "科学者が宇宙の最大規模の2Dマップを公開",
-  "ts": "2026-08-22T03:36:06.497695+00:00"
+  "ts": "2026-08-22T09:20:06.430132+00:00"
  },
  "Scientists stunned by children's lung recovery in ultra low emission zone": {
   "ja": "科学者が驚愕：超低排出ゾーンでの子どもたちの肺回復",
@@ -3595,6 +3615,10 @@
   "ja": "インターネットを殺すのをやめよう：デジタルIDも年齢認証もない",
   "ts": "2026-07-28T21:57:37.461952+00:00"
  },
+ "Stop Making TUIs": {
+  "ja": "TUIの開発をやめよう",
+  "ts": "2026-08-22T09:20:09.304553+00:00"
+ },
  "Stop eating Lady Gaga's Oreos": {
   "ja": "Lady Gaga の Oreos を食べるのをやめよう",
   "ts": "2026-08-20T21:21:15.978096+00:00"
@@ -3957,7 +3981,7 @@
  },
  "The coolest anti-surveillance tools at Defcon [video]": {
   "ja": "Defconで最もクールな監視対策ツール [動画]",
-  "ts": "2026-08-21T21:16:55.018603+00:00"
+  "ts": "2026-08-22T09:20:06.430133+00:00"
  },
  "The coolest use for the Vision Pro": {
   "ja": "Vision Proの最高の使用方法",
@@ -4097,7 +4121,7 @@
  },
  "There's no reason for software to be slow anymore": {
   "ja": "ソフトウェアが遅い理由はもはや存在しない",
-  "ts": "2026-08-22T03:36:12.496312+00:00"
+  "ts": "2026-08-22T09:20:06.430124+00:00"
  },
  "There's no such thing as a small software team anymore": {
   "ja": "小さなソフトウェアチームはもう存在しない",
@@ -4121,7 +4145,7 @@
  },
  "Three important steps in my maturation process": {
   "ja": "私の成熟過程における3つの重要なステップ",
-  "ts": "2026-08-22T03:36:12.496312+00:00"
+  "ts": "2026-08-22T09:20:06.430138+00:00"
  },
  "Thunderbird's Desktop Calendar Visual Redesign": {
   "ja": "Thunderbirdデスクトップカレンダーのビジュアルリデザイン",
@@ -4197,7 +4221,7 @@
  },
  "Tumble Forth – from assembly to OS with C compiler (2023)": {
   "ja": "Tumble Forth – アセンブリからOSへ、Cコンパイラで（2023）",
-  "ts": "2026-08-22T03:36:12.496312+00:00"
+  "ts": "2026-08-22T09:20:06.430158+00:00"
  },
  "Turbo Pascal on CP/M, MSX-DOS and MS-DOS": {
   "ja": "CP/M、MSX-DOS、MS-DOS上のTurbo Pascal",
@@ -4670,6 +4694,10 @@
  "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice": {
   "ja": "Zigbeeと Matter over Thread：実運用で学ぶIoTプロトコルのパフォーマンス",
   "ts": "2026-08-05T05:40:22.633007+00:00"
+ },
+ "Zig’s io.threaded is neat": {
+  "ja": "Zigのio.threadedは素晴らしい",
+  "ts": "2026-08-22T09:20:09.304553+00:00"
  },
  "_for-sale DNS records": {
   "ja": "販売対象のDNSレコード",
